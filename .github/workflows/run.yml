@@ -1,0 +1,41 @@
+name: Build latest blocklist_ads and blocklist_porn
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js lts
+        uses: actions/setup-node@v2
+        with:
+          node-version: 'lts'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build javascript
+        run: npm run build
+
+      - name: Run javascript
+        run: npm run start
+
+      - name: Commit and push changes
+        run: |
+          git init
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update blocklist_ads and blocklist_porn"
+            git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+            git push -f -u origin main
+          fi
