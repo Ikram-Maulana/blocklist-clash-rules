@@ -5,7 +5,7 @@ import { join } from 'path';
 
 const __dirname = process.cwd();
 const saveFolder = join(__dirname, 'raw');
-const rulesFolder = join(__dirname, 'proxy_provider');
+const rulesFolder = join(__dirname, 'rule_provider');
 
 const antiAdsUrl = 'https://big.oisd.nl';
 const antiPornUrl = 'https://nsfw.oisd.nl';

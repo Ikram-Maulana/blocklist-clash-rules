@@ -1,7 +1,5 @@
 # OISD Rule Providers for Clash
 
-## Introduction
-
 This repository contains a set of scripts to generate Clash rule providers for the [OISD blocklist](https://oisd.nl/). The OISD blocklist is a list of domains that are known to be used for serving ads, tracking, and malware. The currently available rules can be [found here](https://github.com/ikram-maulana/oisd-clash-rule/tree/main/rule_provider).
 
 ## Usage
