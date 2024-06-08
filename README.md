@@ -10,6 +10,12 @@ This repository contains a set of scripts to generate Clash rule providers for t
 
   ```yaml
   rule-providers:
+    Blocklist_Ads_D3ward:
+      type: http
+      behavior: classical
+      path: './rule_provider/Blocklist_Ads_D3ward.yaml'
+      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads_D3ward.yaml
+      interval: 86400 # Update rules every 24 hours
     Blocklist_Ads:
       type: http
       behavior: classical
@@ -24,6 +30,7 @@ This repository contains a set of scripts to generate Clash rule providers for t
       interval: 86400 # Update rules every 24 hours
   rules:
     # Rules before match global
+    - RULE-SET,Blocklist_Ads_D3ward,REJECT
     - RULE-SET,Blocklist_Ads,REJECT
     - RULE-SET,Blocklist_NSFW,REJECT
     # Listen all connections to GLOBAL proxy
