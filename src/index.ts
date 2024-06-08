@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 import { join } from 'path';
 
 const __dirname = process.cwd();
-const saveFolder = join(__dirname, 'raw');
+const tempFolder = join(__dirname, 'temp');
 const rulesFolder = join(__dirname, 'rule_provider');
 
 const antiAdsUrl = 'https://big.oisd.nl';
@@ -140,19 +140,21 @@ export const processFile = async (
 
 const main = async () => {
   try {
-    await ensureDirectoryExists(saveFolder);
+    await ensureDirectoryExists(tempFolder);
     await ensureDirectoryExists(rulesFolder);
 
-    const antiAdsRaw = join(saveFolder, 'oisd_full_abp.txt');
-    const antiPornRaw = join(saveFolder, 'oisd_nsfw_abp.txt');
+    const antiAdsTemp = join(tempFolder, 'oisd_full_abp.txt');
+    const antiPornTemp = join(tempFolder, 'oisd_nsfw_abp.txt');
 
     const antiAdsProcessed = join(rulesFolder, 'Blocklist_Ads.txt');
     const antiPornProcessed = join(rulesFolder, 'Blocklist_Porn.txt');
 
     await Promise.all([
-      processFile(antiAdsUrl, antiAdsRaw, antiAdsProcessed),
-      processFile(antiPornUrl, antiPornRaw, antiPornProcessed),
+      processFile(antiAdsUrl, antiAdsTemp, antiAdsProcessed),
+      processFile(antiPornUrl, antiPornTemp, antiPornProcessed),
     ]);
+
+    await fsPromises.rm(tempFolder, { recursive: true });
   } catch (error) {
     if (error instanceof Error) {
       console.error(`Failed to run the script: ${error.message}`);

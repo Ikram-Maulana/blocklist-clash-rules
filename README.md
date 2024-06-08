@@ -10,22 +10,22 @@ This repository contains a set of scripts to generate Clash rule providers for t
 
   ```yaml
   rule-providers:
-    Blocklist_ads:
+    Blocklist_Ads:
       type: http
       behavior: classical
-      path: './rule_provider/Blocklist_ads.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_ads.yaml
+      path: './rule_provider/Blocklist_Ads.yaml'
+      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads.yaml
       interval: 86400 # Update rules every 24 hours
-    Blocklist_porn:
+    Blocklist_Porn:
       type: http
       behavior: classical
-      path: './rule_provider/Blocklist_porn.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_porn.yaml
+      path: './rule_provider/Blocklist_Porn.yaml'
+      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Porn.yaml
       interval: 86400 # Update rules every 24 hours
   rules:
     # Rules before match global
-    - RULE-SET,Blocklist_ads,REJECT
-    - RULE-SET,Blocklist_porn,REJECT
+    - RULE-SET,Blocklist_Ads,REJECT
+    - RULE-SET,Blocklist_Porn,REJECT
     # Listen all connections to GLOBAL proxy
     - MATCH,GLOBAL
   ```
