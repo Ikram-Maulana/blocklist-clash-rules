@@ -1,4 +1,4 @@
-name: Build latest blocklist_ads and blocklist_porn
+name: Build latest blocklist_ads and blocklist_nsfw
 
 on:
   push:
@@ -43,7 +43,7 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
-            git commit -m "Update blocklist_ads and blocklist_porn"
+            git commit -m "Update blocklist_ads and blocklist_nsfw"
             git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
             git push -f -u origin main
           fi

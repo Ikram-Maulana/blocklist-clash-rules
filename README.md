@@ -16,16 +16,16 @@ This repository contains a set of scripts to generate Clash rule providers for t
       path: './rule_provider/Blocklist_Ads.yaml'
       url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads.yaml
       interval: 86400 # Update rules every 24 hours
-    Blocklist_Porn:
+    Blocklist_NSFW:
       type: http
       behavior: classical
-      path: './rule_provider/Blocklist_Porn.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Porn.yaml
+      path: './rule_provider/Blocklist_NSFW.yaml'
+      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_NSFW.yaml
       interval: 86400 # Update rules every 24 hours
   rules:
     # Rules before match global
     - RULE-SET,Blocklist_Ads,REJECT
-    - RULE-SET,Blocklist_Porn,REJECT
+    - RULE-SET,Blocklist_NSFW,REJECT
     # Listen all connections to GLOBAL proxy
     - MATCH,GLOBAL
   ```

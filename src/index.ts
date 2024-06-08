@@ -8,7 +8,7 @@ const tempFolder = join(__dirname, 'temp');
 const rulesFolder = join(__dirname, 'rule_provider');
 
 const antiAdsUrl = 'https://big.oisd.nl';
-const antiPornUrl = 'https://nsfw.oisd.nl';
+const antiNSFWUrl = 'https://nsfw.oisd.nl';
 
 /**
  * The `download` function asynchronously downloads a file from a specified URL and saves it to a
@@ -144,14 +144,14 @@ const main = async () => {
     await ensureDirectoryExists(rulesFolder);
 
     const antiAdsTemp = join(tempFolder, 'oisd_full_abp.txt');
-    const antiPornTemp = join(tempFolder, 'oisd_nsfw_abp.txt');
+    const antiNSFWTemp = join(tempFolder, 'oisd_nsfw_abp.txt');
 
     const antiAdsProcessed = join(rulesFolder, 'Blocklist_Ads.txt');
-    const antiPornProcessed = join(rulesFolder, 'Blocklist_Porn.txt');
+    const antiNSFWProcessed = join(rulesFolder, 'Blocklist_NSFW.txt');
 
     await Promise.all([
       processFile(antiAdsUrl, antiAdsTemp, antiAdsProcessed),
-      processFile(antiPornUrl, antiPornTemp, antiPornProcessed),
+      processFile(antiNSFWUrl, antiNSFWTemp, antiNSFWProcessed),
     ]);
 
     await fsPromises.rm(tempFolder, { recursive: true });
