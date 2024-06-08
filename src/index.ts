@@ -146,8 +146,8 @@ const main = async () => {
     const antiAdsTemp = join(tempFolder, 'oisd_full_abp.txt');
     const antiNSFWTemp = join(tempFolder, 'oisd_nsfw_abp.txt');
 
-    const antiAdsProcessed = join(rulesFolder, 'Blocklist_Ads.txt');
-    const antiNSFWProcessed = join(rulesFolder, 'Blocklist_NSFW.txt');
+    const antiAdsProcessed = join(rulesFolder, 'Blocklist_Ads.yaml');
+    const antiNSFWProcessed = join(rulesFolder, 'Blocklist_NSFW.yaml');
 
     await Promise.all([
       processFile(antiAdsUrl, antiAdsTemp, antiAdsProcessed),
