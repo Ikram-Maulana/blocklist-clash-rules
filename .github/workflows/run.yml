@@ -1,6 +1,10 @@
 name: Build latest blocklist_ads and blocklist_porn
 
 on:
+  push:
+    branches: ['main']
+  pull_request:
+    branches: ['main']
   schedule:
     - cron: '0 0 * * *'
 
@@ -8,17 +12,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
 
-      - name: Setup Node.js lts
-        uses: actions/setup-node@v2
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
         with:
-          node-version: 'lts'
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build javascript
         run: npm run build
