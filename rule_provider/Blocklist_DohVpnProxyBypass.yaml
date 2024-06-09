@@ -201,6 +201,7 @@ payload:
 - DOMAIN,anonypost.com
 - DOMAIN,anonyproxy.biz
 - DOMAIN,anonysurf.com
+- DOMAIN,antpeak.com
 - DOMAIN,antycenzor.pl
 - DOMAIN,secure.anudeep.me
 - DOMAIN,anyip.io
@@ -341,6 +342,7 @@ payload:
 - DOMAIN,dns.blokada.org
 - DOMAIN,bloquer.fr
 - DOMAIN,bluemood.me
+- DOMAIN,bluesnap.com
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bobstrecansky.com
 - DOMAIN,bodvpn.com
@@ -1088,6 +1090,7 @@ payload:
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
+- DOMAIN,goaslen.com
 - DOMAIN,gobestvpn.com
 - DOMAIN,goingthere.org
 - DOMAIN,gointerstellar.app
@@ -1814,6 +1817,7 @@ payload:
 - DOMAIN,1a.ns.ozer.im
 - DOMAIN,p99nxpivfscyverz.me
 - DOMAIN,packetriot.net
+- DOMAIN,paddle.com
 - DOMAIN,dns.paesa.es
 - DOMAIN,unblockit.pages.dev
 - DOMAIN,paladinvpn.com
@@ -2293,6 +2297,7 @@ payload:
 - DOMAIN,assets-prod-a230.s3.serverwild.com
 - DOMAIN,setupvpn.com
 - DOMAIN,dns.sev.monster
+- DOMAIN,sf-helper.com
 - DOMAIN,pates.services.sfr.fr.casepp.sfr.fr
 - DOMAIN,d2.shabi.icu
 - DOMAIN,shadeyouvpn.com
@@ -2575,6 +2580,7 @@ payload:
 - DOMAIN,timetohide.me
 - DOMAIN,timmes.nl
 - DOMAIN,dns.tls-data.de
+- DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
