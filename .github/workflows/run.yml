@@ -3,10 +3,10 @@ name: Build latest blocklist_ads and blocklist_nsfw
 on:
   push:
     branches: ['main']
-  pull_request:
-    branches: ['main']
   schedule:
     - cron: '0 0 * * *'
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -43,6 +43,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore(build): update blocklist_ads and blocklist_nsfw"
-            git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push -f -u origin main
           fi
