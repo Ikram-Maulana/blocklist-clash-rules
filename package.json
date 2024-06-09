@@ -1,5 +1,5 @@
 {
-  "name": "oisd-clash-rule",
+  "name": "blocklist-clash-rules",
   "version": "1.0.0",
   "type": "module",
   "scripts": {

@@ -1,10 +1,10 @@
-name: Build latest blocklist_ads and blocklist_nsfw
+name: Build latest blocklist clash rules
 
 on:
   push:
     branches: ['main']
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *'
 permissions:
   contents: write
 
@@ -42,6 +42,6 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
-            git commit -m "chore(build): update blocklist_ads and blocklist_nsfw"
+            git commit -m "chore(build): update blocklist clash rules"
             git push -f -u origin main
           fi
