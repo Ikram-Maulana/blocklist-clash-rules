@@ -4,22 +4,22 @@ This repository contains a set of scripts to generate Clash rule providers. The 
 
 ## Available Rule Providers
 
-- [Blocklist_Ads_D3ward](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads_D3ward.yaml)
-- [Blocklist_Ads_OISD](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads.yaml)
-- [Blocklist_NSFW](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_NSFW.yaml)
-- [Blocklist_Ads_Indo](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads_Indo.yaml)
-- [Blocklist_Ads_MultiPro](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads_MultiPro.yaml)
-- [Blocklist_DohVpnProxyBypass](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_DohVpnProxyBypass.yaml)
-- [Blocklist_Native_Apple](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_Apple.yaml)
-- [Blocklist_Native_OppoRealme](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_OppoRealme.yaml)
-- [Blocklist_Native_TikTok_Extended](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_TikTok_Extended.yaml)
-- [Blocklist_Native_TikTok](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_TikTok.yaml)
-- [Blocklist_Native_Vivo](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_Vivo.yaml)
-- [Blocklist_Native_WinOffice](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_WinOffice.yaml)
-- [Blocklist_Native_Xiaomi](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Native_Xiaomi.yaml)
-- [Blocklist_NoSafeSearch](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_NoSafeSearch.yaml)
-- [Blocklist_Threat_Medium](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Threat_Medium.yaml)
-- [Blocklist_WindowsSpy](https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_WindowsSpy.yaml)
+- [Blocklist_Ads_D3ward](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads_D3ward.yaml)
+- [Blocklist_Ads_OISD](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads.yaml)
+- [Blocklist_NSFW](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_NSFW.yaml)
+- [Blocklist_Ads_Indo](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads_Indo.yaml)
+- [Blocklist_Ads_MultiPro](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads_MultiPro.yaml)
+- [Blocklist_DohVpnProxyBypass](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_DohVpnProxyBypass.yaml)
+- [Blocklist_Native_Apple](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_Apple.yaml)
+- [Blocklist_Native_OppoRealme](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_OppoRealme.yaml)
+- [Blocklist_Native_TikTok_Extended](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_TikTok_Extended.yaml)
+- [Blocklist_Native_TikTok](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_TikTok.yaml)
+- [Blocklist_Native_Vivo](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_Vivo.yaml)
+- [Blocklist_Native_WinOffice](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_WinOffice.yaml)
+- [Blocklist_Native_Xiaomi](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Native_Xiaomi.yaml)
+- [Blocklist_NoSafeSearch](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_NoSafeSearch.yaml)
+- [Blocklist_Threat_Medium](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Threat_Medium.yaml)
+- [Blocklist_WindowsSpy](https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_WindowsSpy.yaml)
 
 ## Usage
 
@@ -33,19 +33,19 @@ This repository contains a set of scripts to generate Clash rule providers. The 
       type: http
       behavior: classical
       path: './rule_provider/Blocklist_Ads_D3ward.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads_D3ward.yaml
+      url: https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads_D3ward.yaml
       interval: 86400 # Update rules every 24 hours
     Blocklist_Ads_OISD:
       type: http
       behavior: classical
-      path: './rule_provider/Blocklist_Ads.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_Ads.yaml
+      path: './rule_provider/Blocklist_Ads_OISD.yaml'
+      url: https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_Ads_OISD.yaml
       interval: 86400 # Update rules every 24 hours
     Blocklist_NSFW:
       type: http
       behavior: classical
       path: './rule_provider/Blocklist_NSFW.yaml'
-      url: https://raw.githubusercontent.com/ikram-maulana/oisd-clash-rule/main/rule_provider/Blocklist_NSFW.yaml
+      url: https://raw.githubusercontent.com/ikram-maulana/blocklist_clash_rules/main/rule_provider/Blocklist_NSFW.yaml
       interval: 86400 # Update rules every 24 hours
   rules:
     # Rules before match global
