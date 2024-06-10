@@ -58,6 +58,7 @@ payload:
 - DOMAIN,xp-cdn.apple.com
 - DOMAIN,feedbackws.fe.apple-dns.cn
 - DOMAIN,feedbackws.fe2.apple-dns.net
+- DOMAIN,me.apple-dns.net
 - DOMAIN,applemediaservices.com
 - DOMAIN,cstat.cdn-apple.com
 - DOMAIN,feedbackws.icloud.com.cn
