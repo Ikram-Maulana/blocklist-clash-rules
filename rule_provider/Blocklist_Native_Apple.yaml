@@ -1,11 +1,13 @@
 payload:
 
+- DOMAIN,appleglobal.102.112.207.net
 - DOMAIN,cstat.g.aaplimg.com
 - DOMAIN,diagassets.g.aaplimg.com
 - DOMAIN,cdn-xp-ingest-ab.v.aaplimg.com
 - DOMAIN,iphonesubmissions.v.aaplimg.com
 - DOMAIN,prod-event-relay-books-api.v.aaplimg.com
 - DOMAIN,prod-event-relay-notes-api.v.aaplimg.com
+- DOMAIN,prod-event-relay-sports-api.v.aaplimg.com
 - DOMAIN,prod-event-relay-stocks-api.v.aaplimg.com
 - DOMAIN,prod-event-relay-weather-api.v.aaplimg.com
 - DOMAIN,securemetrics.v.aaplimg.com
@@ -13,6 +15,7 @@ payload:
 - DOMAIN,smoot-feedback.v.aaplimg.com
 - DOMAIN,supportmetrics.v.aaplimg.com
 - DOMAIN,ab.apple.com.akadns.net
+- DOMAIN,cstat-lb.apple.com.akadns.net
 - DOMAIN,diagassets-lb.apple.com.akadns.net
 - DOMAIN,diagnostics.apple.com.akadns.net
 - DOMAIN,iadcontent-lb.apple.com.akadns.net
@@ -23,8 +26,11 @@ payload:
 - DOMAIN,iad-apple.com.akadns.net
 - DOMAIN,xp.itunes-apple.com.akadns.net
 - DOMAIN,searchads.lb-apple.com.akadns.net
+- DOMAIN,advertising.apple.com
+- DOMAIN,advp.apple.com
 - DOMAIN,api-adservices.apple.com
 - DOMAIN,books-analytics-events.apple.com
+- DOMAIN,camfx-analytics-events.apple.com
 - DOMAIN,cstat.apple.com
 - DOMAIN,cstat-origin.apple.com
 - DOMAIN,databeacon.apple.com
@@ -32,10 +38,18 @@ payload:
 - DOMAIN,diagassets.apple.com
 - DOMAIN,diagnostics.apple.com
 - DOMAIN,experiments.apple.com
+- DOMAIN,iad.apple.com
+- DOMAIN,iadcontent.apple.com
 - DOMAIN,iadmoo.apple.com
 - DOMAIN,iadsdk.apple.com
+- DOMAIN,iadworkbench.apple.com
 - DOMAIN,idiagnostics.apple.com
+- DOMAIN,idiagnostics-devices-mdn.apple.com
+- DOMAIN,idiagnostics-devices-qa.apple.com
+- DOMAIN,idiagnostics-ft.apple.com
 - DOMAIN,idiagnostics-mdn1.apple.com
+- DOMAIN,idiagnostics-qa.apple.com
+- DOMAIN,idiagnostics-reno.apple.com
 - DOMAIN,internalcheck.apple.com
 - DOMAIN,iphonesubmissions.apple.com
 - DOMAIN,iphonesubmissions-old.apple.com
@@ -45,14 +59,20 @@ payload:
 - DOMAIN,msc-dct-prod.msc.apple.com
 - DOMAIN,notes-analytics-events.apple.com
 - DOMAIN,odin-signals.apple.com
+- DOMAIN,performance-partners.apple.com
 - DOMAIN,phonesubmissions.apple.com
 - DOMAIN,prd-usw2-requestattribution-iad.apple.com
+- DOMAIN,qa-iad.apple.com
 - DOMAIN,radarsubmissions.apple.com
+- DOMAIN,sdkintgiad.apple.com
 - DOMAIN,searchads.apple.com
 - DOMAIN,securemetrics.apple.com
 - DOMAIN,securemvt.apple.com
+- DOMAIN,stg-iad.apple.com
 - DOMAIN,stocks-analytics-events.apple.com
 - DOMAIN,supportmetrics.apple.com
+- DOMAIN,uxintg-iad.apple.com
+- DOMAIN,uxintgiad.apple.com
 - DOMAIN,weather-analytics-events.apple.com
 - DOMAIN,xp.apple.com
 - DOMAIN,xp-cdn.apple.com
@@ -73,4 +93,5 @@ payload:
 - DOMAIN,feedbackws.icloud.com
 - DOMAIN,metrics.icloud.com
 - DOMAIN,metrics.mzstatic.com
+- DOMAIN,qwapi.com
 - DOMAIN,marketing.services.apple
