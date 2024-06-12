@@ -206,7 +206,6 @@ payload:
 - DOMAIN,secure.anudeep.me
 - DOMAIN,anyip.io
 - DOMAIN,doh.apad.pro
-- DOMAIN,dns.apigw.online
 - DOMAIN,doh.dns.apple.com
 - DOMAIN,appleproxy.com
 - DOMAIN,doh.applied-privacy.net
@@ -440,7 +439,6 @@ payload:
 - DOMAIN,dns.circl.lu
 - DOMAIN,circumvent.it
 - DOMAIN,mus.cisco.com
-- DOMAIN,ciscossh.com
 - DOMAIN,citizenvpn.com
 - DOMAIN,dns.clanless.ovh
 - DOMAIN,dns.clanto.cloud
@@ -808,12 +806,14 @@ payload:
 - DOMAIN,doh.dscloud.me
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
+- DOMAIN,aattwwss.duckdns.org
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -923,7 +923,6 @@ payload:
 - DOMAIN,xcomvpn-7000b-default-rtdb.firebaseio.com
 - DOMAIN,fpn.firefox.com
 - DOMAIN,testpilot.firefox.com
-- DOMAIN,firstcontact.site
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
@@ -1323,7 +1322,6 @@ payload:
 - DOMAIN,math.isreally.pro
 - DOMAIN,smellyal.isreally.pro
 - DOMAIN,smellypay.isreally.pro
-- DOMAIN,stuffyschicken.isreallycool.lol
 - DOMAIN,itopvpn.com
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
@@ -1331,7 +1329,6 @@ payload:
 - DOMAIN,ivpn.net
 - DOMAIN,iwantproxy.com
 - DOMAIN,iweb365.net
-- DOMAIN,ixl.plus
 - DOMAIN,jabber-germany.de
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
@@ -1889,7 +1886,6 @@ payload:
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
 - DOMAIN,pluton.plan9-dns.com
-- DOMAIN,play5r.com
 - DOMAIN,playproxy.com
 - DOMAIN,secure-dns.pleumkungz.com
 - DOMAIN,privacy.plumedns.com
@@ -2455,7 +2451,6 @@ payload:
 - DOMAIN,surfall.net
 - DOMAIN,surfbouncer.com
 - DOMAIN,surfbytes.info
-- DOMAIN,surfcovertly.com
 - DOMAIN,surfeasy.com
 - DOMAIN,surfly.com
 - DOMAIN,surfmo.com
