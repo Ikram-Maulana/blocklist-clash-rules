@@ -347,7 +347,6 @@ payload:
 - DOMAIN,bodvpn.com
 - DOMAIN,dns.bofh.in
 - DOMAIN,boi9osyg1uwtyafn.com
-- DOMAIN,doh.boje8.me
 - DOMAIN,bolehvpn.net
 - DOMAIN,adguard.bonis.de
 - DOMAIN,adguard.bonsirven.eu
@@ -371,6 +370,7 @@ payload:
 - DOMAIN,brovpn.io
 - DOMAIN,browsebridge.com
 - DOMAIN,browsec.com
+- DOMAIN,browser.lol
 - DOMAIN,doh.bt.com
 - DOMAIN,btguard.com
 - DOMAIN,bubbleset.com
@@ -2118,7 +2118,6 @@ payload:
 - DOMAIN,dns13.quad9.net
 - DOMAIN,dns9.quad9.net
 - DOMAIN,2.dnscrypt-cert.quad9.net
-- DOMAIN,quic.lol
 - DOMAIN,quick-proxy.com
 - DOMAIN,doh.quickline.ch
 - DOMAIN,dot.quickline.ch
