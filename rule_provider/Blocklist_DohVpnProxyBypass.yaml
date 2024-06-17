@@ -286,6 +286,7 @@ payload:
 - DOMAIN,openvpnpptp.bese.info
 - DOMAIN,openvpnpptpserver.bese.info
 - DOMAIN,bestfreevpn.com
+- DOMAIN,bestproxy.xyz
 - DOMAIN,bestssh.net
 - DOMAIN,bestukvpn.com
 - DOMAIN,bestvpn.org
@@ -347,6 +348,7 @@ payload:
 - DOMAIN,bodvpn.com
 - DOMAIN,dns.bofh.in
 - DOMAIN,boi9osyg1uwtyafn.com
+- DOMAIN,doh.boje8.me
 - DOMAIN,bolehvpn.net
 - DOMAIN,adguard.bonis.de
 - DOMAIN,adguard.bonsirven.eu
@@ -396,6 +398,7 @@ payload:
 - DOMAIN,calc-web.me
 - DOMAIN,callies-online.site
 - DOMAIN,us1.cambrianscientific.com
+- DOMAIN,canadaproxy.info
 - DOMAIN,cantfindme.org
 - DOMAIN,tysonsbackagain.capnorthshore.org
 - DOMAIN,caproxies.info
@@ -695,6 +698,7 @@ payload:
 - DOMAIN,districtnewyork.com
 - DOMAIN,divalane.com
 - DOMAIN,divaloo.com
+- DOMAIN,divavu.com
 - DOMAIN,dns.expert
 - DOMAIN,dns.google
 - DOMAIN,dns.pub
@@ -2842,7 +2846,6 @@ payload:
 - DOMAIN,usaip.eu
 - DOMAIN,usawebproxy.com
 - DOMAIN,usawebproxy.net
-- DOMAIN,use-application-dns.net
 - DOMAIN,userload.co
 - DOMAIN,userproxy.com
 - DOMAIN,uskt.info
