@@ -893,6 +893,7 @@ payload:
 - DOMAIN,fastfoxvpn.com
 - DOMAIN,fastfreeproxy.info
 - DOMAIN,fastp.org
+- DOMAIN,fastpro.info
 - DOMAIN,fastproxy.nl
 - DOMAIN,fastproxy.org
 - DOMAIN,fastproxynetwork.com
@@ -1816,7 +1817,6 @@ payload:
 - DOMAIN,1a.ns.ozer.im
 - DOMAIN,p99nxpivfscyverz.me
 - DOMAIN,packetriot.net
-- DOMAIN,paddle.com
 - DOMAIN,dns.paesa.es
 - DOMAIN,unblockit.pages.dev
 - DOMAIN,paladinvpn.com
