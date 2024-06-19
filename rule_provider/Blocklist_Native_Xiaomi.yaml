@@ -264,6 +264,7 @@ payload:
 - DOMAIN,cc.ad.intl.xiaomi.com
 - DOMAIN,globalreport.ad.intl.xiaomi.com
 - DOMAIN,mos-ortb-api.ad.intl.xiaomi.com
+- DOMAIN,mosapi.ad.intl.xiaomi.com
 - DOMAIN,odml.ad.intl.xiaomi.com
 - DOMAIN,sdkconfig.ad.intl.xiaomi.com
 - DOMAIN,test.ad.intl.xiaomi.com
