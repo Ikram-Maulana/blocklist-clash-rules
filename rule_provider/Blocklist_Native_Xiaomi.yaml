@@ -267,6 +267,7 @@ payload:
 - DOMAIN,mosapi.ad.intl.xiaomi.com
 - DOMAIN,odml.ad.intl.xiaomi.com
 - DOMAIN,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN,sgpapi.ad.intl.xiaomi.com
 - DOMAIN,test.ad.intl.xiaomi.com
 - DOMAIN,mistat.intl.xiaomi.com
 - DOMAIN,data.mistat.intl.xiaomi.com

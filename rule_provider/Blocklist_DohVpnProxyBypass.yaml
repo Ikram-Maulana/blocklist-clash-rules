@@ -813,9 +813,11 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -2225,6 +2227,7 @@ payload:
 - DOMAIN,safeservedns.com
 - DOMAIN,doh.safesurfer.io
 - DOMAIN,safetysurf.net
+- DOMAIN,safeunblock.com
 - DOMAIN,w.q.sagesinst.org
 - DOMAIN,vpn.sakhwow.ru
 - DOMAIN,cloud.samutz.com
@@ -2513,6 +2516,7 @@ payload:
 - DOMAIN,tx.teradns.org
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.tesem.dog
+- DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com
 - DOMAIN,thebestproxy.info
