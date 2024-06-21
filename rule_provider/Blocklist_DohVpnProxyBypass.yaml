@@ -2853,6 +2853,7 @@ payload:
 - DOMAIN,usproxies.info
 - DOMAIN,usvpn.cf
 - DOMAIN,uswebproxy.com
+- DOMAIN,uswebproxy.net
 - DOMAIN,utopianpal.com
 - DOMAIN,utunnel.io
 - DOMAIN,uvpn.me
@@ -2894,7 +2895,6 @@ payload:
 - DOMAIN,vpn.ac
 - DOMAIN,vpn.asia
 - DOMAIN,vpn.express
-- DOMAIN,vpn.ht
 - DOMAIN,vpn.lat
 - DOMAIN,vpn.net
 - DOMAIN,vpn.org
