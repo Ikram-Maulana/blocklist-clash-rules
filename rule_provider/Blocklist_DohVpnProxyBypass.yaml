@@ -815,6 +815,7 @@ payload:
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
@@ -1409,7 +1410,6 @@ payload:
 - DOMAIN,dns.kukal.cz
 - DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.l337.site
-- DOMAIN,dns.labnekotest.site
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,lagometer.de
 - DOMAIN,h2o.lakeballs.fi
