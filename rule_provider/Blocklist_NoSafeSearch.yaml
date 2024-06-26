@@ -19,7 +19,6 @@ payload:
 - DOMAIN,searx.baczek.me
 - DOMAIN,baidu.com
 - DOMAIN,baresearch.org
-- DOMAIN,searx.bbaovanc.com
 - DOMAIN,search.biboumail.fr
 - DOMAIN,searx.bissisoft.com
 - DOMAIN,search.bluelock.org
@@ -86,15 +85,12 @@ payload:
 - DOMAIN,jsearch.pw
 - DOMAIN,searx.juancord.xyz
 - DOMAIN,kagi.com
-- DOMAIN,search.kiwitalk.de
 - DOMAIN,trovu.komun.org
-- DOMAIN,searx.kutay.dev
 - DOMAIN,searx.kvch.me
 - DOMAIN,search.laksith.dev
 - DOMAIN,searx.lavatech.top
 - DOMAIN,search.leptons.xyz
 - DOMAIN,search.lgbtq.cool
-- DOMAIN,librex.me
 - DOMAIN,search.lightinthedark.space
 - DOMAIN,searx.linux.pizza
 - DOMAIN,lukol.com
@@ -110,7 +106,6 @@ payload:
 - DOMAIN,metager.de
 - DOMAIN,metager.org
 - DOMAIN,metager3.de
-- DOMAIN,suche.mexmail.de
 - DOMAIN,searx.mha.fi
 - DOMAIN,mijisou.com
 - DOMAIN,millionshort.com
@@ -124,7 +119,6 @@ payload:
 - DOMAIN,searx.namejeff.xyz
 - DOMAIN,search.nebulacentre.net
 - DOMAIN,search.neet.works
-- DOMAIN,neeva.com
 - DOMAIN,searx.netzspielplatz.de
 - DOMAIN,nibblehole.com
 - DOMAIN,searxng.nicfab.eu
@@ -191,7 +185,6 @@ payload:
 - DOMAIN,searx.si
 - DOMAIN,searx.work
 - DOMAIN,searx.xyz
-- DOMAIN,searxzh.cn
 - DOMAIN,searx.semipvt.com
 - DOMAIN,search.sethforprivacy.com
 - DOMAIN,searx.sev.monster

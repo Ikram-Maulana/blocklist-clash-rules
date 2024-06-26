@@ -49,7 +49,6 @@ payload:
 - DOMAIN,24tunnel.com
 - DOMAIN,doh003.280blocker.net
 - DOMAIN,28383829.site
-- DOMAIN,2999.info
 - DOMAIN,2fastsurfer.com
 - DOMAIN,2fastsurfer.eu
 - DOMAIN,2fastsurfer.us
@@ -386,7 +385,6 @@ payload:
 - DOMAIN,bypassable.com
 - DOMAIN,bypassed.wtf
 - DOMAIN,bypasser.us
-- DOMAIN,bypassfw.com
 - DOMAIN,bypassip.com
 - DOMAIN,bypasskey.com
 - DOMAIN,bypasstunnel.com
@@ -569,7 +567,6 @@ payload:
 - DOMAIN,webproxy.co.at
 - DOMAIN,cocoombr.com
 - DOMAIN,coinsite.info
-- DOMAIN,coinweb.info
 - DOMAIN,jpdns.cola16.app
 - DOMAIN,coloredwool.us
 - DOMAIN,dns.colorfreedom.org
@@ -581,7 +578,6 @@ payload:
 - DOMAIN,fast-proxy.com.de
 - DOMAIN,fastest-proxy.com.de
 - DOMAIN,free-proxy.com.de
-- DOMAIN,adguard.gbrossi.com.br
 - DOMAIN,german-proxy.com.de
 - DOMAIN,germany-proxy.com.de
 - DOMAIN,dns.joaofidelix.com.br
@@ -698,7 +694,6 @@ payload:
 - DOMAIN,fdns2.dismail.de
 - DOMAIN,districtnewyork.com
 - DOMAIN,divalane.com
-- DOMAIN,divaloo.com
 - DOMAIN,divavu.com
 - DOMAIN,dns.expert
 - DOMAIN,dns.google
@@ -826,7 +821,6 @@ payload:
 - DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
-- DOMAIN,vpngermany.dzzz.info
 - DOMAIN,dnscache.e-utp.net
 - DOMAIN,earnapp.com
 - DOMAIN,earthvpn.com
@@ -889,7 +883,6 @@ payload:
 - DOMAIN,dnsvps.familiamv.net
 - DOMAIN,dns.fancyorg.at
 - DOMAIN,fastestvpn.com
-- DOMAIN,fastestvpn.info
 - DOMAIN,fastfoxvpn.com
 - DOMAIN,fastfreeproxy.info
 - DOMAIN,fastp.org
@@ -1049,7 +1042,6 @@ payload:
 - DOMAIN,get-x-web-link2.com
 - DOMAIN,get-xmore-link3s.com
 - DOMAIN,get-xmore-links8.com
-- DOMAIN,get-xweb-help-link4.com
 - DOMAIN,getcloak.com
 - DOMAIN,getdnsapi.net
 - DOMAIN,getflix.com
@@ -1786,7 +1778,6 @@ payload:
 - DOMAIN,openvpn.com
 - DOMAIN,openvpn.net
 - DOMAIN,openvpn-ssh.com
-- DOMAIN,openzend.com
 - DOMAIN,opera-proxy.net
 - DOMAIN,dns.eu-frankfurt-1.oraclecloud.com
 - DOMAIN,dns.uk-london-1.oraclecloud.com
@@ -2044,8 +2035,6 @@ payload:
 - DOMAIN,proxygogo.info
 - DOMAIN,proxyhash.net
 - DOMAIN,proxyhub.in
-- DOMAIN,proxyinternet.info
-- DOMAIN,proxyisp.com
 - DOMAIN,proxyist.com
 - DOMAIN,proxyium.com
 - DOMAIN,proxylistpro.com
@@ -2121,7 +2110,6 @@ payload:
 - DOMAIN,dns13.quad9.net
 - DOMAIN,dns9.quad9.net
 - DOMAIN,2.dnscrypt-cert.quad9.net
-- DOMAIN,quick-proxy.com
 - DOMAIN,doh.quickline.ch
 - DOMAIN,dot.quickline.ch
 - DOMAIN,quickprox.com
@@ -2145,7 +2133,6 @@ payload:
 - DOMAIN,rapidproxy.org
 - DOMAIN,rapidproxy.us
 - DOMAIN,rapidvpn.com
-- DOMAIN,thiscopyofartclassisnotgenuine.rare1k.space
 - DOMAIN,emby.rasp.tv
 - DOMAIN,rateavon.je
 - DOMAIN,ratecuts.us
@@ -2184,7 +2171,6 @@ payload:
 - DOMAIN,riseup.net
 - DOMAIN,adg.rokh.biz
 - DOMAIN,dns.ronc.ru
-- DOMAIN,ronfeed.com
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
@@ -2322,7 +2308,6 @@ payload:
 - DOMAIN,dns.silen.org
 - DOMAIN,dns.silentlybren.com
 - DOMAIN,simplevpn.info
-- DOMAIN,simplevpn.net
 - DOMAIN,dns.simplylinux.ch
 - DOMAIN,dnsovertls.sinodun.com
 - DOMAIN,dnsovertls1.sinodun.com
@@ -2355,7 +2340,6 @@ payload:
 - DOMAIN,smartdnsproxy.com
 - DOMAIN,dns.smartguard.io
 - DOMAIN,smartproxy.com
-- DOMAIN,smartydns.com
 - DOMAIN,snapxs.com
 - DOMAIN,snowproxy.com
 - DOMAIN,guard.sntrk.ru
@@ -2579,7 +2563,6 @@ payload:
 - DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
 - DOMAIN,tnvpn.com
-- DOMAIN,d.toairs.com
 - DOMAIN,tonvpn.com
 - DOMAIN,dot.tooli.ca
 - DOMAIN,proxy.toolur.com
@@ -2611,7 +2594,6 @@ payload:
 - DOMAIN,torvpn.com
 - DOMAIN,totallyacdn.com
 - DOMAIN,doh.totoro.pub
-- DOMAIN,totovps.com
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
 - DOMAIN,dns.tracker.ink
@@ -3022,7 +3004,6 @@ payload:
 - DOMAIN,websurf.in
 - DOMAIN,websynchrony.com
 - DOMAIN,webtunnel.org
-- DOMAIN,webtunnelx.com
 - DOMAIN,webxify.com
 - DOMAIN,webypass.info
 - DOMAIN,wellpoint.com
@@ -3106,7 +3087,6 @@ payload:
 - DOMAIN,yourinternetproxy.info
 - DOMAIN,yourvpn.info
 - DOMAIN,youtube-unblocker.com
-- DOMAIN,youtubebyclick.com
 - DOMAIN,youtubeunblocked.live
 - DOMAIN,yovbak.com
 - DOMAIN,yoyovpn.org
