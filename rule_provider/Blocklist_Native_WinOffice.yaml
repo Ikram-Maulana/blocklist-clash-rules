@@ -46,7 +46,6 @@ payload:
 - DOMAIN,northeurope-global.in.applicationinsights.azure.com
 - DOMAIN,norwayeast-0.in.applicationinsights.azure.com
 - DOMAIN,qatarcentral-0.in.applicationinsights.azure.com
-- DOMAIN,region.in.applicationinsights.azure.com
 - DOMAIN,southafricanorth-0.in.applicationinsights.azure.com
 - DOMAIN,southafricanorth-1.in.applicationinsights.azure.com
 - DOMAIN,southcentralus-0.in.applicationinsights.azure.com

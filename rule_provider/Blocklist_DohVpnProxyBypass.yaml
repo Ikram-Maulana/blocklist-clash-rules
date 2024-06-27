@@ -1137,6 +1137,7 @@ payload:
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,headproxy.com
+- DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,helloworld.cx
 - DOMAIN,helpmehide.net
 - DOMAIN,dns.henek.ovh
@@ -1425,7 +1426,6 @@ payload:
 - DOMAIN,legaladvisor.us
 - DOMAIN,legalweb.info
 - DOMAIN,br.servers.legat.ml
-- DOMAIN,externalmobiel.lekdijk.online
 - DOMAIN,lelux.fi
 - DOMAIN,let-vpn.com
 - DOMAIN,dns.levonet.sk
