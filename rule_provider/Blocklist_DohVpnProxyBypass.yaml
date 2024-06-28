@@ -548,7 +548,6 @@ payload:
 - DOMAIN,proxay.co.uk
 - DOMAIN,proxify.co.uk
 - DOMAIN,proxywebsite.co.uk
-- DOMAIN,quickproxy.co.uk
 - DOMAIN,rfastvpn.co.cc
 - DOMAIN,sbdns.co.in
 - DOMAIN,secvpnproxy.co.cc
@@ -703,7 +702,6 @@ payload:
 - DOMAIN,dns-free.link
 - DOMAIN,doh.dns-ga.de
 - DOMAIN,secure-dns.dns-ga.de
-- DOMAIN,tls-dns-u.odvr.dns-oarc.net
 - DOMAIN,dns.dns-over-https.com
 - DOMAIN,dns0.eu
 - DOMAIN,doh.dns4all.eu
@@ -873,7 +871,6 @@ payload:
 - DOMAIN,dns.extrawdw.net
 - DOMAIN,fra1.eyecay.xyz
 - DOMAIN,dns.ezyss.id
-- DOMAIN,f-secure.com
 - DOMAIN,jp1.f7b6h9.tk
 - DOMAIN,dns.f97.xyz
 - DOMAIN,faceless.me
@@ -941,9 +938,6 @@ payload:
 - DOMAIN,flyvpn.com
 - DOMAIN,gateway.fomichev.cloud
 - DOMAIN,for-privacy.net
-- DOMAIN,fortinet.com
-- DOMAIN,fortinet.net
-- DOMAIN,fortiwebcloud.net
 - DOMAIN,cranking90s.fortnitebuilder.pro
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
@@ -1272,7 +1266,6 @@ payload:
 - DOMAIN,ilumu.com
 - DOMAIN,dns.imaicool.com
 - DOMAIN,noads.imbuffering.com
-- DOMAIN,dns4.imkvq.com
 - DOMAIN,dns.immanuelschaffer.de
 - DOMAIN,dns1.in-berlin.de
 - DOMAIN,in-disguise.com
