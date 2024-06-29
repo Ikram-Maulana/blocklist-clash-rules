@@ -512,6 +512,7 @@ payload:
 - DOMAIN,europe-west3-topvpn-873d5.cloudfunctions.net
 - DOMAIN,voyage-s01.cloudku.technology
 - DOMAIN,adguard.cloudmini.net
+- DOMAIN,cloudns.net
 - DOMAIN,dns-secondary.cloudnx.cloud
 - DOMAIN,cloudnymous.com
 - DOMAIN,dns-fr-psv1.cloudsides.com
@@ -1272,7 +1273,6 @@ payload:
 - DOMAIN,indialifes.com
 - DOMAIN,adblock.indianets.net
 - DOMAIN,indo-ssh.com
-- DOMAIN,dns.indust.me
 - DOMAIN,dns.indybanipal.com
 - DOMAIN,dns.infosec.xyz
 - DOMAIN,doh.infracell.net
@@ -1887,7 +1887,6 @@ payload:
 - DOMAIN,potatovpn.io
 - DOMAIN,spacial-awareness.potomacriversafetycommittee.org
 - DOMAIN,doh.powerdns.org
-- DOMAIN,poxy.pl
 - DOMAIN,dns.ha-dvin.pp.ua
 - DOMAIN,dns.korzhyk.pp.ua
 - DOMAIN,lindung.pp.ua
