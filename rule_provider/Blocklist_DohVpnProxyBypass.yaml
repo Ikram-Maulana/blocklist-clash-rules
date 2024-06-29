@@ -1358,7 +1358,6 @@ payload:
 - DOMAIN,dns.karl.one
 - DOMAIN,katonetwork.com
 - DOMAIN,dns.kawa.tf
-- DOMAIN,j.kayru.org
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
@@ -1534,7 +1533,6 @@ payload:
 - DOMAIN,dns.moonssif.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
-- DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
@@ -2808,7 +2806,6 @@ payload:
 - DOMAIN,dns.uplenk.com
 - DOMAIN,uproxy.online
 - DOMAIN,ur-browser.com
-- DOMAIN,uradoori.org
 - DOMAIN,urban-vpn.com
 - DOMAIN,url10.org
 - DOMAIN,urology.wiki
@@ -3097,7 +3094,6 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
-- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
