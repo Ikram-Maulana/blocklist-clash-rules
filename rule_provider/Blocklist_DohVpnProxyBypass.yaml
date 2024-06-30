@@ -2185,7 +2185,6 @@ payload:
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
 - DOMAIN,agh-yz.russel053.com
-- DOMAIN,drs.rustsword.com
 - DOMAIN,rusvpn.com
 - DOMAIN,rvpn.ws
 - DOMAIN,dns1.ryan-palmer.com
@@ -2472,7 +2471,6 @@ payload:
 - DOMAIN,tbjr6.org
 - DOMAIN,tbunet.com
 - DOMAIN,tcpvpn.com
-- DOMAIN,vpn.adrielso.tec.br
 - DOMAIN,dns1.techeasy.org
 - DOMAIN,vpn.technicule.info
 - DOMAIN,doh.technochat.in
