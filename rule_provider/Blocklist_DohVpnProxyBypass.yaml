@@ -1273,6 +1273,7 @@ payload:
 - DOMAIN,indialifes.com
 - DOMAIN,adblock.indianets.net
 - DOMAIN,indo-ssh.com
+- DOMAIN,dns.indust.me
 - DOMAIN,dns.indybanipal.com
 - DOMAIN,dns.infosec.xyz
 - DOMAIN,doh.infracell.net
@@ -2971,7 +2972,6 @@ payload:
 - DOMAIN,warpproxy.com
 - DOMAIN,waselpro.com
 - DOMAIN,watchproxy.com
-- DOMAIN,watchunblocked.com
 - DOMAIN,doh.this.web.id
 - DOMAIN,1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 - DOMAIN,weblockapp.com
