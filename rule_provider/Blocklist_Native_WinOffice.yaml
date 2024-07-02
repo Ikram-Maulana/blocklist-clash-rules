@@ -2,8 +2,13 @@ payload:
 
 - DOMAIN,bal.in.aimon.applicationinsights.azure.com
 - DOMAIN,api.applicationinsights.azure.com
+- DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
+- DOMAIN,dc.applicationinsights.azure.us
+- DOMAIN,www.dc.applicationinsights.azure.com
+- DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
+- DOMAIN,in.applicationinsights.azure.us
 - DOMAIN,australiaeast-0.in.applicationinsights.azure.com
 - DOMAIN,australiaeast-1.in.applicationinsights.azure.com
 - DOMAIN,australiaeast-global.in.applicationinsights.azure.com
@@ -18,6 +23,9 @@ payload:
 - DOMAIN,centralus-0.in.applicationinsights.azure.com
 - DOMAIN,centralus-2.in.applicationinsights.azure.com
 - DOMAIN,centralus-3.in.applicationinsights.azure.com
+- DOMAIN,chinaeast2-0.in.applicationinsights.azure.cn
+- DOMAIN,chinaeast3-global.in.applicationinsights.azure.cn
+- DOMAIN,chinanorth3-0.in.applicationinsights.azure.cn
 - DOMAIN,eastasia-0.in.applicationinsights.azure.com
 - DOMAIN,eastus-0.in.applicationinsights.azure.com
 - DOMAIN,eastus-1.in.applicationinsights.azure.com
@@ -57,6 +65,12 @@ payload:
 - DOMAIN,uksouth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-1.in.applicationinsights.azure.com
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
+- DOMAIN,usgovarizona-0.in.applicationinsights.azure.us
+- DOMAIN,usgovarizona-global.in.applicationinsights.azure.us
+- DOMAIN,usgovtexas-0.in.applicationinsights.azure.us
+- DOMAIN,usgovvirginia-0.in.applicationinsights.azure.us
+- DOMAIN,usgovvirginia-1.in.applicationinsights.azure.us
+- DOMAIN,usgovvirginia-global.in.applicationinsights.azure.us
 - DOMAIN,westeurope.in.applicationinsights.azure.com
 - DOMAIN,westeurope-0.in.applicationinsights.azure.com
 - DOMAIN,westeurope-1.in.applicationinsights.azure.com
@@ -73,10 +87,14 @@ payload:
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
+- DOMAIN,live.applicationinsights.azure.cn
 - DOMAIN,live.applicationinsights.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
+- DOMAIN,measure.office.net.edgesuite.net
+- DOMAIN,nel.measure.office.net.edgesuite.net
+- DOMAIN,nelsdf.measure.office.net.edgesuite.net
 - DOMAIN,collector.azure.eaglex.ic.gov
 - DOMAIN,location.live.net
 - DOMAIN,agps.location.live.net
@@ -171,6 +189,7 @@ payload:
 - DOMAIN,us.pipe.aria.microsoft.com
 - DOMAIN,collector.azure.microsoft.scloud
 - DOMAIN,azurewatson.microsoft.com
+- DOMAIN,azurewatsontest.microsoft.com
 - DOMAIN,events.data.microsoft.com
 - DOMAIN,adhs.events.data.microsoft.com
 - DOMAIN,apac.events.data.microsoft.com
@@ -190,6 +209,7 @@ payload:
 - DOMAIN,eu-watsonc.events.data.microsoft.com
 - DOMAIN,functional.events.data.microsoft.com
 - DOMAIN,ic3.events.data.microsoft.com
+- DOMAIN,in-mobile.events.data.microsoft.com
 - DOMAIN,in-v20.events.data.microsoft.com
 - DOMAIN,jp-mobile.events.data.microsoft.com
 - DOMAIN,jp-v10.events.data.microsoft.com
@@ -228,6 +248,7 @@ payload:
 - DOMAIN,events-sandbox.data.microsoft.com
 - DOMAIN,mobile.events-sandbox.data.microsoft.com
 - DOMAIN,vortex.data.microsoft.com
+- DOMAIN,vortex-sandbox.data.microsoft.com
 - DOMAIN,vortex-win.data.microsoft.com
 - DOMAIN,au.vortex-win.data.microsoft.com
 - DOMAIN,eu.vortex-win.data.microsoft.com
@@ -270,6 +291,8 @@ payload:
 - DOMAIN,measure.office.com
 - DOMAIN,measure.office.net
 - DOMAIN,fp.measure.office.com
+- DOMAIN,66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
+- DOMAIN,ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 - DOMAIN,config.fp.measure.office.com
 - DOMAIN,graph-next.fp.measure.office.com
 - DOMAIN,ns1.fp.measure.office.com
@@ -320,6 +343,7 @@ payload:
 - DOMAIN,l4.tb.events.data.trafficmanager.net
 - DOMAIN,uk.events.data.trafficmanager.net
 - DOMAIN,us.events.data.trafficmanager.net
+- DOMAIN,eventservice.trafficmanager.net
 - DOMAIN,legacywatson.trafficmanager.net
 - DOMAIN,o365diagtelemetry.trafficmanager.net
 - DOMAIN,office-events-data.trafficmanager.net
@@ -329,6 +353,12 @@ payload:
 - DOMAIN,dc.services.visualstudio.com
 - DOMAIN,activity.windows.com
 - DOMAIN,assets.activity.windows.com
+- DOMAIN,canary.activity.windows.com
+- DOMAIN,edge.activity.windows.com
+- DOMAIN,edge-enterprise.activity.windows.com
+- DOMAIN,enterprise.activity.windows.com
+- DOMAIN,enterprise-eudb.activity.windows.com
+- DOMAIN,ppe.activity.windows.com
 - DOMAIN,ceuswatcab01.blob.core.windows.net
 - DOMAIN,ceuswatcab02.blob.core.windows.net
 - DOMAIN,eaus2watcab01.blob.core.windows.net
