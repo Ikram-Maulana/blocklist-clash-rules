@@ -1264,7 +1264,6 @@ payload:
 - DOMAIN,iksde.com
 - DOMAIN,buc-m2.illmods.com
 - DOMAIN,ilumu.com
-- DOMAIN,dns.imaicool.com
 - DOMAIN,noads.imbuffering.com
 - DOMAIN,dns.immanuelschaffer.de
 - DOMAIN,dns1.in-berlin.de
@@ -1886,7 +1885,6 @@ payload:
 - DOMAIN,potatovpn.io
 - DOMAIN,spacial-awareness.potomacriversafetycommittee.org
 - DOMAIN,doh.powerdns.org
-- DOMAIN,dns.ha-dvin.pp.ua
 - DOMAIN,dns.korzhyk.pp.ua
 - DOMAIN,lindung.pp.ua
 - DOMAIN,sundalandia.pp.ua

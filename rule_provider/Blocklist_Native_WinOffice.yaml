@@ -62,6 +62,7 @@ payload:
 - DOMAIN,southeastasia-1.in.applicationinsights.azure.com
 - DOMAIN,swedencentral-0.in.applicationinsights.azure.com
 - DOMAIN,switzerlandnorth-0.in.applicationinsights.azure.com
+- DOMAIN,uaecentral-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-1.in.applicationinsights.azure.com
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
@@ -104,6 +105,7 @@ payload:
 - DOMAIN,g.bing.com
 - DOMAIN,r.g.bing.com
 - DOMAIN,raka.bing.com
+- DOMAIN,js.monitor.azure.com.com
 - DOMAIN,measure.office.net.edgesuite.net
 - DOMAIN,nel.measure.office.net.edgesuite.net
 - DOMAIN,nelsdf.measure.office.net.edgesuite.net
