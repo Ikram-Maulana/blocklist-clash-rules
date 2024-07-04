@@ -281,7 +281,6 @@ payload:
 - DOMAIN,community.bingads.microsoft.com
 - DOMAIN,developers.bingads.microsoft.com
 - DOMAIN,fd.bingads.microsoft.com
-- DOMAIN,feedback.bingads.microsoft.com
 - DOMAIN,help.bingads.microsoft.com
 - DOMAIN,m.bingads.microsoft.com
 - DOMAIN,reportingapi.bingads.microsoft.com
@@ -632,7 +631,6 @@ payload:
 - DOMAIN,weus2watcab01.blob.core.windows.net
 - DOMAIN,weus2watcab02.blob.core.windows.net
 - DOMAIN,cache.datamart.windows.com
-- DOMAIN,feedback.windows.com
 - DOMAIN,sa.windows.com
 - DOMAIN,adsdktelemetry-prod.servicebus.windows.net
 - DOMAIN,ams-aase-1-bus-analytics-1-1.servicebus.windows.net
