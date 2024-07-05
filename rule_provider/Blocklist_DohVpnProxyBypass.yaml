@@ -1264,6 +1264,7 @@ payload:
 - DOMAIN,iksde.com
 - DOMAIN,buc-m2.illmods.com
 - DOMAIN,ilumu.com
+- DOMAIN,dns.imaicool.com
 - DOMAIN,noads.imbuffering.com
 - DOMAIN,dns.immanuelschaffer.de
 - DOMAIN,dns1.in-berlin.de
@@ -1456,7 +1457,6 @@ payload:
 - DOMAIN,lurk.info
 - DOMAIN,dns.lvolland.fr
 - DOMAIN,orau.lz0724.com
-- DOMAIN,addns1.m-it.ro
 - DOMAIN,maddw.com
 - DOMAIN,mailkyb.co
 - DOMAIN,mainssh.com
@@ -2860,6 +2860,7 @@ payload:
 - DOMAIN,vpn.ac
 - DOMAIN,vpn.asia
 - DOMAIN,vpn.express
+- DOMAIN,vpn.ht
 - DOMAIN,vpn.lat
 - DOMAIN,vpn.net
 - DOMAIN,vpn.org
