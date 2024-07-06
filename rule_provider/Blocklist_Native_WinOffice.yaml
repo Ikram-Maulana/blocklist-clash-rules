@@ -577,6 +577,13 @@ payload:
 - DOMAIN,l4.tb.events.data.trafficmanager.net
 - DOMAIN,uk.events.data.trafficmanager.net
 - DOMAIN,us.events.data.trafficmanager.net
+- DOMAIN,vortex.data.trafficmanager.net
+- DOMAIN,asimov.vortex.data.trafficmanager.net
+- DOMAIN,asimov-win.vortex.data.trafficmanager.net
+- DOMAIN,au.vortex.data.trafficmanager.net
+- DOMAIN,sandbox.vortex.data.trafficmanager.net
+- DOMAIN,v10-win.vortex.data.trafficmanager.net
+- DOMAIN,v20-asimov-win.vortex.data.trafficmanager.net
 - DOMAIN,dsp-ad-cache-tm.trafficmanager.net
 - DOMAIN,adstore.response.eastus.trafficmanager.net
 - DOMAIN,telemetry.eastus.trafficmanager.net
