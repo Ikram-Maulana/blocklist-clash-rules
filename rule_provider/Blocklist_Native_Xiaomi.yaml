@@ -10,7 +10,6 @@ payload:
 - DOMAIN,a.union.mi.com
 - DOMAIN,stat.youpin.mi.com
 - DOMAIN,resolver.gslb.mi-idc.com
-- DOMAIN,cdn.awsde0-fusion.fds.api.mi-img.com
 - DOMAIN,miui.net
 - DOMAIN,app.miui.com
 - DOMAIN,assistant.miui.com
