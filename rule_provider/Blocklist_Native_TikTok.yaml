@@ -43,8 +43,6 @@ payload:
 - DOMAIN,applog.snssdk.com
 - DOMAIN,bds.snssdk.com
 - DOMAIN,extlog.snssdk.com
-- DOMAIN,gecko-hl.snssdk.com
-- DOMAIN,gecko-lq.snssdk.com
 - DOMAIN,haohuo.snssdk.com
 - DOMAIN,log.snssdk.com
 - DOMAIN,log-hl.snssdk.com
@@ -66,7 +64,6 @@ payload:
 - DOMAIN,temai.snssdk.com
 - DOMAIN,tobapplog.snssdk.com
 - DOMAIN,toblog.snssdk.com
-- DOMAIN,toutiao-frontier.snssdk.com
 - DOMAIN,tsearch.snssdk.com
 - DOMAIN,ug.snssdk.com
 - DOMAIN,vas-hl-x.snssdk.com
