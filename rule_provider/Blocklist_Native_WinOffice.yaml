@@ -359,6 +359,7 @@ payload:
 - DOMAIN,watsonc.events.data.microsoft.com
 - DOMAIN,events-sandbox.data.microsoft.com
 - DOMAIN,mobile.events-sandbox.data.microsoft.com
+- DOMAIN,settings-sandbox.data.microsoft.com
 - DOMAIN,vortex.data.microsoft.com
 - DOMAIN,eu.vortex.data.microsoft.com
 - DOMAIN,vortex-sandbox.data.microsoft.com
@@ -375,7 +376,9 @@ payload:
 - DOMAIN,aisefs.adsdisplay.glbdns2.microsoft.com
 - DOMAIN,bingads.glbdns2.microsoft.com
 - DOMAIN,si.bingads.glbdns2.microsoft.com
+- DOMAIN,ieonline.microsoft.com
 - DOMAIN,location.microsoft.com
+- DOMAIN,redir.metaservices.microsoft.com
 - DOMAIN,geover-prod.do.dsp.mp.microsoft.com
 - DOMAIN,track.mp.microsoft.com
 - DOMAIN,dm3.track.mp.microsoft.com
