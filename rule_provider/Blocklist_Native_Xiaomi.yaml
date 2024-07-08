@@ -72,6 +72,7 @@ payload:
 - DOMAIN,tracking.intl.miui.com
 - DOMAIN,mitv.tracking.intl.miui.com
 - DOMAIN,mcc.miui.com
+- DOMAIN,mqs-log.miui.com
 - DOMAIN,privacy.miui.com
 - DOMAIN,miui-l7-data-other.pt.miui.com
 - DOMAIN,miui-l7-data-other-c3.pt.miui.com
