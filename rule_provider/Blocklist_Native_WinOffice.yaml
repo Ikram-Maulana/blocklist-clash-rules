@@ -218,6 +218,8 @@ payload:
 - DOMAIN,mmcapi.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com
+- DOMAIN,tip.ads.microsoft.com
+- DOMAIN,api.tip.ads.microsoft.com
 - DOMAIN,ucm.ads.microsoft.com
 - DOMAIN,ui.ads.microsoft.com
 - DOMAIN,ads-int.microsoft.com

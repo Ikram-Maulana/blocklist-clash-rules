@@ -806,7 +806,6 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1074,7 +1073,6 @@ payload:
 - DOMAIN,dns.api.sandbox.globuscs.info
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
