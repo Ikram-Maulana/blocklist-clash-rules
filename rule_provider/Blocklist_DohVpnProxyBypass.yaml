@@ -806,6 +806,7 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -813,7 +814,6 @@ payload:
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
-- DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
@@ -2372,7 +2372,6 @@ payload:
 - DOMAIN,sslsecureproxy.com
 - DOMAIN,sslunblocker.com
 - DOMAIN,doh.ntu.ssooss.win
-- DOMAIN,ag.ssrahul96.xyz
 - DOMAIN,dns.sstomp.nl
 - DOMAIN,stable-vpn.com
 - DOMAIN,stackfront.xyz
@@ -2483,7 +2482,6 @@ payload:
 - DOMAIN,tx.teradns.org
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.tesem.dog
-- DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com
 - DOMAIN,thebestproxy.info
