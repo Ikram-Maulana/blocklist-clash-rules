@@ -655,6 +655,8 @@ payload:
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
 - DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
+- DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
+- DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net
 - DOMAIN,citrixanalyticseh-alias.servicebus.windows.net
 - DOMAIN,citrixanalyticseh2.servicebus.windows.net

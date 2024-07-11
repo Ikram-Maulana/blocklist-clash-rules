@@ -814,6 +814,7 @@ payload:
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
+- DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
@@ -2482,6 +2483,7 @@ payload:
 - DOMAIN,tx.teradns.org
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.tesem.dog
+- DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com
 - DOMAIN,thebestproxy.info
