@@ -228,10 +228,12 @@ payload:
 - DOMAIN,dmc.ads-int.microsoft.com
 - DOMAIN,beta.dmc.ads-int.microsoft.com
 - DOMAIN,help.ads-int.microsoft.com
+- DOMAIN,ui.ads-int.microsoft.com
 - DOMAIN,adsdk.microsoft.com
 - DOMAIN,adsinapps.microsoft.com
 - DOMAIN,adsstatic.microsoft.com
 - DOMAIN,beta.adsstatic.microsoft.com
+- DOMAIN,adsstatic-int.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
 - DOMAIN,fp.advertising.microsoft.com

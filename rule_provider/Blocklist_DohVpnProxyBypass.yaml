@@ -512,7 +512,6 @@ payload:
 - DOMAIN,europe-west3-topvpn-873d5.cloudfunctions.net
 - DOMAIN,voyage-s01.cloudku.technology
 - DOMAIN,adguard.cloudmini.net
-- DOMAIN,dns-secondary.cloudnx.cloud
 - DOMAIN,cloudnymous.com
 - DOMAIN,dns-fr-psv1.cloudsides.com
 - DOMAIN,cloudssh.net
@@ -945,7 +944,6 @@ payload:
 - DOMAIN,frandcomfort.us
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
-- DOMAIN,free-proxy.xyz
 - DOMAIN,free-proxy-list.net
 - DOMAIN,free-proxyserver.com
 - DOMAIN,free-proxysite.com
@@ -1302,7 +1300,6 @@ payload:
 - DOMAIN,ipunblocker.com
 - DOMAIN,dns.ipv6dns.com
 - DOMAIN,ipvanish.com
-- DOMAIN,ipvpn.info
 - DOMAIN,ironsocket.com
 - DOMAIN,dns1.irumatech.com
 - DOMAIN,isityet.net
@@ -1534,7 +1531,6 @@ payload:
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
 - DOMAIN,dns.mrkaran.dev
-- DOMAIN,msr177.com
 - DOMAIN,dns.msxnet.ru
 - DOMAIN,ns.mtsoln.com
 - DOMAIN,muchproxy.com
@@ -1774,7 +1770,6 @@ payload:
 - DOMAIN,oraclevpn.com
 - DOMAIN,orangeproxy.net
 - DOMAIN,proxy.ordentlichbreit.de
-- DOMAIN,b.j0.icom.org.np
 - DOMAIN,r.j0.icom.org.np
 - DOMAIN,s.j0.icom.org.np
 - DOMAIN,x.j0.icom.org.np
@@ -1855,7 +1850,6 @@ payload:
 - DOMAIN,adguard.piekacz.pl
 - DOMAIN,dns1.pietjacobs.be
 - DOMAIN,pingproxy.com
-- DOMAIN,pinweb.info
 - DOMAIN,piraproxy.org
 - DOMAIN,piratebayproxy.co
 - DOMAIN,pixelprivacy.com
@@ -1917,8 +1911,6 @@ payload:
 - DOMAIN,dns.privado.ovh
 - DOMAIN,orpi.privado.ovh
 - DOMAIN,privadovpn.com
-- DOMAIN,private-internet.info
-- DOMAIN,privatefb.info
 - DOMAIN,privateinternetaccess.com
 - DOMAIN,privateproxy.me
 - DOMAIN,privatesurfforme.net
@@ -2157,7 +2149,6 @@ payload:
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
 - DOMAIN,adg.rokh.biz
-- DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
@@ -2239,7 +2230,6 @@ payload:
 - DOMAIN,secretsline.biz
 - DOMAIN,secretsline.org
 - DOMAIN,secure-vpn.com
-- DOMAIN,secure-vpn.info
 - DOMAIN,vpncenter.avg.securebrowser.com
 - DOMAIN,vpncenter-tenta.securebrowser.com
 - DOMAIN,securefor.com
@@ -2812,7 +2802,6 @@ payload:
 - DOMAIN,usawebproxy.net
 - DOMAIN,userload.co
 - DOMAIN,userproxy.com
-- DOMAIN,uskt.info
 - DOMAIN,usproxies.info
 - DOMAIN,usvpn.cf
 - DOMAIN,uswebproxy.com
