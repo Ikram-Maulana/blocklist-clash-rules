@@ -1531,6 +1531,7 @@ payload:
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
 - DOMAIN,dns.mrkaran.dev
+- DOMAIN,msr177.com
 - DOMAIN,dns.msxnet.ru
 - DOMAIN,ns.mtsoln.com
 - DOMAIN,muchproxy.com
@@ -2149,6 +2150,7 @@ payload:
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
 - DOMAIN,adg.rokh.biz
+- DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com

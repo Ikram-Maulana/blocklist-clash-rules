@@ -620,6 +620,7 @@ payload:
 - DOMAIN,tenmax-ads.trafficmanager.net
 - DOMAIN,tm-analytics-pr.trafficmanager.net
 - DOMAIN,tm-enrollment-telemetry-datacore.trafficmanager.net
+- DOMAIN,us-mesh-events-data-leafs.trafficmanager.net
 - DOMAIN,euc-excel-telemetry.wac.trafficmanager.net
 - DOMAIN,euc-powerpoint-telemetry.wac.trafficmanager.net
 - DOMAIN,euc-word-telemetry.wac.trafficmanager.net
