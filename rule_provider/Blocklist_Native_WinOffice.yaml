@@ -63,6 +63,7 @@ payload:
 - DOMAIN,swedencentral-0.in.applicationinsights.azure.com
 - DOMAIN,switzerlandnorth-0.in.applicationinsights.azure.com
 - DOMAIN,uaecentral-0.in.applicationinsights.azure.com
+- DOMAIN,uaenorth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-1.in.applicationinsights.azure.com
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
