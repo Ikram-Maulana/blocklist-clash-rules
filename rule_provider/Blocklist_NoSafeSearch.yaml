@@ -1,6 +1,7 @@
 payload:
 
 - DOMAIN,search.0xcb.dev
+- DOMAIN,search.0xgingi.com
 - DOMAIN,searx.32bitflo.at
 - DOMAIN,search.activemail.de
 - DOMAIN,haku.ahmia.fi
@@ -50,6 +51,7 @@ payload:
 - DOMAIN,dogpile.com
 - DOMAIN,searx.dojocasts.com
 - DOMAIN,search.dojoro.de
+- DOMAIN,searx.doofpot.nl
 - DOMAIN,search.dr460nf1r3.org
 - DOMAIN,searx.dresden.network
 - DOMAIN,wgl.frail.duckdns.org
@@ -75,6 +77,7 @@ payload:
 - DOMAIN,searx.gnu.style
 - DOMAIN,searx.gotrust.de
 - DOMAIN,gruble.de
+- DOMAIN,hmsearx.h0meserver.com
 - DOMAIN,searx.hardwired.link
 - DOMAIN,whoogle.hostux.net
 - DOMAIN,seeks.hsbp.org
@@ -83,6 +86,7 @@ payload:
 - DOMAIN,jsearch.pw
 - DOMAIN,searx.juancord.xyz
 - DOMAIN,kagi.com
+- DOMAIN,search.kokomo.cloud
 - DOMAIN,trovu.komun.org
 - DOMAIN,searx.kvch.me
 - DOMAIN,search.laksith.dev
@@ -102,11 +106,13 @@ payload:
 - DOMAIN,metager.de
 - DOMAIN,metager.org
 - DOMAIN,metager3.de
+- DOMAIN,suche.mexmail.de
 - DOMAIN,searx.mha.fi
 - DOMAIN,mijisou.com
 - DOMAIN,millionshort.com
 - DOMAIN,search.modalogi.com
 - DOMAIN,mojeek.com
+- DOMAIN,searx.monicz.pl
 - DOMAIN,spot.murena.io
 - DOMAIN,mwmbl.org
 - DOMAIN,searx.mxchange.org
@@ -180,6 +186,8 @@ payload:
 - DOMAIN,searx.si
 - DOMAIN,searx.work
 - DOMAIN,searx.xyz
+- DOMAIN,searxzh.cn
+- DOMAIN,search.seds.nl
 - DOMAIN,searx.semipvt.com
 - DOMAIN,search.sethforprivacy.com
 - DOMAIN,searx.sev.monster
@@ -192,6 +200,7 @@ payload:
 - DOMAIN,search.st8.at
 - DOMAIN,search.stinpriza.org
 - DOMAIN,suchfeuer.de
+- DOMAIN,searx.sulu.me
 - DOMAIN,searx.thefloatinglab.world
 - DOMAIN,searx.thegreenwebfoundation.org
 - DOMAIN,searx.tiekoetter.com
@@ -209,6 +218,7 @@ payload:
 - DOMAIN,webcrawler.com
 - DOMAIN,searx.wegeeks.win
 - DOMAIN,wiby.me
+- DOMAIN,search.xcloud.live
 - DOMAIN,xo.wtf
 - DOMAIN,yep.com
 - DOMAIN,yippy.com
