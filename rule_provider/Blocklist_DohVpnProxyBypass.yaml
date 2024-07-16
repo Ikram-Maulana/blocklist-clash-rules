@@ -70,6 +70,7 @@ payload:
 - DOMAIN,3proxy.de
 - DOMAIN,dns.4-the.win
 - DOMAIN,doh.42l.fr
+- DOMAIN,46sdzf3zdg1dxg2.us
 - DOMAIN,4everproxy.com
 - DOMAIN,4proxy.de
 - DOMAIN,ios.4webhelp.ca
@@ -1681,6 +1682,7 @@ payload:
 - DOMAIN,resolver.noaddns.com
 - DOMAIN,nocensor.work
 - DOMAIN,pi1.node15.com
+- DOMAIN,nodepay.ai
 - DOMAIN,noip.com
 - DOMAIN,sink.nolo.ltd
 - DOMAIN,paulo.nom.za
@@ -1718,7 +1720,6 @@ payload:
 - DOMAIN,nvpn.to
 - DOMAIN,5g.o0o.re
 - DOMAIN,o1.lt
-- DOMAIN,dot.occ.top
 - DOMAIN,oceanbrowser.co
 - DOMAIN,octohide.com
 - DOMAIN,octovpn.net

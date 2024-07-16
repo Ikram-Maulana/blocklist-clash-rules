@@ -79,6 +79,7 @@ payload:
 - DOMAIN,gecko-pangle-lf.snssdk.com
 - DOMAIN,gecko-pangle-lq.snssdk.com
 - DOMAIN,haohuo.snssdk.com
+- DOMAIN,lark-frontier.snssdk.com
 - DOMAIN,log.snssdk.com
 - DOMAIN,log-hl.snssdk.com
 - DOMAIN,log-lf.snssdk.com
