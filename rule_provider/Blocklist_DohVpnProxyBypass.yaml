@@ -237,6 +237,7 @@ payload:
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn.avg.tools.avast.com
+- DOMAIN,africa.avastdns.com
 - DOMAIN,secure.avastdns.com
 - DOMAIN,vps.avc.cx
 - DOMAIN,adguard.avdkishore.dev
@@ -345,6 +346,7 @@ payload:
 - DOMAIN,bloquer.fr
 - DOMAIN,bluemood.me
 - DOMAIN,bluesnap.com
+- DOMAIN,blufvpn.com
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bobstrecansky.com
 - DOMAIN,bodvpn.com
@@ -444,6 +446,7 @@ payload:
 - DOMAIN,dns.circl.lu
 - DOMAIN,circumvent.it
 - DOMAIN,mus.cisco.com
+- DOMAIN,ciscossh.com
 - DOMAIN,citizenvpn.com
 - DOMAIN,dns.clanless.ovh
 - DOMAIN,dns.clanto.cloud
@@ -886,7 +889,6 @@ payload:
 - DOMAIN,dns.ezyss.id
 - DOMAIN,f4fp.com
 - DOMAIN,jp1.f7b6h9.tk
-- DOMAIN,dns.f97.xyz
 - DOMAIN,faceless.me
 - DOMAIN,pdns.faelix.net
 - DOMAIN,rdns.faelix.net
@@ -1332,6 +1334,7 @@ payload:
 - DOMAIN,smellyal.isreally.pro
 - DOMAIN,smellypay.isreally.pro
 - DOMAIN,itopvpn.com
+- DOMAIN,diy.itsa.top
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
 - DOMAIN,ivnkn.xyz
@@ -1553,6 +1556,7 @@ payload:
 - DOMAIN,dns.moonssif.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
+- DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
