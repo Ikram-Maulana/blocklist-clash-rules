@@ -118,6 +118,7 @@ payload:
 - DOMAIN,r.g.bing.com
 - DOMAIN,raka.bing.com
 - DOMAIN,js.monitor.azure.com.com
+- DOMAIN,www.js.monitor.azure.com.com
 - DOMAIN,measure.office.net.edgesuite.net
 - DOMAIN,nel.measure.office.net.edgesuite.net
 - DOMAIN,nelsdf.measure.office.net.edgesuite.net

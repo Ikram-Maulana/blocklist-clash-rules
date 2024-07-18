@@ -935,6 +935,7 @@ payload:
 - DOMAIN,xcomvpn-7000b-default-rtdb.firebaseio.com
 - DOMAIN,fpn.firefox.com
 - DOMAIN,testpilot.firefox.com
+- DOMAIN,firstcontact.site
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
@@ -1263,6 +1264,7 @@ payload:
 - DOMAIN,vpn.i81.ru
 - DOMAIN,dns.iamninja.ru
 - DOMAIN,dns.ian.rocks
+- DOMAIN,iblocker.info
 - DOMAIN,ibvpn.com
 - DOMAIN,webproxy.ich-war-hier.de
 - DOMAIN,icitek.com
@@ -1338,9 +1340,11 @@ payload:
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
 - DOMAIN,ivnkn.xyz
+- DOMAIN,ivpn.info
 - DOMAIN,ivpn.net
 - DOMAIN,iwantproxy.com
 - DOMAIN,iweb365.net
+- DOMAIN,ixl.plus
 - DOMAIN,jabber-germany.de
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
