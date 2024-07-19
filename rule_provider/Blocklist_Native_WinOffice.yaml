@@ -414,6 +414,7 @@ payload:
 - DOMAIN,sqm.telemetry.microsoft.com
 - DOMAIN,telecommand.telemetry.microsoft.com
 - DOMAIN,watson.telemetry.microsoft.com
+- DOMAIN,telemetrycollector.microsoft.com
 - DOMAIN,uhf.microsoft.com
 - DOMAIN,telemetry.urs.microsoft.com
 - DOMAIN,watson.microsoft.com
