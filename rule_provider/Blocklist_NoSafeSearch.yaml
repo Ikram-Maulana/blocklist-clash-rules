@@ -106,6 +106,7 @@ payload:
 - DOMAIN,metager.de
 - DOMAIN,metager.org
 - DOMAIN,metager3.de
+- DOMAIN,metasearch.nl
 - DOMAIN,suche.mexmail.de
 - DOMAIN,searx.mha.fi
 - DOMAIN,mijisou.com
@@ -116,6 +117,7 @@ payload:
 - DOMAIN,spot.murena.io
 - DOMAIN,mwmbl.org
 - DOMAIN,searx.mxchange.org
+- DOMAIN,myprivatesrx.us
 - DOMAIN,librex.myroware.eu
 - DOMAIN,searx.nakhan.net
 - DOMAIN,searx.namejeff.xyz

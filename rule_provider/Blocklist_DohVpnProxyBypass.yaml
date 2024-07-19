@@ -1591,6 +1591,7 @@ payload:
 - DOMAIN,family.mydns.network
 - DOMAIN,freedom.mydns.network
 - DOMAIN,paranoia.mydns.network
+- DOMAIN,myhidden.info
 - DOMAIN,myip.io
 - DOMAIN,myip-proxy.info
 - DOMAIN,myiphide.com
@@ -2262,6 +2263,7 @@ payload:
 - DOMAIN,schoolnewsletter.us
 - DOMAIN,schoolproxy.co
 - DOMAIN,schooxy.com
+- DOMAIN,sciencesimplified.pro
 - DOMAIN,gravity.sciencevictory.org
 - DOMAIN,dns.scuola.org
 - DOMAIN,se3v5tjfff3aet.me
