@@ -19,6 +19,7 @@ payload:
 - DOMAIN,searx.baczek.me
 - DOMAIN,baidu.com
 - DOMAIN,baresearch.org
+- DOMAIN,searx.bbaovanc.com
 - DOMAIN,search.biboumail.fr
 - DOMAIN,searx.bissisoft.com
 - DOMAIN,search.bluelock.org
@@ -86,6 +87,7 @@ payload:
 - DOMAIN,jsearch.pw
 - DOMAIN,searx.juancord.xyz
 - DOMAIN,kagi.com
+- DOMAIN,search.kiwitalk.de
 - DOMAIN,search.kokomo.cloud
 - DOMAIN,trovu.komun.org
 - DOMAIN,searx.kvch.me
@@ -97,6 +99,7 @@ payload:
 - DOMAIN,lukol.com
 - DOMAIN,whoogle.lunar.icu
 - DOMAIN,search.lvkaszus.pl
+- DOMAIN,searx.lwhr.xyz
 - DOMAIN,searx.lynnesbian.space
 - DOMAIN,go.mail.ru
 - DOMAIN,searx.mastodontech.de
@@ -194,6 +197,7 @@ payload:
 - DOMAIN,search.sethforprivacy.com
 - DOMAIN,searx.sev.monster
 - DOMAIN,search.seznam.cz
+- DOMAIN,skyn3t.in
 - DOMAIN,search.smnz.de
 - DOMAIN,searx.solusar.de
 - DOMAIN,searx.sp-codes.de

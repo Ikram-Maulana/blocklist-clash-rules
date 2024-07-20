@@ -558,6 +558,7 @@ payload:
 - DOMAIN,proxay.co.uk
 - DOMAIN,proxify.co.uk
 - DOMAIN,proxywebsite.co.uk
+- DOMAIN,quickproxy.co.uk
 - DOMAIN,rfastvpn.co.cc
 - DOMAIN,sbdns.co.in
 - DOMAIN,secvpnproxy.co.cc
@@ -1856,6 +1857,7 @@ payload:
 - DOMAIN,pc-streaming.com
 - DOMAIN,dns.pccoach.nl
 - DOMAIN,rpz-public-resolver1.rrdns.pch.net
+- DOMAIN,peekproxy.com
 - DOMAIN,check.peer2profit.site
 - DOMAIN,fuchur.pentament.de
 - DOMAIN,peoplesproxy.com
@@ -1869,6 +1871,7 @@ payload:
 - DOMAIN,personaly.click
 - DOMAIN,dns.pesaventofilippo.com
 - DOMAIN,dns.phillipjberry.net
+- DOMAIN,photonsecure.com
 - DOMAIN,phpbido.com
 - DOMAIN,phproxysite.com
 - DOMAIN,doh.centraleu.pi-dns.com
@@ -1901,6 +1904,7 @@ payload:
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
 - DOMAIN,pluton.plan9-dns.com
+- DOMAIN,play5r.com
 - DOMAIN,playproxy.com
 - DOMAIN,secure-dns.pleumkungz.com
 - DOMAIN,privacy.plumedns.com
@@ -2092,6 +2096,7 @@ payload:
 - DOMAIN,proxysite.site
 - DOMAIN,proxysite.top
 - DOMAIN,proxysite.us
+- DOMAIN,proxysite.video
 - DOMAIN,proxysneak.com
 - DOMAIN,proxysurfing.org
 - DOMAIN,proxytime.net
@@ -2333,6 +2338,7 @@ payload:
 - DOMAIN,doh.sidnlabs.nl
 - DOMAIN,dns.silen.org
 - DOMAIN,dns.silentlybren.com
+- DOMAIN,simpleproxy.us
 - DOMAIN,simplevpn.info
 - DOMAIN,dns.simplylinux.ch
 - DOMAIN,dnsovertls.sinodun.com
@@ -2409,6 +2415,7 @@ payload:
 - DOMAIN,sshssl.com
 - DOMAIN,sshstores.net
 - DOMAIN,sslprivateproxy.com
+- DOMAIN,sslpro.eu
 - DOMAIN,sslpro.org
 - DOMAIN,sslproxies.net
 - DOMAIN,sslproxies.org
