@@ -2163,6 +2163,7 @@ payload:
 - DOMAIN,rapidproxy.org
 - DOMAIN,rapidproxy.us
 - DOMAIN,rapidvpn.com
+- DOMAIN,thiscopyofartclassisnotgenuine.rare1k.space
 - DOMAIN,emby.rasp.tv
 - DOMAIN,rateavon.je
 - DOMAIN,ratecuts.us
@@ -2639,6 +2640,7 @@ payload:
 - DOMAIN,travelvpn.net
 - DOMAIN,consumervpn.trendmicro.com
 - DOMAIN,geovpn.trendmicro.com
+- DOMAIN,trialproxy.com
 - DOMAIN,trickbyte.com
 - DOMAIN,trilightzone.org
 - DOMAIN,trlone.com
@@ -2996,6 +2998,7 @@ payload:
 - DOMAIN,vpnuk.net
 - DOMAIN,vpnunlimited.com
 - DOMAIN,vpnunlimitedapp.com
+- DOMAIN,vpnv6.com
 - DOMAIN,vpnvip.com
 - DOMAIN,antispam.vpnvps.com
 - DOMAIN,vpnwebsite.com
@@ -3020,6 +3023,7 @@ payload:
 - DOMAIN,warpproxy.com
 - DOMAIN,waselpro.com
 - DOMAIN,watchproxy.com
+- DOMAIN,watchunblocked.com
 - DOMAIN,doh.this.web.id
 - DOMAIN,1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 - DOMAIN,weblockapp.com
@@ -3037,6 +3041,7 @@ payload:
 - DOMAIN,websitebypass.com
 - DOMAIN,websiteproxy.net
 - DOMAIN,websurf.in
+- DOMAIN,websurfproxy.me
 - DOMAIN,websynchrony.com
 - DOMAIN,webtunnel.org
 - DOMAIN,webxify.com
