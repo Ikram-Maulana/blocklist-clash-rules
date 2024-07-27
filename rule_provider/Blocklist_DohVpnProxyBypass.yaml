@@ -39,7 +39,6 @@ payload:
 - DOMAIN,123ultraproxy.com
 - DOMAIN,123unblocked.com
 - DOMAIN,12vpx.com
-- DOMAIN,16yd.com
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
 - DOMAIN,1clickvpn.net
@@ -809,7 +808,6 @@ payload:
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
-- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
