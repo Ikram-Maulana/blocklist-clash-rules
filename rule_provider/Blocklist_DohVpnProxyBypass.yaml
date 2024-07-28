@@ -251,7 +251,6 @@ payload:
 - DOMAIN,b-ii.com
 - DOMAIN,dns.b33.space
 - DOMAIN,dns.b612.me
-- DOMAIN,photography.backriverphotography.com
 - DOMAIN,dns.baishiyuan.cn
 - DOMAIN,banana-vpn.com
 - DOMAIN,bananavpn.com
@@ -387,7 +386,6 @@ payload:
 - DOMAIN,dns.caksono.com
 - DOMAIN,calc-web.me
 - DOMAIN,callies-online.site
-- DOMAIN,us1.cambrianscientific.com
 - DOMAIN,canadaproxy.info
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
@@ -533,7 +531,6 @@ payload:
 - DOMAIN,insteadvpn.co.cc
 - DOMAIN,justproxy.co.uk
 - DOMAIN,lamnia.co.uk
-- DOMAIN,einstein.lawson-engineers.co.uk
 - DOMAIN,my-private-network.co.uk
 - DOMAIN,dns.neilzone.co.uk
 - DOMAIN,ninjaproxy.co.uk
@@ -808,6 +805,7 @@ payload:
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
@@ -836,6 +834,7 @@ payload:
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
+- DOMAIN,dns.ellichua.com
 - DOMAIN,emban-networks.com
 - DOMAIN,dns.emiliyan.com
 - DOMAIN,emuby.com
