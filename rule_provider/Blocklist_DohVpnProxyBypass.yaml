@@ -760,8 +760,6 @@ payload:
 - DOMAIN,dnsforge.de
 - DOMAIN,dns.dnshome.de
 - DOMAIN,dnslow.me
-- DOMAIN,w.n.dnsmirror.org
-- DOMAIN,x.n.dnsmirror.org
 - DOMAIN,dns.dnsoverhttps.net
 - DOMAIN,dns.dnssilo.top
 - DOMAIN,adblock-dot.dnswarden.com
@@ -937,7 +935,6 @@ payload:
 - DOMAIN,flyssh.com
 - DOMAIN,flyvpn.com
 - DOMAIN,gateway.fomichev.cloud
-- DOMAIN,for-privacy.net
 - DOMAIN,cranking90s.fortnitebuilder.pro
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
@@ -1099,9 +1096,6 @@ payload:
 - DOMAIN,gpreport.us
 - DOMAIN,dot.libredns.gr.com
 - DOMAIN,gracarno.com
-- DOMAIN,k.c.gracemp.org
-- DOMAIN,n.c.gracemp.org
-- DOMAIN,vp.c.gracemp.org
 - DOMAIN,graef.in
 - DOMAIN,granules.us
 - DOMAIN,gratisproxy.nl
@@ -1122,9 +1116,6 @@ payload:
 - DOMAIN,gvirabi.com
 - DOMAIN,gztech.me
 - DOMAIN,h-vpn.org
-- DOMAIN,j.o.h4xxel.org
-- DOMAIN,x.o.h4xxel.org
-- DOMAIN,x4.o.h4xxel.org
 - DOMAIN,dns.hahnjo.de
 - DOMAIN,dns.hanahira.dev
 - DOMAIN,adguard.haneulo.com

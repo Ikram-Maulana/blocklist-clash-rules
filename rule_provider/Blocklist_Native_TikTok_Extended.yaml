@@ -401,6 +401,10 @@ payload:
 - DOMAIN,xlog16-normal-useast8.us.tiktokv.com
 - DOMAIN,xlog16-platform-useast5.us.tiktokv.com
 - DOMAIN,webcast-frontier22-alisg.tiktokv.com
+- DOMAIN,webcast-frontier22-normal-alisg.tiktokv.com
+- DOMAIN,webcast-frontier22-normal-useast1a.tiktokv.com
+- DOMAIN,webcast-frontier32-normal-alisg.tiktokv.com
+- DOMAIN,webcast-frontier32-normal-useast1a.tiktokv.com
 - DOMAIN,xlog.tiktokv.com
 - DOMAIN,xlog-ru.tiktokv.com
 - DOMAIN,xlog-va.tiktokv.com
