@@ -1391,7 +1391,6 @@ payload:
 - DOMAIN,adguard.kss.ovh
 - DOMAIN,dns.kugoapps.com
 - DOMAIN,dns.kukal.cz
-- DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.l337.site
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,lagometer.de
@@ -1423,7 +1422,6 @@ payload:
 - DOMAIN,libertyvpn.net
 - DOMAIN,doh.libredns.gr
 - DOMAIN,dot.libredns.gr
-- DOMAIN,t.lifestylethailand.com
 - DOMAIN,limevpn.com
 - DOMAIN,sby-doh.limotelu.org
 - DOMAIN,linkideo.com
@@ -1461,7 +1459,6 @@ payload:
 - DOMAIN,mainssh.com
 - DOMAIN,mallocapp.com
 - DOMAIN,mallocprivacy.com
-- DOMAIN,dns.mandre.dev
 - DOMAIN,dns.maolaohei.xyz
 - DOMAIN,market-id-auto.com
 - DOMAIN,ag.marschi.de
@@ -1493,7 +1490,6 @@ payload:
 - DOMAIN,megaproxy.com
 - DOMAIN,megaproxylist.net
 - DOMAIN,mehide.asia
-- DOMAIN,mehide.org
 - DOMAIN,httpdns.meituan.com
 - DOMAIN,dns.melalandia.tk
 - DOMAIN,testaghome.meshkov.info
@@ -1518,7 +1514,6 @@ payload:
 - DOMAIN,mobilevpn.net
 - DOMAIN,mobrain.xyz
 - DOMAIN,mockblock.com
-- DOMAIN,nue2.moderateinfra.net
 - DOMAIN,ps1.modr.club
 - DOMAIN,dns.molinero.dev
 - DOMAIN,monoprivacy.io
@@ -1530,7 +1525,6 @@ payload:
 - DOMAIN,morevpn.com
 - DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
-- DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
 - DOMAIN,dns.mrkaran.dev
 - DOMAIN,msr177.com
@@ -1583,7 +1577,6 @@ payload:
 - DOMAIN,mzhlhrfr8z.info
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
-- DOMAIN,doh-ca.naftalie.net
 - DOMAIN,www.chungocoai.name.vn
 - DOMAIN,nanoproxy.com
 - DOMAIN,napps-1.com
@@ -1616,7 +1609,6 @@ payload:
 - DOMAIN,dns1.sg.newpangea.de
 - DOMAIN,dns1.us.newpangea.de
 - DOMAIN,newshosting.com
-- DOMAIN,meteor.newsofmaricopa.com
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
 - DOMAIN,dns1.nextdns.io
@@ -1772,9 +1764,6 @@ payload:
 - DOMAIN,oraclevpn.com
 - DOMAIN,orangeproxy.net
 - DOMAIN,proxy.ordentlichbreit.de
-- DOMAIN,r.j0.icom.org.np
-- DOMAIN,s.j0.icom.org.np
-- DOMAIN,x.j0.icom.org.np
 - DOMAIN,dns.oryxlabs.com
 - DOMAIN,os4work.com
 - DOMAIN,dns.oszx.co
@@ -1811,7 +1800,6 @@ payload:
 - DOMAIN,panyyhh.xyz
 - DOMAIN,panzend.xyz
 - DOMAIN,papervpn.info
-- DOMAIN,doh.gcp.pathofgrace.com
 - DOMAIN,pawxy.com
 - DOMAIN,pbproxy.red
 - DOMAIN,pbproxy2.co
@@ -1899,7 +1887,6 @@ payload:
 - DOMAIN,nyc-ny-us.prcdn.net
 - DOMAIN,tor-ca.prcdn.net
 - DOMAIN,waw-pl.prcdn.net
-- DOMAIN,workshop.precisewarehousing.com
 - DOMAIN,predecessor.info
 - DOMAIN,presidentalhistory.wiki
 - DOMAIN,dns2.prima-solusindo.com
@@ -2147,13 +2134,6 @@ payload:
 - DOMAIN,doh.rezhajul.io
 - DOMAIN,resolver.rferee.dev
 - DOMAIN,ricko.is
-- DOMAIN,api.cloud.rigaprecast.com
-- DOMAIN,app.cloud.rigaprecast.com
-- DOMAIN,blog.cloud.rigaprecast.com
-- DOMAIN,demo.cloud.rigaprecast.com
-- DOMAIN,docs.cloud.rigaprecast.com
-- DOMAIN,forum.cloud.rigaprecast.com
-- DOMAIN,support.cloud.rigaprecast.com
 - DOMAIN,dns.rin.sh
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
@@ -2732,8 +2712,10 @@ payload:
 - DOMAIN,unblockfreeproxy.com
 - DOMAIN,unblockit.app
 - DOMAIN,unblockit.club
+- DOMAIN,unblockit.foo
 - DOMAIN,unblockit.link
 - DOMAIN,unblockit.ltd
+- DOMAIN,unblockit.meme
 - DOMAIN,unblockit.one
 - DOMAIN,unblockit.onl
 - DOMAIN,unblockit.pro

@@ -234,7 +234,6 @@ payload:
 - DOMAIN,help.ads-int.microsoft.com
 - DOMAIN,ui.ads-int.microsoft.com
 - DOMAIN,adsdk.microsoft.com
-- DOMAIN,adsinapps.microsoft.com
 - DOMAIN,adsstatic.microsoft.com
 - DOMAIN,beta.adsstatic.microsoft.com
 - DOMAIN,adsstatic-int.microsoft.com
