@@ -1072,7 +1072,6 @@ payload:
 - DOMAIN,dns.api.sandbox.globuscs.info
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -2173,7 +2172,6 @@ payload:
 - DOMAIN,doh.safesurfer.io
 - DOMAIN,safetysurf.net
 - DOMAIN,safeunblock.com
-- DOMAIN,w.q.sagesinst.org
 - DOMAIN,vpn.sakhwow.ru
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandparticles.us
@@ -2593,7 +2591,6 @@ payload:
 - DOMAIN,ad.tzockt.beer
 - DOMAIN,u8sj3.com
 - DOMAIN,uas2.com
-- DOMAIN,ubint.net
 - DOMAIN,ublocker.info
 - DOMAIN,ufovpn.io
 - DOMAIN,ufreevpn.com
@@ -2811,7 +2808,6 @@ payload:
 - DOMAIN,viatun.com
 - DOMAIN,videocollage.us
 - DOMAIN,videoproxy.site
-- DOMAIN,edpuzzle.videospeed.cl
 - DOMAIN,videounblock.com
 - DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net

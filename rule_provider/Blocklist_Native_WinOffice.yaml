@@ -611,7 +611,6 @@ payload:
 - DOMAIN,o365diagtelemetry.trafficmanager.net
 - DOMAIN,office-events-data.trafficmanager.net
 - DOMAIN,oms-analytics.trafficmanager.net
-- DOMAIN,pixel-sync.trafficmanager.net
 - DOMAIN,rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 - DOMAIN,sconsentit9.trafficmanager.net
 - DOMAIN,self-events-data.trafficmanager.net

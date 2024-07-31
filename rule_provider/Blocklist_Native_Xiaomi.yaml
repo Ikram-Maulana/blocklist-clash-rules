@@ -410,7 +410,6 @@ payload:
 - DOMAIN,coml7.pandora.xiaomi.com
 - DOMAIN,de.pandora.xiaomi.com
 - DOMAIN,dvb.pandora.xiaomi.com
-- DOMAIN,gallery.pandora.xiaomi.com
 - DOMAIN,hook.gitv.pandora.xiaomi.com
 - DOMAIN,ptmi.gitv.pandora.xiaomi.com
 - DOMAIN,sjs.ptmi.gitv.pandora.xiaomi.com
@@ -468,7 +467,6 @@ payload:
 - DOMAIN,data.mistat.rus.xiaomi.com
 - DOMAIN,mlog.search.xiaomi.net
 - DOMAIN,api.miui.security.xiaomi.com
-- DOMAIN,staging.api.miui.security.xiaomi.com
 - DOMAIN,ssp.xiaomi.com
 - DOMAIN,stat.xiaomi.com
 - DOMAIN,a.stat.xiaomi.com
