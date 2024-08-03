@@ -232,7 +232,6 @@ payload:
 - DOMAIN,vps.avc.cx
 - DOMAIN,adguard.avdkishore.dev
 - DOMAIN,avira-vpn.com
-- DOMAIN,avoidance.info
 - DOMAIN,awabo.com
 - DOMAIN,award-vpn.com
 - DOMAIN,awebproxy.com
@@ -270,7 +269,6 @@ payload:
 - DOMAIN,beetvpn.com
 - DOMAIN,beevpn.com
 - DOMAIN,adguard.beliefanx.cn
-- DOMAIN,bellproxy.com
 - DOMAIN,dns.belnet.be
 - DOMAIN,dns.benpro.fr
 - DOMAIN,bestfreevpn.com

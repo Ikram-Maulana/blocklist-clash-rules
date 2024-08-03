@@ -325,6 +325,7 @@ payload:
 - DOMAIN,pitaya-task-sg.tiktokv.com
 - DOMAIN,pitaya-task-va.tiktokv.com
 - DOMAIN,pitaya-va.tiktokv.com
+- DOMAIN,pitaya16-normal-useast1a.tiktokv.com
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-va.tiktokv.com
 - DOMAIN,rtlog.tiktokv.com
@@ -400,9 +401,13 @@ payload:
 - DOMAIN,rtlog19-platform-useast5.us.tiktokv.com
 - DOMAIN,xlog16-normal-useast8.us.tiktokv.com
 - DOMAIN,xlog16-platform-useast5.us.tiktokv.com
+- DOMAIN,webcast-frontier.tiktokv.com
+- DOMAIN,webcast-frontier15-normal-alisg.tiktokv.com
 - DOMAIN,webcast-frontier22-alisg.tiktokv.com
 - DOMAIN,webcast-frontier22-normal-alisg.tiktokv.com
 - DOMAIN,webcast-frontier22-normal-useast1a.tiktokv.com
+- DOMAIN,webcast-frontier22-normal-useast2a.tiktokv.com
+- DOMAIN,webcast-frontier32-alisg.tiktokv.com
 - DOMAIN,webcast-frontier32-normal-alisg.tiktokv.com
 - DOMAIN,webcast-frontier32-normal-useast1a.tiktokv.com
 - DOMAIN,webcast-frontier32-normal-useast2a.tiktokv.com
