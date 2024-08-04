@@ -353,6 +353,7 @@ payload:
 - DOMAIN,brazilproxy.com
 - DOMAIN,brazilproxy.info
 - DOMAIN,breakwall.net
+- DOMAIN,ag.brianlee.fun
 - DOMAIN,bright4good.eco
 - DOMAIN,brightvpn.com
 - DOMAIN,britishproxy.com
@@ -573,7 +574,6 @@ payload:
 - DOMAIN,german-proxy.com.de
 - DOMAIN,germany-proxy.com.de
 - DOMAIN,dns.joaofidelix.com.br
-- DOMAIN,dns1.lothuscorp.com.br
 - DOMAIN,new-proxy.com.de
 - DOMAIN,proxy.com.de
 - DOMAIN,proxy-service.com.de
@@ -759,7 +759,6 @@ payload:
 - DOMAIN,dns.dnshome.de
 - DOMAIN,dnslow.me
 - DOMAIN,dns.dnsoverhttps.net
-- DOMAIN,dns.dnssilo.top
 - DOMAIN,adblock-dot.dnswarden.com
 - DOMAIN,adult-filter-dot.dnswarden.com
 - DOMAIN,doh.asia.dnswarden.com
