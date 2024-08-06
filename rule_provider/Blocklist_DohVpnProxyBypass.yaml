@@ -637,7 +637,6 @@ payload:
 - DOMAIN,curd.io
 - DOMAIN,dns.cwlys.com
 - DOMAIN,cyberghostvpn.com
-- DOMAIN,nanopi.cybergroove.net
 - DOMAIN,cybersilent.com
 - DOMAIN,cyberssh.com
 - DOMAIN,buythe.cybertruck.design
@@ -1585,7 +1584,6 @@ payload:
 - DOMAIN,ne1.ca
 - DOMAIN,needunblock.com
 - DOMAIN,nenam.eu
-- DOMAIN,doh.neowutran.ovh
 - DOMAIN,dns.aa.net.uk
 - DOMAIN,doh.infotek.net.id
 - DOMAIN,doh.max.net.id
@@ -2316,7 +2314,6 @@ payload:
 - DOMAIN,spicevpn.com
 - DOMAIN,spidervpn.org
 - DOMAIN,dns.spirio.fr
-- DOMAIN,sporium.org
 - DOMAIN,spys.one
 - DOMAIN,spysurfing.com
 - DOMAIN,squidproxyserver.com
@@ -2424,7 +2421,6 @@ payload:
 - DOMAIN,ibksturm.synology.me
 - DOMAIN,ihctw.synology.me
 - DOMAIN,doh.syshero.org
-- DOMAIN,t-application.website
 - DOMAIN,t-dz.com
 - DOMAIN,dns.t53.de
 - DOMAIN,tailscale.com
@@ -2758,7 +2754,6 @@ payload:
 - DOMAIN,unknownproxy.com
 - DOMAIN,unlimitedvpnapp.com
 - DOMAIN,unlocator.com
-- DOMAIN,unrestrict.me
 - DOMAIN,unrestrictedsurf.com
 - DOMAIN,unrestrictor.com
 - DOMAIN,resolver.unstoppable.io

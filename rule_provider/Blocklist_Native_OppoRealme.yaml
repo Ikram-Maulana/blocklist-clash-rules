@@ -85,6 +85,7 @@ payload:
 - DOMAIN,conf-in-dc.heytapdl.com
 - DOMAIN,conf-sg-dc.heytapdl.com
 - DOMAIN,mdp-appconf-ae.heytapdl.com
+- DOMAIN,mdp-appconf-af.heytapdl.com
 - DOMAIN,mdp-appconf-apc.heytapdl.com
 - DOMAIN,mdp-appconf-ar.heytapdl.com
 - DOMAIN,mdp-appconf-at.heytapdl.com
