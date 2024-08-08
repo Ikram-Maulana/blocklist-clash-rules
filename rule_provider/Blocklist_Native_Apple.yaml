@@ -61,6 +61,7 @@ payload:
 - DOMAIN,performance-partners.apple.com
 - DOMAIN,phonesubmissions.apple.com
 - DOMAIN,prd-usw2-requestattribution-iad.apple.com
+- DOMAIN,proxy-skadnetwork.apple.com
 - DOMAIN,qa-iad.apple.com
 - DOMAIN,radarsubmissions.apple.com
 - DOMAIN,sdkintgiad.apple.com
