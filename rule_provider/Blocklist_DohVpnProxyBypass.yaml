@@ -1655,6 +1655,8 @@ payload:
 - DOMAIN,1.dns.noridev.moe
 - DOMAIN,northghost.com
 - DOMAIN,core-vpn.norton.com
+- DOMAIN,o2comm-prd.norton.com
+- DOMAIN,spoc.norton.com
 - DOMAIN,dns.norvig.dk
 - DOMAIN,dns.notjakob.com
 - DOMAIN,notlong.com
