@@ -407,7 +407,7 @@ payload:
 - DOMAIN,orig.mishop.cdn.pandora.xiaomi.com
 - DOMAIN,ota.cdn.pandora.xiaomi.com
 - DOMAIN,package.cdn.pandora.xiaomi.com
-- DOMAIN,coml7.pandora.xiaomi.com
+- DOMAIN,comc4l7.pandora.xiaomi.com
 - DOMAIN,de.pandora.xiaomi.com
 - DOMAIN,dvb.pandora.xiaomi.com
 - DOMAIN,hook.gitv.pandora.xiaomi.com
