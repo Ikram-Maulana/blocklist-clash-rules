@@ -23,6 +23,7 @@ payload:
 - DOMAIN,iphonesubmissions.apple.com.akadns.net
 - DOMAIN,radarsubmissions.apple.com.akadns.net
 - DOMAIN,iad-apple.com.akadns.net
+- DOMAIN,partiality.itunes-apple.com.akadns.net
 - DOMAIN,xp.itunes-apple.com.akadns.net
 - DOMAIN,searchads.lb-apple.com.akadns.net
 - DOMAIN,advertising.apple.com
@@ -53,6 +54,7 @@ payload:
 - DOMAIN,iphonesubmissions.apple.com
 - DOMAIN,iphonesubmissions-old.apple.com
 - DOMAIN,autolinkmaker.itunes.apple.com
+- DOMAIN,partiality.itunes.apple.com
 - DOMAIN,launch.apple.com
 - DOMAIN,metrics.apple.com
 - DOMAIN,msc-dct-prod.msc.apple.com
@@ -86,6 +88,7 @@ payload:
 - DOMAIN,experiments.apple.com.edgekey.net
 - DOMAIN,iadsdk.apple.com.edgekey.net
 - DOMAIN,linkmaker.itunes.apple.com.edgekey.net
+- DOMAIN,partiality.itunes.apple.com.edgekey.net
 - DOMAIN,xp.apple.com.edgekey.net
 - DOMAIN,cstat.apple.com.edgesuite.net
 - DOMAIN,searchads.apple.com.edgesuite.net
