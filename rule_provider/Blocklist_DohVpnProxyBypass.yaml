@@ -44,6 +44,7 @@ payload:
 - DOMAIN,12vpx.com
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
+- DOMAIN,1banproxy.com
 - DOMAIN,1clickvpn.net
 - DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
@@ -649,7 +650,6 @@ payload:
 - DOMAIN,freedns.controld.com
 - DOMAIN,cool-proxy.net
 - DOMAIN,coolbits.org
-- DOMAIN,dns.cooluc.com
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,coverproxy.com
@@ -697,6 +697,7 @@ payload:
 - DOMAIN,cybersilent.com
 - DOMAIN,cyberssh.com
 - DOMAIN,buythe.cybertruck.design
+- DOMAIN,cynntex.fun
 - DOMAIN,dns.cynthialabs.net
 - DOMAIN,dns.d4d.moe
 - DOMAIN,dns.d94.xyz
@@ -2741,6 +2742,7 @@ payload:
 - DOMAIN,theproxies.net
 - DOMAIN,theproxy.bz
 - DOMAIN,theproxy.cc
+- DOMAIN,theproxy.club
 - DOMAIN,theproxy.dev
 - DOMAIN,theproxy.fun
 - DOMAIN,theproxy.help
@@ -2751,9 +2753,11 @@ payload:
 - DOMAIN,theproxy.lol
 - DOMAIN,theproxy.me
 - DOMAIN,theproxy.page
+- DOMAIN,theproxy.red
 - DOMAIN,theproxy.vip
 - DOMAIN,theproxy.work
 - DOMAIN,theproxy2.biz
+- DOMAIN,theproxy2.cc
 - DOMAIN,theproxy2.com
 - DOMAIN,theproxy2.info
 - DOMAIN,theproxy2.org
@@ -2762,8 +2766,10 @@ payload:
 - DOMAIN,theproxya.org
 - DOMAIN,theproxyddl.com
 - DOMAIN,theproxyer.com
+- DOMAIN,theproxyfull.com
 - DOMAIN,theproxyguide.com
 - DOMAIN,theproxysite.org
+- DOMAIN,theproxysports.com
 - DOMAIN,theproxyultra.com
 - DOMAIN,therabbitvpn.com
 - DOMAIN,dns.theres.one
@@ -2888,6 +2894,8 @@ payload:
 - DOMAIN,ultimateproxy.net
 - DOMAIN,ultrafastproxy.com
 - DOMAIN,ultrafun.net
+- DOMAIN,ultraproxy.biz
+- DOMAIN,ultraproxyweb.com
 - DOMAIN,ultrasurf.es
 - DOMAIN,ultrasurf.us
 - DOMAIN,ultravpn.com
@@ -2900,6 +2908,7 @@ payload:
 - DOMAIN,unblock.pink
 - DOMAIN,unblock.soy
 - DOMAIN,unblock.ws
+- DOMAIN,unblock-it.com
 - DOMAIN,unblock-me.org
 - DOMAIN,unblock-proxy.com
 - DOMAIN,unblock-sites.com
@@ -2956,6 +2965,7 @@ payload:
 - DOMAIN,unblocked2.space
 - DOMAIN,unblocked2.us
 - DOMAIN,unblocked2.vip
+- DOMAIN,unblocked4.com
 - DOMAIN,unblocked4.me
 - DOMAIN,unblocked4u.net
 - DOMAIN,unblocked4u.org
@@ -3010,6 +3020,7 @@ payload:
 - DOMAIN,unblockproxy.us
 - DOMAIN,unblockproxy.win
 - DOMAIN,unblocks.net
+- DOMAIN,unblocksite.biz
 - DOMAIN,unblocksite.ch
 - DOMAIN,unblocksite.fun
 - DOMAIN,unblocksite.id
@@ -3244,6 +3255,7 @@ payload:
 - DOMAIN,webproxy.com
 - DOMAIN,webproxy.online
 - DOMAIN,webproxy.to
+- DOMAIN,webproxyagent.com
 - DOMAIN,webproxyfree.net
 - DOMAIN,webproxyinc.com
 - DOMAIN,webproxyusa.com
@@ -3274,6 +3286,7 @@ payload:
 - DOMAIN,wiksa.com
 - DOMAIN,dns-1.wil.cloud
 - DOMAIN,dns-2.wil.cloud
+- DOMAIN,wildproxy.info
 - DOMAIN,windscribe.com
 - DOMAIN,windscribe.net
 - DOMAIN,wireguard.com
