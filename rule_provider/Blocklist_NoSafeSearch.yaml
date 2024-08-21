@@ -46,6 +46,7 @@ payload:
 - DOMAIN,search.demoniak.ch
 - DOMAIN,librex.devol.it
 - DOMAIN,searx.devol.it
+- DOMAIN,searxng.diadz.de
 - DOMAIN,search.disroot.org
 - DOMAIN,searx.divided-by-zero.eu
 - DOMAIN,dogpile.com
@@ -96,6 +97,7 @@ payload:
 - DOMAIN,search.lgbtq.cool
 - DOMAIN,librex.me
 - DOMAIN,searx.linux.pizza
+- DOMAIN,searx.louifox.house
 - DOMAIN,lukol.com
 - DOMAIN,whoogle.lunar.icu
 - DOMAIN,search.lvkaszus.pl
@@ -125,6 +127,7 @@ payload:
 - DOMAIN,searx.namejeff.xyz
 - DOMAIN,search.nebulacentre.net
 - DOMAIN,search.neet.works
+- DOMAIN,neeva.com
 - DOMAIN,searx.netzspielplatz.de
 - DOMAIN,nibblehole.com
 - DOMAIN,searxng.nicfab.eu
@@ -214,6 +217,7 @@ payload:
 - DOMAIN,suche.tromdienste.de
 - DOMAIN,s.trung.fun
 - DOMAIN,searx.tuxcloud.net
+- DOMAIN,searx.tyil.nl
 - DOMAIN,unmonito.red
 - DOMAIN,lx.vern.cc
 - DOMAIN,wg.vern.cc
