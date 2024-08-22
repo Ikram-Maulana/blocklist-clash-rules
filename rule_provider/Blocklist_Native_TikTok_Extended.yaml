@@ -319,6 +319,7 @@ payload:
 - DOMAIN,mssdk24-normal-useast2a.tiktokv.com
 - DOMAIN,pitaya.tiktokv.com
 - DOMAIN,pitaya-i18n.tiktokv.com
+- DOMAIN,pitaya-ru.tiktokv.com
 - DOMAIN,pitaya-sg.tiktokv.com
 - DOMAIN,pitaya-task.tiktokv.com
 - DOMAIN,pitaya-task-i18n.tiktokv.com
