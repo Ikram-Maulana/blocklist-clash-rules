@@ -323,6 +323,7 @@ payload:
 - DOMAIN,pitaya-sg.tiktokv.com
 - DOMAIN,pitaya-task.tiktokv.com
 - DOMAIN,pitaya-task-i18n.tiktokv.com
+- DOMAIN,pitaya-task-ru.tiktokv.com
 - DOMAIN,pitaya-task-sg.tiktokv.com
 - DOMAIN,pitaya-task-va.tiktokv.com
 - DOMAIN,pitaya-va.tiktokv.com
