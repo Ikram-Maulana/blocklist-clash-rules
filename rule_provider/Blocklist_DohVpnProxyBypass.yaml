@@ -56,7 +56,6 @@ payload:
 - DOMAIN,2fastsurfer.eu
 - DOMAIN,2fastsurfer.us
 - DOMAIN,2proxy.de
-- DOMAIN,2proxy.us
 - DOMAIN,2proxyweb.com
 - DOMAIN,2ub.top
 - DOMAIN,doh.30x.me
@@ -219,7 +218,6 @@ payload:
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
 - DOMAIN,doh.dns.apple.com
-- DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
 - DOMAIN,dot1.applied-privacy.net
@@ -881,7 +879,6 @@ payload:
 - DOMAIN,doh.pub
 - DOMAIN,doh.sb
 - DOMAIN,doh.xyz
-- DOMAIN,dns.doh.best
 - DOMAIN,dolopo.net
 - DOMAIN,domainownership.us
 - DOMAIN,doh.domreg.lt
@@ -998,7 +995,6 @@ payload:
 - DOMAIN,fastfreeproxy.info
 - DOMAIN,fastp.org
 - DOMAIN,fastpro.info
-- DOMAIN,fastproxy.nl
 - DOMAIN,fastproxy.org
 - DOMAIN,fastproxynetwork.com
 - DOMAIN,fastssh.com
@@ -1229,7 +1225,6 @@ payload:
 - DOMAIN,gowork.info
 - DOMAIN,gpreport.us
 - DOMAIN,dot.libredns.gr.com
-- DOMAIN,gracarno.com
 - DOMAIN,graef.in
 - DOMAIN,granules.us
 - DOMAIN,gratisproxy.nl
@@ -1262,7 +1257,6 @@ payload:
 - DOMAIN,happydata.info
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
-- DOMAIN,hauxcore.de
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,headproxy.com
@@ -1698,7 +1692,6 @@ payload:
 - DOMAIN,dnstls.mobik.com
 - DOMAIN,mobilejump.mobi
 - DOMAIN,mobilevpn.net
-- DOMAIN,mobrain.xyz
 - DOMAIN,mockblock.com
 - DOMAIN,nue2.moderateinfra.net
 - DOMAIN,ps1.modr.club
@@ -1712,7 +1705,6 @@ payload:
 - DOMAIN,dns.moonssif.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
-- DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
@@ -1753,7 +1745,6 @@ payload:
 - DOMAIN,blackhole.myon.lu
 - DOMAIN,portmapper.myonlineportal.net
 - DOMAIN,myprivateproxy.net
-- DOMAIN,myproxy.ca
 - DOMAIN,myproxy.help
 - DOMAIN,myproxy.info
 - DOMAIN,myproxy.link
@@ -2545,7 +2536,6 @@ payload:
 - DOMAIN,do.shimul.me
 - DOMAIN,shopping-website.us
 - DOMAIN,adguard.shoupperuser.com
-- DOMAIN,shrunkunseeingbacklight.info
 - DOMAIN,adguard.shutgaming.net
 - DOMAIN,shyf.info
 - DOMAIN,doh.sidnlabs.nl
@@ -2887,7 +2877,6 @@ payload:
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
-- DOMAIN,tubeunblock.net
 - DOMAIN,tunnelbear.com
 - DOMAIN,turbohide.org
 - DOMAIN,turbossh.com
@@ -3037,7 +3026,6 @@ payload:
 - DOMAIN,unblockit.one
 - DOMAIN,unblockit.onl
 - DOMAIN,unblockit.pro
-- DOMAIN,unblockit.rsvp
 - DOMAIN,unblockit.uno
 - DOMAIN,unblockme.us
 - DOMAIN,unblockmyweb.com
@@ -3171,7 +3159,6 @@ payload:
 - DOMAIN,vpn-for-test.ru
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
-- DOMAIN,vpn-quick.com
 - DOMAIN,vpn-server.xyz
 - DOMAIN,vpn4all.com
 - DOMAIN,vpn99.net
@@ -3222,7 +3209,6 @@ payload:
 - DOMAIN,vpnprivacy.com
 - DOMAIN,vpnprivacy.services
 - DOMAIN,vpnpro.com
-- DOMAIN,vpnproxy.info
 - DOMAIN,vpnproxy.online
 - DOMAIN,vpnproxy.org
 - DOMAIN,vpnproxy.pw
@@ -3333,7 +3319,6 @@ payload:
 - DOMAIN,workingvpn.com
 - DOMAIN,workproxy.net
 - DOMAIN,parrotballs.worksheetsforteachers.xyz
-- DOMAIN,workstudyplay.com
 - DOMAIN,worldgravityapp.com
 - DOMAIN,worldvpn.net
 - DOMAIN,wossow.com
