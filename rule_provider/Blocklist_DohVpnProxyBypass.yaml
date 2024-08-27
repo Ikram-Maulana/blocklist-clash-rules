@@ -421,6 +421,7 @@ payload:
 - DOMAIN,dns.caksono.com
 - DOMAIN,calc-web.me
 - DOMAIN,callies-online.site
+- DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
 - DOMAIN,caproxies.info
@@ -438,6 +439,7 @@ payload:
 - DOMAIN,alidns2.cb1999.top
 - DOMAIN,dns2.cbio.top
 - DOMAIN,doh.ccb-net.it
+- DOMAIN,tor.ccc.de
 - DOMAIN,vpn.ccnt.fr
 - DOMAIN,dns.cctld.kg
 - DOMAIN,cedarbranches.com
@@ -933,6 +935,7 @@ payload:
 - DOMAIN,dns.editechstudio.com
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,adguard.ef67daisuki.club
+- DOMAIN,tor.eff.org
 - DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
@@ -1705,6 +1708,7 @@ payload:
 - DOMAIN,dns.moonssif.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
+- DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
