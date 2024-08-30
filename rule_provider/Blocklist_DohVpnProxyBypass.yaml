@@ -418,7 +418,6 @@ payload:
 - DOMAIN,bytzvpn.com
 - DOMAIN,c-dns.com
 - DOMAIN,cactusvpn.com
-- DOMAIN,dns.caksono.com
 - DOMAIN,calc-web.me
 - DOMAIN,callies-online.site
 - DOMAIN,tor.calyxinstitute.org
@@ -439,7 +438,6 @@ payload:
 - DOMAIN,alidns2.cb1999.top
 - DOMAIN,dns2.cbio.top
 - DOMAIN,doh.ccb-net.it
-- DOMAIN,tor.ccc.de
 - DOMAIN,vpn.ccnt.fr
 - DOMAIN,dns.cctld.kg
 - DOMAIN,cedarbranches.com
@@ -762,7 +760,6 @@ payload:
 - DOMAIN,dns.dns-53.com
 - DOMAIN,dns.dns-53.uk
 - DOMAIN,dns.dns-53.us
-- DOMAIN,dns-free.link
 - DOMAIN,doh.dns-ga.de
 - DOMAIN,secure-dns.dns-ga.de
 - DOMAIN,dns.dns-over-https.com
@@ -1139,7 +1136,6 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1851,6 +1847,7 @@ payload:
 - DOMAIN,ngrok.dev
 - DOMAIN,ngrok.io
 - DOMAIN,ngrok.pizza
+- DOMAIN,ngrok.pro
 - DOMAIN,ngrok-free.app
 - DOMAIN,ngrok-free.dev
 - DOMAIN,dns.nguyendn.com

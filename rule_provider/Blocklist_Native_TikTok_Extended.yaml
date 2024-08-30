@@ -328,6 +328,8 @@ payload:
 - DOMAIN,pitaya-task-va.tiktokv.com
 - DOMAIN,pitaya-va.tiktokv.com
 - DOMAIN,pitaya16-normal-useast1a.tiktokv.com
+- DOMAIN,pitaya32-normal-alisg.tiktokv.com
+- DOMAIN,pitaya32-normal-useast1a.tiktokv.com
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-va.tiktokv.com
 - DOMAIN,rtlog.tiktokv.com

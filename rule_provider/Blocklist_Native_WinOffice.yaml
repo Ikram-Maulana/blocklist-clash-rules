@@ -515,6 +515,7 @@ payload:
 - DOMAIN,measure.office.com
 - DOMAIN,measure.office.net
 - DOMAIN,fp.measure.office.com
+- DOMAIN,4e83215548583efc70931bb7da7ddd61.fp.measure.office.com
 - DOMAIN,66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
 - DOMAIN,ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 - DOMAIN,config.fp.measure.office.com
