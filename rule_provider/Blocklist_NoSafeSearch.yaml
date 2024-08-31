@@ -64,7 +64,6 @@ payload:
 - DOMAIN,search.fascinated.cc
 - DOMAIN,fireball.de
 - DOMAIN,searx.foo.li
-- DOMAIN,searx.forked.io
 - DOMAIN,searx.fossencdi.org
 - DOMAIN,whoogle.ftw.lol
 - DOMAIN,search.funami.tech
