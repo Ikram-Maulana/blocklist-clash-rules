@@ -1608,7 +1608,6 @@ payload:
 - DOMAIN,doh.phdns5.lonet.org
 - DOMAIN,lookingglass.site
 - DOMAIN,lopana.com
-- DOMAIN,ns.lov.host
 - DOMAIN,n5.lsasss.com
 - DOMAIN,ltlxvxjjmvhn.me
 - DOMAIN,lukscasino-479-tr.xyz
@@ -2369,7 +2368,6 @@ payload:
 - DOMAIN,rapidprivacy.com
 - DOMAIN,rapidproxy.org
 - DOMAIN,rapidproxy.us
-- DOMAIN,rapidvpn.com
 - DOMAIN,emby.rasp.tv
 - DOMAIN,rateavon.je
 - DOMAIN,ratecuts.us
@@ -2450,7 +2448,6 @@ payload:
 - DOMAIN,vpn.sakhwow.ru
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandparticles.us
-- DOMAIN,lol.sanluix.org
 - DOMAIN,saoudiproxy.info
 - DOMAIN,dns.sarak.as
 - DOMAIN,dns.sarakas.net
@@ -2603,7 +2600,6 @@ payload:
 - DOMAIN,speedshare.app
 - DOMAIN,speedssh.com
 - DOMAIN,speedyth.com
-- DOMAIN,spicevpn.com
 - DOMAIN,spidervpn.org
 - DOMAIN,dns.spirio.fr
 - DOMAIN,spys.one
