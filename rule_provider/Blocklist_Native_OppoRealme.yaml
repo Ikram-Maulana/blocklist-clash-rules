@@ -304,6 +304,7 @@ payload:
 - DOMAIN,mdp-usertrace-in.heytapmobile.com
 - DOMAIN,mdp-usertrace-sg.heytapmobile.com
 - DOMAIN,obus-dc-eu.heytapmobile.com
+- DOMAIN,obus-dc-ru.heytapmobile.com
 - DOMAIN,obus-dc-us.heytapmobile.com
 - DOMAIN,obus-dc121100-sg.heytapmobile.com
 - DOMAIN,obus-dc2-in.heytapmobile.com

@@ -258,7 +258,6 @@ payload:
 - DOMAIN,data.game.xiaomi.com
 - DOMAIN,bgp.data.game.xiaomi.com
 - DOMAIN,cnc.data.game.xiaomi.com
-- DOMAIN,iosdl.game.xiaomi.com
 - DOMAIN,notice.game.xiaomi.com
 - DOMAIN,n.notice.game.xiaomi.com
 - DOMAIN,static.game.xiaomi.com
