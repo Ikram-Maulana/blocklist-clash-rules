@@ -1723,7 +1723,6 @@ payload:
 - DOMAIN,dns.iki.my.id
 - DOMAIN,dns.lista.my.id
 - DOMAIN,dns.mikrotikrumahan.my.id
-- DOMAIN,dns.pnh.my.id
 - DOMAIN,dns.repinger.my.id
 - DOMAIN,dns1.server.my.id
 - DOMAIN,id.terra.my.id
