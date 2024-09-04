@@ -157,9 +157,7 @@ payload:
 - DOMAIN,dns2.alekberg.net
 - DOMAIN,dnses.alekberg.net
 - DOMAIN,dnsnl.alekberg.net
-- DOMAIN,dnsnl-noads.alekberg.net
 - DOMAIN,dnsse.alekberg.net
-- DOMAIN,dnsse-noads.alekberg.net
 - DOMAIN,alhapi.com
 - DOMAIN,alhvp.com
 - DOMAIN,alidns.com
@@ -910,7 +908,6 @@ payload:
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
