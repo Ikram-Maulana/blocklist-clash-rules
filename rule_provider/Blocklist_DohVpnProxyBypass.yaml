@@ -157,7 +157,9 @@ payload:
 - DOMAIN,dns2.alekberg.net
 - DOMAIN,dnses.alekberg.net
 - DOMAIN,dnsnl.alekberg.net
+- DOMAIN,dnsnl-noads.alekberg.net
 - DOMAIN,dnsse.alekberg.net
+- DOMAIN,dnsse-noads.alekberg.net
 - DOMAIN,alhapi.com
 - DOMAIN,alhvp.com
 - DOMAIN,alidns.com
@@ -371,7 +373,6 @@ payload:
 - DOMAIN,boomproxy.com
 - DOMAIN,boomtunnel.com
 - DOMAIN,borderlessvpn.io
-- DOMAIN,adblock.borjalopez.eu
 - DOMAIN,doh.bortzmeyer.fr
 - DOMAIN,cloudns.bosco.ovh
 - DOMAIN,boxpn.com
@@ -908,6 +909,7 @@ payload:
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
@@ -1636,7 +1638,6 @@ payload:
 - DOMAIN,masters-of-cloud.de
 - DOMAIN,masterssh.com
 - DOMAIN,dns.mateo.ovh
-- DOMAIN,dns.mathewakhil.online
 - DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
@@ -2445,7 +2446,6 @@ payload:
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandparticles.us
 - DOMAIN,saoudiproxy.info
-- DOMAIN,dns.sarak.as
 - DOMAIN,dns.sarakas.net
 - DOMAIN,dns.sarilouis.com
 - DOMAIN,saturnvpn.com

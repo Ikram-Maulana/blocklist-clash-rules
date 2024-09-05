@@ -442,6 +442,7 @@ payload:
 - DOMAIN,analytics.msn.com
 - DOMAIN,metric.appex-rf.msn.com
 - DOMAIN,c.ar.msn.com
+- DOMAIN,arc.msn.com
 - DOMAIN,c.at.msn.com
 - DOMAIN,c.be.msn.com
 - DOMAIN,c.br.msn.com
