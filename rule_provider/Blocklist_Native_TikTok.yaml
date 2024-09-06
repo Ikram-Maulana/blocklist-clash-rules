@@ -97,6 +97,7 @@ payload:
 - DOMAIN,mssdk-i18n.tiktok.com
 - DOMAIN,mssdk-quic-sg.tiktok.com
 - DOMAIN,mssdk-sg.tiktok.com
+- DOMAIN,ads.us.tiktok.com
 - DOMAIN,analytics.us.tiktok.com
 - DOMAIN,analytics-exp.us.tiktok.com
 - DOMAIN,analytics-ttp2.us.tiktok.com

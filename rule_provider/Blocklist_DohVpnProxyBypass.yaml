@@ -42,6 +42,7 @@ payload:
 - DOMAIN,123ultraproxy.com
 - DOMAIN,123unblocked.com
 - DOMAIN,12vpx.com
+- DOMAIN,16yd.com
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
 - DOMAIN,1banproxy.com
@@ -909,7 +910,6 @@ payload:
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
@@ -1134,7 +1134,6 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
