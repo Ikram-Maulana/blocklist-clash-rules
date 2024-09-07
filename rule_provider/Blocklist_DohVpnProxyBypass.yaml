@@ -1134,6 +1134,7 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
