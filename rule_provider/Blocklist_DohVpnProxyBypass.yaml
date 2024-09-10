@@ -1123,7 +1123,6 @@ payload:
 - DOMAIN,dns.froth.zone
 - DOMAIN,frysprinters.com
 - DOMAIN,awan.ftp.sh
-- DOMAIN,doh.funil.de
 - DOMAIN,doh.funtopia.tv
 - DOMAIN,dns.furrydns.de
 - DOMAIN,doh.futa.app
@@ -2445,6 +2444,7 @@ payload:
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandparticles.us
 - DOMAIN,saoudiproxy.info
+- DOMAIN,dns.sarak.as
 - DOMAIN,dns.sarakas.net
 - DOMAIN,dns.sarilouis.com
 - DOMAIN,saturnvpn.com
@@ -3330,7 +3330,6 @@ payload:
 - DOMAIN,xite.ws
 - DOMAIN,xitenow.com
 - DOMAIN,xitesite.com
-- DOMAIN,dns.xiumu.org
 - DOMAIN,dns.xlion.tw
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
