@@ -181,7 +181,6 @@ payload:
 - DOMAIN,37er19htfd.execute-api.us-east-1.amazonaws.com
 - DOMAIN,i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 - DOMAIN,dsl-app.s3.us-east-2.amazonaws.com
-- DOMAIN,americaproxy.info
 - DOMAIN,mailer.amlegion.org
 - DOMAIN,doh.amonsul.net
 - DOMAIN,ananoos.com
@@ -1057,7 +1056,6 @@ payload:
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
 - DOMAIN,fproxy.net
-- DOMAIN,franceproxy.pw
 - DOMAIN,frandcomfort.us
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
@@ -1111,7 +1109,6 @@ payload:
 - DOMAIN,freevpnapp.org
 - DOMAIN,freevpnplanet.com
 - DOMAIN,freevpnsoftware.net
-- DOMAIN,freewebproxy.us
 - DOMAIN,freewebproxyserver.net
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
@@ -1138,7 +1135,6 @@ payload:
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
-- DOMAIN,gang4.info
 - DOMAIN,gatcha.org
 - DOMAIN,gclouddns.com
 - DOMAIN,gecko.fun
@@ -1199,6 +1195,7 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
+- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1251,7 +1248,6 @@ payload:
 - DOMAIN,dns.hanmey.de
 - DOMAIN,hanniel.tech
 - DOMAIN,happy-vpn.com
-- DOMAIN,happydata.info
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
@@ -1815,7 +1811,6 @@ payload:
 - DOMAIN,doh.infotek.net.id
 - DOMAIN,doh.max.net.id
 - DOMAIN,netaltr.com
-- DOMAIN,netgeek.info
 - DOMAIN,netnut.io
 - DOMAIN,netscop.net
 - DOMAIN,netvpn.us
@@ -2033,7 +2028,6 @@ payload:
 - DOMAIN,dns-ovh.panszelescik.pl
 - DOMAIN,pantavv.xyz
 - DOMAIN,pantoto.xyz
-- DOMAIN,panyyhh.xyz
 - DOMAIN,panzend.xyz
 - DOMAIN,papervpn.info
 - DOMAIN,dns.pari.network
@@ -2155,7 +2149,6 @@ payload:
 - DOMAIN,de.dns.privex.io
 - DOMAIN,nl.dns.privex.io
 - DOMAIN,privoxy.org
-- DOMAIN,prohome.info
 - DOMAIN,prointern.info
 - DOMAIN,project-evoex.de
 - DOMAIN,prontoproxy.info
@@ -2202,7 +2195,6 @@ payload:
 - DOMAIN,proxpn.com
 - DOMAIN,proxssl.com
 - DOMAIN,proxtube.com
-- DOMAIN,proxy.lol
 - DOMAIN,proxy.nu
 - DOMAIN,proxy.org
 - DOMAIN,proxy.red
@@ -2251,7 +2243,6 @@ payload:
 - DOMAIN,proxyer.net
 - DOMAIN,proxyfactory.io
 - DOMAIN,proxyfish.com
-- DOMAIN,proxyfort.com
 - DOMAIN,proxyfree.org
 - DOMAIN,proxygate.com
 - DOMAIN,proxygizlen.com
@@ -2297,7 +2288,6 @@ payload:
 - DOMAIN,proxytime.net
 - DOMAIN,proxytoplay.com
 - DOMAIN,proxyturbo.com
-- DOMAIN,proxyunblock.site
 - DOMAIN,proxyunblocker.org
 - DOMAIN,proxyunlock.com
 - DOMAIN,proxyvpn.eu
@@ -3169,7 +3159,6 @@ payload:
 - DOMAIN,vpndog.com
 - DOMAIN,proxy.vpner.com
 - DOMAIN,vpnfan.com
-- DOMAIN,vpnfast.pw
 - DOMAIN,vpnfree.info
 - DOMAIN,vpngame.com
 - DOMAIN,vpngate.net
@@ -3314,7 +3303,6 @@ payload:
 - DOMAIN,worldvpn.net
 - DOMAIN,wossow.com
 - DOMAIN,home.wriedts.de
-- DOMAIN,wtools.eu
 - DOMAIN,proxy.wynd.network
 - DOMAIN,wyx.cloud
 - DOMAIN,x9fnzrtl4x8pynsf.com
@@ -3356,7 +3344,6 @@ payload:
 - DOMAIN,youcanhide.net
 - DOMAIN,youfreeproxytube.com
 - DOMAIN,younblocked.com
-- DOMAIN,dns.youni.win
 - DOMAIN,youproxytube.com
 - DOMAIN,your-dns.run
 - DOMAIN,your-freedom.de

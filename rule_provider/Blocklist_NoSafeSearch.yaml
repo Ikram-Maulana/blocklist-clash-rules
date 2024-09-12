@@ -108,7 +108,6 @@ payload:
 - DOMAIN,metager.org
 - DOMAIN,metager3.de
 - DOMAIN,metasearch.nl
-- DOMAIN,suche.mexmail.de
 - DOMAIN,searx.mha.fi
 - DOMAIN,mijisou.com
 - DOMAIN,millionshort.com
@@ -220,7 +219,6 @@ payload:
 - DOMAIN,webcrawler.com
 - DOMAIN,searx.wegeeks.win
 - DOMAIN,wiby.me
-- DOMAIN,search.xcloud.live
 - DOMAIN,xo.wtf
 - DOMAIN,yep.com
 - DOMAIN,yippy.com
