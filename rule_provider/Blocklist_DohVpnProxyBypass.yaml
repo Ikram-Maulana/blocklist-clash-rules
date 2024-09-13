@@ -898,9 +898,7 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
-- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
@@ -1071,7 +1069,6 @@ payload:
 - DOMAIN,freebypassproxy.com
 - DOMAIN,freecanadavpn.com
 - DOMAIN,freecavpn.com
-- DOMAIN,hkname.freecdn.one
 - DOMAIN,freecloudvpn.com
 - DOMAIN,freeconnect.link
 - DOMAIN,freedevpn.com
@@ -1130,7 +1127,6 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -2856,7 +2852,6 @@ payload:
 - DOMAIN,trustedproxies.com
 - DOMAIN,truta.org
 - DOMAIN,dns.tryk.app
-- DOMAIN,adg.tshost.no
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
