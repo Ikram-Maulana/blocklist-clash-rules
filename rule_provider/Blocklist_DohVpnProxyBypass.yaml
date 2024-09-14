@@ -898,7 +898,9 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
@@ -906,6 +908,7 @@ payload:
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
@@ -1069,6 +1072,7 @@ payload:
 - DOMAIN,freebypassproxy.com
 - DOMAIN,freecanadavpn.com
 - DOMAIN,freecavpn.com
+- DOMAIN,hkname.freecdn.one
 - DOMAIN,freecloudvpn.com
 - DOMAIN,freeconnect.link
 - DOMAIN,freedevpn.com
@@ -1692,7 +1696,6 @@ payload:
 - DOMAIN,dns.moonssif.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
-- DOMAIN,doh.morizt.id
 - DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,vpn.mozilla.org
