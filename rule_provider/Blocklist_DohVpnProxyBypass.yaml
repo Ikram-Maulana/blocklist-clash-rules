@@ -1131,6 +1131,7 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1195,7 +1196,6 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -2438,7 +2438,6 @@ payload:
 - DOMAIN,dns.sarakas.net
 - DOMAIN,dns.sarilouis.com
 - DOMAIN,saturnvpn.com
-- DOMAIN,savefrom.net
 - DOMAIN,ns1.sc-lezhi.com
 - DOMAIN,dns.scapetical.com
 - DOMAIN,dns.scarx.net
@@ -3324,7 +3323,6 @@ payload:
 - DOMAIN,dns.xusqui.com
 - DOMAIN,xvbelink.com
 - DOMAIN,xvpn.io
-- DOMAIN,dns.xwdmw.xyz
 - DOMAIN,v2.xx3210766.live
 - DOMAIN,dns.yameenassotally.com
 - DOMAIN,2.dnscrypt-cert.browser.yandex.net
