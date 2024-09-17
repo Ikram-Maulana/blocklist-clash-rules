@@ -1196,6 +1196,7 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
+- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -2901,6 +2902,7 @@ payload:
 - DOMAIN,unb.how
 - DOMAIN,unbl0ck3d.com
 - DOMAIN,unbl4you.lol
+- DOMAIN,unblock.it
 - DOMAIN,unblock.pink
 - DOMAIN,unblock.soy
 - DOMAIN,unblock.ws
