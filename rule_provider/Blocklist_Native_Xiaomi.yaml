@@ -360,7 +360,6 @@ payload:
 - DOMAIN,api.g.micloud.xiaomi.net
 - DOMAIN,galleryapi.micloud.xiaomi.net
 - DOMAIN,g.galleryapi.micloud.xiaomi.net
-- DOMAIN,sfsapi.micloud.xiaomi.net
 - DOMAIN,statusapi.micloud.xiaomi.net
 - DOMAIN,us.statusapi.micloud.xiaomi.net
 - DOMAIN,tv.app.migc.xiaomi.com

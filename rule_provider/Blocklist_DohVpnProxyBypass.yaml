@@ -218,6 +218,7 @@ payload:
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
 - DOMAIN,doh.dns.apple.com
+- DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
 - DOMAIN,dot1.applied-privacy.net
@@ -749,6 +750,7 @@ payload:
 - DOMAIN,fdns2.dismail.de
 - DOMAIN,districtnewyork.com
 - DOMAIN,divalane.com
+- DOMAIN,divaloo.com
 - DOMAIN,divavu.com
 - DOMAIN,dns.expert
 - DOMAIN,dns.google
@@ -896,10 +898,13 @@ payload:
 - DOMAIN,agh.dshubham.xyz
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
+- DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -963,6 +968,7 @@ payload:
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
 - DOMAIN,everovpn.co
+- DOMAIN,evpn.net
 - DOMAIN,evyy.net
 - DOMAIN,ewon.biz
 - DOMAIN,expatshield.com
@@ -1100,6 +1106,7 @@ payload:
 - DOMAIN,freevmess.com
 - DOMAIN,freevpn.cloud
 - DOMAIN,freevpn.me
+- DOMAIN,freevpn.org
 - DOMAIN,freevpn.pw
 - DOMAIN,freevpn.us
 - DOMAIN,freevpn.zone
@@ -1217,6 +1224,7 @@ payload:
 - DOMAIN,gowork.info
 - DOMAIN,gpreport.us
 - DOMAIN,dot.libredns.gr.com
+- DOMAIN,gracarno.com
 - DOMAIN,graef.in
 - DOMAIN,granules.us
 - DOMAIN,gratisproxy.nl
@@ -1296,6 +1304,7 @@ payload:
 - DOMAIN,hidesurf.us
 - DOMAIN,hidetheinternet.com
 - DOMAIN,hidethisip.net
+- DOMAIN,hidevpn.info
 - DOMAIN,hideway.eu
 - DOMAIN,hideweb.org
 - DOMAIN,hidexy.com
@@ -1436,6 +1445,10 @@ payload:
 - DOMAIN,dns.islandnet.com
 - DOMAIN,ispunblock.com
 - DOMAIN,ispvpn.com
+- DOMAIN,math.isreally.pro
+- DOMAIN,smellyal.isreally.pro
+- DOMAIN,smellypay.isreally.pro
+- DOMAIN,stuffyschicken.isreallycool.lol
 - DOMAIN,itopvpn.com
 - DOMAIN,diy.itsa.top
 - DOMAIN,pdns.itxe.net
@@ -1588,6 +1601,7 @@ payload:
 - DOMAIN,dns.listo.click
 - DOMAIN,litebrowser.net
 - DOMAIN,literally.info
+- DOMAIN,litevpn.top
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
 - DOMAIN,locaproxy.com
@@ -1733,6 +1747,7 @@ payload:
 - DOMAIN,blackhole.myon.lu
 - DOMAIN,portmapper.myonlineportal.net
 - DOMAIN,myprivateproxy.net
+- DOMAIN,myproxy.ca
 - DOMAIN,myproxy.help
 - DOMAIN,myproxy.info
 - DOMAIN,myproxy.link
@@ -2029,6 +2044,7 @@ payload:
 - DOMAIN,papervpn.info
 - DOMAIN,dns.pari.network
 - DOMAIN,pashagame456.com
+- DOMAIN,leo.paulmihaipavel.com
 - DOMAIN,pawxy.com
 - DOMAIN,pbproxy.red
 - DOMAIN,pbproxy2.co
@@ -2280,6 +2296,7 @@ payload:
 - DOMAIN,proxysite.site
 - DOMAIN,proxysite.top
 - DOMAIN,proxysite.us
+- DOMAIN,proxysite.video
 - DOMAIN,proxysneak.com
 - DOMAIN,proxysurfing.org
 - DOMAIN,proxytime.net
@@ -2296,7 +2313,6 @@ payload:
 - DOMAIN,dns.psociety.de
 - DOMAIN,ptoserver.com
 - DOMAIN,publicdnsserver.com
-- DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
 - DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
@@ -2523,6 +2539,7 @@ payload:
 - DOMAIN,dns.silentlybren.com
 - DOMAIN,simpleproxy.us
 - DOMAIN,simplevpn.info
+- DOMAIN,simplevpn.net
 - DOMAIN,dns.simplylinux.ch
 - DOMAIN,dns.sindominio.net
 - DOMAIN,dnsovertls.sinodun.com
@@ -2584,6 +2601,7 @@ payload:
 - DOMAIN,speedyth.com
 - DOMAIN,spidervpn.org
 - DOMAIN,dns.spirio.fr
+- DOMAIN,sporium.org
 - DOMAIN,spys.one
 - DOMAIN,spysurfing.com
 - DOMAIN,squidmall.vip
@@ -2664,6 +2682,7 @@ payload:
 - DOMAIN,surfbytes.info
 - DOMAIN,surfeasy.com
 - DOMAIN,surfly.com
+- DOMAIN,surfmenow.com
 - DOMAIN,surfmo.com
 - DOMAIN,surfonym.com
 - DOMAIN,surfshark.app
@@ -2875,6 +2894,7 @@ payload:
 - DOMAIN,ad.tzockt.beer
 - DOMAIN,u8sj3.com
 - DOMAIN,uas2.com
+- DOMAIN,ubint.net
 - DOMAIN,ublocker.info
 - DOMAIN,ufovpn.io
 - DOMAIN,ufreevpn.com
@@ -2886,6 +2906,7 @@ payload:
 - DOMAIN,adguard-ironhide.ultima-thule.ru
 - DOMAIN,ultimatepro.us
 - DOMAIN,ultimateproxy.net
+- DOMAIN,ultrabestproxy.com
 - DOMAIN,ultrafastproxy.com
 - DOMAIN,ultrafun.net
 - DOMAIN,ultraproxy.biz
@@ -2937,6 +2958,7 @@ payload:
 - DOMAIN,unblocked.help
 - DOMAIN,unblocked.how
 - DOMAIN,unblocked.id
+- DOMAIN,unblocked.llc
 - DOMAIN,unblocked.love
 - DOMAIN,unblocked.me
 - DOMAIN,unblocked.name
@@ -3050,6 +3072,7 @@ payload:
 - DOMAIN,unknownproxy.com
 - DOMAIN,unlimitedvpnapp.com
 - DOMAIN,unlocator.com
+- DOMAIN,unrestrict.me
 - DOMAIN,unrestrictedsurf.com
 - DOMAIN,unrestrictor.com
 - DOMAIN,untraceable.us
@@ -3231,6 +3254,7 @@ payload:
 - DOMAIN,dns.wargan.io
 - DOMAIN,abel.waringer-atg.de
 - DOMAIN,dns.warma.me
+- DOMAIN,warninglog.com
 - DOMAIN,dns.warpnine.de
 - DOMAIN,warpproxy.com
 - DOMAIN,waselpro.com
@@ -3246,6 +3270,7 @@ payload:
 - DOMAIN,webproxy.com
 - DOMAIN,webproxy.online
 - DOMAIN,webproxy.to
+- DOMAIN,webproxy.us
 - DOMAIN,webproxyagent.com
 - DOMAIN,webproxyfree.net
 - DOMAIN,webproxyinc.com
@@ -3344,8 +3369,10 @@ payload:
 - DOMAIN,your-freedom.de
 - DOMAIN,yourcheat.com
 - DOMAIN,yourinternetproxy.info
+- DOMAIN,youtube-proxy.com
 - DOMAIN,youtube-unblocker.com
 - DOMAIN,youtubebyclick.com
+- DOMAIN,youtubefreeproxy.net
 - DOMAIN,youtubeunblocked.live
 - DOMAIN,youtubez.com
 - DOMAIN,yovbak.com
