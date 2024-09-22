@@ -294,7 +294,6 @@ payload:
 - DOMAIN,beepassvpn.com
 - DOMAIN,beetvpn.com
 - DOMAIN,beevpn.com
-- DOMAIN,adguard.beliefanx.cn
 - DOMAIN,dns.belnet.be
 - DOMAIN,dns.benpro.fr
 - DOMAIN,dns.bermeitinger.eu
@@ -1520,7 +1519,6 @@ payload:
 - DOMAIN,pihole.aws.ketan.dev
 - DOMAIN,dns.keviland.com
 - DOMAIN,dns.keweon.center
-- DOMAIN,keyvpn.io
 - DOMAIN,adg.khon.dev
 - DOMAIN,adguard.kiboko.it
 - DOMAIN,kickassproxy.com
@@ -1592,7 +1590,6 @@ payload:
 - DOMAIN,linkmefree.net
 - DOMAIN,linkmetube.com
 - DOMAIN,dns.linkr.ninja
-- DOMAIN,doh.linngde.com
 - DOMAIN,lionssh.com
 - DOMAIN,quickvpn.lipisoft.com
 - DOMAIN,africadns1.liquidtelecom.net
@@ -1992,7 +1989,6 @@ payload:
 - DOMAIN,ns4.opennameserver.org
 - DOMAIN,openproxy.space
 - DOMAIN,opentunnel.net
-- DOMAIN,openvpn.cc
 - DOMAIN,openvpn.com
 - DOMAIN,openvpn.net
 - DOMAIN,openvpn-ssh.com
@@ -2313,6 +2309,7 @@ payload:
 - DOMAIN,dns.psociety.de
 - DOMAIN,ptoserver.com
 - DOMAIN,publicdnsserver.com
+- DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
 - DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
@@ -2870,7 +2867,6 @@ payload:
 - DOMAIN,dns.trust404.win
 - DOMAIN,trustedproxies.com
 - DOMAIN,truta.org
-- DOMAIN,dns.tryk.app
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
@@ -3258,7 +3254,6 @@ payload:
 - DOMAIN,dns.warpnine.de
 - DOMAIN,warpproxy.com
 - DOMAIN,waselpro.com
-- DOMAIN,watchproxy.com
 - DOMAIN,watchunblocked.com
 - DOMAIN,dns.engineer.web.id
 - DOMAIN,doh.this.web.id
@@ -3274,7 +3269,6 @@ payload:
 - DOMAIN,webproxyagent.com
 - DOMAIN,webproxyfree.net
 - DOMAIN,webproxyinc.com
-- DOMAIN,webproxyusa.com
 - DOMAIN,webrunnerproxy.com
 - DOMAIN,webshare.io
 - DOMAIN,janvet.website.pl
