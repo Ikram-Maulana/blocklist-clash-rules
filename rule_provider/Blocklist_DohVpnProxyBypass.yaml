@@ -1724,6 +1724,7 @@ payload:
 - DOMAIN,dns.iki.my.id
 - DOMAIN,dns.lista.my.id
 - DOMAIN,dns.mikrotikrumahan.my.id
+- DOMAIN,dns.pnh.my.id
 - DOMAIN,dns.repinger.my.id
 - DOMAIN,dns1.server.my.id
 - DOMAIN,id.terra.my.id
@@ -3243,7 +3244,6 @@ payload:
 - DOMAIN,megumin.is.my.waifu.cz
 - DOMAIN,yunyun.is.my.waifu.cz
 - DOMAIN,waitfree.us
-- DOMAIN,dns.wakgood.net
 - DOMAIN,walln.com
 - DOMAIN,dns.wang.art
 - DOMAIN,wantaquddin.com
