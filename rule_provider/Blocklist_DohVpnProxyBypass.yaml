@@ -621,6 +621,7 @@ payload:
 - DOMAIN,dns.joaofidelix.com.br
 - DOMAIN,dns.netraptor.com.au
 - DOMAIN,new-proxy.com.de
+- DOMAIN,dns.opnsource.com.au
 - DOMAIN,proxy.com.de
 - DOMAIN,proxy-service.com.de
 - DOMAIN,proxy-site.com.de
@@ -898,7 +899,6 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
@@ -1134,7 +1134,6 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1721,6 +1720,7 @@ payload:
 - DOMAIN,muxyuji.ru
 - DOMAIN,d.apemlegit.my.id
 - DOMAIN,vpnto.bhadrikais.my.id
+- DOMAIN,please.dontsteal.my.id
 - DOMAIN,dns.iki.my.id
 - DOMAIN,dns.lista.my.id
 - DOMAIN,dns.mikrotikrumahan.my.id
