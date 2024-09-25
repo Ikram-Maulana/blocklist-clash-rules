@@ -899,6 +899,7 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
@@ -1134,6 +1135,7 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1264,7 +1266,6 @@ payload:
 - DOMAIN,dns.henek.ovh
 - DOMAIN,herbalserver.me
 - DOMAIN,betternet-backend.herokuapp.com
-- DOMAIN,ad1.heronet.nl
 - DOMAIN,heroproxy.com
 - DOMAIN,httpdns-push.heytapmobile.com
 - DOMAIN,hiddendigital.info
