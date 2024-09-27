@@ -621,7 +621,6 @@ payload:
 - DOMAIN,dns.joaofidelix.com.br
 - DOMAIN,dns.netraptor.com.au
 - DOMAIN,new-proxy.com.de
-- DOMAIN,dns.opnsource.com.au
 - DOMAIN,proxy.com.de
 - DOMAIN,proxy-service.com.de
 - DOMAIN,proxy-site.com.de
@@ -899,7 +898,6 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
