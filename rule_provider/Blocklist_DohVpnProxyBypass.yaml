@@ -898,6 +898,7 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
@@ -2397,7 +2398,6 @@ payload:
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
 - DOMAIN,dns.roedel.cloud
-- DOMAIN,adg.rokh.biz
 - DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
@@ -2867,6 +2867,7 @@ payload:
 - DOMAIN,dns.trust404.win
 - DOMAIN,trustedproxies.com
 - DOMAIN,truta.org
+- DOMAIN,adg.tshost.no
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
