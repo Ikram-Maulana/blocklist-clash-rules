@@ -149,7 +149,6 @@ payload:
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
 - DOMAIN,ahoj.email
-- DOMAIN,aioproxy.net
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,akunssh.net
@@ -3405,6 +3404,5 @@ payload:
 - DOMAIN,a.zpn.me
 - DOMAIN,zproxy.de
 - DOMAIN,zscalertwo.net
-- DOMAIN,dns.zui.lol
 - DOMAIN,zwyr157wwiu6eior.com
 - DOMAIN,dns.zzuhacker.cn
