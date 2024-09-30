@@ -315,7 +315,6 @@ payload:
 - DOMAIN,bi-tree.ru
 - DOMAIN,biip.info
 - DOMAIN,ns3.bit-trail.nl
-- DOMAIN,bit123.biz
 - DOMAIN,dns.bitdefender.net
 - DOMAIN,fra-dns.bitdefender.net
 - DOMAIN,iow-dns.bitdefender.net
@@ -406,7 +405,6 @@ payload:
 - DOMAIN,bypass.pw
 - DOMAIN,bypassable.com
 - DOMAIN,bypassed.wtf
-- DOMAIN,bypasser.us
 - DOMAIN,bypassfw.com
 - DOMAIN,bypassip.com
 - DOMAIN,bypasskey.com
@@ -415,7 +413,6 @@ payload:
 - DOMAIN,bytzvpn.com
 - DOMAIN,c-dns.com
 - DOMAIN,cactusvpn.com
-- DOMAIN,calc-web.me
 - DOMAIN,callies-online.site
 - DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
@@ -897,12 +894,10 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
-- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
