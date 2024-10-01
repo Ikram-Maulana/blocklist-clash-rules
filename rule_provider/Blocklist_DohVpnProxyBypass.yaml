@@ -894,10 +894,12 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1483,7 +1485,6 @@ payload:
 - DOMAIN,dns.jstockley.com
 - DOMAIN,judua3rtinpst0s.xyz
 - DOMAIN,dns.jundev.org
-- DOMAIN,jupitervpn.ninja
 - DOMAIN,dns.jupitrdns.com
 - DOMAIN,juproxy.com
 - DOMAIN,ad.justincounts.com
@@ -1578,7 +1579,6 @@ payload:
 - DOMAIN,dot.libredns.gr
 - DOMAIN,dns.lihj.me
 - DOMAIN,limevpn.com
-- DOMAIN,sby-doh.limotelu.org
 - DOMAIN,linkideo.com
 - DOMAIN,linkmefree.net
 - DOMAIN,linkmetube.com
@@ -1637,8 +1637,9 @@ payload:
 - DOMAIN,dns.mateo.ovh
 - DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
-- DOMAIN,mathnotes.help
 - DOMAIN,mathnotes.icu
+- DOMAIN,learn.mathnotes.help
+- DOMAIN,todo.mathnotes.help
 - DOMAIN,maxfong.cc
 - DOMAIN,maxvpn.info
 - DOMAIN,dns.maybe.icu
