@@ -2382,7 +2382,6 @@ payload:
 - DOMAIN,repocket.co
 - DOMAIN,restaurantgift.us
 - DOMAIN,dnspub.restena.lu
-- DOMAIN,kaitain.restena.lu
 - DOMAIN,dns.retakecs.com
 - DOMAIN,rethinkdns.com
 - DOMAIN,revko.info
@@ -2586,7 +2585,6 @@ payload:
 - DOMAIN,adguard.sparshbajaj.me
 - DOMAIN,doh-01.spectrum.com
 - DOMAIN,doh-02.spectrum.com
-- DOMAIN,spedo.co
 - DOMAIN,speedify.com
 - DOMAIN,speedshare.app
 - DOMAIN,speedssh.com
@@ -2702,7 +2700,6 @@ payload:
 - DOMAIN,switch.ch
 - DOMAIN,switchvpn.com
 - DOMAIN,switchvpn.net
-- DOMAIN,swoshsvpn.com
 - DOMAIN,dns.syaifullah.com
 - DOMAIN,ibksturm.synology.me
 - DOMAIN,ihctw.synology.me
