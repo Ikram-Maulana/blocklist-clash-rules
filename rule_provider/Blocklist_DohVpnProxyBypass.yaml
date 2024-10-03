@@ -3382,6 +3382,7 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
+- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com

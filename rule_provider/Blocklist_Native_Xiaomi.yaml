@@ -252,7 +252,6 @@ payload:
 - DOMAIN,extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
 - DOMAIN,sdkconfig.ad.eu.xiaomi.com
 - DOMAIN,cdn.exp.xiaomi.com
-- DOMAIN,us.mixin.api.files.xiaomi.com
 - DOMAIN,lxcdn.dl.files.xiaomi.net
 - DOMAIN,data.game.xiaomi.com
 - DOMAIN,bgp.data.game.xiaomi.com
@@ -289,7 +288,6 @@ payload:
 - DOMAIN,orig.hd.xiaomi.com
 - DOMAIN,secode2.hd.xiaomi.com
 - DOMAIN,heyue.xiaomi.com
-- DOMAIN,hm.xiaomi.com
 - DOMAIN,huodong.xiaomi.com
 - DOMAIN,huosai.xiaomi.com
 - DOMAIN,activity.hybrid.xiaomi.com
@@ -388,7 +386,6 @@ payload:
 - DOMAIN,appstore.pandora.xiaomi.com
 - DOMAIN,assistant.pandora.xiaomi.com
 - DOMAIN,bossadmin.pandora.xiaomi.com
-- DOMAIN,preview.bossadmin.pandora.xiaomi.com
 - DOMAIN,box.pandora.xiaomi.com
 - DOMAIN,bss.pandora.xiaomi.com
 - DOMAIN,m.bss.pandora.xiaomi.com
