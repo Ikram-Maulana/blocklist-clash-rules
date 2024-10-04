@@ -2795,7 +2795,6 @@ payload:
 - DOMAIN,tigervpn.com
 - DOMAIN,tigrons.ru
 - DOMAIN,tikvpn.com
-- DOMAIN,timedns.net
 - DOMAIN,timetohide.me
 - DOMAIN,timmes.nl
 - DOMAIN,dns.tipsy.coffee
@@ -3382,7 +3381,6 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
-- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
