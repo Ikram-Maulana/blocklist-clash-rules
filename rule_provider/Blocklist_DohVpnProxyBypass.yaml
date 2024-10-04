@@ -217,6 +217,10 @@ payload:
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
 - DOMAIN,doh.dns.apple.com
+- DOMAIN,mask-api.fe.apple-dns.net
+- DOMAIN,mask-api.fe2.apple-dns.net
+- DOMAIN,mask.apple-dns.net
+- DOMAIN,mask-t.apple-dns.net
 - DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
@@ -1373,6 +1377,8 @@ payload:
 - DOMAIN,icitek.com
 - DOMAIN,mask.icloud.com
 - DOMAIN,mask-api.icloud.com
+- DOMAIN,mask-boot.icloud.com
+- DOMAIN,mask-canary.icloud.com
 - DOMAIN,mask-h2.icloud.com
 - DOMAIN,icpsuawn1zy5amys.com
 - DOMAIN,tienpham.id.vn
