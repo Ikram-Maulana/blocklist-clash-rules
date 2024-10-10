@@ -106,6 +106,16 @@ payload:
 - DOMAIN,mcs-ttp2.us.tiktok.com
 - DOMAIN,mssdk.us.tiktok.com
 - DOMAIN,mssdk-ttp2.us.tiktok.com
+- DOMAIN,location.tiktokv.com
+- DOMAIN,location-i18n.tiktokv.com
+- DOMAIN,location-sg.tiktokv.com
+- DOMAIN,location-ttp2.tiktokv.com
+- DOMAIN,location-v6.tiktokv.com
+- DOMAIN,location-v6-i18n.tiktokv.com
+- DOMAIN,location-v6-ru.tiktokv.com
+- DOMAIN,location-v6-sg.tiktokv.com
+- DOMAIN,location-v6-va.tiktokv.com
+- DOMAIN,location-va.tiktokv.com
 - DOMAIN,log.tiktokv.com
 - DOMAIN,log-i18n.tiktokv.com
 - DOMAIN,log-phx.tiktokv.com
@@ -220,6 +230,8 @@ payload:
 - DOMAIN,rtlog58-normal-useast1a.tiktokv.com
 - DOMAIN,rtlog58-normal-useast2a.tiktokv.com
 - DOMAIN,rtlog58-normal-ycru.tiktokv.com
+- DOMAIN,location.us.tiktokv.com
+- DOMAIN,location-ttp2.us.tiktokv.com
 - DOMAIN,log.us.tiktokv.com
 - DOMAIN,log16-applog-useast5.us.tiktokv.com
 - DOMAIN,log19-applog-useast5.us.tiktokv.com
