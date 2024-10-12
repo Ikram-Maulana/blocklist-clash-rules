@@ -633,7 +633,6 @@ payload:
 - DOMAIN,coolbits.org
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
-- DOMAIN,coverproxy.com
 - DOMAIN,doh.cox.net
 - DOMAIN,dot.cox.net
 - DOMAIN,dohdot.coxlab.net
@@ -1844,7 +1843,6 @@ payload:
 - DOMAIN,njal.la
 - DOMAIN,njtzzrvg0lwj3bsn.info
 - DOMAIN,nntime.com
-- DOMAIN,no-block.net
 - DOMAIN,nocensor.work
 - DOMAIN,pi1.node15.com
 - DOMAIN,nodepay.ai
@@ -1999,7 +1997,6 @@ payload:
 - DOMAIN,papervpn.info
 - DOMAIN,dns.pari.network
 - DOMAIN,pashagame456.com
-- DOMAIN,leo.paulmihaipavel.com
 - DOMAIN,pawxy.com
 - DOMAIN,pbproxy.red
 - DOMAIN,pbproxy2.co
@@ -2807,7 +2804,6 @@ payload:
 - DOMAIN,tubeunblock.me
 - DOMAIN,tunnelbear.com
 - DOMAIN,turbohide.org
-- DOMAIN,turbossh.com
 - DOMAIN,turbotrackvpn.com
 - DOMAIN,turbovpn.co
 - DOMAIN,turbovpn.com

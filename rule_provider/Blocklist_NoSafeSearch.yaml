@@ -8,7 +8,6 @@ payload:
 - DOMAIN,search.ahwx.org
 - DOMAIN,search.albony.xyz
 - DOMAIN,alltheinternet.com
-- DOMAIN,zoek.anchel.nl
 - DOMAIN,andisearch.com
 - DOMAIN,recherche.aol.fr
 - DOMAIN,search.aol.ca
@@ -27,7 +26,6 @@ payload:
 - DOMAIN,search.bowlman.org
 - DOMAIN,search.bus-hit.me
 - DOMAIN,sx.catgirl.cloud
-- DOMAIN,recherche.catmargue.org
 - DOMAIN,search.aol.co.uk
 - DOMAIN,websearch.excite.co.jp
 - DOMAIN,searx.com.au
@@ -48,7 +46,6 @@ payload:
 - DOMAIN,search.disroot.org
 - DOMAIN,searx.divided-by-zero.eu
 - DOMAIN,dogpile.com
-- DOMAIN,searx.dojocasts.com
 - DOMAIN,search.dojoro.de
 - DOMAIN,searx.doofpot.nl
 - DOMAIN,search.dr460nf1r3.org
