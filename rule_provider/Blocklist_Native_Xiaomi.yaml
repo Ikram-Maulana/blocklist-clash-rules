@@ -75,9 +75,7 @@ payload:
 - DOMAIN,inf.miui.com
 - DOMAIN,mcc.intl.inf.miui.com
 - DOMAIN,api.accelerator.intl.miui.com
-- DOMAIN,newsfeed.api.intl.miui.com
 - DOMAIN,privacy.api.intl.miui.com
-- DOMAIN,h5.app.intl.miui.com
 - DOMAIN,api.aurogon.intl.miui.com
 - DOMAIN,activity.browser.intl.miui.com
 - DOMAIN,api.activity.browser.intl.miui.com
