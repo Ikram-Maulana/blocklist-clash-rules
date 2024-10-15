@@ -1693,7 +1693,6 @@ payload:
 - DOMAIN,doh.mmmalia.com
 - DOMAIN,dns.mnet-online.de
 - DOMAIN,mnrv.trade
-- DOMAIN,dns.mo0on15.com
 - DOMAIN,dnstls.mobik.com
 - DOMAIN,mobilejump.mobi
 - DOMAIN,mobilevpn.net
@@ -2069,7 +2068,6 @@ payload:
 - DOMAIN,personalvpn.com
 - DOMAIN,personaly.click
 - DOMAIN,dns.pesaventofilippo.com
-- DOMAIN,adguard.pggns.de
 - DOMAIN,dns.phillipjberry.net
 - DOMAIN,photonsecure.com
 - DOMAIN,phpbido.com
@@ -2552,7 +2550,6 @@ payload:
 - DOMAIN,dnsovertls2.sinodun.com
 - DOMAIN,dnsovertls3.sinodun.com
 - DOMAIN,sinovpn.com
-- DOMAIN,dns.siry.de
 - DOMAIN,sitdns.com
 - DOMAIN,site2unblock.com
 - DOMAIN,siteblockedbypass.com
@@ -2889,7 +2886,6 @@ payload:
 - DOMAIN,twoproxy.net
 - DOMAIN,adguard.twotigers.xyz
 - DOMAIN,dns.txq.life
-- DOMAIN,typaza.com
 - DOMAIN,ad.tzockt.beer
 - DOMAIN,u8sj3.com
 - DOMAIN,uas2.com
