@@ -416,6 +416,7 @@ payload:
 - DOMAIN,cactusvpn.com
 - DOMAIN,dns.cahlen.com
 - DOMAIN,callies-online.site
+- DOMAIN,calumis.gay
 - DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
@@ -668,6 +669,7 @@ payload:
 - DOMAIN,croxyproxy.com
 - DOMAIN,croxyproxy.net
 - DOMAIN,croxyproxy.rocks
+- DOMAIN,croxyproxy.us
 - DOMAIN,crushus.com
 - DOMAIN,crusty.motorcycles
 - DOMAIN,crypticvpn.com
@@ -1009,6 +1011,7 @@ payload:
 - DOMAIN,doh.ffmuc.net
 - DOMAIN,dot.ffmuc.net
 - DOMAIN,dns.ffnw.de
+- DOMAIN,ffsurf.net
 - DOMAIN,dns.fgbk.net
 - DOMAIN,fiberprox.com
 - DOMAIN,fiberprox.me
@@ -1693,6 +1696,7 @@ payload:
 - DOMAIN,doh.mmmalia.com
 - DOMAIN,dns.mnet-online.de
 - DOMAIN,mnrv.trade
+- DOMAIN,dns.mo0on15.com
 - DOMAIN,dnstls.mobik.com
 - DOMAIN,mobilejump.mobi
 - DOMAIN,mobilevpn.net
@@ -1759,6 +1763,7 @@ payload:
 - DOMAIN,myspaceunlock.com
 - DOMAIN,vm.mytm.cc
 - DOMAIN,mytunneling.com
+- DOMAIN,myturtle.net
 - DOMAIN,myvpn.com
 - DOMAIN,mywebproxy.in
 - DOMAIN,mywebproxy.net
@@ -2068,6 +2073,7 @@ payload:
 - DOMAIN,personalvpn.com
 - DOMAIN,personaly.click
 - DOMAIN,dns.pesaventofilippo.com
+- DOMAIN,adguard.pggns.de
 - DOMAIN,dns.phillipjberry.net
 - DOMAIN,photonsecure.com
 - DOMAIN,phpbido.com
@@ -2259,6 +2265,7 @@ payload:
 - DOMAIN,proxydrop.com
 - DOMAIN,proxydude.red
 - DOMAIN,proxydude.xyz
+- DOMAIN,proxyduke.lol
 - DOMAIN,proxyelite.info
 - DOMAIN,proxyen.com
 - DOMAIN,proxyer.net
@@ -2550,6 +2557,7 @@ payload:
 - DOMAIN,dnsovertls2.sinodun.com
 - DOMAIN,dnsovertls3.sinodun.com
 - DOMAIN,sinovpn.com
+- DOMAIN,dns.siry.de
 - DOMAIN,sitdns.com
 - DOMAIN,site2unblock.com
 - DOMAIN,siteblockedbypass.com
@@ -2585,6 +2593,7 @@ payload:
 - DOMAIN,guard.sntrk.ru
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
+- DOMAIN,www-proxy.sodemc.com
 - DOMAIN,clientdns3.softcom.net
 - DOMAIN,free-vpn.en.softonic.com
 - DOMAIN,solidproxy.net
@@ -2745,6 +2754,7 @@ payload:
 - DOMAIN,tx.teradns.org
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.soldier.terumi.club
+- DOMAIN,teruteruteruko.com
 - DOMAIN,dns.tesem.dog
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
@@ -2886,6 +2896,7 @@ payload:
 - DOMAIN,twoproxy.net
 - DOMAIN,adguard.twotigers.xyz
 - DOMAIN,dns.txq.life
+- DOMAIN,typaza.com
 - DOMAIN,ad.tzockt.beer
 - DOMAIN,u8sj3.com
 - DOMAIN,uas2.com
@@ -3336,6 +3347,7 @@ payload:
 - DOMAIN,xite.ws
 - DOMAIN,xitenow.com
 - DOMAIN,xitesite.com
+- DOMAIN,xjumper.com
 - DOMAIN,dns.xlion.tw
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
