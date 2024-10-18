@@ -905,7 +905,6 @@ payload:
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
-- DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,gustamadh.dynv6.net
 - DOMAIN,vpn.dzarlax.dev
@@ -1249,7 +1248,6 @@ payload:
 - DOMAIN,adguard.haneulo.com
 - DOMAIN,dns.hanmey.de
 - DOMAIN,hanniel.tech
-- DOMAIN,dns.hannielzhang.com
 - DOMAIN,happy-vpn.com
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
@@ -1548,7 +1546,6 @@ payload:
 - DOMAIN,xray.krnl.eu
 - DOMAIN,kryptovpn.kryptotel.net
 - DOMAIN,adguard.kss.ovh
-- DOMAIN,dns.kugoapps.com
 - DOMAIN,dns.kukal.cz
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
@@ -1928,7 +1925,6 @@ payload:
 - DOMAIN,ns3.com
 - DOMAIN,ns3.cx
 - DOMAIN,ns3.link
-- DOMAIN,dnscache0.ns71.net
 - DOMAIN,ns8469rfvth42.xyz
 - DOMAIN,nslookup.io
 - DOMAIN,dns.nullgate.net

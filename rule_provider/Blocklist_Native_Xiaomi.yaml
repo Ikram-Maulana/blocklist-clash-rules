@@ -96,7 +96,6 @@ payload:
 - DOMAIN,api.launcher.intl.miui.com
 - DOMAIN,api.mintbrs.intl.miui.com
 - DOMAIN,api.muc.intl.miui.com
-- DOMAIN,api.newsfeed.intl.miui.com
 - DOMAIN,adv.sec.intl.miui.com
 - DOMAIN,authbe.sec.intl.miui.com
 - DOMAIN,data.sec.intl.miui.com
