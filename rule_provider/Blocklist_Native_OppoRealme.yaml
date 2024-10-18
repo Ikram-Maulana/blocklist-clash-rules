@@ -14,7 +14,6 @@ payload:
 - DOMAIN,icota-service-eu.allawnos.com
 - DOMAIN,iot-earbuds-eu.allawnos.com
 - DOMAIN,iot-earbuds-sg.allawnos.com
-- DOMAIN,iot-earbuds-us.allawnos.com
 - DOMAIN,lang-server-eu.allawnos.com
 - DOMAIN,lang-server-in.allawnos.com
 - DOMAIN,lang-server-sg.allawnos.com
