@@ -66,6 +66,7 @@ payload:
 - DOMAIN,proxy-skadnetwork.apple.com
 - DOMAIN,qa-iad.apple.com
 - DOMAIN,radarsubmissions.apple.com
+- DOMAIN,sdkintg-iad.apple.com
 - DOMAIN,sdkintgiad.apple.com
 - DOMAIN,searchads.apple.com
 - DOMAIN,securemetrics.apple.com
