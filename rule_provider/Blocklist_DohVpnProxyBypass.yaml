@@ -198,6 +198,8 @@ payload:
 - DOMAIN,anonymitynetwork.com
 - DOMAIN,anonymize.com
 - DOMAIN,anonymizer.com
+- DOMAIN,anonymizing.com
+- DOMAIN,anonymous.at
 - DOMAIN,anonymous-proxies.net
 - DOMAIN,anonymous-proxy-servers.net
 - DOMAIN,anonymousblog.info
@@ -1082,6 +1084,7 @@ payload:
 - DOMAIN,xcomvpn-7000b-default-rtdb.firebaseio.com
 - DOMAIN,fpn.firefox.com
 - DOMAIN,testpilot.firefox.com
+- DOMAIN,fireprox.net
 - DOMAIN,firstcontact.site
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
@@ -1120,6 +1123,7 @@ payload:
 - DOMAIN,free-signal.com
 - DOMAIN,free-vpn.cn
 - DOMAIN,free-vpn.xyz
+- DOMAIN,free-webproxy.com
 - DOMAIN,free2surfvpn.com
 - DOMAIN,freeanimesonline.com
 - DOMAIN,freebypassproxy.com
@@ -1429,7 +1433,6 @@ payload:
 - DOMAIN,vpn.i81.ru
 - DOMAIN,dns.iamanuragh.in
 - DOMAIN,dns.iamninja.ru
-- DOMAIN,dns.ian.rocks
 - DOMAIN,iblocker.info
 - DOMAIN,ibvpn.com
 - DOMAIN,webproxy.ich-war-hier.de
@@ -1651,6 +1654,7 @@ payload:
 - DOMAIN,dot.libredns.gr
 - DOMAIN,dns.lihj.me
 - DOMAIN,limevpn.com
+- DOMAIN,limitlessproxy.com
 - DOMAIN,michelo.line.pm
 - DOMAIN,linkideo.com
 - DOMAIN,linkmefree.net
@@ -2008,6 +2012,7 @@ payload:
 - DOMAIN,okayfreedom.com
 - DOMAIN,dns.olpploiopkuyhiopsfrt.info
 - DOMAIN,olympicproxy.net
+- DOMAIN,omegaproxy.com
 - DOMAIN,adguard.oms-ctr.ru
 - DOMAIN,onconnect.info
 - DOMAIN,one.one.one.one
@@ -2034,6 +2039,7 @@ payload:
 - DOMAIN,onion.sh
 - DOMAIN,onion.to
 - DOMAIN,onion.ws
+- DOMAIN,onlineanonymizer.com
 - DOMAIN,onlineipchanger.com
 - DOMAIN,onlineproxy.eu
 - DOMAIN,onlineproxy.io
@@ -2295,6 +2301,7 @@ payload:
 - DOMAIN,proxpn.com
 - DOMAIN,proxssl.com
 - DOMAIN,proxtube.com
+- DOMAIN,proxy.cc
 - DOMAIN,proxy.lol
 - DOMAIN,proxy.nu
 - DOMAIN,proxy.org
@@ -2345,6 +2352,7 @@ payload:
 - DOMAIN,proxyer.net
 - DOMAIN,proxyfactory.io
 - DOMAIN,proxyfish.com
+- DOMAIN,proxyforfree.eu
 - DOMAIN,proxyfree.org
 - DOMAIN,proxygate.com
 - DOMAIN,proxygizlen.com
@@ -2467,6 +2475,7 @@ payload:
 - DOMAIN,rayneau.fr
 - DOMAIN,rayobyte.com
 - DOMAIN,dns.rbn.gr
+- DOMAIN,readandmath.today
 - DOMAIN,login.readinghelper.online
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redproxy.info
@@ -2793,6 +2802,7 @@ payload:
 - DOMAIN,surfsharkstatus.com
 - DOMAIN,surfshell.io
 - DOMAIN,surfsjark.com
+- DOMAIN,surfskip.com
 - DOMAIN,surfsneaker.com
 - DOMAIN,surfsuark.com
 - DOMAIN,surtshark.com
@@ -3123,6 +3133,7 @@ payload:
 - DOMAIN,unblockit.pro
 - DOMAIN,unblockit.rsvp
 - DOMAIN,unblockit.uno
+- DOMAIN,unblockmate.com
 - DOMAIN,unblockme.us
 - DOMAIN,unblockmyweb.com
 - DOMAIN,unblockmywebsite.com
@@ -3141,6 +3152,7 @@ payload:
 - DOMAIN,unblocksite.space
 - DOMAIN,unblocksite.website
 - DOMAIN,unblocksites.online
+- DOMAIN,unblocksites.org
 - DOMAIN,unblockvid.com
 - DOMAIN,unblockvideos.com
 - DOMAIN,unblockvpn.com
@@ -3169,6 +3181,8 @@ payload:
 - DOMAIN,unlocator.com
 - DOMAIN,unrestrict.me
 - DOMAIN,unrestrictedsurf.com
+- DOMAIN,unrestricter.com
+- DOMAIN,unrestricter.org
 - DOMAIN,unrestrictor.com
 - DOMAIN,untraceable.us
 - DOMAIN,untracer.com
