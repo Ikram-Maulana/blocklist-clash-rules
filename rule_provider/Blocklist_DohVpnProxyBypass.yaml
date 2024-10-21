@@ -90,7 +90,6 @@ payload:
 - DOMAIN,dns.886886886.xyz
 - DOMAIN,dns.888654.xyz
 - DOMAIN,8888.google
-- DOMAIN,89433332.xyz
 - DOMAIN,8proxy.com
 - DOMAIN,8v9m.com
 - DOMAIN,922proxy.com
@@ -447,7 +446,6 @@ payload:
 - DOMAIN,cactusvpn.com
 - DOMAIN,dns.cahlen.com
 - DOMAIN,callies-online.site
-- DOMAIN,calumis.gay
 - DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
@@ -1049,7 +1047,6 @@ payload:
 - DOMAIN,fastproxy.org
 - DOMAIN,fastproxynetwork.com
 - DOMAIN,fastssh.com
-- DOMAIN,fasttime.info
 - DOMAIN,fastusaproxy.com
 - DOMAIN,fastvpn.im
 - DOMAIN,fastvpn.me
@@ -1360,7 +1357,6 @@ payload:
 - DOMAIN,hidessh.com
 - DOMAIN,hidester.com
 - DOMAIN,hidesurf.us
-- DOMAIN,hidetheinternet.com
 - DOMAIN,hidethisip.net
 - DOMAIN,hidevpn.info
 - DOMAIN,hideway.eu
@@ -1620,7 +1616,6 @@ payload:
 - DOMAIN,agh.kyusang.win
 - DOMAIN,dns.l337.site
 - DOMAIN,doh.lacontrevoie.fr
-- DOMAIN,lagometer.de
 - DOMAIN,lalal.info
 - DOMAIN,lantern.io
 - DOMAIN,largero.com
@@ -2410,7 +2405,6 @@ payload:
 - DOMAIN,publicdnsserver.com
 - DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
-- DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
 - DOMAIN,dns-privacy.puregeni.us
 - DOMAIN,purevpn.com
@@ -2504,7 +2498,6 @@ payload:
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
-- DOMAIN,dns.rootlab.top
 - DOMAIN,dns.rotunneling.net
 - DOMAIN,roundrockisd.online
 - DOMAIN,o.rsaikat.com
@@ -2829,7 +2822,6 @@ payload:
 - DOMAIN,dns1.techeasy.org
 - DOMAIN,vpn.technicule.info
 - DOMAIN,doh.technochat.in
-- DOMAIN,technofix.ir
 - DOMAIN,dns.technologycage.com
 - DOMAIN,dns.technostriker.com
 - DOMAIN,rx.techomespace.com
@@ -3011,7 +3003,6 @@ payload:
 - DOMAIN,ultimateproxy.net
 - DOMAIN,ultrabestproxy.com
 - DOMAIN,ultrafastproxy.com
-- DOMAIN,ultrafun.net
 - DOMAIN,ultraproxy.biz
 - DOMAIN,ultraproxyweb.com
 - DOMAIN,ultrasurf.es
@@ -3343,7 +3334,6 @@ payload:
 - DOMAIN,vpnv6.com
 - DOMAIN,vpnvip.com
 - DOMAIN,antispam.vpnvps.com
-- DOMAIN,vpnwebsite.com
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,vtcuong.site

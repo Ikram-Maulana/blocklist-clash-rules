@@ -92,7 +92,6 @@ payload:
 - DOMAIN,searx.louifox.house
 - DOMAIN,lukol.com
 - DOMAIN,whoogle.lunar.icu
-- DOMAIN,search.lvkaszus.pl
 - DOMAIN,searx.lwhr.xyz
 - DOMAIN,searx.lynnesbian.space
 - DOMAIN,go.mail.ru
@@ -166,7 +165,6 @@ payload:
 - DOMAIN,wtf.roflcopter.fr
 - DOMAIN,roteserver.de
 - DOMAIN,search.rowie.at
-- DOMAIN,search.rubberverse.xyz
 - DOMAIN,search.sapti.me
 - DOMAIN,searchencrypt.com
 - DOMAIN,searchx.mobi
