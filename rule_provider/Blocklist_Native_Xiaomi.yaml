@@ -187,7 +187,6 @@ payload:
 - DOMAIN,www.traffic-media.co
 - DOMAIN,ad.xiaomi.com
 - DOMAIN,api.ad.xiaomi.com
-- DOMAIN,cdn.ad.xiaomi.com
 - DOMAIN,staging.cname.ad.xiaomi.com
 - DOMAIN,cupid.ad.xiaomi.com
 - DOMAIN,databi.ad.xiaomi.com
