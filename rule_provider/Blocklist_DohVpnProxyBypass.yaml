@@ -172,6 +172,7 @@ payload:
 - DOMAIN,allunblocked.com
 - DOMAIN,dns.almir1904.eu
 - DOMAIN,adguard.alu.dog
+- DOMAIN,aluu.xyz
 - DOMAIN,dns.alvosec.com
 - DOMAIN,alwaysvpn.com
 - DOMAIN,amanvpn.com
@@ -183,6 +184,7 @@ payload:
 - DOMAIN,dsl-app.s3.us-east-2.amazonaws.com
 - DOMAIN,mailer.amlegion.org
 - DOMAIN,doh.amonsul.net
+- DOMAIN,anachem.online
 - DOMAIN,ananoos.com
 - DOMAIN,anchorfree.net
 - DOMAIN,dns.andrewnw.xyz
@@ -216,6 +218,7 @@ payload:
 - DOMAIN,antpeak.com
 - DOMAIN,antycenzor.pl
 - DOMAIN,secure.anudeep.me
+- DOMAIN,anura.pro
 - DOMAIN,anyip.io
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
@@ -1466,6 +1469,7 @@ payload:
 - DOMAIN,dns2.in-berlin.de
 - DOMAIN,in-disguise.com
 - DOMAIN,dns.inclusioproject.com
+- DOMAIN,incog.works
 - DOMAIN,indialifes.com
 - DOMAIN,adblock.indianets.net
 - DOMAIN,indo-ssh.com
@@ -2781,6 +2785,7 @@ payload:
 - DOMAIN,surfall.net
 - DOMAIN,surfbouncer.com
 - DOMAIN,surfbytes.info
+- DOMAIN,surfdoge.pro
 - DOMAIN,surfeasy.com
 - DOMAIN,surfly.com
 - DOMAIN,surfmenow.com
@@ -2916,6 +2921,7 @@ payload:
 - DOMAIN,timmes.nl
 - DOMAIN,adb.timnichollsphotography.com
 - DOMAIN,dns.tipsy.coffee
+- DOMAIN,titaniumnetwork.org
 - DOMAIN,dns.tls-data.de
 - DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
