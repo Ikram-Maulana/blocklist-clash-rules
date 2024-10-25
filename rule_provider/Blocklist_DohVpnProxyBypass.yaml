@@ -1066,7 +1066,6 @@ payload:
 - DOMAIN,dot.ffmuc.net
 - DOMAIN,dns.ffnw.de
 - DOMAIN,ffsurf.net
-- DOMAIN,dns.fgbk.net
 - DOMAIN,fiberprox.com
 - DOMAIN,fiberprox.me
 - DOMAIN,fiberprox.net
@@ -1552,7 +1551,6 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
-- DOMAIN,johneldenring.lol
 - DOMAIN,opencdn.jomodns.com
 - DOMAIN,adguard1.jsanagustin.net
 - DOMAIN,jsmapper.com
