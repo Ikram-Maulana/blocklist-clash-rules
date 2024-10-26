@@ -1420,7 +1420,6 @@ payload:
 - DOMAIN,dns.huas.me
 - DOMAIN,dns.hugo0.moe
 - DOMAIN,dns.hujiayucc.cn
-- DOMAIN,ads.hunga1k47.com
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
 - DOMAIN,ad.huyct.net
@@ -3060,6 +3059,7 @@ payload:
 - DOMAIN,unblocked.black
 - DOMAIN,unblocked.buzz
 - DOMAIN,unblocked.cloud
+- DOMAIN,unblocked.foo
 - DOMAIN,unblocked.green
 - DOMAIN,unblocked.help
 - DOMAIN,unblocked.how
