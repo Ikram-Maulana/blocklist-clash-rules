@@ -287,6 +287,7 @@ payload:
 - DOMAIN,ch1b.bingads.microsoft.com
 - DOMAIN,community.bingads.microsoft.com
 - DOMAIN,developers.bingads.microsoft.com
+- DOMAIN,express.bingads.microsoft.com
 - DOMAIN,fd.bingads.microsoft.com
 - DOMAIN,feedback.bingads.microsoft.com
 - DOMAIN,help.bingads.microsoft.com
