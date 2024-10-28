@@ -897,7 +897,6 @@ payload:
 - DOMAIN,v.dnscrypt.uk
 - DOMAIN,dnsforfamily.com
 - DOMAIN,dnsforge.de
-- DOMAIN,bahopir188.dnshome.de
 - DOMAIN,dns.dnshome.de
 - DOMAIN,doh.dnslify.com
 - DOMAIN,a.ns.dnslify.com
@@ -951,8 +950,10 @@ payload:
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
+- DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
