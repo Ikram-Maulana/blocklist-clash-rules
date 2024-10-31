@@ -175,6 +175,7 @@ payload:
 - DOMAIN,aluu.xyz
 - DOMAIN,dns.alvosec.com
 - DOMAIN,alwaysvpn.com
+- DOMAIN,amandahugnkiss.org
 - DOMAIN,amanvpn.com
 - DOMAIN,ec2-34-194-122-51.compute-1.amazonaws.com
 - DOMAIN,tunnelbear.s3.amazonaws.com
@@ -225,6 +226,25 @@ payload:
 - DOMAIN,doh.dns.apple.com
 - DOMAIN,mask-api.fe2.apple-dns.net
 - DOMAIN,mask.apple-dns.net
+- DOMAIN,ausyd2.mask-t.apple-dns.net
+- DOMAIN,deber3.mask-t.apple-dns.net
+- DOMAIN,dedus1.mask-t.apple-dns.net
+- DOMAIN,gbslo5.mask-t.apple-dns.net
+- DOMAIN,hktko1.mask-t.apple-dns.net
+- DOMAIN,iedub2.mask-t.apple-dns.net
+- DOMAIN,jptyo12.mask-t.apple-dns.net
+- DOMAIN,nlhfd1.mask-t.apple-dns.net
+- DOMAIN,sesto4.mask-t.apple-dns.net
+- DOMAIN,sgsin8.mask-t.apple-dns.net
+- DOMAIN,twntc1.mask-t.apple-dns.net
+- DOMAIN,usatl5.mask-t.apple-dns.net
+- DOMAIN,usbos2.mask-t.apple-dns.net
+- DOMAIN,uschi7.mask-t.apple-dns.net
+- DOMAIN,usdal2.mask-t.apple-dns.net
+- DOMAIN,usden6.mask-t.apple-dns.net
+- DOMAIN,uslax2.mask-t.apple-dns.net
+- DOMAIN,usmia1.mask-t.apple-dns.net
+- DOMAIN,usuyk1.mask-t.apple-dns.net
 - DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
@@ -667,6 +687,7 @@ payload:
 - DOMAIN,coolbits.org
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
+- DOMAIN,corsproxy.io
 - DOMAIN,doh.cox.net
 - DOMAIN,dot.cox.net
 - DOMAIN,dohdot.coxlab.net
@@ -930,6 +951,8 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
+- DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
@@ -1168,6 +1191,7 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1469,6 +1493,7 @@ payload:
 - DOMAIN,ioxy.de
 - DOMAIN,ipbuzz.net
 - DOMAIN,ipchanging.com
+- DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
 - DOMAIN,ipoac.nl
 - DOMAIN,iportal.me
@@ -2580,7 +2605,6 @@ payload:
 - DOMAIN,adguard.senthil.us
 - DOMAIN,dns.serdcebolit.ru
 - DOMAIN,privatnas.servebeer.com
-- DOMAIN,doh.serverhost.no
 - DOMAIN,serverhoya.com
 - DOMAIN,serverssh.net
 - DOMAIN,assets-prod-a230.s3.serverwild.com
@@ -2622,7 +2646,6 @@ payload:
 - DOMAIN,dnsovertls2.sinodun.com
 - DOMAIN,dnsovertls3.sinodun.com
 - DOMAIN,sinovpn.com
-- DOMAIN,dns.siry.de
 - DOMAIN,sitdns.com
 - DOMAIN,site2unblock.com
 - DOMAIN,siteblockedbypass.com
@@ -2678,6 +2701,7 @@ payload:
 - DOMAIN,spidervpn.org
 - DOMAIN,dns.spirio.fr
 - DOMAIN,sporium.org
+- DOMAIN,sportsballhub.com
 - DOMAIN,spys.one
 - DOMAIN,spysurfing.com
 - DOMAIN,squidmall.vip
@@ -2901,6 +2925,7 @@ payload:
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,tonvpn.com
+- DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
 - DOMAIN,proxy.toolur.com
 - DOMAIN,top10vpn.com
