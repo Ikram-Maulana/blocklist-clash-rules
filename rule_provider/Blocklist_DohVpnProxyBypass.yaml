@@ -927,9 +927,7 @@ payload:
 - DOMAIN,agh.dshubham.xyz
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
-- DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1169,7 +1167,6 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1264,7 +1261,6 @@ payload:
 - DOMAIN,graef.in
 - DOMAIN,granules.us
 - DOMAIN,gratisproxy.nl
-- DOMAIN,gratisvpn.com
 - DOMAIN,greatestfreeproxy.com
 - DOMAIN,greenpass.info
 - DOMAIN,greenproxy.net
@@ -1345,7 +1341,6 @@ payload:
 - DOMAIN,hidevpn.info
 - DOMAIN,hideway.eu
 - DOMAIN,hideweb.org
-- DOMAIN,hidexy.com
 - DOMAIN,hidingit.com
 - DOMAIN,hidingyour.info
 - DOMAIN,hiload.in
@@ -1385,7 +1380,6 @@ payload:
 - DOMAIN,hotbot.com
 - DOMAIN,hotbotvpn.com
 - DOMAIN,hotfreevpn.com
-- DOMAIN,hothide.com
 - DOMAIN,hotspotshield.com
 - DOMAIN,hotspotvpn.com
 - DOMAIN,dns.hotta.page
