@@ -152,6 +152,7 @@ payload:
 - DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
+- DOMAIN,apple-relay.akamaized.net
 - DOMAIN,akunssh.net
 - DOMAIN,dns.albony.xyz
 - DOMAIN,dns.alekberg.net
@@ -171,6 +172,7 @@ payload:
 - DOMAIN,vps.alloxr.info
 - DOMAIN,allunblocked.com
 - DOMAIN,dns.almir1904.eu
+- DOMAIN,alphabrowser.xyz
 - DOMAIN,adguard.alu.dog
 - DOMAIN,aluu.xyz
 - DOMAIN,dns.alvosec.com
@@ -223,6 +225,7 @@ payload:
 - DOMAIN,anyip.io
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
+- DOMAIN,apple-relay.apple.com
 - DOMAIN,doh.dns.apple.com
 - DOMAIN,mask-api.fe2.apple-dns.net
 - DOMAIN,mask.apple-dns.net
@@ -495,7 +498,9 @@ payload:
 - DOMAIN,cloaker.ca
 - DOMAIN,cloaker.us
 - DOMAIN,cloakvpn.com
+- DOMAIN,apple-relay.cloudfare.com
 - DOMAIN,dns.cloudfiction.eu
+- DOMAIN,apple-relay.cloudflare.com
 - DOMAIN,dns.233py.com.cdn.cloudflare.net
 - DOMAIN,dns.cloudflare.com
 - DOMAIN,cloudflare-dns.com
@@ -927,7 +932,9 @@ payload:
 - DOMAIN,agh.dshubham.xyz
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
+- DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1023,6 +1030,7 @@ payload:
 - DOMAIN,fastestvpn.info
 - DOMAIN,fastfoxvpn.com
 - DOMAIN,fastfreeproxy.info
+- DOMAIN,apple-relay.fastly-edge.com
 - DOMAIN,fastp.org
 - DOMAIN,fastpro.info
 - DOMAIN,fastproxy.org
@@ -1092,6 +1100,7 @@ payload:
 - DOMAIN,forwardproxie.com
 - DOMAIN,fproxy.net
 - DOMAIN,frandcomfort.us
+- DOMAIN,free-kree-k.xyz
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
 - DOMAIN,free-proxy.xyz
@@ -1167,6 +1176,7 @@ payload:
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1736,6 +1746,9 @@ payload:
 - DOMAIN,dnstls.mobik.com
 - DOMAIN,mobilejump.mobi
 - DOMAIN,mobilevpn.net
+- DOMAIN,mochiss.xyz
+- DOMAIN,mochiss2.xyz
+- DOMAIN,mochiss3.xyz
 - DOMAIN,mockblock.com
 - DOMAIN,nue2.moderateinfra.net
 - DOMAIN,ps1.modr.club
@@ -1973,7 +1986,6 @@ payload:
 - DOMAIN,qdns02.nymterm.com
 - DOMAIN,5g.o0o.re
 - DOMAIN,o1.lt
-- DOMAIN,ha.o51r15.com
 - DOMAIN,obscuro.top
 - DOMAIN,oceanbrowser.co
 - DOMAIN,octohide.com
@@ -2140,6 +2152,7 @@ payload:
 - DOMAIN,dns1.pietjacobs.be
 - DOMAIN,pingproxy.com
 - DOMAIN,piraproxy.org
+- DOMAIN,pirataproxy.com
 - DOMAIN,piratebayproxy.co
 - DOMAIN,pixelprivacy.com
 - DOMAIN,pixolium.com
@@ -2225,7 +2238,6 @@ payload:
 - DOMAIN,de.dns.privex.io
 - DOMAIN,nl.dns.privex.io
 - DOMAIN,privoxy.org
-- DOMAIN,prointern.info
 - DOMAIN,project-evoex.de
 - DOMAIN,prontoproxy.info
 - DOMAIN,propage.info
@@ -2479,6 +2491,7 @@ payload:
 - DOMAIN,roonyx.com
 - DOMAIN,dns.rotunneling.net
 - DOMAIN,roundrockisd.online
+- DOMAIN,roxy2link.com
 - DOMAIN,o.rsaikat.com
 - DOMAIN,au.rslvr.eu
 - DOMAIN,bg.rslvr.eu
@@ -3366,6 +3379,7 @@ payload:
 - DOMAIN,websurf.in
 - DOMAIN,websurfproxy.me
 - DOMAIN,websynchrony.com
+- DOMAIN,webtester.cc
 - DOMAIN,webtunnel.org
 - DOMAIN,webxify.com
 - DOMAIN,webypass.info
