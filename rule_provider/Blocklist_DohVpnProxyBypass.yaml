@@ -82,7 +82,6 @@ payload:
 - DOMAIN,57824.com
 - DOMAIN,family.5ososea.com
 - DOMAIN,kids.5ososea.com
-- DOMAIN,jp.68360612.xyz
 - DOMAIN,dns.688447.xyz
 - DOMAIN,7713.info
 - DOMAIN,777surfer.info
@@ -2947,7 +2946,6 @@ payload:
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
-- DOMAIN,travelvpn.info
 - DOMAIN,travelvpn.net
 - DOMAIN,ns.trcnet.fi
 - DOMAIN,consumervpn.trendmicro.com
@@ -3018,7 +3016,6 @@ payload:
 - DOMAIN,unblock-proxy.com
 - DOMAIN,unblock-sites.com
 - DOMAIN,unblock-us.com
-- DOMAIN,unblock-video.com
 - DOMAIN,unblock-websites.com
 - DOMAIN,unblock123.com
 - DOMAIN,unblock2.club
@@ -3225,7 +3222,6 @@ payload:
 - DOMAIN,videocollage.us
 - DOMAIN,videoproxy.site
 - DOMAIN,videounblock.com
-- DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
 - DOMAIN,viewyoutube.net
