@@ -197,7 +197,6 @@ payload:
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com
-- DOMAIN,location-ttp2.tiktokv.com
 - DOMAIN,location-v6.tiktokv.com
 - DOMAIN,location-v6-i18n.tiktokv.com
 - DOMAIN,location-v6-ru.tiktokv.com

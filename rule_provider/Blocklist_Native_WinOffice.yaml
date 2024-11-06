@@ -616,7 +616,6 @@ payload:
 - DOMAIN,sconsentit9.trafficmanager.net
 - DOMAIN,self-events-data.trafficmanager.net
 - DOMAIN,settingsfd-geo.trafficmanager.net
-- DOMAIN,sre-metrics-thanos-prod.trafficmanager.net
 - DOMAIN,ssp-prod-eastus-nonmutt.trafficmanager.net
 - DOMAIN,stats-partner.trafficmanager.net
 - DOMAIN,teams-events-data.trafficmanager.net
@@ -653,9 +652,6 @@ payload:
 - DOMAIN,cache.datamart.windows.com
 - DOMAIN,sa.windows.com
 - DOMAIN,adsdktelemetry-prod.servicebus.windows.net
-- DOMAIN,ams-euno-1-bus-analytics-1-1.servicebus.windows.net
-- DOMAIN,ams-usea-1-bus-analytics-1-1.servicebus.windows.net
-- DOMAIN,ams-usso-1-bus-analytics-1-1.servicebus.windows.net
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
