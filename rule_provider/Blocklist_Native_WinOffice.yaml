@@ -155,7 +155,12 @@ payload:
 - DOMAIN,nexus.officeapps.live.com
 - DOMAIN,nexusrules.officeapps.live.com
 - DOMAIN,noc-visio-telemetry.officeapps.live.com
+- DOMAIN,pgtbr1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtbr1-word-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtca1-excel-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtca1-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu1-word-telemetry-vip.officeapps.live.com
@@ -167,7 +172,9 @@ payload:
 - DOMAIN,pgteu3-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu4-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtmx1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtmx1-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-word-telemetry-vip.officeapps.live.com
