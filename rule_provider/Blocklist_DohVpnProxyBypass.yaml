@@ -1380,7 +1380,6 @@ payload:
 - DOMAIN,honeygain.me
 - DOMAIN,dns.hoody.com
 - DOMAIN,schoolmath.hop.sh
-- DOMAIN,keithchung.hopto.org
 - DOMAIN,dns.horcrux.vip
 - DOMAIN,dns.internal.hosmatic.com
 - DOMAIN,hostless.club
@@ -2074,7 +2073,6 @@ payload:
 - DOMAIN,dns.oszx.co
 - DOMAIN,ourproxy.net
 - DOMAIN,dns.ours.luxe
-- DOMAIN,dns.ourvau.lt
 - DOMAIN,overplay.net
 - DOMAIN,vps-33e5a7f3.vps.ovh.us
 - DOMAIN,ovpn.com
@@ -2462,7 +2460,6 @@ payload:
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redproxy.info
 - DOMAIN,redschool.info
-- DOMAIN,dns.redvau.lt
 - DOMAIN,reflect4.me
 - DOMAIN,dns.reitmeier.me
 - DOMAIN,relayon.org
@@ -3496,7 +3493,6 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
-- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com

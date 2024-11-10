@@ -54,7 +54,6 @@ payload:
 - DOMAIN,internalcheck.apple.com
 - DOMAIN,iphonesubmissions.apple.com
 - DOMAIN,iphonesubmissions-old.apple.com
-- DOMAIN,autolinkmaker.itunes.apple.com
 - DOMAIN,partiality.itunes.apple.com
 - DOMAIN,launch.apple.com
 - DOMAIN,metrics.apple.com
@@ -89,7 +88,6 @@ payload:
 - DOMAIN,cdn-xp-ingest.edge.apple
 - DOMAIN,experiments.apple.com.edgekey.net
 - DOMAIN,iadsdk.apple.com.edgekey.net
-- DOMAIN,linkmaker.itunes.apple.com.edgekey.net
 - DOMAIN,partiality.itunes.apple.com.edgekey.net
 - DOMAIN,xp.apple.com.edgekey.net
 - DOMAIN,cstat.apple.com.edgesuite.net
