@@ -1380,6 +1380,7 @@ payload:
 - DOMAIN,honeygain.me
 - DOMAIN,dns.hoody.com
 - DOMAIN,schoolmath.hop.sh
+- DOMAIN,keithchung.hopto.org
 - DOMAIN,dns.horcrux.vip
 - DOMAIN,dns.internal.hosmatic.com
 - DOMAIN,hostless.club
@@ -1559,7 +1560,6 @@ payload:
 - DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
-- DOMAIN,chr.kepegawaiandju.id
 - DOMAIN,dns.kerekes.xyz
 - DOMAIN,dns.kernel-error.de
 - DOMAIN,dns.kescher.at
@@ -2432,7 +2432,6 @@ payload:
 - DOMAIN,tiger.dns.qwer.pw
 - DOMAIN,resolver.r0cket.net
 - DOMAIN,r1bnc.com
-- DOMAIN,resolve2.r9x.cc
 - DOMAIN,ra4wvpn.com
 - DOMAIN,dns.rabbitdns.org
 - DOMAIN,family.rabbitdns.org
