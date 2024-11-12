@@ -255,7 +255,6 @@ payload:
 - DOMAIN,dandelionsprout.asuscomm.com
 - DOMAIN,adguardhome.atakorah.com
 - DOMAIN,atlasvpn.com
-- DOMAIN,atomicstudios.info
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,dns.auapi.fun
@@ -327,7 +326,6 @@ payload:
 - DOMAIN,bettervpn.com
 - DOMAIN,bgvpn.com
 - DOMAIN,bi-tree.ru
-- DOMAIN,biip.info
 - DOMAIN,ns3.bit-trail.nl
 - DOMAIN,dns.bitdefender.net
 - DOMAIN,fra-dns.bitdefender.net
@@ -952,6 +950,7 @@ payload:
 - DOMAIN,adguard.easez.net
 - DOMAIN,easyhandshake.com
 - DOMAIN,easynetwork.info
+- DOMAIN,easyproxy.tech
 - DOMAIN,easyvpn.com
 - DOMAIN,ebookdz.com
 - DOMAIN,ebumna.net
@@ -1297,7 +1296,6 @@ payload:
 - DOMAIN,dns.hanmey.de
 - DOMAIN,hanniel.tech
 - DOMAIN,dns.hannielzhang.com
-- DOMAIN,happy-vpn.com
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
@@ -1497,7 +1495,6 @@ payload:
 - DOMAIN,smellypay.isreally.pro
 - DOMAIN,stuffyschicken.isreallycool.lol
 - DOMAIN,itopvpn.com
-- DOMAIN,diy.itsa.top
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
 - DOMAIN,ivnkn.xyz
@@ -1648,7 +1645,6 @@ payload:
 - DOMAIN,liquidvpn.com
 - DOMAIN,dns.listo.click
 - DOMAIN,litebrowser.net
-- DOMAIN,literally.info
 - DOMAIN,litevpn.top
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
@@ -1685,7 +1681,6 @@ payload:
 - DOMAIN,maqgie.xyz
 - DOMAIN,dns.marasov.id
 - DOMAIN,dns.marbledfennec.net
-- DOMAIN,market-id-auto.com
 - DOMAIN,ag.marschi.de
 - DOMAIN,adguard.marto.si
 - DOMAIN,doh.maskab.com
@@ -2073,6 +2068,7 @@ payload:
 - DOMAIN,dns.oszx.co
 - DOMAIN,ourproxy.net
 - DOMAIN,dns.ours.luxe
+- DOMAIN,dns.ourvau.lt
 - DOMAIN,overplay.net
 - DOMAIN,vps-33e5a7f3.vps.ovh.us
 - DOMAIN,ovpn.com
@@ -2294,7 +2290,6 @@ payload:
 - DOMAIN,proxy-2015.info
 - DOMAIN,proxy-anywhere.com
 - DOMAIN,proxy-bypass.com
-- DOMAIN,proxy-deal.net
 - DOMAIN,proxy-german.de
 - DOMAIN,proxy-hypo.net
 - DOMAIN,proxy-internet.info
@@ -2321,6 +2316,7 @@ payload:
 - DOMAIN,proxybrowser.xyz
 - DOMAIN,proxybrowsing.com
 - DOMAIN,proxybuss.com
+- DOMAIN,proxycdn.college
 - DOMAIN,proxycloud.net
 - DOMAIN,proxycloyd.com
 - DOMAIN,proxydrop.com
@@ -2351,7 +2347,6 @@ payload:
 - DOMAIN,proxyof.com
 - DOMAIN,proxyone.net
 - DOMAIN,proxypremium.top
-- DOMAIN,proxyprivate.info
 - DOMAIN,proxypx.com
 - DOMAIN,proxypy.org
 - DOMAIN,proxyrooms.com
@@ -2459,6 +2454,7 @@ payload:
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redproxy.info
 - DOMAIN,redschool.info
+- DOMAIN,dns.redvau.lt
 - DOMAIN,reflect4.me
 - DOMAIN,dns.reitmeier.me
 - DOMAIN,relayon.org
@@ -2707,7 +2703,6 @@ payload:
 - DOMAIN,stackfront.xyz
 - DOMAIN,stargate.one
 - DOMAIN,starruby.us
-- DOMAIN,starrynight.site
 - DOMAIN,starssh.com
 - DOMAIN,ams1.startpage.com
 - DOMAIN,ams2.startpage.com
@@ -3164,7 +3159,6 @@ payload:
 - DOMAIN,unrestricter.com
 - DOMAIN,unrestricter.org
 - DOMAIN,unrestrictor.com
-- DOMAIN,untraceable.us
 - DOMAIN,untracer.com
 - DOMAIN,dns.unx.io
 - DOMAIN,dns.uplenk.com
@@ -3374,7 +3368,6 @@ payload:
 - DOMAIN,webtester.cc
 - DOMAIN,webtunnel.org
 - DOMAIN,webxify.com
-- DOMAIN,webypass.info
 - DOMAIN,dns.wechat.com
 - DOMAIN,wellpoint.com
 - DOMAIN,wevpn.com
@@ -3436,6 +3429,7 @@ payload:
 - DOMAIN,xitesite.com
 - DOMAIN,xjumper.com
 - DOMAIN,dns.xlion.tw
+- DOMAIN,xn--28jub1g.jp
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
 - DOMAIN,dns.xuming.studio
@@ -3492,6 +3486,7 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
+- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
