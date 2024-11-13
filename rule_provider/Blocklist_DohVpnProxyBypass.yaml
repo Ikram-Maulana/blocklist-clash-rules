@@ -257,7 +257,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn.avg.tools.avast.com
@@ -1993,7 +1992,6 @@ payload:
 - DOMAIN,onconnect.info
 - DOMAIN,one.one.one.one
 - DOMAIN,doh.onedns.net
-- DOMAIN,secure.onedns.cc
 - DOMAIN,onedown.info
 - DOMAIN,oneproxy.biz
 - DOMAIN,oneproxy.xyz
