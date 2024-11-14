@@ -2229,6 +2229,7 @@ payload:
 - DOMAIN,de.dns.privex.io
 - DOMAIN,nl.dns.privex.io
 - DOMAIN,privoxy.org
+- DOMAIN,pro-tower.com
 - DOMAIN,project-evoex.de
 - DOMAIN,prontoproxy.info
 - DOMAIN,propage.info
@@ -2656,6 +2657,7 @@ payload:
 - DOMAIN,www-proxy.sodemc.com
 - DOMAIN,clientdns3.softcom.net
 - DOMAIN,free-vpn.en.softonic.com
+- DOMAIN,soleilvpn-app.com
 - DOMAIN,solidproxy.net
 - DOMAIN,sourceproxy.com
 - DOMAIN,spacedns.org
