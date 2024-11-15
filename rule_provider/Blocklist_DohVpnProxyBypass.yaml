@@ -1406,7 +1406,6 @@ payload:
 - DOMAIN,dns.hypercute.eu
 - DOMAIN,i2p-projekt.de
 - DOMAIN,i2pd.xyz
-- DOMAIN,dns.bw.i81.ru
 - DOMAIN,vd.i81.ru
 - DOMAIN,vpn.i81.ru
 - DOMAIN,dns.iamanuragh.in
@@ -2934,6 +2933,7 @@ payload:
 - DOMAIN,towervpn.com
 - DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
+- DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
@@ -3245,6 +3245,7 @@ payload:
 - DOMAIN,vpn-for-test.ru
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
+- DOMAIN,vpn-professional.company
 - DOMAIN,vpn-server.xyz
 - DOMAIN,vpn4all.com
 - DOMAIN,vpn99.net
