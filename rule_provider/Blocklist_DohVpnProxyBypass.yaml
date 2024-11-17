@@ -54,6 +54,7 @@ payload:
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
 - DOMAIN,doh003.280blocker.net
+- DOMAIN,28383829.com
 - DOMAIN,28383829.site
 - DOMAIN,2fastsurfer.com
 - DOMAIN,2fastsurfer.eu
@@ -686,6 +687,7 @@ payload:
 - DOMAIN,croxy.network
 - DOMAIN,croxy.org
 - DOMAIN,croxy.red
+- DOMAIN,croxy.rocks
 - DOMAIN,croxyproxy.best
 - DOMAIN,croxyproxy.com
 - DOMAIN,croxyproxy.net
