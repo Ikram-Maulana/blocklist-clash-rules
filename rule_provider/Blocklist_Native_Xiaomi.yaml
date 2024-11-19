@@ -180,6 +180,8 @@ payload:
 - DOMAIN,api.vip.miui.com
 - DOMAIN,www.miui.net
 - DOMAIN,intl.up.w.xk.miui.com
+- DOMAIN,rus-mi.com
+- DOMAIN,www.rus-mi.com
 - DOMAIN,traffic-media.co
 - DOMAIN,imgg.traffic-media.co
 - DOMAIN,www.traffic-media.co
