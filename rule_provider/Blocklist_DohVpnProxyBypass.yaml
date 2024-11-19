@@ -262,6 +262,7 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
+- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn.avg.tools.avast.com
@@ -2874,7 +2875,6 @@ payload:
 - DOMAIN,dns.t53.de
 - DOMAIN,tailscale.com
 - DOMAIN,talk2m.com
-- DOMAIN,adguard.taxiora.tn
 - DOMAIN,tbjr6.com
 - DOMAIN,tbjr6.net
 - DOMAIN,tbjr6.org
