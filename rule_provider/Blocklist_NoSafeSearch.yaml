@@ -19,12 +19,14 @@ payload:
 - DOMAIN,baidu.com
 - DOMAIN,baresearch.org
 - DOMAIN,searx.bbaovanc.com
+- DOMAIN,beezboo.com
 - DOMAIN,search.biboumail.fr
 - DOMAIN,searx.bissisoft.com
 - DOMAIN,search.bluelock.org
 - DOMAIN,boomle.com
 - DOMAIN,search.bowlman.org
 - DOMAIN,search.bus-hit.me
+- DOMAIN,searx.catfluori.de
 - DOMAIN,sx.catgirl.cloud
 - DOMAIN,search.aol.co.uk
 - DOMAIN,websearch.excite.co.jp
@@ -70,6 +72,7 @@ payload:
 - DOMAIN,searx.gnu.style
 - DOMAIN,searx.gotrust.de
 - DOMAIN,gruble.de
+- DOMAIN,searx.guillaumea.fr
 - DOMAIN,hmsearx.h0meserver.com
 - DOMAIN,searx.hardwired.link
 - DOMAIN,whoogle.hostux.net
@@ -153,6 +156,7 @@ payload:
 - DOMAIN,search.in.projectsegfau.lt
 - DOMAIN,search.projectsegfau.lt
 - DOMAIN,search.us.projectsegfau.lt
+- DOMAIN,searx.prvcy.eu
 - DOMAIN,librex.pufe.org
 - DOMAIN,lite.qwant.com
 - DOMAIN,search.rabbit-company.com
@@ -164,6 +168,7 @@ payload:
 - DOMAIN,wtf.roflcopter.fr
 - DOMAIN,roteserver.de
 - DOMAIN,search.rowie.at
+- DOMAIN,search.rubberverse.xyz
 - DOMAIN,search.sapti.me
 - DOMAIN,searchencrypt.com
 - DOMAIN,searchx.mobi

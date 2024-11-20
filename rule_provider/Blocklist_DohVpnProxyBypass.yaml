@@ -676,6 +676,7 @@ payload:
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,corsproxy.io
+- DOMAIN,coverproxy.com
 - DOMAIN,doh.cox.net
 - DOMAIN,dot.cox.net
 - DOMAIN,dohdot.coxlab.net
@@ -1053,6 +1054,7 @@ payload:
 - DOMAIN,apple-relay.fastly-edge.com
 - DOMAIN,fastp.org
 - DOMAIN,fastpro.info
+- DOMAIN,fastproxy.nl
 - DOMAIN,fastproxy.org
 - DOMAIN,fastproxynetwork.com
 - DOMAIN,fastssh.com
@@ -1163,6 +1165,7 @@ payload:
 - DOMAIN,freeproxyweb.net
 - DOMAIN,freesafeip.com
 - DOMAIN,freesupervpn.com
+- DOMAIN,freesurfproxy.com
 - DOMAIN,freetrialvpn.com
 - DOMAIN,freeukvpn.com
 - DOMAIN,freevideoproxy.com
@@ -1293,6 +1296,7 @@ payload:
 - DOMAIN,graef.in
 - DOMAIN,granules.us
 - DOMAIN,gratisproxy.nl
+- DOMAIN,gratisvpn.com
 - DOMAIN,greatestfreeproxy.com
 - DOMAIN,greatideasforlife.lol
 - DOMAIN,greenpass.info
@@ -1375,6 +1379,7 @@ payload:
 - DOMAIN,hidevpn.info
 - DOMAIN,hideway.eu
 - DOMAIN,hideweb.org
+- DOMAIN,hidexy.com
 - DOMAIN,hidingit.com
 - DOMAIN,hidingyour.info
 - DOMAIN,hiload.in
@@ -1414,6 +1419,7 @@ payload:
 - DOMAIN,hotbot.com
 - DOMAIN,hotbotvpn.com
 - DOMAIN,hotfreevpn.com
+- DOMAIN,purchase-some.hotglue.click
 - DOMAIN,hotspotshield.com
 - DOMAIN,hotspotvpn.com
 - DOMAIN,dns.hotta.page
@@ -1563,6 +1569,7 @@ payload:
 - DOMAIN,dns.jstockley.com
 - DOMAIN,judua3rtinpst0s.xyz
 - DOMAIN,dns.jundev.org
+- DOMAIN,jupitervpn.ninja
 - DOMAIN,dns.jupitrdns.com
 - DOMAIN,juproxy.com
 - DOMAIN,ad.justincounts.com
@@ -1621,6 +1628,7 @@ payload:
 - DOMAIN,adguard.kss.ovh
 - DOMAIN,dns.kukal.cz
 - DOMAIN,dns.kumoumi.net
+- DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
 - DOMAIN,dns.kxy.ink
@@ -2056,6 +2064,7 @@ payload:
 - DOMAIN,onion.casa
 - DOMAIN,onion.city
 - DOMAIN,onion.direct
+- DOMAIN,onion.dog
 - DOMAIN,onion.gq
 - DOMAIN,onion.link
 - DOMAIN,onion.lt
@@ -2414,6 +2423,8 @@ payload:
 - DOMAIN,proxynova.com
 - DOMAIN,proxyof.com
 - DOMAIN,proxyone.net
+- DOMAIN,proxyoutlet.com
+- DOMAIN,proxypirates.com
 - DOMAIN,proxypremium.top
 - DOMAIN,proxypx.com
 - DOMAIN,proxypy.org
@@ -2456,6 +2467,7 @@ payload:
 - DOMAIN,publicdnsserver.com
 - DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
+- DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
 - DOMAIN,dns-privacy.puregeni.us
 - DOMAIN,purevpn.com
@@ -2553,6 +2565,7 @@ payload:
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
+- DOMAIN,dns.rootlab.top
 - DOMAIN,dns.rotunneling.net
 - DOMAIN,roundrockisd.online
 - DOMAIN,roxy2link.com
@@ -2574,6 +2587,7 @@ payload:
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
 - DOMAIN,agh-yz.russel053.com
+- DOMAIN,drs.rustsword.com
 - DOMAIN,rusvpn.com
 - DOMAIN,rvpn.ws
 - DOMAIN,dns1.ryan-palmer.com
@@ -2859,6 +2873,7 @@ payload:
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
 - DOMAIN,swapip.com
+- DOMAIN,swiftshieldvpn.com
 - DOMAIN,dns.swin.pro
 - DOMAIN,swissvpn.net
 - DOMAIN,switch.ch
@@ -3036,6 +3051,7 @@ payload:
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
+- DOMAIN,tubeunblock.net
 - DOMAIN,tujenasnaszato.xyz
 - DOMAIN,tunnelbear.com
 - DOMAIN,turbohide.org
@@ -3222,6 +3238,7 @@ payload:
 - DOMAIN,unblockyouku.com
 - DOMAIN,unblockyouku.org
 - DOMAIN,unblockyoutube.co
+- DOMAIN,unblockyoutube.eu
 - DOMAIN,unblockyoutube.video
 - DOMAIN,unblockyoutubeatschool.com
 - DOMAIN,unblockyoutubefree.net
@@ -3283,6 +3300,7 @@ payload:
 - DOMAIN,tor.vasi.li
 - DOMAIN,dns.vault81.de
 - DOMAIN,vblocker.info
+- DOMAIN,vectroproxy.com
 - DOMAIN,veepn.com
 - DOMAIN,art-class-omg.vercel.app
 - DOMAIN,asdsasd.vercel.app
@@ -3298,6 +3316,7 @@ payload:
 - DOMAIN,videocollage.us
 - DOMAIN,videoproxy.site
 - DOMAIN,videounblock.com
+- DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
 - DOMAIN,viewyoutube.net
@@ -3407,6 +3426,7 @@ payload:
 - DOMAIN,vpnv6.com
 - DOMAIN,vpnvip.com
 - DOMAIN,antispam.vpnvps.com
+- DOMAIN,vpnwebsite.com
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,vtcuong.site
@@ -3436,6 +3456,7 @@ payload:
 - DOMAIN,doh.webnmail.de
 - DOMAIN,weboproxy.com
 - DOMAIN,webpro.xyz
+- DOMAIN,webproxy.best
 - DOMAIN,webproxy.com
 - DOMAIN,webproxy.online
 - DOMAIN,webproxy.to
@@ -3443,6 +3464,7 @@ payload:
 - DOMAIN,webproxyagent.com
 - DOMAIN,webproxyfree.net
 - DOMAIN,webproxyinc.com
+- DOMAIN,webproxyusa.com
 - DOMAIN,webrunnerproxy.com
 - DOMAIN,webshare.io
 - DOMAIN,janvet.website.pl
@@ -3453,6 +3475,7 @@ payload:
 - DOMAIN,websynchrony.com
 - DOMAIN,webtester.cc
 - DOMAIN,webtunnel.org
+- DOMAIN,webtunnelx.com
 - DOMAIN,webxify.com
 - DOMAIN,dns.wechat.com
 - DOMAIN,wellpoint.com
@@ -3552,6 +3575,7 @@ payload:
 - DOMAIN,youtubebyclick.com
 - DOMAIN,youtubefreeproxy.net
 - DOMAIN,youtubeunblocked.live
+- DOMAIN,youtubeunblocked.org
 - DOMAIN,youtubez.com
 - DOMAIN,yovbak.com
 - DOMAIN,yoyovpn.org

@@ -138,6 +138,7 @@ payload:
 - DOMAIN,mdp-appconf-lk.heytapdl.com
 - DOMAIN,mdp-appconf-ly.heytapdl.com
 - DOMAIN,mdp-appconf-ma.heytapdl.com
+- DOMAIN,mdp-appconf-me.heytapdl.com
 - DOMAIN,mdp-appconf-mea.heytapdl.com
 - DOMAIN,mdp-appconf-mm.heytapdl.com
 - DOMAIN,mdp-appconf-mx.heytapdl.com
@@ -159,6 +160,7 @@ payload:
 - DOMAIN,mdp-appconf-qa.heytapdl.com
 - DOMAIN,mdp-appconf-ro.heytapdl.com
 - DOMAIN,mdp-appconf-row.heytapdl.com
+- DOMAIN,mdp-appconf-rs.heytapdl.com
 - DOMAIN,mdp-appconf-ru.heytapdl.com
 - DOMAIN,mdp-appconf-sa.heytapdl.com
 - DOMAIN,mdp-appconf-sg.heytapdl.com
