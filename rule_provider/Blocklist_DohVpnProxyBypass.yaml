@@ -265,7 +265,6 @@ payload:
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,dns.auapi.fun
-- DOMAIN,autismawareness.design
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn.avg.tools.avast.com
@@ -487,7 +486,6 @@ payload:
 - DOMAIN,chromebook.digital
 - DOMAIN,dns.chromeina.top
 - DOMAIN,chromeproxy.net
-- DOMAIN,chubsinfestation.design
 - DOMAIN,oraclejp2.chungyu.com
 - DOMAIN,c.cicitt.ch
 - DOMAIN,cienen.com
@@ -498,7 +496,6 @@ payload:
 - DOMAIN,mus.cisco.com
 - DOMAIN,ciscossh.com
 - DOMAIN,citizenvpn.com
-- DOMAIN,citrik.design
 - DOMAIN,dns.clanless.ovh
 - DOMAIN,dns.clanto.cloud
 - DOMAIN,cleanbrowsing.org
@@ -666,7 +663,7 @@ payload:
 - DOMAIN,doh.viatech.com.tw
 - DOMAIN,webproxy.com.de
 - DOMAIN,dns.comff.net
-- DOMAIN,commanders.design
+- DOMAIN,edit.commanders.design
 - DOMAIN,commonapp.college
 - DOMAIN,commons.host
 - DOMAIN,easy-vpn.comodo.com
@@ -945,7 +942,6 @@ payload:
 - DOMAIN,doh.pub
 - DOMAIN,doh.sb
 - DOMAIN,doh.xyz
-- DOMAIN,doityourselfcrafts.design
 - DOMAIN,dolopo.net
 - DOMAIN,domainownership.us
 - DOMAIN,doh.domreg.lt
@@ -1052,7 +1048,6 @@ payload:
 - DOMAIN,dns.extrawdw.net
 - DOMAIN,fra1.eyecay.xyz
 - DOMAIN,dns.ezyss.id
-- DOMAIN,f0lga.tech
 - DOMAIN,dns.f4a.fun
 - DOMAIN,f4fp.com
 - DOMAIN,jp1.f7b6h9.tk
@@ -1138,7 +1133,6 @@ payload:
 - DOMAIN,flyvpn.com
 - DOMAIN,gateway.fomichev.cloud
 - DOMAIN,for-privacy.net
-- DOMAIN,cranking90s.fortnitebuilder.pro
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
 - DOMAIN,fproxy.net
@@ -1563,7 +1557,6 @@ payload:
 - DOMAIN,iweb365.net
 - DOMAIN,ixl.plus
 - DOMAIN,jabber-germany.de
-- DOMAIN,jackandthebeanstalk.design
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
 - DOMAIN,jailbreaked.net
@@ -1770,7 +1763,6 @@ payload:
 - DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
-- DOMAIN,mathnotes.icu
 - DOMAIN,maxfong.cc
 - DOMAIN,maxvpn.info
 - DOMAIN,dns.maybe.icu
@@ -2548,7 +2540,6 @@ payload:
 - DOMAIN,dns.api.rackspacecloud.com
 - DOMAIN,radmin-vpn.com
 - DOMAIN,dns.rafn.is
-- DOMAIN,rakhmatullo.gay
 - DOMAIN,ns.ral9005.org
 - DOMAIN,rapidprivacy.com
 - DOMAIN,rapidproxy.org
@@ -2675,7 +2666,6 @@ payload:
 - DOMAIN,secretproxy.org
 - DOMAIN,secretsline.biz
 - DOMAIN,secretsline.org
-- DOMAIN,secure-vpn.com
 - DOMAIN,vpncenter.avg.securebrowser.com
 - DOMAIN,vpncenter-tenta.securebrowser.com
 - DOMAIN,securefor.com
@@ -2951,7 +2941,6 @@ payload:
 - DOMAIN,dns.soldier.terumi.club
 - DOMAIN,teruteruteruko.com
 - DOMAIN,dns.tesem.dog
-- DOMAIN,tutoeerials.tether-dev.com
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com
@@ -3020,10 +3009,7 @@ payload:
 - DOMAIN,timetohide.me
 - DOMAIN,timmes.nl
 - DOMAIN,adb.timnichollsphotography.com
-- DOMAIN,tinf0il.design
-- DOMAIN,tinf0il.online
 - DOMAIN,tinf0il.tech
-- DOMAIN,tinfoil-is-ass.xyz
 - DOMAIN,dns.tipsy.coffee
 - DOMAIN,titaniumnetwork.org
 - DOMAIN,dns.tls-data.de
