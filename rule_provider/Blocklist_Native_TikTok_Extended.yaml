@@ -194,6 +194,7 @@ payload:
 - DOMAIN,gecko31-normal-alisg.tiktokv.com
 - DOMAIN,gecko31-normal-useast1a.tiktokv.com
 - DOMAIN,gecko31-normal-useast2a.tiktokv.com
+- DOMAIN,lemon8-api.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com
@@ -436,3 +437,9 @@ payload:
 - DOMAIN,xlog16-normal-c-useast2a.tiktokv.com
 - DOMAIN,xlog16-platform-ycru.tiktokv.com
 - DOMAIN,xlog16-tmp-normal-useast1a.tiktokv.com
+- DOMAIN,ads-ie.tiktokw.eu
+- DOMAIN,ads-ttp2.tiktokw.eu
+- DOMAIN,analytics-ie.tiktokw.eu
+- DOMAIN,analytics-ttp2.tiktokw.eu
+- DOMAIN,mcs-ie.tiktokw.eu
+- DOMAIN,mcs-ie2.tiktokw.eu
