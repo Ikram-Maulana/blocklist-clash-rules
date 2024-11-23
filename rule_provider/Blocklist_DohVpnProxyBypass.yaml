@@ -175,6 +175,7 @@ payload:
 - DOMAIN,vps.alloxr.info
 - DOMAIN,allunblocked.com
 - DOMAIN,dns.almir1904.eu
+- DOMAIN,alphabr.online
 - DOMAIN,alphabrowser.xyz
 - DOMAIN,adguard.alu.dog
 - DOMAIN,aluu.xyz
@@ -1350,7 +1351,6 @@ payload:
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,headproxy.com
-- DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,helloworld.cx
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helpmehide.net
@@ -1691,6 +1691,7 @@ payload:
 - DOMAIN,dns.lihj.me
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
+- DOMAIN,michelo.line.pm
 - DOMAIN,linkideo.com
 - DOMAIN,linkmefree.net
 - DOMAIN,linkmetube.com
@@ -3544,6 +3545,7 @@ payload:
 - DOMAIN,worldvpn.net
 - DOMAIN,wossow.com
 - DOMAIN,home.wriedts.de
+- DOMAIN,writingessaypros.com
 - DOMAIN,wtools.eu
 - DOMAIN,ns2.wuyouss.com
 - DOMAIN,ns3.wuyouss.com
