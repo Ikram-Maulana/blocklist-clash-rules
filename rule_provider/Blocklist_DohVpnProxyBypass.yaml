@@ -1351,6 +1351,7 @@ payload:
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,headproxy.com
+- DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,helloworld.cx
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helpmehide.net
@@ -1609,7 +1610,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
