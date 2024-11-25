@@ -440,6 +440,7 @@ payload:
 - DOMAIN,a.ads2.msads.net
 - DOMAIN,b.ads2.msads.net
 - DOMAIN,www.msads.net
+- DOMAIN,win10-trt.msedge.net
 - DOMAIN,ad.msn.com
 - DOMAIN,adevents.msn.com
 - DOMAIN,ads.msn.com

@@ -266,7 +266,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -666,7 +665,6 @@ payload:
 - DOMAIN,doh.viatech.com.tw
 - DOMAIN,webproxy.com.de
 - DOMAIN,dns.comff.net
-- DOMAIN,edit.commanders.design
 - DOMAIN,commonapp.college
 - DOMAIN,commons.host
 - DOMAIN,easy-vpn.comodo.com
@@ -696,7 +694,6 @@ payload:
 - DOMAIN,www.c.cpfrx.info
 - DOMAIN,e.cpfrx.info
 - DOMAIN,crawlbase.com
-- DOMAIN,crazyproxy.org
 - DOMAIN,crazysurfer.info
 - DOMAIN,createssh.com
 - DOMAIN,createssh.net
@@ -812,7 +809,6 @@ payload:
 - DOMAIN,dns0.eu
 - DOMAIN,doh.dns4all.eu
 - DOMAIN,dns4me.net
-- DOMAIN,dns8.org
 - DOMAIN,ns1.recursive.dnsbycomodo.com
 - DOMAIN,ns2.recursive.dnsbycomodo.com
 - DOMAIN,2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1288,6 +1284,7 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
+- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1611,6 +1608,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -1725,7 +1723,6 @@ payload:
 - DOMAIN,dns.luma-medien.com
 - DOMAIN,luminati.io
 - DOMAIN,luminatinet.com
-- DOMAIN,lurk.info
 - DOMAIN,dns.lvolland.fr
 - DOMAIN,orau.lz0724.com
 - DOMAIN,addns1.m-it.ro
@@ -2390,8 +2387,6 @@ payload:
 - DOMAIN,proxy-anywhere.com
 - DOMAIN,proxy-bypass.com
 - DOMAIN,proxy-german.de
-- DOMAIN,proxy-hypo.net
-- DOMAIN,proxy-internet.info
 - DOMAIN,proxy-n-vpn.com
 - DOMAIN,proxy-search.com
 - DOMAIN,proxy-seller.com
@@ -2592,7 +2587,6 @@ payload:
 - DOMAIN,dns.rootlab.top
 - DOMAIN,dns.rotunneling.net
 - DOMAIN,roundrockisd.online
-- DOMAIN,roxy2link.com
 - DOMAIN,o.rsaikat.com
 - DOMAIN,au.rslvr.eu
 - DOMAIN,bg.rslvr.eu
@@ -2800,7 +2794,6 @@ payload:
 - DOMAIN,sriedmueadguard.casa
 - DOMAIN,adguard.sscw.win
 - DOMAIN,ssh-free.com
-- DOMAIN,sshagan.net
 - DOMAIN,sshdropbear.net
 - DOMAIN,sshkit.com
 - DOMAIN,sshmax.net
@@ -2845,7 +2838,6 @@ payload:
 - DOMAIN,stunnel.org
 - DOMAIN,stupidproxy.com
 - DOMAIN,doh.suche.org
-- DOMAIN,suedeproxy.info
 - DOMAIN,local.sufly.top
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,suissl.com
