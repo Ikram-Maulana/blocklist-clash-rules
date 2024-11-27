@@ -1284,7 +1284,6 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1799,6 +1798,7 @@ payload:
 - DOMAIN,dns.mihanentalpo.me
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
+- DOMAIN,dns.milkpie.one
 - DOMAIN,minilla.store
 - DOMAIN,miniprox.com
 - DOMAIN,miniprox.info
