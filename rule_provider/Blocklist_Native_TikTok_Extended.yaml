@@ -195,6 +195,8 @@ payload:
 - DOMAIN,gecko31-normal-useast1a.tiktokv.com
 - DOMAIN,gecko31-normal-useast2a.tiktokv.com
 - DOMAIN,lemon8-api.tiktokv.com
+- DOMAIN,lemonapi16-normal-alisg.tiktokv.com
+- DOMAIN,lemonapi22-normal-alisg.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com
@@ -425,6 +427,7 @@ payload:
 - DOMAIN,webcast-frontier22-normal-alisg.tiktokv.com
 - DOMAIN,webcast-frontier22-normal-useast1a.tiktokv.com
 - DOMAIN,webcast-frontier22-normal-useast2a.tiktokv.com
+- DOMAIN,webcast-frontier23-normal-useast1a.tiktokv.com
 - DOMAIN,webcast-frontier32-alisg.tiktokv.com
 - DOMAIN,webcast-frontier32-normal-alisg.tiktokv.com
 - DOMAIN,webcast-frontier32-normal-useast1a.tiktokv.com

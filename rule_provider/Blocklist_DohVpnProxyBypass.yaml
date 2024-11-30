@@ -1050,6 +1050,7 @@ payload:
 - DOMAIN,dns.f4a.fun
 - DOMAIN,f4fp.com
 - DOMAIN,jp1.f7b6h9.tk
+- DOMAIN,dns.f97.xyz
 - DOMAIN,faceless.me
 - DOMAIN,pdns.faelix.net
 - DOMAIN,rdns.faelix.net
@@ -2934,7 +2935,6 @@ payload:
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.soldier.terumi.club
 - DOMAIN,teruteruteruko.com
-- DOMAIN,dns.tesem.dog
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com

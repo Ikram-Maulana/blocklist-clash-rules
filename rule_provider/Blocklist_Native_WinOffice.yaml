@@ -136,6 +136,7 @@ payload:
 - DOMAIN,auc-visio-telemetry.officeapps.live.com
 - DOMAIN,brc-visio-telemetry.officeapps.live.com
 - DOMAIN,cac-visio-telemetry.officeapps.live.com
+- DOMAIN,chc-visio-telemetry.officeapps.live.com
 - DOMAIN,dec-visio-telemetry.officeapps.live.com
 - DOMAIN,euc-excel-telemetry.officeapps.live.com
 - DOMAIN,euc-onenote-telemetry.officeapps.live.com

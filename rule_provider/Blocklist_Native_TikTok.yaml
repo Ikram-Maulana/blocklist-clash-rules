@@ -107,6 +107,8 @@ payload:
 - DOMAIN,mssdk.us.tiktok.com
 - DOMAIN,mssdk-ttp2.us.tiktok.com
 - DOMAIN,lemon8-api.tiktokv.com
+- DOMAIN,lemonapi16-normal-alisg.tiktokv.com
+- DOMAIN,lemonapi22-normal-alisg.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com
