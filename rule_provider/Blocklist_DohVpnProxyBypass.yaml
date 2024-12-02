@@ -1252,6 +1252,7 @@ payload:
 - DOMAIN,getproxi.es
 - DOMAIN,getproxylist.com
 - DOMAIN,getsiteunblocked.com
+- DOMAIN,gettwifi.com
 - DOMAIN,getusvpn.com
 - DOMAIN,getvpn.info
 - DOMAIN,getvpnx.com
@@ -1959,11 +1960,6 @@ payload:
 - DOMAIN,newads-cdn.com
 - DOMAIN,help.newhopes.info
 - DOMAIN,newipnow.com
-- DOMAIN,dns1.au.newpangea.de
-- DOMAIN,dns1.cl.newpangea.de
-- DOMAIN,dns1.in.newpangea.de
-- DOMAIN,dns1.sg.newpangea.de
-- DOMAIN,dns1.us.newpangea.de
 - DOMAIN,newshosting.com
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
