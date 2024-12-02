@@ -251,7 +251,6 @@ payload:
 - DOMAIN,dns.ares-taiwan.com
 - DOMAIN,dns.arkbotech.com
 - DOMAIN,nsec.arnor.org
-- DOMAIN,artclass.lol
 - DOMAIN,artclass.site
 - DOMAIN,dns.artikel10.org
 - DOMAIN,doh.asagiri.moe
@@ -648,6 +647,7 @@ payload:
 - DOMAIN,fastest-proxy.com.de
 - DOMAIN,free-proxy.com.de
 - DOMAIN,adguard.frutuozo.com.br
+- DOMAIN,adguard.gbrossi.com.br
 - DOMAIN,german-proxy.com.de
 - DOMAIN,germany-proxy.com.de
 - DOMAIN,dns.joaofidelix.com.br
@@ -1171,6 +1171,7 @@ payload:
 - DOMAIN,freeproxy.asia
 - DOMAIN,freeproxy.io
 - DOMAIN,freeproxy.me
+- DOMAIN,freeproxy.top
 - DOMAIN,freeproxy.win
 - DOMAIN,freeproxyaccess.com
 - DOMAIN,freeproxyserver.co
@@ -2814,6 +2815,13 @@ payload:
 - DOMAIN,ams1.startpage.com
 - DOMAIN,ams2.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu-proxy.startpage.com
+- DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy.startpage.com
+- DOMAIN,proxy1.startpage.com
+- DOMAIN,proxy2.startpage.com
+- DOMAIN,us-browse.startpage.com
+- DOMAIN,us-proxy.startpage.com
 - DOMAIN,dns.startupstack.tech
 - DOMAIN,starvpn.com
 - DOMAIN,staticnetcontent.com
