@@ -646,7 +646,6 @@ payload:
 - DOMAIN,fastest-proxy.com.de
 - DOMAIN,free-proxy.com.de
 - DOMAIN,adguard.frutuozo.com.br
-- DOMAIN,adguard.gbrossi.com.br
 - DOMAIN,german-proxy.com.de
 - DOMAIN,germany-proxy.com.de
 - DOMAIN,dns.joaofidelix.com.br
@@ -2621,7 +2620,6 @@ payload:
 - DOMAIN,safetysurf.net
 - DOMAIN,safeunblock.com
 - DOMAIN,vpn.sakhwow.ru
-- DOMAIN,dns.salonia.it
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandparticles.us
 - DOMAIN,saoudiproxy.info
@@ -3276,6 +3274,7 @@ payload:
 - DOMAIN,unknownproxy.com
 - DOMAIN,unlimitedvpnapp.com
 - DOMAIN,unlocator.com
+- DOMAIN,unmoor.com
 - DOMAIN,unrestrict.me
 - DOMAIN,unrestrictedsurf.com
 - DOMAIN,unrestricter.com
@@ -3572,7 +3571,6 @@ payload:
 - DOMAIN,xvbelink.com
 - DOMAIN,xvpn.io
 - DOMAIN,v2.xx3210766.live
-- DOMAIN,dns.yague.me
 - DOMAIN,dns.yameenassotally.com
 - DOMAIN,2.dnscrypt-cert.browser.yandex.net
 - DOMAIN,dns.yandex.ru
