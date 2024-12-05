@@ -1050,6 +1050,7 @@ payload:
 - DOMAIN,jp1.f7b6h9.tk
 - DOMAIN,dns.f97.xyz
 - DOMAIN,faceless.me
+- DOMAIN,proxy.facil.wtf
 - DOMAIN,pdns.faelix.net
 - DOMAIN,rdns.faelix.net
 - DOMAIN,dns.faked.org
@@ -1285,7 +1286,6 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
