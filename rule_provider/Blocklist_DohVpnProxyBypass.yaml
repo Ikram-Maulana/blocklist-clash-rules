@@ -470,7 +470,6 @@ payload:
 - DOMAIN,cfdjb.org
 - DOMAIN,ibuki.cgnat.net
 - DOMAIN,dns.chadeyron.fr
-- DOMAIN,chandr1000.net
 - DOMAIN,changemyip.com
 - DOMAIN,chaos-system.de
 - DOMAIN,dns.charraud.eu
@@ -763,7 +762,6 @@ payload:
 - DOMAIN,dns.dekedin.me
 - DOMAIN,adguard.dekonix.ru
 - DOMAIN,doh.denypradana.com
-- DOMAIN,adguard.depieri.net
 - DOMAIN,deproxyserver.com
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
@@ -1286,6 +1284,7 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
+- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1316,7 +1315,6 @@ payload:
 - DOMAIN,gratisproxy.nl
 - DOMAIN,gratisvpn.com
 - DOMAIN,greatestfreeproxy.com
-- DOMAIN,greatideasforlife.lol
 - DOMAIN,greenpass.info
 - DOMAIN,greenproxy.net
 - DOMAIN,greenssh.com
@@ -1337,7 +1335,6 @@ payload:
 - DOMAIN,h-vpn.org
 - DOMAIN,h0w.cc
 - DOMAIN,dns.hahnjo.de
-- DOMAIN,doh.hajekj.net
 - DOMAIN,dns.haka.se
 - DOMAIN,dns.hakim.one
 - DOMAIN,dns.hanahira.dev
@@ -2007,7 +2004,6 @@ payload:
 - DOMAIN,pi1.node15.com
 - DOMAIN,nodepay.ai
 - DOMAIN,dns.nodoa.me
-- DOMAIN,noip.com
 - DOMAIN,sink.nolo.ltd
 - DOMAIN,paulo.nom.za
 - DOMAIN,ttag.dns.nomu.pw
@@ -2264,7 +2260,6 @@ payload:
 - DOMAIN,doh.port53.dk
 - DOMAIN,portalssh.com
 - DOMAIN,dns.porteii.com
-- DOMAIN,portmap.host
 - DOMAIN,portmap.io
 - DOMAIN,portssh.com
 - DOMAIN,potatovpn.io
