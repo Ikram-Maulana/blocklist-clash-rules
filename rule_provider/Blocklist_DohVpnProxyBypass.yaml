@@ -1605,7 +1605,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -2238,7 +2237,6 @@ payload:
 - DOMAIN,pm1239-bd.xyz
 - DOMAIN,pm7051-br.xyz
 - DOMAIN,pm9352-bd.xyz
-- DOMAIN,pointtoserver.com
 - DOMAIN,polandgrows.com
 - DOMAIN,polargrizzly.com
 - DOMAIN,polaris.cx
@@ -2833,6 +2831,7 @@ payload:
 - DOMAIN,studysurf.com
 - DOMAIN,stunnel.org
 - DOMAIN,stupidproxy.com
+- DOMAIN,dns.stvsk.ml
 - DOMAIN,doh.suche.org
 - DOMAIN,local.sufly.top
 - DOMAIN,dns.suhaila.dev
