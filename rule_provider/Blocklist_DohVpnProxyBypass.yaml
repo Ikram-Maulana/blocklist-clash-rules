@@ -1978,8 +1978,6 @@ payload:
 - DOMAIN,odvr.nic.cz
 - DOMAIN,nice-autosurf.com
 - DOMAIN,dns.nick-slowinski.de
-- DOMAIN,doh-own-recursion.nicolas-dorriere.fr
-- DOMAIN,doh-random-upstream.nicolas-dorriere.fr
 - DOMAIN,nicsezcheckfbi.gov
 - DOMAIN,dns1.nielsdb.be
 - DOMAIN,nightowlvpn.com
