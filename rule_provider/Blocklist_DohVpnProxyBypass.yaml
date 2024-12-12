@@ -111,7 +111,6 @@ payload:
 - DOMAIN,dns-gcp.aaflalo.me
 - DOMAIN,dns-nyc.aaflalo.me
 - DOMAIN,doh.dns.apple.com.v.aaplimg.com
-- DOMAIN,dns.aaytorr.com
 - DOMAIN,abcproxy.com
 - DOMAIN,adguard.abd.ong
 - DOMAIN,dns.abdullahabas.de
@@ -2904,7 +2903,6 @@ payload:
 - DOMAIN,stupidproxy.com
 - DOMAIN,dns.stvsk.ml
 - DOMAIN,doh.suche.org
-- DOMAIN,local.sufly.top
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,suissl.com
 - DOMAIN,resolver.sunet.se
@@ -2983,7 +2981,6 @@ payload:
 - DOMAIN,tcpvpn.com
 - DOMAIN,tecdrive.site
 - DOMAIN,dns1.techeasy.org
-- DOMAIN,vpn.technicule.info
 - DOMAIN,doh.technochat.in
 - DOMAIN,dns.technologycage.com
 - DOMAIN,dns.technostriker.com
@@ -3000,6 +2997,7 @@ payload:
 - DOMAIN,uk.teradns.org
 - DOMAIN,dns.soldier.terumi.club
 - DOMAIN,teruteruteruko.com
+- DOMAIN,dns.tesem.dog
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
 - DOMAIN,the-cloak.com
