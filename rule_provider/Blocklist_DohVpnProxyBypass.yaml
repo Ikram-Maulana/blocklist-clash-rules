@@ -1479,7 +1479,6 @@ payload:
 - DOMAIN,hsselite.com
 - DOMAIN,html.cafe
 - DOMAIN,httpdserver.info
-- DOMAIN,dns.hugo0.moe
 - DOMAIN,dns.hujiayucc.cn
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
@@ -2879,6 +2878,7 @@ payload:
 - DOMAIN,proxy.startpage.com
 - DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy2.startpage.com
+- DOMAIN,proxy3.startpage.com
 - DOMAIN,us-browse.startpage.com
 - DOMAIN,us-proxy.startpage.com
 - DOMAIN,dns.startupstack.tech

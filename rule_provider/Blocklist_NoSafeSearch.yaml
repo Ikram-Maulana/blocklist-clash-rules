@@ -74,7 +74,6 @@ payload:
 - DOMAIN,searx.guillaumea.fr
 - DOMAIN,hmsearx.h0meserver.com
 - DOMAIN,searx.hardwired.link
-- DOMAIN,whoogle.hostux.net
 - DOMAIN,seeks.hsbp.org
 - DOMAIN,search.im-in.space
 - DOMAIN,search.jpope.org
@@ -106,7 +105,6 @@ payload:
 - DOMAIN,metasearch.nl
 - DOMAIN,suche.mexmail.de
 - DOMAIN,searx.mha.fi
-- DOMAIN,mijisou.com
 - DOMAIN,millionshort.com
 - DOMAIN,search.modalogi.com
 - DOMAIN,mojeek.com
@@ -118,7 +116,6 @@ payload:
 - DOMAIN,searx.nakhan.net
 - DOMAIN,searx.namejeff.xyz
 - DOMAIN,search.nebulacentre.net
-- DOMAIN,search.neet.works
 - DOMAIN,neeva.com
 - DOMAIN,searx.netzspielplatz.de
 - DOMAIN,nibblehole.com
@@ -161,7 +158,6 @@ payload:
 - DOMAIN,search.rabbit-company.com
 - DOMAIN,nova.rambler.ru
 - DOMAIN,searx.rasp.fr
-- DOMAIN,whoogle-search--replitcomreside.repl.co
 - DOMAIN,search.rhscz.eu
 - DOMAIN,searx.roflcopter.fr
 - DOMAIN,wtf.roflcopter.fr
