@@ -1,6 +1,5 @@
 payload:
 
-- DOMAIN,0000a-fast-proxy.de
 - DOMAIN,003153.xyz
 - DOMAIN,ns.00dani.me
 - DOMAIN,052419.xyz
@@ -273,7 +272,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -460,7 +458,6 @@ payload:
 - DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
-- DOMAIN,tysonsbackagain.capnorthshore.org
 - DOMAIN,caproxies.info
 - DOMAIN,2.dnscrypt-cert.captnemo.in
 - DOMAIN,doh.captnemo.in
@@ -1562,7 +1559,6 @@ payload:
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
 - DOMAIN,ipoac.nl
-- DOMAIN,iportal.me
 - DOMAIN,ipredator.se
 - DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
@@ -1650,7 +1646,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -1710,6 +1705,7 @@ payload:
 - DOMAIN,lastentarvike.fi
 - DOMAIN,eu1.dns.lavate.ch
 - DOMAIN,us1.dns.lavate.ch
+- DOMAIN,iterator.lazada.com
 - DOMAIN,le-vpn.com
 - DOMAIN,adguard1.leadmon.net
 - DOMAIN,adguard.leadseason.eu
@@ -1871,7 +1867,6 @@ payload:
 - DOMAIN,mochiss2.xyz
 - DOMAIN,mochiss3.xyz
 - DOMAIN,mockblock.com
-- DOMAIN,nue2.moderateinfra.net
 - DOMAIN,ps1.modr.club
 - DOMAIN,www-nsc.moebh.me
 - DOMAIN,dns.molinero.dev
@@ -2051,7 +2046,6 @@ payload:
 - DOMAIN,ninjabrowse.com
 - DOMAIN,ninjacloak.com
 - DOMAIN,ninjaproxy.eu
-- DOMAIN,ninjaproxy.ninja
 - DOMAIN,ninjavpn.io
 - DOMAIN,ninjaweb.xyz
 - DOMAIN,dns.nixnet.xyz
@@ -2503,7 +2497,6 @@ payload:
 - DOMAIN,proxypx.com
 - DOMAIN,proxypy.org
 - DOMAIN,proxyrooms.com
-- DOMAIN,proxys.pw
 - DOMAIN,proxysan.info
 - DOMAIN,proxyscope.com
 - DOMAIN,proxyscrape.com
@@ -2612,7 +2605,6 @@ payload:
 - DOMAIN,www-p.reaper.mx
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redhoodie.site
-- DOMAIN,redproxy.info
 - DOMAIN,redschool.info
 - DOMAIN,dns.redvau.lt
 - DOMAIN,reflect4.me
@@ -2776,7 +2768,6 @@ payload:
 - DOMAIN,shopproxy.net
 - DOMAIN,adguard.shoupperuser.com
 - DOMAIN,adguard.shutgaming.net
-- DOMAIN,shyf.info
 - DOMAIN,doh.sidnlabs.nl
 - DOMAIN,dns.silen.org
 - DOMAIN,dns.silentlybren.com
@@ -3395,7 +3386,6 @@ payload:
 - DOMAIN,doh.valscosmos.com
 - DOMAIN,tor.vasi.li
 - DOMAIN,dns.vault81.de
-- DOMAIN,vblocker.info
 - DOMAIN,vectroproxy.com
 - DOMAIN,veepn.com
 - DOMAIN,art-class-omg.vercel.app
