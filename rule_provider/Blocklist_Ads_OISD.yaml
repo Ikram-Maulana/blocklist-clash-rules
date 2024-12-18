@@ -114351,7 +114351,6 @@ payload:
 - DOMAIN,usps.com-trackbss.top
 - DOMAIN,usps.com-trackckt.top
 - DOMAIN,usps.com-trackdda.top
-- DOMAIN,usps.com-trackdqs.top
 - DOMAIN,usps.com-trackevo.top
 - DOMAIN,usps.com-trackgly.top
 - DOMAIN,usps.com-trackgpa.top
@@ -122520,7 +122519,6 @@ payload:
 - DOMAIN,yacht-refit.eu
 - DOMAIN,yachtbars.fun
 - DOMAIN,yachtcharterinuae.com
-- DOMAIN,yackvidette.com
 - DOMAIN,yacurlik.com
 - DOMAIN,yads.tech
 - DOMAIN,yads.yahoo.co.jp
