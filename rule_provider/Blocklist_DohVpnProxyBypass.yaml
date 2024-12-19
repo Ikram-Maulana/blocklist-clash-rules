@@ -298,7 +298,6 @@ payload:
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
 - DOMAIN,b-dns.se
-- DOMAIN,b-ii.com
 - DOMAIN,b0xedpr0x.cyou
 - DOMAIN,dns.b33.space
 - DOMAIN,dns.b612.me
