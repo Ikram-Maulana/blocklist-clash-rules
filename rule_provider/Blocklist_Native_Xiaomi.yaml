@@ -178,8 +178,6 @@ payload:
 - DOMAIN,api.vip.miui.com
 - DOMAIN,www.miui.net
 - DOMAIN,intl.up.w.xk.miui.com
-- DOMAIN,rus-mi.com
-- DOMAIN,www.rus-mi.com
 - DOMAIN,traffic-media.co
 - DOMAIN,imgg.traffic-media.co
 - DOMAIN,www.traffic-media.co
@@ -374,7 +372,6 @@ payload:
 - DOMAIN,11-c3.bigdata.ctc.neo.xiaomi.com
 - DOMAIN,5-c3.bigdata.ctc.neo.xiaomi.com
 - DOMAIN,tj1.staging.nfcpay.xiaomi.com
-- DOMAIN,3rdupgrade.pandora.xiaomi.com
 - DOMAIN,appstore.pandora.xiaomi.com
 - DOMAIN,bossadmin.pandora.xiaomi.com
 - DOMAIN,box.pandora.xiaomi.com
