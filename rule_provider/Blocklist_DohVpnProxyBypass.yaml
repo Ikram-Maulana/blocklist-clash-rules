@@ -754,6 +754,7 @@ payload:
 - DOMAIN,dabmix.com
 - DOMAIN,dailyvpn.io
 - DOMAIN,dns.dallinbryce.com
+- DOMAIN,danhcan.top
 - DOMAIN,dns.home.daniil.it
 - DOMAIN,adguard.dantynes.cyou
 - DOMAIN,darkfat.com
@@ -872,7 +873,6 @@ payload:
 - DOMAIN,las01.dnscry.pt
 - DOMAIN,lax01.dnscry.pt
 - DOMAIN,lax02.dnscry.pt
-- DOMAIN,lim01.dnscry.pt
 - DOMAIN,lim02.dnscry.pt
 - DOMAIN,lis01.dnscry.pt
 - DOMAIN,llk01.dnscry.pt
@@ -1303,7 +1303,6 @@ payload:
 - DOMAIN,gizlen.net
 - DOMAIN,gizlibaglanti.com
 - DOMAIN,h.gjrick.tw
-- DOMAIN,sdns22.gkonuralp.com
 - DOMAIN,glacius.top
 - DOMAIN,dns.glf.wtf
 - DOMAIN,globalchatinc.com
@@ -1689,7 +1688,6 @@ payload:
 - DOMAIN,kryptovpn.kryptotel.net
 - DOMAIN,adguard.kss.ovh
 - DOMAIN,dns.kukal.cz
-- DOMAIN,dns.kumoumi.net
 - DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
