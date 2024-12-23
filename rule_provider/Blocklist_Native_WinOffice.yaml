@@ -380,7 +380,10 @@ payload:
 - DOMAIN,watsonc.events.data.microsoft.com
 - DOMAIN,events-sandbox.data.microsoft.com
 - DOMAIN,mobile.events-sandbox.data.microsoft.com
+- DOMAIN,settings.data.microsoft.com
 - DOMAIN,settings-sandbox.data.microsoft.com
+- DOMAIN,settings-win.data.microsoft.com
+- DOMAIN,settings-win-ppe.data.microsoft.com
 - DOMAIN,vortex.data.microsoft.com
 - DOMAIN,eu.vortex.data.microsoft.com
 - DOMAIN,vortex-sandbox.data.microsoft.com
@@ -565,6 +568,7 @@ payload:
 - DOMAIN,hub.analytics.trafficmanager.net
 - DOMAIN,geo.hub.analytics.trafficmanager.net
 - DOMAIN,analytics-listener.trafficmanager.net
+- DOMAIN,atm-settingsfe-prod-geo2.trafficmanager.net
 - DOMAIN,beacons.trafficmanager.net
 - DOMAIN,bf-analytics-tracker-tm.trafficmanager.net
 - DOMAIN,bf-tracker-release-tm.trafficmanager.net
@@ -627,6 +631,8 @@ payload:
 - DOMAIN,sconsentit9.trafficmanager.net
 - DOMAIN,self-events-data.trafficmanager.net
 - DOMAIN,settingsfd-geo.trafficmanager.net
+- DOMAIN,settingsfd-ppe.trafficmanager.net
+- DOMAIN,settingsfd-sandbox.trafficmanager.net
 - DOMAIN,ssp-prod-eastus-nonmutt.trafficmanager.net
 - DOMAIN,stats-partner.trafficmanager.net
 - DOMAIN,teams-events-data.trafficmanager.net
