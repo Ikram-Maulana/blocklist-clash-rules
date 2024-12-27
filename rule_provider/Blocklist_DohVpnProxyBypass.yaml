@@ -729,7 +729,6 @@ payload:
 - DOMAIN,crusty.motorcycles
 - DOMAIN,crypticvpn.com
 - DOMAIN,crypto.sx
-- DOMAIN,cryptohippie.com
 - DOMAIN,dns.cryptomize.com
 - DOMAIN,cryptostorm.is
 - DOMAIN,cryptovpn.com
@@ -757,7 +756,6 @@ payload:
 - DOMAIN,dns.d96.info
 - DOMAIN,dns.daarrk.tech
 - DOMAIN,dabmix.com
-- DOMAIN,dailyvpn.io
 - DOMAIN,dns.dallinbryce.com
 - DOMAIN,danhcan.top
 - DOMAIN,dns.home.daniil.it
@@ -1913,7 +1911,6 @@ payload:
 - DOMAIN,dns.iki.my.id
 - DOMAIN,dns.lista.my.id
 - DOMAIN,dns.mikrotikrumahan.my.id
-- DOMAIN,dns.pnh.my.id
 - DOMAIN,dns.repinger.my.id
 - DOMAIN,dns.velyn.my.id
 - DOMAIN,dns.vmath.my.id
@@ -2140,7 +2137,6 @@ payload:
 - DOMAIN,oneproxy.xyz
 - DOMAIN,onestreaming.org
 - DOMAIN,onevanalla.site
-- DOMAIN,onevpn.com
 - DOMAIN,onion.am
 - DOMAIN,onion.cab
 - DOMAIN,onion.casa
@@ -2536,7 +2532,6 @@ payload:
 - DOMAIN,proxysurfing.org
 - DOMAIN,proxytime.net
 - DOMAIN,proxytoplay.com
-- DOMAIN,proxyturbo.com
 - DOMAIN,proxyunblock.site
 - DOMAIN,proxyunblocker.org
 - DOMAIN,proxyunlock.com
@@ -3350,7 +3345,6 @@ payload:
 - DOMAIN,unblockyoutube.eu
 - DOMAIN,unblockyoutube.video
 - DOMAIN,unblockyoutubeatschool.com
-- DOMAIN,unblockyoutubefree.net
 - DOMAIN,unblockytproxy.com
 - DOMAIN,uncensoreddns.org
 - DOMAIN,undofilters.com
@@ -3481,7 +3475,6 @@ payload:
 - DOMAIN,vpndaily.com
 - DOMAIN,vpndeluxe.com
 - DOMAIN,vpndock.com
-- DOMAIN,vpndog.com
 - DOMAIN,vpneasy.info
 - DOMAIN,proxy.vpner.com
 - DOMAIN,vpnfan.com
