@@ -273,7 +273,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -1658,6 +1657,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -1915,7 +1915,6 @@ payload:
 - DOMAIN,dns.mikrotikrumahan.my.id
 - DOMAIN,dns.pnh.my.id
 - DOMAIN,dns.repinger.my.id
-- DOMAIN,id.terra.my.id
 - DOMAIN,dns.velyn.my.id
 - DOMAIN,dns.vmath.my.id
 - DOMAIN,ssl-proxy.my-addr.com
@@ -2593,6 +2592,7 @@ payload:
 - DOMAIN,frog.dns.qwer.pw
 - DOMAIN,lion.dns.qwer.pw
 - DOMAIN,tiger.dns.qwer.pw
+- DOMAIN,www-web.r-2.top
 - DOMAIN,resolver.r0cket.net
 - DOMAIN,r1bnc.com
 - DOMAIN,ra4wvpn.com
