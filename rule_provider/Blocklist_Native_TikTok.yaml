@@ -109,6 +109,7 @@ payload:
 - DOMAIN,lemon8-api.tiktokv.com
 - DOMAIN,lemonapi16-normal-alisg.tiktokv.com
 - DOMAIN,lemonapi22-normal-alisg.tiktokv.com
+- DOMAIN,lemonapi22-normal-useast1a.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com

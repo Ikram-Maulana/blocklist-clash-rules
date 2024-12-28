@@ -141,6 +141,8 @@ payload:
 - DOMAIN,mssdk.us.tiktok.com
 - DOMAIN,mssdk-ttp2.us.tiktok.com
 - DOMAIN,frontier.tiktokv.com
+- DOMAIN,frontier-apix16-normal-alisg.tiktokv.com
+- DOMAIN,frontier-apix16-normal-useast1a.tiktokv.com
 - DOMAIN,frontier-i18n.tiktokv.com
 - DOMAIN,frontier-my.tiktokv.com
 - DOMAIN,frontier-my2.tiktokv.com
@@ -197,6 +199,7 @@ payload:
 - DOMAIN,lemon8-api.tiktokv.com
 - DOMAIN,lemonapi16-normal-alisg.tiktokv.com
 - DOMAIN,lemonapi22-normal-alisg.tiktokv.com
+- DOMAIN,lemonapi22-normal-useast1a.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com
 - DOMAIN,location-sg.tiktokv.com

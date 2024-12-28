@@ -232,6 +232,7 @@ payload:
 - DOMAIN,developers.ads.microsoft.com
 - DOMAIN,dmc.ads.microsoft.com
 - DOMAIN,help.ads.microsoft.com
+- DOMAIN,learninglab.ads.microsoft.com
 - DOMAIN,mmcapi.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com

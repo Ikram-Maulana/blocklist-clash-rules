@@ -48,11 +48,13 @@ payload:
 - DOMAIN,search.disroot.org
 - DOMAIN,searx.divided-by-zero.eu
 - DOMAIN,dogpile.com
+- DOMAIN,search.dojoro.de
 - DOMAIN,searx.doofpot.nl
 - DOMAIN,search.dr460nf1r3.org
 - DOMAIN,searx.dresden.network
 - DOMAIN,wgl.frail.duckdns.org
 - DOMAIN,dynabyte.ca
+- DOMAIN,searx.ericaftereric.top
 - DOMAIN,search.ethibox.fr
 - DOMAIN,etsi.me
 - DOMAIN,eulie.de
@@ -218,3 +220,4 @@ payload:
 - DOMAIN,you.com
 - DOMAIN,searx.zapashcanon.fr
 - DOMAIN,searx.zdechov.net
+- DOMAIN,search.zeroish.xyz
