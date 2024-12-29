@@ -197,6 +197,7 @@ payload:
 - DOMAIN,i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 - DOMAIN,dsl-app.s3.us-east-2.amazonaws.com
 - DOMAIN,mailer.amlegion.org
+- DOMAIN,ammmae150.news
 - DOMAIN,doh.amonsul.net
 - DOMAIN,anachem.online
 - DOMAIN,ananoos.com
@@ -326,6 +327,7 @@ payload:
 - DOMAIN,beevpn.com
 - DOMAIN,dns.belnet.be
 - DOMAIN,dns.bermeitinger.eu
+- DOMAIN,bestaitool.news
 - DOMAIN,bestfreevpn.com
 - DOMAIN,bestmod.site
 - DOMAIN,bestproxy.xyz
