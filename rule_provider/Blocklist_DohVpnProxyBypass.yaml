@@ -3280,7 +3280,9 @@ payload:
 - DOMAIN,unblockedproxy.info
 - DOMAIN,unblockedproxy.us
 - DOMAIN,unblockedrussian.com
+- DOMAIN,unblockedscene.com
 - DOMAIN,unblockedsite.biz
+- DOMAIN,unblockedsite.club
 - DOMAIN,unblockedsite.fun
 - DOMAIN,unblockedsite.info
 - DOMAIN,unblockedsite.net
@@ -3315,6 +3317,7 @@ payload:
 - DOMAIN,unblockme.us
 - DOMAIN,unblockmyweb.com
 - DOMAIN,unblockmywebsite.com
+- DOMAIN,unblockninja.com
 - DOMAIN,unblockprox.com
 - DOMAIN,unblockproxy.me
 - DOMAIN,unblockproxy.us
