@@ -420,7 +420,6 @@ payload:
 - DOMAIN,mob.tv.pandora.xiaomi.com
 - DOMAIN,tvboss.pandora.xiaomi.com
 - DOMAIN,tvepg.pandora.xiaomi.com
-- DOMAIN,tvstat.pandora.xiaomi.com
 - DOMAIN,upgrade.pandora.xiaomi.com
 - DOMAIN,user.pandora.xiaomi.com
 - DOMAIN,w.pandora.xiaomi.com
@@ -467,10 +466,8 @@ payload:
 - DOMAIN,mob.api.xmpush.xiaomi.com
 - DOMAIN,vip.api.xmpush.xiaomi.com
 - DOMAIN,callback.xmpush.xiaomi.com
-- DOMAIN,cn-register.xmpush.xiaomi.com
 - DOMAIN,emq.xmpush.xiaomi.com
 - DOMAIN,mina.xmpush.xiaomi.com
-- DOMAIN,cn.register.xmpush.xiaomi.com
 - DOMAIN,sandbox.xmpush.xiaomi.com
 - DOMAIN,test-api.xmpush.xiaomi.com
 - DOMAIN,vip-api.xmpush.xiaomi.com
