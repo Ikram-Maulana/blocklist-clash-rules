@@ -421,7 +421,6 @@ payload:
 - DOMAIN,bramka-proxy.pl
 - DOMAIN,bravedns.com
 - DOMAIN,tor.bravesoftware.com
-- DOMAIN,dns.bravoc.one
 - DOMAIN,brazilproxy.com
 - DOMAIN,brazilproxy.info
 - DOMAIN,breakwall.net
@@ -1470,6 +1469,7 @@ payload:
 - DOMAIN,homeproxy.net
 - DOMAIN,homevpn.eu
 - DOMAIN,homevpn.info
+- DOMAIN,homeworkhelp.click
 - DOMAIN,honeygain.me
 - DOMAIN,dns.hoody.com
 - DOMAIN,schoolmath.hop.sh
@@ -1630,6 +1630,7 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
+- DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com
 - DOMAIN,jongserver.xyz
 - DOMAIN,adguard1.jsanagustin.net
@@ -1765,6 +1766,7 @@ payload:
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
 - DOMAIN,locaproxy.com
+- DOMAIN,lochridge.org
 - DOMAIN,adguard.londonwebnerd.cloud
 - DOMAIN,doh.dns1.lonet.org
 - DOMAIN,doh.phdns1.lonet.org
