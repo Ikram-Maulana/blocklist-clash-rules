@@ -1326,6 +1326,7 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
+- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1513,7 +1514,6 @@ payload:
 - DOMAIN,icitek.com
 - DOMAIN,mask.icloud.com
 - DOMAIN,mask-api.icloud.com
-- DOMAIN,mask-boot.icloud.com
 - DOMAIN,mask-canary.icloud.com
 - DOMAIN,mask-h2.icloud.com
 - DOMAIN,icpsuawn1zy5amys.com
@@ -2889,14 +2889,9 @@ payload:
 - DOMAIN,ams1.startpage.com
 - DOMAIN,ams2.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu-proxy.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
-- DOMAIN,proxy3.startpage.com
+- DOMAIN,error.proxy.startpage.com
 - DOMAIN,us-browse.startpage.com
-- DOMAIN,us-proxy.startpage.com
 - DOMAIN,dns.startupstack.tech
 - DOMAIN,starvpn.com
 - DOMAIN,staticnetcontent.com
