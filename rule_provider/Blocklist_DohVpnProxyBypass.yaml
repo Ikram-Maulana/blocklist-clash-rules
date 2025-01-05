@@ -7,6 +7,7 @@ payload:
 - DOMAIN,dns.0ooo.icu
 - DOMAIN,0x3d.lu
 - DOMAIN,dns.0x55.net
+- DOMAIN,1010000.online
 - DOMAIN,108023.xyz
 - DOMAIN,123-proxy.net
 - DOMAIN,123-proxy.org
@@ -1722,7 +1723,6 @@ payload:
 - DOMAIN,adguard1.leadmon.net
 - DOMAIN,adguard.leadseason.eu
 - DOMAIN,leafyvpn.net
-- DOMAIN,dns.learningman.top
 - DOMAIN,ledfordmiddleschool.xyz
 - DOMAIN,leekemx.com
 - DOMAIN,adblock.leenit.kr
@@ -2014,7 +2014,7 @@ payload:
 - DOMAIN,dns.aa.net.uk
 - DOMAIN,doh.infotek.net.id
 - DOMAIN,doh.max.net.id
-- DOMAIN,ns.net.kg
+- DOMAIN,net-ml.online
 - DOMAIN,netaltr.com
 - DOMAIN,netnut.io
 - DOMAIN,netscop.net
