@@ -66,6 +66,7 @@ payload:
 - DOMAIN,searchads.apple.com
 - DOMAIN,securemetrics.apple.com
 - DOMAIN,securemvt.apple.com
+- DOMAIN,fbs.smoot.apple.com
 - DOMAIN,stocks-analytics-events.apple.com
 - DOMAIN,supportmetrics.apple.com
 - DOMAIN,weather-analytics-events.apple.com
