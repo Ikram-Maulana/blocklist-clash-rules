@@ -997,7 +997,6 @@ payload:
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dvprovider.icu
-- DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -3713,7 +3712,6 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
-- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
