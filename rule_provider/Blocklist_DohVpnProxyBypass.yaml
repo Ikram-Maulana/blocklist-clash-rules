@@ -1864,7 +1864,6 @@ payload:
 - DOMAIN,dns.mihanentalpo.me
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
-- DOMAIN,dns.milkpie.one
 - DOMAIN,minilla.store
 - DOMAIN,miniprox.com
 - DOMAIN,miniprox.info
@@ -2014,6 +2013,7 @@ payload:
 - DOMAIN,dns.aa.net.uk
 - DOMAIN,doh.infotek.net.id
 - DOMAIN,doh.max.net.id
+- DOMAIN,ns.net.kg
 - DOMAIN,net-ml.online
 - DOMAIN,netaltr.com
 - DOMAIN,netnut.io
