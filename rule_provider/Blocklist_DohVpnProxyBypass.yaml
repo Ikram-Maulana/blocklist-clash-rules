@@ -275,7 +275,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -985,8 +984,6 @@ payload:
 - DOMAIN,agh.dshubham.xyz
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
-- DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
@@ -1142,7 +1139,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
 - DOMAIN,flashputon.net
@@ -1171,7 +1167,6 @@ payload:
 - DOMAIN,francis-proxy.top
 - DOMAIN,explore.francomedia.net
 - DOMAIN,frandcomfort.us
-- DOMAIN,free-kree-k.xyz
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
 - DOMAIN,free-proxy.xyz
@@ -1255,7 +1250,6 @@ payload:
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,galeben.fr
 - DOMAIN,dns.gamban.com
-- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1293,7 +1287,6 @@ payload:
 - DOMAIN,getsiteunblocked.com
 - DOMAIN,gettwifi.com
 - DOMAIN,getusvpn.com
-- DOMAIN,getvpn.info
 - DOMAIN,getvpnx.com
 - DOMAIN,getxvpn.com
 - DOMAIN,getxweb.com
@@ -1523,7 +1516,6 @@ payload:
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
 - DOMAIN,idvanish.com
-- DOMAIN,adguard.ihatemy.live
 - DOMAIN,dns.ihaveacloud.com
 - DOMAIN,iij.jp
 - DOMAIN,ikarosalpha.xyz
@@ -1658,7 +1650,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
