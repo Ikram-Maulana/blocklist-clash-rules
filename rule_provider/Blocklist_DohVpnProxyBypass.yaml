@@ -2910,7 +2910,6 @@ payload:
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,suissl.com
 - DOMAIN,resolver.sunet.se
-- DOMAIN,sunnetdata.com
 - DOMAIN,sunnygyl.com
 - DOMAIN,doh.sunoaki.net
 - DOMAIN,sunvpn.net
@@ -2927,7 +2926,6 @@ payload:
 - DOMAIN,supervpn.net
 - DOMAIN,supervpn.top
 - DOMAIN,suredns.nl
-- DOMAIN,surf-for-free.com
 - DOMAIN,surf100.com
 - DOMAIN,surfall.net
 - DOMAIN,surfbouncer.com
@@ -2981,7 +2979,6 @@ payload:
 - DOMAIN,talk2m.com
 - DOMAIN,tbjr6.com
 - DOMAIN,tbjr6.net
-- DOMAIN,tbjr6.org
 - DOMAIN,tbunet.com
 - DOMAIN,tcpvpn.com
 - DOMAIN,tecdrive.site
