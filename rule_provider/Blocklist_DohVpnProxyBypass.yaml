@@ -2471,7 +2471,6 @@ payload:
 - DOMAIN,proxybrowser.xyz
 - DOMAIN,proxybrowsing.com
 - DOMAIN,proxybuss.com
-- DOMAIN,proxycdn.college
 - DOMAIN,proxycloud.net
 - DOMAIN,proxycloyd.com
 - DOMAIN,proxydrop.com
@@ -2783,7 +2782,6 @@ payload:
 - DOMAIN,dns.silentlybren.com
 - DOMAIN,simpleproxy.us
 - DOMAIN,simplevpn.net
-- DOMAIN,dns.simplylinux.ch
 - DOMAIN,dns.sindominio.net
 - DOMAIN,sinesprox.cloud
 - DOMAIN,dnsovertls.sinodun.com
