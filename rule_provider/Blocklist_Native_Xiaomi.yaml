@@ -51,7 +51,6 @@ payload:
 - DOMAIN,resolver.gslb.mi-idc.com
 - DOMAIN,miui.net
 - DOMAIN,app.miui.com
-- DOMAIN,assistant.miui.com
 - DOMAIN,api.bbs.miui.com
 - DOMAIN,browser.miui.com
 - DOMAIN,hd.browser.miui.com
@@ -356,8 +355,6 @@ payload:
 - DOMAIN,data.mistat.xiaomi.com
 - DOMAIN,ident.mistat.xiaomi.com
 - DOMAIN,storeconfig.mistat.xiaomi.com
-- DOMAIN,music.xiaomi.com
-- DOMAIN,stats-fm.music.xiaomi.com
 - DOMAIN,file.cdn.mvideo.xiaomi.com
 - DOMAIN,image.cdn.mvideo.xiaomi.com
 - DOMAIN,orig.image.cdn.mvideo.xiaomi.com
