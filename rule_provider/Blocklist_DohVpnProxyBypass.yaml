@@ -829,6 +829,7 @@ payload:
 - DOMAIN,doh.dns-ga.de
 - DOMAIN,secure-dns.dns-ga.de
 - DOMAIN,dns.dns-over-https.com
+- DOMAIN,dns-savage.com
 - DOMAIN,dns0.eu
 - DOMAIN,doh.dns4all.eu
 - DOMAIN,dns4me.net
@@ -1196,6 +1197,7 @@ payload:
 - DOMAIN,freeeuroproxy.com
 - DOMAIN,freehiddenvpn.gq
 - DOMAIN,freehollandproxy.nl
+- DOMAIN,freelux.world
 - DOMAIN,freeme1001.com
 - DOMAIN,freemicvpn.com
 - DOMAIN,freenewslinks.com
@@ -1673,6 +1675,7 @@ payload:
 - DOMAIN,doh.killtw.im
 - DOMAIN,blog.kimiblock.top
 - DOMAIN,kingsurfproxy.com
+- DOMAIN,kinoshka.su
 - DOMAIN,dns1.klcd.eu
 - DOMAIN,dns2.klcd.eu
 - DOMAIN,klcknerrip.com
@@ -1882,6 +1885,7 @@ payload:
 - DOMAIN,naganohara-yoimiya.momokko.moe
 - DOMAIN,dns.momou.ch
 - DOMAIN,monoprivacy.io
+- DOMAIN,monro-stom-plus.info
 - DOMAIN,monthlyssh.net
 - DOMAIN,monvpn.com
 - DOMAIN,zrh1-ns01.monzoon.net
@@ -1995,6 +1999,7 @@ payload:
 - DOMAIN,us-saj-w-f-1.nashkan.net
 - DOMAIN,us-saj-w-p-1.nashkan.net
 - DOMAIN,natfrp.cloud
+- DOMAIN,nathanielgavin.lol
 - DOMAIN,nb66.me
 - DOMAIN,vpn.nbvalente.fr
 - DOMAIN,vpn.ncapi.io
@@ -2096,6 +2101,7 @@ payload:
 - DOMAIN,dns.novg.net
 - DOMAIN,nowcache.com
 - DOMAIN,nowhiteflags.xyz
+- DOMAIN,noyourmean.xyz
 - DOMAIN,dns.npe.bz
 - DOMAIN,dns.npsolution.it
 - DOMAIN,nqma.net
@@ -2615,6 +2621,7 @@ payload:
 - DOMAIN,redhoodie.site
 - DOMAIN,redschool.info
 - DOMAIN,dns.redvau.lt
+- DOMAIN,reezus.us
 - DOMAIN,reflect4.me
 - DOMAIN,dns.reitmeier.me
 - DOMAIN,relayon.org
@@ -2639,6 +2646,7 @@ payload:
 - DOMAIN,dns.rin.sh
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
+- DOMAIN,rnblyatclub.online
 - DOMAIN,dns.roedel.cloud
 - DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
@@ -2711,6 +2719,7 @@ payload:
 - DOMAIN,dns.scuola.org
 - DOMAIN,se3v5tjfff3aet.me
 - DOMAIN,adguard.sealyserver.com
+- DOMAIN,seanfat.club
 - DOMAIN,proxy.searchfiles.de
 - DOMAIN,2.dnscrypt-cert.dns.seby.io
 - DOMAIN,doh.seby.io
@@ -3011,6 +3020,7 @@ payload:
 - DOMAIN,thefreevpn.com
 - DOMAIN,login.thegalleryofart.info
 - DOMAIN,dns.thegoodsource.net
+- DOMAIN,themeaningofallmeaningsforallofthemeaningsmeanings.lol
 - DOMAIN,theproxies.net
 - DOMAIN,theproxy.bz
 - DOMAIN,theproxy.cc
@@ -3155,6 +3165,7 @@ payload:
 - DOMAIN,tuxlervpn.com
 - DOMAIN,tvone.info
 - DOMAIN,twingate.com
+- DOMAIN,twinklestarknights.com
 - DOMAIN,dns.twnic.tw
 - DOMAIN,twoproxy.net
 - DOMAIN,adguard.twotigers.xyz
@@ -3658,6 +3669,7 @@ payload:
 - DOMAIN,ychen.gq
 - DOMAIN,yd6n63ptky.com
 - DOMAIN,yellowproxy.net
+- DOMAIN,yellowshiitake.com
 - DOMAIN,ylink.info
 - DOMAIN,yogavpn.com
 - DOMAIN,youcanhide.net

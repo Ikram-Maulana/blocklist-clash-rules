@@ -401,7 +401,6 @@ payload:
 - DOMAIN,misc.pandora.xiaomi.com
 - DOMAIN,bsp.misc.pandora.xiaomi.com
 - DOMAIN,mishop.pandora.xiaomi.com
-- DOMAIN,mobile.mishop.pandora.xiaomi.com
 - DOMAIN,pull.mitv.pandora.xiaomi.com
 - DOMAIN,mob.pandora.xiaomi.com
 - DOMAIN,monitor.pandora.xiaomi.com
@@ -468,5 +467,3 @@ payload:
 - DOMAIN,sandbox.xmpush.xiaomi.com
 - DOMAIN,test-api.xmpush.xiaomi.com
 - DOMAIN,vip-api.xmpush.xiaomi.com
-- DOMAIN,api.zhuti.xiaomi.com
-- DOMAIN,m.zhuti.xiaomi.com
