@@ -3414,7 +3414,6 @@ payload:
 - DOMAIN,videomy.online
 - DOMAIN,videonew.online
 - DOMAIN,videoproxy.site
-- DOMAIN,videounblock.com
 - DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
@@ -3628,7 +3627,6 @@ payload:
 - DOMAIN,doh.xcom.pro
 - DOMAIN,xcomplus.com
 - DOMAIN,xenergy.cc
-- DOMAIN,www-bruh.xenon.lol
 - DOMAIN,doh.xfinity.com
 - DOMAIN,dot.xfinity.com
 - DOMAIN,doh2.gslb2.xfinity.com
