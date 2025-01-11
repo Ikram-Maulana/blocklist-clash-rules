@@ -1513,6 +1513,7 @@ payload:
 - DOMAIN,icitek.com
 - DOMAIN,mask.icloud.com
 - DOMAIN,mask-api.icloud.com
+- DOMAIN,mask-boot.icloud.com
 - DOMAIN,mask-canary.icloud.com
 - DOMAIN,mask-h2.icloud.com
 - DOMAIN,icpsuawn1zy5amys.com

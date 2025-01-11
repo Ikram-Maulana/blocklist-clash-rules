@@ -224,7 +224,6 @@ payload:
 - DOMAIN,status.ads.microsoft.com
 - DOMAIN,ucm.ads.microsoft.com
 - DOMAIN,ui.ads.microsoft.com
-- DOMAIN,help.ads-int.microsoft.com
 - DOMAIN,adsdk.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
@@ -576,6 +575,7 @@ payload:
 - DOMAIN,v10-win.vortex.data.trafficmanager.net
 - DOMAIN,v20-asimov-win.vortex.data.trafficmanager.net
 - DOMAIN,dsp-ad-cache-tm.trafficmanager.net
+- DOMAIN,adstore.response.gcp.eastus.trafficmanager.net
 - DOMAIN,adstore.response.eastus.trafficmanager.net
 - DOMAIN,telemetry.eastus.trafficmanager.net
 - DOMAIN,eventservice.trafficmanager.net
