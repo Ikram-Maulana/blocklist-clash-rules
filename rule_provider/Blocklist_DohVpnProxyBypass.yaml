@@ -160,7 +160,6 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
-- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,apple-relay.akamaized.net
@@ -275,6 +274,7 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
+- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -408,7 +408,6 @@ payload:
 - DOMAIN,adguard.bonis.de
 - DOMAIN,adguard.bonsirven.eu
 - DOMAIN,boomproxy.com
-- DOMAIN,boomtunnel.com
 - DOMAIN,booomblaastfs.site
 - DOMAIN,booster456.com
 - DOMAIN,borderlessvpn.io
@@ -521,7 +520,6 @@ payload:
 - DOMAIN,clickapp.info
 - DOMAIN,clickwork7secure.com
 - DOMAIN,cloaker.ca
-- DOMAIN,cloaker.us
 - DOMAIN,cloakvpn.com
 - DOMAIN,cloudbenders.fun
 - DOMAIN,apple-relay.cloudfare.com
@@ -2987,7 +2985,6 @@ payload:
 - DOMAIN,tailscale.com
 - DOMAIN,talk2m.com
 - DOMAIN,tbjr6.com
-- DOMAIN,tbjr6.net
 - DOMAIN,tbunet.com
 - DOMAIN,tcpvpn.com
 - DOMAIN,tecdrive.site
@@ -3472,7 +3469,6 @@ payload:
 - DOMAIN,vpnbrowse.com
 - DOMAIN,vpncentral.com
 - DOMAIN,vpnclientapp.com
-- DOMAIN,vpndaily.com
 - DOMAIN,vpndeluxe.com
 - DOMAIN,vpndock.com
 - DOMAIN,vpneasy.info
