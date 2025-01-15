@@ -2161,7 +2161,6 @@ payload:
 - DOMAIN,onion.gq
 - DOMAIN,onion.link
 - DOMAIN,onion.lt
-- DOMAIN,onion.lu
 - DOMAIN,onion.ly
 - DOMAIN,onion.nu
 - DOMAIN,onion.pet
@@ -2906,6 +2905,7 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
