@@ -416,6 +416,7 @@ payload:
 - DOMAIN,a.ads2.msads.net
 - DOMAIN,b.ads2.msads.net
 - DOMAIN,www.msads.net
+- DOMAIN,fp.msedge.net
 - DOMAIN,win10-trt.msedge.net
 - DOMAIN,ad.msn.com
 - DOMAIN,adevents.msn.com
@@ -635,6 +636,7 @@ payload:
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
+- DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net
