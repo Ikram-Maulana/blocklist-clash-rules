@@ -273,7 +273,6 @@ payload:
 - DOMAIN,atlasvpn.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
-- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -3310,7 +3309,6 @@ payload:
 - DOMAIN,unblockit.app
 - DOMAIN,unblockit.club
 - DOMAIN,unblockit.foo
-- DOMAIN,unblockit.link
 - DOMAIN,unblockit.ltd
 - DOMAIN,unblockit.meme
 - DOMAIN,unblockit.one
@@ -3348,7 +3346,6 @@ payload:
 - DOMAIN,unblockweb.org
 - DOMAIN,unblockwebsite.online
 - DOMAIN,unblockwebsites.com
-- DOMAIN,unblockwebsites.us
 - DOMAIN,unblockyouku.com
 - DOMAIN,unblockyouku.org
 - DOMAIN,unblockyoutube.co
@@ -3394,7 +3391,6 @@ payload:
 - DOMAIN,nora-is.so-gorgeo.us.kg
 - DOMAIN,nova-is.so-gorgeo.us.kg
 - DOMAIN,sitha-is.so-gorgeo.us.kg
-- DOMAIN,tetty-is.so-gorgeo.us.kg
 - DOMAIN,yussy-is.so-gorgeo.us.kg
 - DOMAIN,webproxy.us.com
 - DOMAIN,us-proxy.org
@@ -3546,7 +3542,6 @@ payload:
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,go.vrpyourself.online
-- DOMAIN,vtcuong.site
 - DOMAIN,vyprvpn.com
 - DOMAIN,dns.w3ctag.org
 - DOMAIN,dns.wahr.top

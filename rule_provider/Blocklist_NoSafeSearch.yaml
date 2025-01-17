@@ -97,7 +97,6 @@ payload:
 - DOMAIN,searx.lynnesbian.space
 - DOMAIN,go.mail.ru
 - DOMAIN,searx.mastodontech.de
-- DOMAIN,searx.maxxblow.de
 - DOMAIN,search.mdosch.de
 - DOMAIN,metacrawler.com
 - DOMAIN,metager.de
@@ -136,7 +135,6 @@ payload:
 - DOMAIN,search.ononoki.org
 - DOMAIN,ooglester.com
 - DOMAIN,searx.openhoofd.nl
-- DOMAIN,searx.openpandora.org
 - DOMAIN,search.opentunisia.org
 - DOMAIN,openworlds.info
 - DOMAIN,opnxng.com
