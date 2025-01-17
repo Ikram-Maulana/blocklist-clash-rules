@@ -203,6 +203,7 @@ payload:
 - DOMAIN,anatomical.design
 - DOMAIN,anchorfree.net
 - DOMAIN,dns.andrewnw.xyz
+- DOMAIN,androvpn.com
 - DOMAIN,doh.angry.im
 - DOMAIN,animeproxy.net
 - DOMAIN,aniscartujo.com
@@ -271,6 +272,7 @@ payload:
 - DOMAIN,dns.asysec.com
 - DOMAIN,adguardhome.atakorah.com
 - DOMAIN,atlasvpn.com
+- DOMAIN,atozproxy.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,auto-aufladen.de
@@ -2901,10 +2903,7 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
-- DOMAIN,us-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
 - DOMAIN,starvpn.com

@@ -88,13 +88,13 @@ payload:
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
+- DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
 - DOMAIN,adsdkprod.azureedge.net
 - DOMAIN,adsdkprprod.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
-- DOMAIN,adsdkprprod.ec.azureedge.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
 - DOMAIN,a4.bing.com
 - DOMAIN,ads.bing.com
@@ -217,7 +217,6 @@ payload:
 - DOMAIN,developers.ads.microsoft.com
 - DOMAIN,dmc.ads.microsoft.com
 - DOMAIN,help.ads.microsoft.com
-- DOMAIN,learninglab.ads.microsoft.com
 - DOMAIN,mmcapi.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com
@@ -273,7 +272,6 @@ payload:
 - DOMAIN,ch1b.bingads.microsoft.com
 - DOMAIN,community.bingads.microsoft.com
 - DOMAIN,developers.bingads.microsoft.com
-- DOMAIN,express.bingads.microsoft.com
 - DOMAIN,fd.bingads.microsoft.com
 - DOMAIN,feedback.bingads.microsoft.com
 - DOMAIN,help.bingads.microsoft.com
