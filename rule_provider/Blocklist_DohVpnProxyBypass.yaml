@@ -1273,6 +1273,7 @@ payload:
 - DOMAIN,cluster-1.gac.edu
 - DOMAIN,galeben.fr
 - DOMAIN,dns.gamban.com
+- DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
@@ -1511,6 +1512,7 @@ payload:
 - DOMAIN,hsselite.com
 - DOMAIN,html.cafe
 - DOMAIN,httpdserver.info
+- DOMAIN,dns.huas.me
 - DOMAIN,dns.hujiayucc.cn
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
