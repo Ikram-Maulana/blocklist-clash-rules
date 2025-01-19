@@ -610,7 +610,6 @@ payload:
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
 - DOMAIN,clearvpn.co.uk
-- DOMAIN,croxyproxy.co.in
 - DOMAIN,pihole.datamatter.co.za
 - DOMAIN,ddelay.co.uk
 - DOMAIN,diskcrmvpn.co.cc
@@ -1611,6 +1610,7 @@ payload:
 - DOMAIN,smellypay.isreally.pro
 - DOMAIN,stuffyschicken.isreallycool.lol
 - DOMAIN,itopvpn.com
+- DOMAIN,itsayx.online
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
 - DOMAIN,ivnkn.xyz
@@ -2416,6 +2416,7 @@ payload:
 - DOMAIN,privoxy.org
 - DOMAIN,pro-tower.com
 - DOMAIN,prohome.info
+- DOMAIN,prointern.info
 - DOMAIN,project-evoex.de
 - DOMAIN,propage.info
 - DOMAIN,dns.propheci.xyz
@@ -2553,8 +2554,10 @@ payload:
 - DOMAIN,proxysite.video
 - DOMAIN,proxysneak.com
 - DOMAIN,proxysurfing.org
+- DOMAIN,proxythis.info
 - DOMAIN,proxytime.net
 - DOMAIN,proxytoplay.com
+- DOMAIN,proxyturbo.com
 - DOMAIN,proxyunblock.site
 - DOMAIN,proxyunblocker.org
 - DOMAIN,proxyvpn.eu
@@ -2568,6 +2571,8 @@ payload:
 - DOMAIN,publicdnsserver.com
 - DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
+- DOMAIN,dns.pumplex.com
+- DOMAIN,2.dnscrypt-cert.pumplex.com
 - DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
 - DOMAIN,dns-privacy.puregeni.us
@@ -2621,6 +2626,7 @@ payload:
 - DOMAIN,racevpn.com
 - DOMAIN,dns.api.rackspacecloud.com
 - DOMAIN,radmin-vpn.com
+- DOMAIN,radmin-vpn.org
 - DOMAIN,dns.rafn.is
 - DOMAIN,ns.ral9005.org
 - DOMAIN,rapidprivacy.com
@@ -2736,6 +2742,7 @@ payload:
 - DOMAIN,schoolproxy.co
 - DOMAIN,schooxy.com
 - DOMAIN,sciencesimplified.pro
+- DOMAIN,gravity.sciencevictory.org
 - DOMAIN,dns.scott-smith.us
 - DOMAIN,dns.scuola.org
 - DOMAIN,se3v5tjfff3aet.me
