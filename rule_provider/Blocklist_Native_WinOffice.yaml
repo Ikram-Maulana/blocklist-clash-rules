@@ -93,7 +93,6 @@ payload:
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
 - DOMAIN,adsdkprod.azureedge.net
-- DOMAIN,adsdkprprod.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
 - DOMAIN,a4.bing.com
@@ -108,6 +107,8 @@ payload:
 - DOMAIN,g.bing.com
 - DOMAIN,r.g.bing.com
 - DOMAIN,raka.bing.com
+- DOMAIN,insights.cloud.microsoft
+- DOMAIN,analysis.insights.cloud.microsoft
 - DOMAIN,measure.office.net.edgesuite.net
 - DOMAIN,nel.measure.office.net.edgesuite.net
 - DOMAIN,nelsdf.measure.office.net.edgesuite.net
