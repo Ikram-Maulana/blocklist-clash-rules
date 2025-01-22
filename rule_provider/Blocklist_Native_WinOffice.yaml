@@ -88,12 +88,14 @@ payload:
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
-- DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
+- DOMAIN,adsdkpreprod.azureedge.net
 - DOMAIN,adsdkprod.azureedge.net
+- DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
+- DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
 - DOMAIN,a4.bing.com
 - DOMAIN,ads.bing.com
@@ -165,7 +167,6 @@ payload:
 - DOMAIN,pgtmx1-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtsg1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-- DOMAIN,pgtsg1-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtus1-word-telemetry-vip.officeapps.live.com
@@ -401,6 +402,7 @@ payload:
 - DOMAIN,watson.telemetry.microsoft.com
 - DOMAIN,telemetrycollector.microsoft.com
 - DOMAIN,telemetry.urs.microsoft.com
+- DOMAIN,telemetry.visualstudio.microsoft.com
 - DOMAIN,watson.microsoft.com
 - DOMAIN,cab.watson.microsoft.com
 - DOMAIN,survey.watson.microsoft.com
@@ -416,6 +418,8 @@ payload:
 - DOMAIN,www.msads.net
 - DOMAIN,fp.msedge.net
 - DOMAIN,win10-trt.msedge.net
+- DOMAIN,ac2.msn.com
+- DOMAIN,ac3.msn.com
 - DOMAIN,ad.msn.com
 - DOMAIN,adevents.msn.com
 - DOMAIN,ads.msn.com
@@ -428,6 +432,11 @@ payload:
 - DOMAIN,metric.appex-rf.msn.com
 - DOMAIN,c.ar.msn.com
 - DOMAIN,arc.msn.com
+- DOMAIN,arc-emea.msn.com
+- DOMAIN,arc1.msn.com
+- DOMAIN,arc2.msn.com
+- DOMAIN,arc3.msn.com
+- DOMAIN,arc9.msn.com
 - DOMAIN,c.at.msn.com
 - DOMAIN,c.be.msn.com
 - DOMAIN,c.br.msn.com
@@ -498,6 +507,15 @@ payload:
 - DOMAIN,c.uk.msn.com
 - DOMAIN,c.za.msn.com
 - DOMAIN,zmetrics.msn.com
+- DOMAIN,diagnostics.office.com
+- DOMAIN,api.diagnostics.office.com
+- DOMAIN,cjs.diagnostics.office.com
+- DOMAIN,entitlement.diagnostics.office.com
+- DOMAIN,incidents.diagnostics.office.com
+- DOMAIN,logging.diagnostics.office.com
+- DOMAIN,msa.diagnostics.office.com
+- DOMAIN,api.msa.diagnostics.office.com
+- DOMAIN,supportexperience.diagnostics.office.com
 - DOMAIN,measure.office.com
 - DOMAIN,measure.office.net
 - DOMAIN,fp.measure.office.com
@@ -634,7 +652,6 @@ payload:
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
-- DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net

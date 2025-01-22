@@ -2465,7 +2465,6 @@ payload:
 - DOMAIN,proxy.red
 - DOMAIN,proxy.rocks
 - DOMAIN,proxy.sh
-- DOMAIN,proxy.sx
 - DOMAIN,proxy.yt
 - DOMAIN,proxy-123.com
 - DOMAIN,proxy-2014.com
@@ -2702,7 +2701,6 @@ payload:
 - DOMAIN,rvpn.ws
 - DOMAIN,dns1.ryan-palmer.com
 - DOMAIN,vpn.rynet.link
-- DOMAIN,ryuto07219.site
 - DOMAIN,s4m.tech
 - DOMAIN,s4m.xyz
 - DOMAIN,safe-inet.com
