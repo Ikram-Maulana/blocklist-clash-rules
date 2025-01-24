@@ -2,7 +2,6 @@ payload:
 
 - DOMAIN,003153.xyz
 - DOMAIN,ns.00dani.me
-- DOMAIN,052419.xyz
 - DOMAIN,0ms.dev
 - DOMAIN,dns.0ooo.icu
 - DOMAIN,0x3d.lu
@@ -276,6 +275,7 @@ payload:
 - DOMAIN,atozproxy.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
+- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -1056,6 +1056,7 @@ payload:
 - DOMAIN,stufy.englishpapers.online
 - DOMAIN,sutausfjsajfas.englishpapers.online
 - DOMAIN,home.enjoymylife.net
+- DOMAIN,enproxy.com
 - DOMAIN,enrollkirgo.com
 - DOMAIN,dns.enzonix.com
 - DOMAIN,epicbrowser.com
@@ -1989,7 +1990,6 @@ payload:
 - DOMAIN,de-fra-w-p-1.nashkan.net
 - DOMAIN,de-fsn-w-p-1.nashkan.net
 - DOMAIN,fi-hel-w-f-2.nashkan.net
-- DOMAIN,fr-gra-w-f-1.nashkan.net
 - DOMAIN,fr-gra-w-p-1.nashkan.net
 - DOMAIN,gb-cov-w-f-1.nashkan.net
 - DOMAIN,gb-cov-w-p-1.nashkan.net
@@ -3749,7 +3749,6 @@ payload:
 - DOMAIN,zougloub.eu
 - DOMAIN,zpath.net
 - DOMAIN,zpn.im
-- DOMAIN,a.zpn.me
 - DOMAIN,zproxy.de
 - DOMAIN,zproxy.org
 - DOMAIN,zscalertwo.net
