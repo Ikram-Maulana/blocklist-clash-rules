@@ -192,6 +192,7 @@ payload:
 - DOMAIN,mssdk-ru.tiktokv.com
 - DOMAIN,mssdk-sg.tiktokv.com
 - DOMAIN,mssdk-va-useast2a.tiktokv.com
+- DOMAIN,rtc-logger.tiktokv.com
 - DOMAIN,rtc-logger.tiktokv.us
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-ie.tiktokv.eu

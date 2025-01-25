@@ -260,6 +260,7 @@ payload:
 - DOMAIN,mssdk24-normal-alisg.tiktokv.com
 - DOMAIN,mssdk24-normal-useast1a.tiktokv.com
 - DOMAIN,mssdk24-normal-useast2a.tiktokv.com
+- DOMAIN,rtc-logger.tiktokv.com
 - DOMAIN,rtc-logger.tiktokv.us
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-ie.tiktokv.eu

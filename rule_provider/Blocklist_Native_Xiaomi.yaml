@@ -353,7 +353,6 @@ payload:
 - DOMAIN,invoice.netroam.mihome.xiaomi.net
 - DOMAIN,abtest.mistat.xiaomi.com
 - DOMAIN,data.mistat.xiaomi.com
-- DOMAIN,ident.mistat.xiaomi.com
 - DOMAIN,storeconfig.mistat.xiaomi.com
 - DOMAIN,file.cdn.mvideo.xiaomi.com
 - DOMAIN,image.cdn.mvideo.xiaomi.com
