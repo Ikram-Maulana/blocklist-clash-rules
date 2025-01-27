@@ -1007,7 +1007,6 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
-- DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
@@ -1310,7 +1309,6 @@ payload:
 - DOMAIN,getusvpn.com
 - DOMAIN,getvpnx.com
 - DOMAIN,getxvpn.com
-- DOMAIN,getxweb.com
 - DOMAIN,gfwvpn.com
 - DOMAIN,ghadrboland.ir
 - DOMAIN,www-croxy.ghgi.site
@@ -2087,7 +2085,6 @@ payload:
 - DOMAIN,doh.niyawe.de
 - DOMAIN,njal.la
 - DOMAIN,njtzzrvg0lwj3bsn.info
-- DOMAIN,nntime.com
 - DOMAIN,nocensor.work
 - DOMAIN,pi1.node15.com
 - DOMAIN,nodepay.ai
@@ -2855,7 +2852,6 @@ payload:
 - DOMAIN,snapxs.com
 - DOMAIN,snowproxy.com
 - DOMAIN,guard.sntrk.ru
-- DOMAIN,dove.soapagent.com
 - DOMAIN,dove.soapclient.com
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
@@ -2999,7 +2995,6 @@ payload:
 - DOMAIN,switch.ch
 - DOMAIN,switchvpn.com
 - DOMAIN,switchvpn.net
-- DOMAIN,swordvpn.com
 - DOMAIN,dns.sy.st
 - DOMAIN,dns.syaifullah.com
 - DOMAIN,ibksturm.synology.me
@@ -3124,7 +3119,6 @@ payload:
 - DOMAIN,topsun.pw
 - DOMAIN,toptip.cc
 - DOMAIN,topvpn.cc
-- DOMAIN,topvpn.cn
 - DOMAIN,topvpnguides.com
 - DOMAIN,tor-gateways.de
 - DOMAIN,tor2web.fi
@@ -3318,7 +3312,6 @@ payload:
 - DOMAIN,unblockedwarez.com
 - DOMAIN,unblocker.net
 - DOMAIN,unblocker.us
-- DOMAIN,unblockfacebook.eu
 - DOMAIN,unblockfav.com
 - DOMAIN,unblockfreeproxy.com
 - DOMAIN,unblockit.app
@@ -3446,7 +3439,6 @@ payload:
 - DOMAIN,videomy.online
 - DOMAIN,videonew.online
 - DOMAIN,videoproxy.site
-- DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
 - DOMAIN,viewyoutube.net
