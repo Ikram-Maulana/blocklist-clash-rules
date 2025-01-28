@@ -2518,6 +2518,7 @@ payload:
 - DOMAIN,proxyof.com
 - DOMAIN,proxyone.net
 - DOMAIN,proxyoutlet.com
+- DOMAIN,proxypal.net
 - DOMAIN,proxypirates.com
 - DOMAIN,proxypremium.top
 - DOMAIN,proxyprivate.info
@@ -2936,7 +2937,6 @@ payload:
 - DOMAIN,stupidproxy.com
 - DOMAIN,dns.stvsk.ml
 - DOMAIN,doh.suche.org
-- DOMAIN,local.sufly.top
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,suissl.com
 - DOMAIN,resolver.sunet.se
