@@ -221,6 +221,7 @@ payload:
 - DOMAIN,u-id.cpc.heytapmobile.com
 - DOMAIN,obus-in.dc.heytapmobile.com
 - DOMAIN,obus-sg.dc.heytapmobile.com
+- DOMAIN,dc-stat-in.heytapmobile.com
 - DOMAIN,dragate-in-dc.heytapmobile.com
 - DOMAIN,api-id.game.heytapmobile.com
 - DOMAIN,httpdns-euex-push.heytapmobile.com
