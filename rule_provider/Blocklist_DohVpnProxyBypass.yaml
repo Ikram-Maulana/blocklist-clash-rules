@@ -995,6 +995,7 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -2165,7 +2166,6 @@ payload:
 - DOMAIN,onion.lt
 - DOMAIN,onion.ly
 - DOMAIN,onion.nu
-- DOMAIN,onion.pet
 - DOMAIN,onion.rip
 - DOMAIN,onion.sh
 - DOMAIN,onion.to
