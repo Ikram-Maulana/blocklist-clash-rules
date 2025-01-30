@@ -995,7 +995,6 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -2645,7 +2644,6 @@ payload:
 - DOMAIN,reflect4.me
 - DOMAIN,dns.reitmeier.me
 - DOMAIN,relayon.org
-- DOMAIN,remotedesktop.com
 - DOMAIN,remotevpn.net
 - DOMAIN,dns.renardyre.com
 - DOMAIN,dns.repinger.com
@@ -2914,6 +2912,7 @@ payload:
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
+- DOMAIN,us1-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
 - DOMAIN,starvpn.com
