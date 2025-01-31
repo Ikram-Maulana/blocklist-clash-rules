@@ -487,6 +487,7 @@ payload:
 - DOMAIN,celo.net
 - DOMAIN,anycast.censurfridns.dk
 - DOMAIN,unicast.censurfridns.dk
+- DOMAIN,center-crm.store
 - DOMAIN,dns.cert.ee
 - DOMAIN,cfdjb.org
 - DOMAIN,ibuki.cgnat.net
@@ -494,7 +495,6 @@ payload:
 - DOMAIN,changemyip.com
 - DOMAIN,chaos-system.de
 - DOMAIN,dns.charraud.eu
-- DOMAIN,checkpoint.com
 - DOMAIN,dns.chenu.ch
 - DOMAIN,dns.chilimac.net
 - DOMAIN,chillglobal.com
@@ -706,6 +706,7 @@ payload:
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,corsproxy.io
+- DOMAIN,cosmohacker.space
 - DOMAIN,coverproxy.com
 - DOMAIN,doh.cox.net
 - DOMAIN,dot.cox.net
@@ -1398,6 +1399,7 @@ payload:
 - DOMAIN,hanniel.tech
 - DOMAIN,dns.hannielzhang.com
 - DOMAIN,happy-vpn.com
+- DOMAIN,harbaletsstudy.com
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
@@ -1618,6 +1620,7 @@ payload:
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
 - DOMAIN,jailbreaked.net
+- DOMAIN,jamesisbald.xyz
 - DOMAIN,tj.jamesxue.xyz
 - DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
@@ -1697,6 +1700,7 @@ payload:
 - DOMAIN,knvpn.net
 - DOMAIN,ko-18948-tr.xyz
 - DOMAIN,www-proxy.koirdsuzu.com
+- DOMAIN,www-proxy.kokecoco.me
 - DOMAIN,adguard.konikoni428.com
 - DOMAIN,www-proxy.konstl01.xyz
 - DOMAIN,doh.kooman.org
@@ -1917,6 +1921,7 @@ payload:
 - DOMAIN,sail.msg.boats
 - DOMAIN,msr177.com
 - DOMAIN,dns.msxnet.ru
+- DOMAIN,mtagprox.com
 - DOMAIN,dns.mtoo.vip
 - DOMAIN,ns.mtsoln.com
 - DOMAIN,muchproxy.com
@@ -2653,6 +2658,7 @@ payload:
 - DOMAIN,dnspub.restena.lu
 - DOMAIN,dns.retakecs.com
 - DOMAIN,rethinkdns.com
+- DOMAIN,www-proxy.retportal.com
 - DOMAIN,revelio.top
 - DOMAIN,revko.info
 - DOMAIN,doh.rezhajul.io
@@ -2666,6 +2672,7 @@ payload:
 - DOMAIN,riseup.net
 - DOMAIN,rnblyatclub.online
 - DOMAIN,dns.roedel.cloud
+- DOMAIN,romirely.tech
 - DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
@@ -2772,6 +2779,7 @@ payload:
 - DOMAIN,adguard.senthil.us
 - DOMAIN,dns.serdcebolit.ru
 - DOMAIN,dns1.serdcebolit.ru
+- DOMAIN,serkanarslan.com
 - DOMAIN,privatnas.servebeer.com
 - DOMAIN,serverhoya.com
 - DOMAIN,serverssh.net
@@ -2785,6 +2793,7 @@ payload:
 - DOMAIN,shadeyouvpn.com
 - DOMAIN,shadowsocks.org
 - DOMAIN,shadowsurf.com
+- DOMAIN,shadowtunnels.com
 - DOMAIN,shalenkov.dev
 - DOMAIN,sharejav.com
 - DOMAIN,sharevpn.org
@@ -2841,6 +2850,7 @@ payload:
 - DOMAIN,skynetwork.info
 - DOMAIN,skyssh.co
 - DOMAIN,skyvpn.net
+- DOMAIN,sleezy.nl
 - DOMAIN,slickvpn.com
 - DOMAIN,dns.slinkyman.net
 - DOMAIN,smartdnsproxy.com
@@ -3110,6 +3120,7 @@ payload:
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
 - DOMAIN,proxy.toolur.com
+- DOMAIN,top-proxy.site
 - DOMAIN,top10vpn.com
 - DOMAIN,toppal.tech
 - DOMAIN,topsecure.info
