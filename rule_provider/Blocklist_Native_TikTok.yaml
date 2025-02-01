@@ -1,6 +1,8 @@
 payload:
 
-- DOMAIN,byteoversea.com
+- DOMAIN,bytewlb.akadns.net
+- DOMAIN,rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
+- DOMAIN,frontier.byteoversea.com
 - DOMAIN,gplog-sg.byteoversea.com
 - DOMAIN,gplog-va.byteoversea.com
 - DOMAIN,gplog-va-useast2a.byteoversea.com
@@ -77,6 +79,7 @@ payload:
 - DOMAIN,url2696.ads.tiktok.com
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-frontier.tiktok.com
+- DOMAIN,ads-service.tiktok.com
 - DOMAIN,ads-sg.tiktok.com
 - DOMAIN,ads-useast2a.tiktok.com
 - DOMAIN,analytics.tiktok.com
@@ -110,7 +113,6 @@ payload:
 - DOMAIN,ad-instantpage-i18n.tiktokv.com
 - DOMAIN,ad-instantpage-sg.tiktokv.com
 - DOMAIN,ad-instantpage-ttp2.tiktokv.eu
-- DOMAIN,ad-instantpage-ttp2.tiktokv.us
 - DOMAIN,ad-instantpage-va.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com

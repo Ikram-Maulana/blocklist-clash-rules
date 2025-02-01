@@ -93,7 +93,6 @@ payload:
 - DOMAIN,js.monitor.azure.com
 - DOMAIN,adsdkpreprod.azureedge.net
 - DOMAIN,adsdkprod.azureedge.net
-- DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
 - DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
@@ -225,6 +224,7 @@ payload:
 - DOMAIN,ucm.ads.microsoft.com
 - DOMAIN,ui.ads.microsoft.com
 - DOMAIN,adsdk.microsoft.com
+- DOMAIN,adsstatic.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
 - DOMAIN,fp.advertising.microsoft.com
@@ -557,7 +557,6 @@ payload:
 - DOMAIN,bf-tracker-release-tm.trafficmanager.net
 - DOMAIN,bingads.trafficmanager.net
 - DOMAIN,azure.bingads.trafficmanager.net
-- DOMAIN,cas-telemetry.trafficmanager.net
 - DOMAIN,collector-main.trafficmanager.net
 - DOMAIN,tracker.flightview.com.trafficmanager.net
 - DOMAIN,events.data.trafficmanager.net
