@@ -90,6 +90,7 @@ payload:
 - DOMAIN,dns.688447.xyz
 - DOMAIN,71745718.online
 - DOMAIN,7713.info
+- DOMAIN,777schoolutilities.website
 - DOMAIN,777surfer.info
 - DOMAIN,dns.7vpn.com
 - DOMAIN,87826100.xyz
@@ -129,7 +130,6 @@ payload:
 - DOMAIN,acrea.cz
 - DOMAIN,activpn.com
 - DOMAIN,actmobile.com
-- DOMAIN,zone.actsministries.org
 - DOMAIN,adblockersite.com
 - DOMAIN,adblockluna.com
 - DOMAIN,adl.adfilter.net
@@ -981,7 +981,6 @@ payload:
 - DOMAIN,dns.dooks.uk
 - DOMAIN,doomshadow.com
 - DOMAIN,dot.pub
-- DOMAIN,ns1.dotls.org
 - DOMAIN,dns.dotnet.win
 - DOMAIN,dotvpn.com
 - DOMAIN,doublehop.me

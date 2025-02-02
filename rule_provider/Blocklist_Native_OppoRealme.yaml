@@ -79,7 +79,10 @@ payload:
 - DOMAIN,moa-upload-online-in.coloros.com
 - DOMAIN,finosfin.com
 - DOMAIN,www.finosfin.com
+- DOMAIN,appconf-ocs-eu.heytapdl.com
+- DOMAIN,appconf-ocs-in.heytapdl.com
 - DOMAIN,appconf-ocs-sgp.heytapdl.com
+- DOMAIN,appconf-ocs-us.heytapdl.com
 - DOMAIN,appconf-sgp.heytapdl.com
 - DOMAIN,conf-in-dc.heytapdl.com
 - DOMAIN,conf-sg-dc.heytapdl.com
@@ -247,6 +250,7 @@ payload:
 - DOMAIN,obus-jssdk-sg.heytapmobile.com
 - DOMAIN,obus-jssdk-us.heytapmobile.com
 - DOMAIN,omes-sec.heytapmobile.com
+- DOMAIN,report-in.opay.heytapmobile.com
 - DOMAIN,report-sg.opay.heytapmobile.com
 - DOMAIN,api-id.play.heytapmobile.com
 - DOMAIN,push.heytapmobile.com
@@ -259,6 +263,8 @@ payload:
 - DOMAIN,bsf.sc.heytapmobile.com
 - DOMAIN,slb-apisnd-in.heytapmobile.com
 - DOMAIN,api-id.theme.heytapmobile.com
+- DOMAIN,report-eu.uc.heytapmobile.com
+- DOMAIN,report-in.uc.heytapmobile.com
 - DOMAIN,report-sg.uc.heytapmobile.com
 - DOMAIN,hizonetech.com
 - DOMAIN,www.hizonetech.com
