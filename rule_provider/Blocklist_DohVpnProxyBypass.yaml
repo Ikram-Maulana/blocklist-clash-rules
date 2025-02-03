@@ -1037,7 +1037,6 @@ payload:
 - DOMAIN,emban-networks.com
 - DOMAIN,emeraldeyex.dev
 - DOMAIN,dns.emiliyan.com
-- DOMAIN,ems115.shop
 - DOMAIN,encrypt.me
 - DOMAIN,endente.com
 - DOMAIN,adguard.ender.fr
@@ -1076,7 +1075,6 @@ payload:
 - DOMAIN,expressvpn.net
 - DOMAIN,dns.extrawdw.net
 - DOMAIN,fra1.eyecay.xyz
-- DOMAIN,dns.ezyss.id
 - DOMAIN,f0lga.tech
 - DOMAIN,dns.f4a.fun
 - DOMAIN,f4fp.com
@@ -1178,7 +1176,6 @@ payload:
 - DOMAIN,forwardproxie.com
 - DOMAIN,fproxy.net
 - DOMAIN,francis-proxy.top
-- DOMAIN,explore.francomedia.net
 - DOMAIN,frandcomfort.us
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
@@ -1247,7 +1244,6 @@ payload:
 - DOMAIN,dns.freyja.pw
 - DOMAIN,frootvpn.com
 - DOMAIN,dns.froth.zone
-- DOMAIN,awan.ftp.sh
 - DOMAIN,fun4school.store
 - DOMAIN,doh.funil.de
 - DOMAIN,doh.funtopia.tv
@@ -1308,7 +1304,6 @@ payload:
 - DOMAIN,gibblets.top
 - DOMAIN,adguard.maison.gifino.fr
 - DOMAIN,gifttrees.us
-- DOMAIN,gingerbread.design
 - DOMAIN,dns.ginovs.nl
 - DOMAIN,gipvpn.com
 - DOMAIN,dns.girino.org
@@ -1577,6 +1572,7 @@ payload:
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
 - DOMAIN,ipoac.nl
+- DOMAIN,ipprotectionauth.goog
 - DOMAIN,ipredator.se
 - DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
