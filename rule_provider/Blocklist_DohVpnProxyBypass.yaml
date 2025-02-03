@@ -199,7 +199,6 @@ payload:
 - DOMAIN,doh.amonsul.net
 - DOMAIN,anachem.online
 - DOMAIN,ananoos.com
-- DOMAIN,anatomical.design
 - DOMAIN,anchorfree.net
 - DOMAIN,dns.andrewnw.xyz
 - DOMAIN,androvpn.com
@@ -347,7 +346,6 @@ payload:
 - DOMAIN,bettervpn.com
 - DOMAIN,bgvpn.com
 - DOMAIN,bi-tree.ru
-- DOMAIN,bidehshomali.top
 - DOMAIN,proxyduke.bingle.pw
 - DOMAIN,ns3.bit-trail.nl
 - DOMAIN,bit123.biz
@@ -464,7 +462,6 @@ payload:
 - DOMAIN,tor.calyxinstitute.org
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
-- DOMAIN,caproxies.info
 - DOMAIN,2.dnscrypt-cert.captnemo.in
 - DOMAIN,doh.captnemo.in
 - DOMAIN,carebuzz.io
@@ -696,7 +693,6 @@ payload:
 - DOMAIN,dns1.conne.net
 - DOMAIN,dns.connect.fail
 - DOMAIN,connectionvpn.com
-- DOMAIN,constitutional.design
 - DOMAIN,contassh.com
 - DOMAIN,contentabc.com
 - DOMAIN,dns.controld.com
@@ -757,7 +753,6 @@ payload:
 - DOMAIN,cybersilent.com
 - DOMAIN,cyberssh.com
 - DOMAIN,dns.cybertonic.tech
-- DOMAIN,cybertruck.design
 - DOMAIN,cynntex.fun
 - DOMAIN,dns.cynthialabs.net
 - DOMAIN,dns.d365.in
@@ -813,7 +808,6 @@ payload:
 - DOMAIN,dns2.digitale-gesellschaft.ch
 - DOMAIN,dns.digitalsize.net
 - DOMAIN,directoryproxy.info
-- DOMAIN,disciplinary.design
 - DOMAIN,disconnect.me
 - DOMAIN,doh.disconnect.app
 - DOMAIN,fdns1.dismail.de
@@ -972,7 +966,6 @@ payload:
 - DOMAIN,doh.pub
 - DOMAIN,doh.sb
 - DOMAIN,doh.xyz
-- DOMAIN,dolopo.net
 - DOMAIN,domainownership.us
 - DOMAIN,doh.domreg.lt
 - DOMAIN,takhtakh.domyah.net
@@ -1643,6 +1636,7 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
+- DOMAIN,johneldenring.lol
 - DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com
 - DOMAIN,jongserver.xyz
