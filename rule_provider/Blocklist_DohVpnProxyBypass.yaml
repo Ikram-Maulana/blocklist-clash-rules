@@ -63,6 +63,7 @@ payload:
 - DOMAIN,2fastsurfer.us
 - DOMAIN,2proxy.de
 - DOMAIN,2proxyweb.com
+- DOMAIN,30t.online
 - DOMAIN,doh.30x.me
 - DOMAIN,351242444.xyz
 - DOMAIN,dns.354688.xyz
@@ -609,7 +610,6 @@ payload:
 - DOMAIN,pihole.datamatter.co.za
 - DOMAIN,ddelay.co.uk
 - DOMAIN,diskcrmvpn.co.cc
-- DOMAIN,www.dnsadguard.co.uk
 - DOMAIN,englandproxy.co.uk
 - DOMAIN,dns.gayanalysing.co.uk
 - DOMAIN,dns.gi.co.id
@@ -1242,6 +1242,7 @@ payload:
 - DOMAIN,french-vpn.com
 - DOMAIN,dns.freopc.fr
 - DOMAIN,dns.freyja.pw
+- DOMAIN,frlolyt.site
 - DOMAIN,frootvpn.com
 - DOMAIN,dns.froth.zone
 - DOMAIN,fun4school.store
@@ -1281,6 +1282,7 @@ payload:
 - DOMAIN,get-xmore-link3s.com
 - DOMAIN,get-xmore-links8.com
 - DOMAIN,getcloak.com
+- DOMAIN,getcloser-websocket.com
 - DOMAIN,getdnsapi.net
 - DOMAIN,getflix.com
 - DOMAIN,getfoxyproxy.org
@@ -1499,7 +1501,6 @@ payload:
 - DOMAIN,dns.hujiayucc.cn
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
-- DOMAIN,hustlersuniversity.pro
 - DOMAIN,ad.huyct.net
 - DOMAIN,dns.huyhoangit.net
 - DOMAIN,hyperbyte.net
@@ -2009,7 +2010,6 @@ payload:
 - DOMAIN,us-saj-w-p-1.nashkan.net
 - DOMAIN,natfrp.cloud
 - DOMAIN,nathanielgavin.lol
-- DOMAIN,nb66.me
 - DOMAIN,vpn.nbvalente.fr
 - DOMAIN,vpn.ncapi.io
 - DOMAIN,ne1.ca
@@ -2033,7 +2033,6 @@ payload:
 - DOMAIN,dns.neubsi.at
 - DOMAIN,dns.neutopia.org
 - DOMAIN,newads-cdn.com
-- DOMAIN,help.newhopes.info
 - DOMAIN,newipnow.com
 - DOMAIN,newshosting.com
 - DOMAIN,doh.luigi.nexific.it
@@ -2100,7 +2099,6 @@ payload:
 - DOMAIN,o2comm-prd.norton.com
 - DOMAIN,spoc.norton.com
 - DOMAIN,dns.norvig.dk
-- DOMAIN,notartclass.design
 - DOMAIN,dns.notjakob.com
 - DOMAIN,notlong.com
 - DOMAIN,notvpn.io
@@ -2151,7 +2149,6 @@ payload:
 - DOMAIN,onevanalla.site
 - DOMAIN,onion.am
 - DOMAIN,onion.cab
-- DOMAIN,onion.casa
 - DOMAIN,onion.city
 - DOMAIN,onion.direct
 - DOMAIN,onion.dog
@@ -2276,7 +2273,6 @@ payload:
 - DOMAIN,personalvpn.com
 - DOMAIN,personaly.click
 - DOMAIN,dns.pesaventofilippo.com
-- DOMAIN,petergriffin.design
 - DOMAIN,dns.petqa.ru
 - DOMAIN,adguard.pggns.de
 - DOMAIN,dns.phillipjberry.net
@@ -2359,7 +2355,6 @@ payload:
 - DOMAIN,virga.pp.ua
 - DOMAIN,zxcvb.pp.ua
 - DOMAIN,ppira.com
-- DOMAIN,pplsearcher.com
 - DOMAIN,pq7hdf.com
 - DOMAIN,pr0xy.com
 - DOMAIN,dns.pragmasec.nl
