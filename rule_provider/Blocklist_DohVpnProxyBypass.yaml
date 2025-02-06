@@ -1664,7 +1664,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -2931,7 +2930,6 @@ payload:
 - DOMAIN,dns.stvsk.ml
 - DOMAIN,doh.suche.org
 - DOMAIN,dns.suhaila.dev
-- DOMAIN,suissl.com
 - DOMAIN,resolver.sunet.se
 - DOMAIN,sunnygyl.com
 - DOMAIN,doh.sunoaki.net
@@ -3020,7 +3018,6 @@ payload:
 - DOMAIN,uk.teradns.org
 - DOMAIN,terraleads.cloud
 - DOMAIN,dns.soldier.terumi.club
-- DOMAIN,teruteruteruko.com
 - DOMAIN,dns.tesem.dog
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,thankvpn.com
@@ -3112,7 +3109,6 @@ payload:
 - DOMAIN,toptip.cc
 - DOMAIN,topvpn.cc
 - DOMAIN,topvpnguides.com
-- DOMAIN,tor-gateways.de
 - DOMAIN,tor2web.fi
 - DOMAIN,tor2web.in
 - DOMAIN,tor2web.io
