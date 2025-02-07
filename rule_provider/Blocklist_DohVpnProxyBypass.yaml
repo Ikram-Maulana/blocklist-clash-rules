@@ -2567,7 +2567,6 @@ payload:
 - DOMAIN,doh.pyry.me
 - DOMAIN,at.pzhg.me
 - DOMAIN,vpsus3.pzhg.me
-- DOMAIN,v.qdev.cc
 - DOMAIN,doh.qis.io
 - DOMAIN,qpoll.ir
 - DOMAIN,qqmcfw.tech
