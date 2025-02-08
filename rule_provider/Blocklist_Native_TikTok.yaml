@@ -78,7 +78,7 @@ payload:
 - DOMAIN,url2696.ads.tiktok.com
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-frontier.tiktok.com
-- DOMAIN,ads-service.tiktok.com
+- DOMAIN,ads-imapi.tiktok.com
 - DOMAIN,ads-sg.tiktok.com
 - DOMAIN,ads-useast2a.tiktok.com
 - DOMAIN,analytics.tiktok.com

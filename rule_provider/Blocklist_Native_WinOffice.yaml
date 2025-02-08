@@ -93,6 +93,7 @@ payload:
 - DOMAIN,js.monitor.azure.com
 - DOMAIN,adsdkpreprod.azureedge.net
 - DOMAIN,adsdkprod.azureedge.net
+- DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
 - DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
@@ -224,10 +225,8 @@ payload:
 - DOMAIN,ucm.ads.microsoft.com
 - DOMAIN,ui.ads.microsoft.com
 - DOMAIN,adsdk.microsoft.com
-- DOMAIN,adsstatic.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
-- DOMAIN,fp.advertising.microsoft.com
 - DOMAIN,sts.advertising.microsoft.com
 - DOMAIN,analyticspixel.microsoft.com
 - DOMAIN,applicationinsights.microsoft.com
@@ -411,7 +410,6 @@ payload:
 - DOMAIN,gateway.bingviz.microsoftapp.net
 - DOMAIN,msads.net
 - DOMAIN,ads1.msads.net
-- DOMAIN,a.ads1.msads.net
 - DOMAIN,ads2.msads.net
 - DOMAIN,a.ads2.msads.net
 - DOMAIN,b.ads2.msads.net
@@ -426,8 +424,6 @@ payload:
 - DOMAIN,ads1.msn.com
 - DOMAIN,ads2.msn.com
 - DOMAIN,adsyndication.msn.com
-- DOMAIN,images.adsyndication.msn.com
-- DOMAIN,images-ppe.adsyndication.msn.com
 - DOMAIN,analytics.msn.com
 - DOMAIN,metric.appex-rf.msn.com
 - DOMAIN,c.ar.msn.com

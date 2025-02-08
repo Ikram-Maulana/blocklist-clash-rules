@@ -25,7 +25,6 @@ payload:
 - DOMAIN,search.bluelock.org
 - DOMAIN,boomle.com
 - DOMAIN,search.bowlman.org
-- DOMAIN,search.bus-hit.me
 - DOMAIN,searx.catfluori.de
 - DOMAIN,sx.catgirl.cloud
 - DOMAIN,search.aol.co.uk
@@ -121,7 +120,6 @@ payload:
 - DOMAIN,searx.netzspielplatz.de
 - DOMAIN,nibblehole.com
 - DOMAIN,searxng.nicfab.eu
-- DOMAIN,searx.nightmare.life
 - DOMAIN,nigma.eu
 - DOMAIN,searx.nixnet.services
 - DOMAIN,searxng.no-logs.com
@@ -150,7 +148,6 @@ payload:
 - DOMAIN,whoogle.privacydev.net
 - DOMAIN,search.privacytools.io
 - DOMAIN,search.in.projectsegfau.lt
-- DOMAIN,search.projectsegfau.lt
 - DOMAIN,search.us.projectsegfau.lt
 - DOMAIN,searx.prvcy.eu
 - DOMAIN,librex.pufe.org
