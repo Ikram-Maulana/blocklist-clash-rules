@@ -1539,6 +1539,7 @@ payload:
 - DOMAIN,dns.imchristian.de
 - DOMAIN,dns.immanuelschaffer.de
 - DOMAIN,doh.immerda.ch
+- DOMAIN,http-dns.imoim.net
 - DOMAIN,imperio.top
 - DOMAIN,dns1.in-berlin.de
 - DOMAIN,dns2.in-berlin.de
