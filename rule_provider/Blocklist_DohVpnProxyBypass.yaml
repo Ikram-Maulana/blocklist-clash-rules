@@ -992,6 +992,7 @@ payload:
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -2383,7 +2384,6 @@ payload:
 - DOMAIN,romania.privacy-dns.pw
 - DOMAIN,privacyprotector.eu
 - DOMAIN,privado.io
-- DOMAIN,dns.privado.ovh
 - DOMAIN,orpi.privado.ovh
 - DOMAIN,privadovpn.com
 - DOMAIN,privateinternetaccess.com
