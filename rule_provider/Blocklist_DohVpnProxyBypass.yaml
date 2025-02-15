@@ -63,6 +63,7 @@ payload:
 - DOMAIN,2fastsurfer.us
 - DOMAIN,2proxy.de
 - DOMAIN,2proxyweb.com
+- DOMAIN,2r34.com
 - DOMAIN,30t.online
 - DOMAIN,doh.30x.me
 - DOMAIN,351242444.xyz
@@ -111,6 +112,7 @@ payload:
 - DOMAIN,dns-gcp.aaflalo.me
 - DOMAIN,dns-nyc.aaflalo.me
 - DOMAIN,doh.dns.apple.com.v.aaplimg.com
+- DOMAIN,aaronzweb.xyz
 - DOMAIN,abcproxy.com
 - DOMAIN,adguard.abd.ong
 - DOMAIN,dns.abdullahabas.de
@@ -136,7 +138,6 @@ payload:
 - DOMAIN,adl.adfilter.net
 - DOMAIN,per.adfilter.net
 - DOMAIN,syd.adfilter.net
-- DOMAIN,adfiltro.fun
 - DOMAIN,adfreedns.top
 - DOMAIN,adfreeproxy.com
 - DOMAIN,adguard.io
@@ -195,6 +196,7 @@ payload:
 - DOMAIN,37er19htfd.execute-api.us-east-1.amazonaws.com
 - DOMAIN,i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 - DOMAIN,dsl-app.s3.us-east-2.amazonaws.com
+- DOMAIN,amirabbasmousavi.news
 - DOMAIN,mailer.amlegion.org
 - DOMAIN,ammmae150.news
 - DOMAIN,doh.amonsul.net
@@ -342,6 +344,7 @@ payload:
 - DOMAIN,bestwon203.com
 - DOMAIN,bestyouproxytube.com
 - DOMAIN,bestyoutubeproxy.info
+- DOMAIN,www-proxy.bettercallghaith.wiki
 - DOMAIN,betternet.co
 - DOMAIN,betterproxy.net
 - DOMAIN,bettervpn.com
@@ -716,6 +719,7 @@ payload:
 - DOMAIN,crazysurfer.info
 - DOMAIN,createssh.com
 - DOMAIN,createssh.net
+- DOMAIN,creatine.wtf
 - DOMAIN,criarssh.com
 - DOMAIN,dns.criena.net
 - DOMAIN,crownproxy.com
@@ -1497,6 +1501,7 @@ payload:
 - DOMAIN,html.cafe
 - DOMAIN,httpdserver.info
 - DOMAIN,dns.huas.me
+- DOMAIN,hugeph.art
 - DOMAIN,dns.hujiayucc.cn
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
@@ -1861,6 +1866,7 @@ payload:
 - DOMAIN,dns.mestdag.fr
 - DOMAIN,metal-masters.us
 - DOMAIN,metalinjection.us
+- DOMAIN,mfho.cc
 - DOMAIN,dns.mh4ckt3mh4ckt1c4s.xyz
 - DOMAIN,mhany.xyz
 - DOMAIN,esel.stusta.mhn.de
@@ -3666,6 +3672,7 @@ payload:
 - DOMAIN,common.dot.dns.yandex.net
 - DOMAIN,family.dot.dns.yandex.net
 - DOMAIN,safe.dot.dns.yandex.net
+- DOMAIN,yasosy.pro
 - DOMAIN,dns.yatima.tv
 - DOMAIN,ychen.cf
 - DOMAIN,ychen.gq

@@ -1,5 +1,6 @@
 payload:
 
+- DOMAIN,asia-ad-mkt-vivofs.vivoglobal.com
 - DOMAIN,asia-adlog.vivoglobal.com
 - DOMAIN,asia-adsjssdk.vivoglobal.com
 - DOMAIN,asia-analyzer-appstore.vivoglobal.com
@@ -18,6 +19,7 @@ payload:
 - DOMAIN,asia-prt-stsdk.vivoglobal.com
 - DOMAIN,asia-st-sl.vivoglobal.com
 - DOMAIN,asia-stsdk.vivoglobal.com
+- DOMAIN,asia-vcode-od.vivoglobal.com
 - DOMAIN,asia-vcode-or.vivoglobal.com
 - DOMAIN,asia-vpushonrt-stsdk.vivoglobal.com
 - DOMAIN,asia-vpushort-stsdk.vivoglobal.com
@@ -46,8 +48,10 @@ payload:
 - DOMAIN,in-errup.vivoglobal.com
 - DOMAIN,in-ex-adlog.vivoglobal.com
 - DOMAIN,in-monitor-stsdk.vivoglobal.com
+- DOMAIN,in-news-abroad-backstage-interface.vivoglobal.com
 - DOMAIN,in-onrt-stsdk.vivoglobal.com
 - DOMAIN,in-ort-stsdk.vivoglobal.com
+- DOMAIN,in-os-config-appstore.vivoglobal.com
 - DOMAIN,in-pnrt-stsdk.vivoglobal.com
 - DOMAIN,in-vpushonrt-stsdk.vivoglobal.com
 - DOMAIN,in-vpushort-stsdk.vivoglobal.com
@@ -86,4 +90,10 @@ payload:
 - DOMAIN,ru-prt-stsdk.vivoglobal.com
 - DOMAIN,ru-stsdk.vivoglobal.com
 - DOMAIN,stsdk.vivoglobal.com
+- DOMAIN,tr-domaincfg.vivoglobal.com
+- DOMAIN,tr-romsp-unifyconfig.vivoglobal.com
+- DOMAIN,tr-st-sl.vivoglobal.com
+- DOMAIN,tr-timesync.vivoglobal.com
+- DOMAIN,tr-vcode-api.vivoglobal.com
+- DOMAIN,tr-vcode-od.vivoglobal.com
 - DOMAIN,err.up.vivoglobal.com
