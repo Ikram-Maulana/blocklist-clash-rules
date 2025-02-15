@@ -451,7 +451,6 @@ payload:
 - DOMAIN,bypassfw.com
 - DOMAIN,bypassip.com
 - DOMAIN,bypasskey.com
-- DOMAIN,bypasstunnel.com
 - DOMAIN,api.bytelixir.com
 - DOMAIN,bytzvpn.com
 - DOMAIN,c-dns.com
@@ -2904,10 +2903,7 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
@@ -3434,7 +3430,6 @@ payload:
 - DOMAIN,videoproxy.site
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
-- DOMAIN,viewyoutube.net
 - DOMAIN,vikingvpn.com
 - DOMAIN,dns.vinnyp.xyz
 - DOMAIN,dns.vinokurov.tk

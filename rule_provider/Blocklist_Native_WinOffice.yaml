@@ -142,6 +142,7 @@ payload:
 - DOMAIN,ffc-word-telemetry.officeapps.live.com
 - DOMAIN,frc-visio-telemetry.officeapps.live.com
 - DOMAIN,inc-visio-telemetry.officeapps.live.com
+- DOMAIN,jpc-visio-telemetry.officeapps.live.com
 - DOMAIN,nexus.officeapps.live.com
 - DOMAIN,nexusrules.officeapps.live.com
 - DOMAIN,noc-visio-telemetry.officeapps.live.com
