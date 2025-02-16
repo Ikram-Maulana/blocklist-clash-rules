@@ -77,6 +77,7 @@ payload:
 - DOMAIN,dns.3wv.de
 - DOMAIN,dns.4-the.win
 - DOMAIN,doh.42l.fr
+- DOMAIN,dns.444723.xyz
 - DOMAIN,46sdzf3zdg1dxg2.us
 - DOMAIN,4everproxy.com
 - DOMAIN,ns2.4netguides.org
@@ -92,12 +93,16 @@ payload:
 - DOMAIN,dns.688447.xyz
 - DOMAIN,71745718.online
 - DOMAIN,7713.info
+- DOMAIN,doh.774445.xyz
+- DOMAIN,dns.775467.xyz
 - DOMAIN,777schoolutilities.website
 - DOMAIN,777surfer.info
 - DOMAIN,dns.7vpn.com
+- DOMAIN,dns.853852.xyz
 - DOMAIN,87826100.xyz
 - DOMAIN,dns.886886886.xyz
 - DOMAIN,dns.888654.xyz
+- DOMAIN,dns.8887744.xyz
 - DOMAIN,8888.google
 - DOMAIN,8proxy.com
 - DOMAIN,8v9m.com
@@ -315,6 +320,7 @@ payload:
 - DOMAIN,jp-dns1.bancuh.com
 - DOMAIN,sg-dns1.bancuh.com
 - DOMAIN,base99.com
+- DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
 - DOMAIN,bdns.link
@@ -432,6 +438,7 @@ payload:
 - DOMAIN,bright4good.eco
 - DOMAIN,brightvpn.com
 - DOMAIN,britishproxy.com
+- DOMAIN,dns.brono.cloud
 - DOMAIN,brovpn.io
 - DOMAIN,browsebridge.com
 - DOMAIN,browsec.com
@@ -446,6 +453,7 @@ payload:
 - DOMAIN,bunkerbustervpn.com
 - DOMAIN,dns.burgas.pro
 - DOMAIN,dns.busold.ws
+- DOMAIN,dns.butterfly87.sbs
 - DOMAIN,bvpn.com
 - DOMAIN,byewall.com
 - DOMAIN,bypass.pw
@@ -507,6 +515,7 @@ payload:
 - DOMAIN,chromebook.digital
 - DOMAIN,dns.chromeina.top
 - DOMAIN,chromeproxy.net
+- DOMAIN,dns.chunghwamc.com
 - DOMAIN,oraclejp2.chungyu.com
 - DOMAIN,c.cicitt.ch
 - DOMAIN,cienen.com
@@ -609,6 +618,7 @@ payload:
 - DOMAIN,akashiro.co.id
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
+- DOMAIN,cars-a.co.za
 - DOMAIN,clearvpn.co.uk
 - DOMAIN,pihole.datamatter.co.za
 - DOMAIN,ddelay.co.uk
@@ -891,6 +901,7 @@ payload:
 - DOMAIN,llk01.dnscry.pt
 - DOMAIN,lon01.dnscry.pt
 - DOMAIN,mad01.dnscry.pt
+- DOMAIN,man01.dnscry.pt
 - DOMAIN,mia01.dnscry.pt
 - DOMAIN,mil01.dnscry.pt
 - DOMAIN,mru01.dnscry.pt
@@ -930,8 +941,10 @@ payload:
 - DOMAIN,vno01.dnscry.pt
 - DOMAIN,waw01.dnscry.pt
 - DOMAIN,waw02.dnscry.pt
+- DOMAIN,yhz01.dnscry.pt
 - DOMAIN,yul01.dnscry.pt
 - DOMAIN,yvr01.dnscry.pt
+- DOMAIN,yyc01.dnscry.pt
 - DOMAIN,yyz01.dnscry.pt
 - DOMAIN,zal01.dnscry.pt
 - DOMAIN,dns1.dnscrypt.ca
@@ -985,7 +998,9 @@ payload:
 - DOMAIN,doyouremember.love
 - DOMAIN,dragoncgiproxy.online
 - DOMAIN,dreamvpn.us
+- DOMAIN,dns.dremaxx.de
 - DOMAIN,droidvpn.com
+- DOMAIN,droyd.top
 - DOMAIN,doh.dscloud.me
 - DOMAIN,agh.dshubham.xyz
 - DOMAIN,duapps.com
@@ -1065,6 +1080,8 @@ payload:
 - DOMAIN,arashi.eu.org
 - DOMAIN,armorrush.eu.org
 - DOMAIN,doh.excdn.eu.org
+- DOMAIN,dns.de.futuredns.eu.org
+- DOMAIN,dns.us.futuredns.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
 - DOMAIN,arashi.net.eu.org
@@ -1662,6 +1679,7 @@ payload:
 - DOMAIN,dns.karadag.me
 - DOMAIN,dns.karfamily.net
 - DOMAIN,dns.karl.one
+- DOMAIN,adguard.kasbot.net
 - DOMAIN,dns.kastner-online.de
 - DOMAIN,katonetwork.com
 - DOMAIN,kavkaz.monster
@@ -1759,6 +1777,7 @@ payload:
 - DOMAIN,libertyvpn.net
 - DOMAIN,doh.libredns.gr
 - DOMAIN,dot.libredns.gr
+- DOMAIN,lifeisa.live
 - DOMAIN,dns.lihj.me
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
@@ -1889,6 +1908,7 @@ payload:
 - DOMAIN,dns.mnet-online.de
 - DOMAIN,mnrv.trade
 - DOMAIN,dns.mo0on15.com
+- DOMAIN,moamao.shop
 - DOMAIN,dnstls.mobik.com
 - DOMAIN,mobilejump.mobi
 - DOMAIN,mobilevpn.net
@@ -2125,6 +2145,7 @@ payload:
 - DOMAIN,ns8469rfvth42.xyz
 - DOMAIN,nslookup.io
 - DOMAIN,nsv4w.com
+- DOMAIN,ntwrkh.pro
 - DOMAIN,dns.nullgate.net
 - DOMAIN,nullsbrawly.xyz
 - DOMAIN,dns.numerus.com
@@ -2149,6 +2170,7 @@ payload:
 - DOMAIN,onconnect.info
 - DOMAIN,one.one.one.one
 - DOMAIN,doh.onedns.net
+- DOMAIN,doh-pure.onedns.net
 - DOMAIN,onedown.info
 - DOMAIN,oneproxy.biz
 - DOMAIN,oneproxy.xyz
@@ -2255,6 +2277,7 @@ payload:
 - DOMAIN,pantoto.xyz
 - DOMAIN,panzend.xyz
 - DOMAIN,papervpn.info
+- DOMAIN,paradise-human.shop
 - DOMAIN,dns.pari.network
 - DOMAIN,parkviewenglish.buzz
 - DOMAIN,pashagame456.com
@@ -2271,6 +2294,7 @@ payload:
 - DOMAIN,check.peer2profit.site
 - DOMAIN,fuchur.pentament.de
 - DOMAIN,peoplesproxy.com
+- DOMAIN,pepetio.xyz
 - DOMAIN,perfect-privacy.com
 - DOMAIN,perfectvpn.net
 - DOMAIN,perlproxy.com
@@ -2360,7 +2384,6 @@ payload:
 - DOMAIN,lindung.pp.ua
 - DOMAIN,sundalandia.pp.ua
 - DOMAIN,virga.pp.ua
-- DOMAIN,zxcvb.pp.ua
 - DOMAIN,ppira.com
 - DOMAIN,pq7hdf.com
 - DOMAIN,pr0xy.com
@@ -2637,9 +2660,11 @@ payload:
 - DOMAIN,dns.redvau.lt
 - DOMAIN,reezus.us
 - DOMAIN,reflect4.me
+- DOMAIN,regiopolis.cloud
 - DOMAIN,dns.reitmeier.me
 - DOMAIN,relayon.org
 - DOMAIN,remotevpn.net
+- DOMAIN,renardbleu.dev
 - DOMAIN,dns.renardyre.com
 - DOMAIN,dns.repinger.com
 - DOMAIN,repocket.co
@@ -2856,6 +2881,7 @@ payload:
 - DOMAIN,www-proxy.sodemc.com
 - DOMAIN,clientdns3.softcom.net
 - DOMAIN,free-vpn.en.softonic.com
+- DOMAIN,solaxy.live
 - DOMAIN,soleilvpn-app.com
 - DOMAIN,solidproxy.net
 - DOMAIN,sourceproxy.com
@@ -2936,6 +2962,7 @@ payload:
 - DOMAIN,stunnel.org
 - DOMAIN,stupidproxy.com
 - DOMAIN,dns.stvsk.ml
+- DOMAIN,doh.sublime9.xyz
 - DOMAIN,doh.suche.org
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,resolver.sunet.se
@@ -3080,6 +3107,7 @@ payload:
 - DOMAIN,theunblock.net
 - DOMAIN,thevpncompany.net
 - DOMAIN,thexite.net
+- DOMAIN,dns.thiz.top
 - DOMAIN,threeproxy.net
 - DOMAIN,thundervpnwin.com
 - DOMAIN,tiafun.com
@@ -3446,6 +3474,7 @@ payload:
 - DOMAIN,vitaproxy.com
 - DOMAIN,vload.net
 - DOMAIN,vobas.com
+- DOMAIN,dns.vod11.xyz
 - DOMAIN,dns.vojtat.cz
 - DOMAIN,vonvpn.com
 - DOMAIN,vpn0109.voodonline.fr
