@@ -1007,7 +1007,6 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1643,6 +1642,7 @@ payload:
 - DOMAIN,doh.jeroenhd.nl
 - DOMAIN,jetbean.com
 - DOMAIN,jetproxy.com
+- DOMAIN,jetssh.com
 - DOMAIN,jfalling.com
 - DOMAIN,adguard.jfchenier.ca
 - DOMAIN,dns.jhangy.us
@@ -1795,6 +1795,7 @@ payload:
 - DOMAIN,liquidvpn.com
 - DOMAIN,dns.listo.click
 - DOMAIN,litebrowser.net
+- DOMAIN,literally.info
 - DOMAIN,litevpn.top
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
@@ -1819,6 +1820,7 @@ payload:
 - DOMAIN,lumes.jp
 - DOMAIN,luminati.io
 - DOMAIN,luminatinet.com
+- DOMAIN,lurk.info
 - DOMAIN,dns.lvolland.fr
 - DOMAIN,orau.lz0724.com
 - DOMAIN,addns1.m-it.ro
@@ -1864,7 +1866,6 @@ payload:
 - DOMAIN,dns.maybe.icu
 - DOMAIN,mazevpn.com
 - DOMAIN,dns.mbrjun.cn
-- DOMAIN,mc-sft.cn
 - DOMAIN,ispcapi.mcafee.com
 - DOMAIN,msc.mcafee.com
 - DOMAIN,safeconnect.mcafee.com
