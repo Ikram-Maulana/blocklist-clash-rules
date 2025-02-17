@@ -1365,6 +1365,7 @@ payload:
 - DOMAIN,dns.google.com
 - DOMAIN,google-public-dns-a.google.com
 - DOMAIN,google-public-dns-b.google.com
+- DOMAIN,dns-tunnel-check.googlezip.net
 - DOMAIN,goosevpn.com
 - DOMAIN,goproxy.asia
 - DOMAIN,performance.gosami.xyz
@@ -1596,6 +1597,7 @@ payload:
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
 - DOMAIN,ipoac.nl
+- DOMAIN,iportal.me
 - DOMAIN,ipprotectionauth.goog
 - DOMAIN,ipredator.se
 - DOMAIN,iprivatevpn.com
