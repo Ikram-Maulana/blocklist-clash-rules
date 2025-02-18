@@ -1,6 +1,22 @@
 payload:
 
-- DOMAIN,bal.in.aimon.applicationinsights.azure.com
+- DOMAIN,bingapis-com.dual-a-0034.a-msedge.net
+- DOMAIN,measure.office.com.akamaized.net
+- DOMAIN,fp.measure.office.com.akamaized.net
+- DOMAIN,upload2.fp.measure.office.com.akamaized.net
+- DOMAIN,in.appcenter.ms
+- DOMAIN,js.cdn.applicationinsights.io
+- DOMAIN,js0.cdn.applicationinsights.io
+- DOMAIN,js1.cdn.applicationinsights.io
+- DOMAIN,js2.cdn.applicationinsights.io
+- DOMAIN,js0.tst.applicationinsights.io
+- DOMAIN,js1.tst.applicationinsights.io
+- DOMAIN,js2.tst.applicationinsights.io
+- DOMAIN,applicationinsights.azure.com
+- DOMAIN,aimon.applicationinsights.azure.com
+- DOMAIN,in.aimon.applicationinsights.azure.com
+- DOMAIN,westcentralus-0.in.aimon.applicationinsights.azure.com
+- DOMAIN,westcentralus-global.in.aimon.applicationinsights.azure.com
 - DOMAIN,api.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
@@ -109,6 +125,7 @@ payload:
 - DOMAIN,g.bing.com
 - DOMAIN,r.g.bing.com
 - DOMAIN,raka.bing.com
+- DOMAIN,c.bingapis.com
 - DOMAIN,insights.cloud.microsoft
 - DOMAIN,analysis.insights.cloud.microsoft
 - DOMAIN,measure.office.net.edgesuite.net
@@ -228,6 +245,7 @@ payload:
 - DOMAIN,adsdk.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
+- DOMAIN,fp.advertising.microsoft.com
 - DOMAIN,sts.advertising.microsoft.com
 - DOMAIN,analyticspixel.microsoft.com
 - DOMAIN,applicationinsights.microsoft.com
