@@ -2483,16 +2483,19 @@ payload:
 - DOMAIN,proxy.red
 - DOMAIN,proxy.rocks
 - DOMAIN,proxy.sh
+- DOMAIN,proxy.sx
 - DOMAIN,proxy.yt
 - DOMAIN,proxy-123.com
 - DOMAIN,proxy-2014.com
 - DOMAIN,proxy-2015.info
 - DOMAIN,proxy-bypass.com
 - DOMAIN,proxy-german.de
+- DOMAIN,proxy-internet.info
 - DOMAIN,proxy-n-vpn.com
 - DOMAIN,proxy-search.com
 - DOMAIN,proxy-seller.com
 - DOMAIN,proxy-site.net
+- DOMAIN,proxy-works.com
 - DOMAIN,proxy-youtube.com
 - DOMAIN,proxy-youtube.net
 - DOMAIN,proxy2014.net
@@ -2516,6 +2519,7 @@ payload:
 - DOMAIN,proxydrop.com
 - DOMAIN,proxydude.red
 - DOMAIN,proxydude.xyz
+- DOMAIN,proxyduke.lol
 - DOMAIN,proxyelite.info
 - DOMAIN,proxyen.com
 - DOMAIN,proxyer.net
@@ -2899,6 +2903,7 @@ payload:
 - DOMAIN,doh-01.spectrum.com
 - DOMAIN,doh-02.spectrum.com
 - DOMAIN,speedify.com
+- DOMAIN,speedproxy.online
 - DOMAIN,speedshare.app
 - DOMAIN,speedssh.com
 - DOMAIN,speedyth.com
@@ -2986,6 +2991,7 @@ payload:
 - DOMAIN,supervpn.im
 - DOMAIN,supervpn.net
 - DOMAIN,suredns.nl
+- DOMAIN,surf-for-free.com
 - DOMAIN,surf100.com
 - DOMAIN,surfall.net
 - DOMAIN,surfbouncer.com
@@ -3071,6 +3077,7 @@ payload:
 - DOMAIN,login.thegalleryofart.info
 - DOMAIN,dns.thegoodsource.net
 - DOMAIN,themeaningofallmeaningsforallofthemeaningsmeanings.lol
+- DOMAIN,thenuke.org
 - DOMAIN,theproxies.net
 - DOMAIN,theproxy.bz
 - DOMAIN,theproxy.cc
@@ -3180,6 +3187,7 @@ payload:
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
+- DOMAIN,travelvpn.info
 - DOMAIN,ns.trcnet.fi
 - DOMAIN,consumervpn.trendmicro.com
 - DOMAIN,geovpn.trendmicro.com
@@ -3202,6 +3210,7 @@ payload:
 - DOMAIN,tujenasnaszato.xyz
 - DOMAIN,tunnelbear.com
 - DOMAIN,turbohide.org
+- DOMAIN,turbossh.com
 - DOMAIN,turbotrackvpn.com
 - DOMAIN,turbovpn.co
 - DOMAIN,turbovpn.com
@@ -3428,6 +3437,7 @@ payload:
 - DOMAIN,nora-is.so-gorgeo.us.kg
 - DOMAIN,nova-is.so-gorgeo.us.kg
 - DOMAIN,sitha-is.so-gorgeo.us.kg
+- DOMAIN,tetty-is.so-gorgeo.us.kg
 - DOMAIN,yussy-is.so-gorgeo.us.kg
 - DOMAIN,webproxy.us.com
 - DOMAIN,us-proxy.org
@@ -3468,6 +3478,8 @@ payload:
 - DOMAIN,videomy.online
 - DOMAIN,videonew.online
 - DOMAIN,videoproxy.site
+- DOMAIN,videounblock.com
+- DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
 - DOMAIN,vikingvpn.com
@@ -3513,8 +3525,10 @@ payload:
 - DOMAIN,vpnbrowse.com
 - DOMAIN,vpncentral.com
 - DOMAIN,vpnclientapp.com
+- DOMAIN,vpndaily.com
 - DOMAIN,vpndeluxe.com
 - DOMAIN,vpndock.com
+- DOMAIN,vpndog.com
 - DOMAIN,vpneasy.info
 - DOMAIN,proxy.vpner.com
 - DOMAIN,vpnfan.com
@@ -3578,6 +3592,7 @@ payload:
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,go.vrpyourself.online
+- DOMAIN,vtcuong.site
 - DOMAIN,vyprvpn.com
 - DOMAIN,dns.w3ctag.org
 - DOMAIN,dns.wahr.top
@@ -3609,6 +3624,7 @@ payload:
 - DOMAIN,webproxy.club
 - DOMAIN,webproxy.com
 - DOMAIN,webproxy.online
+- DOMAIN,webproxy.to
 - DOMAIN,webproxy.us
 - DOMAIN,webproxyagent.com
 - DOMAIN,webproxyfree.net
