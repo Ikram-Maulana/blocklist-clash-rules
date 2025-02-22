@@ -32,6 +32,7 @@ payload:
 - DOMAIN,searx.com.au
 - DOMAIN,copp.gg
 - DOMAIN,search.cronobox.one
+- DOMAIN,searx.cthd.icu
 - DOMAIN,searx.daetalytica.io
 - DOMAIN,darmarit.org
 - DOMAIN,suche.dasnetzundich.de
@@ -147,6 +148,7 @@ payload:
 - DOMAIN,whoogle.privacydev.net
 - DOMAIN,search.privacytools.io
 - DOMAIN,search.in.projectsegfau.lt
+- DOMAIN,search.projectsegfau.lt
 - DOMAIN,search.us.projectsegfau.lt
 - DOMAIN,searx.prvcy.eu
 - DOMAIN,librex.pufe.org

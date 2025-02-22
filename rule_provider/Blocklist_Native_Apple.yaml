@@ -54,6 +54,7 @@ payload:
 - DOMAIN,metrics.apple.com
 - DOMAIN,msc-dct-prod.msc.apple.com
 - DOMAIN,news-app-events.apple.com
+- DOMAIN,news-events.apple.com
 - DOMAIN,news-notification-events.apple.com
 - DOMAIN,news-sports-events.apple.com
 - DOMAIN,notes-analytics-events.apple.com
