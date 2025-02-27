@@ -21,6 +21,7 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
+- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -53,7 +54,6 @@ payload:
 - DOMAIN,eastus2-0.in.applicationinsights.azure.com
 - DOMAIN,eastus2-3.in.applicationinsights.azure.com
 - DOMAIN,eastus2-4.in.applicationinsights.azure.com
-- DOMAIN,francecentral-0.in.applicationinsights.azure.com
 - DOMAIN,francecentral-1.in.applicationinsights.azure.com
 - DOMAIN,germanywestcentral-0.in.applicationinsights.azure.com
 - DOMAIN,germanywestcentral-1.in.applicationinsights.azure.com
@@ -102,6 +102,7 @@ payload:
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
+- DOMAIN,www.live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
@@ -249,6 +250,7 @@ payload:
 - DOMAIN,applicationinsights.microsoft.com
 - DOMAIN,dc.applicationinsights.microsoft.com
 - DOMAIN,rt.applicationinsights.microsoft.com
+- DOMAIN,www.rt.applicationinsights.microsoft.com
 - DOMAIN,pipe.aria.microsoft.com
 - DOMAIN,browser.pipe.aria.microsoft.com
 - DOMAIN,eu.pipe.aria.microsoft.com
@@ -560,7 +562,6 @@ payload:
 - DOMAIN,powerpointonline.nelsdf.measure.office.net
 - DOMAIN,sdwan.measure.office.com
 - DOMAIN,wan.measure.office.com
-- DOMAIN,hubblecontent.osi.office.net
 - DOMAIN,adsdk.trafficmanager.net
 - DOMAIN,agps-location-livenet.trafficmanager.net
 - DOMAIN,analytics.trafficmanager.net
@@ -667,7 +668,6 @@ payload:
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
-- DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net

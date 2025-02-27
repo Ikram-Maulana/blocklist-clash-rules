@@ -215,7 +215,6 @@ payload:
 - DOMAIN,aniscartujo.com
 - DOMAIN,dns.anon.no
 - DOMAIN,anonine.com
-- DOMAIN,anonproxy.eu
 - DOMAIN,anonproxy.org
 - DOMAIN,anonvpn.io
 - DOMAIN,anonwebproxy.com
@@ -1128,7 +1127,6 @@ payload:
 - DOMAIN,fasttime.info
 - DOMAIN,fastusaproxy.com
 - DOMAIN,fastvpn.im
-- DOMAIN,fastvpn.me
 - DOMAIN,favoriteshoes.us
 - DOMAIN,fbproxies.info
 - DOMAIN,ns0.fdn.fr
@@ -1367,7 +1365,6 @@ payload:
 - DOMAIN,google-public-dns-b.google.com
 - DOMAIN,dns-tunnel-check.googlezip.net
 - DOMAIN,goosevpn.com
-- DOMAIN,goproxy.asia
 - DOMAIN,performance.gosami.xyz
 - DOMAIN,vpn.gosami.xyz
 - DOMAIN,gotrusted.com
@@ -1415,7 +1412,6 @@ payload:
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
-- DOMAIN,headproxy.com
 - DOMAIN,heiwanotameno.com
 - DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,helloworld.cx
@@ -1734,7 +1730,6 @@ payload:
 - DOMAIN,kryptovpn.kryptotel.net
 - DOMAIN,adguard.kss.ovh
 - DOMAIN,dns.kukal.cz
-- DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
 - DOMAIN,dns.kxy.ink
@@ -1756,7 +1751,6 @@ payload:
 - DOMAIN,le-vpn.com
 - DOMAIN,adguard1.leadmon.net
 - DOMAIN,adguard.leadseason.eu
-- DOMAIN,leafyvpn.net
 - DOMAIN,ledfordmiddleschool.xyz
 - DOMAIN,leekemx.com
 - DOMAIN,adblock.leenit.kr
@@ -2439,7 +2433,6 @@ payload:
 - DOMAIN,protonvpn.com
 - DOMAIN,protonvpn.net
 - DOMAIN,prounlock.org
-- DOMAIN,provpn.info
 - DOMAIN,provpnaccounts.com
 - DOMAIN,prox.pw
 - DOMAIN,prox.rocks
@@ -2588,8 +2581,6 @@ payload:
 - DOMAIN,publicdnsserver.com
 - DOMAIN,pukanuragan.ru
 - DOMAIN,dns.pumpkinvrar.com
-- DOMAIN,dns.pumplex.com
-- DOMAIN,2.dnscrypt-cert.pumplex.com
 - DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
 - DOMAIN,dns-privacy.puregeni.us
@@ -3357,7 +3348,6 @@ payload:
 - DOMAIN,unblockit.one
 - DOMAIN,unblockit.onl
 - DOMAIN,unblockit.pro
-- DOMAIN,unblockit.rsvp
 - DOMAIN,unblockit.uno
 - DOMAIN,unblockmate.com
 - DOMAIN,unblockme.us
@@ -3387,7 +3377,6 @@ payload:
 - DOMAIN,unblockweb.co
 - DOMAIN,unblockweb.one
 - DOMAIN,unblockweb.org
-- DOMAIN,unblockwebsite.online
 - DOMAIN,unblockwebsites.com
 - DOMAIN,unblockyouku.com
 - DOMAIN,unblockyouku.org
@@ -3509,7 +3498,6 @@ payload:
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
 - DOMAIN,vpn-professional.company
-- DOMAIN,vpn-server.xyz
 - DOMAIN,vpn4all.com
 - DOMAIN,vpn99.net
 - DOMAIN,vpnaccounts.com
@@ -3559,7 +3547,6 @@ payload:
 - DOMAIN,vpnprivacy.com
 - DOMAIN,vpnprivacy.services
 - DOMAIN,vpnpro.com
-- DOMAIN,vpnproxy.online
 - DOMAIN,vpnproxy.org
 - DOMAIN,vpnproxy.pw
 - DOMAIN,vpnproxy.site
@@ -3589,7 +3576,6 @@ payload:
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,go.vrpyourself.online
-- DOMAIN,vtcuong.site
 - DOMAIN,vyprvpn.com
 - DOMAIN,dns.w3ctag.org
 - DOMAIN,dns.wahr.top
@@ -3693,7 +3679,6 @@ payload:
 - DOMAIN,doh.xcom.pro
 - DOMAIN,xcomplus.com
 - DOMAIN,xenergy.cc
-- DOMAIN,www-bruh.xenon.lol
 - DOMAIN,doh.xfinity.com
 - DOMAIN,dot.xfinity.com
 - DOMAIN,doh2.gslb2.xfinity.com
@@ -3747,12 +3732,10 @@ payload:
 - DOMAIN,yovbak.com
 - DOMAIN,yoyovpn.org
 - DOMAIN,ytcroxyproxy.com
-- DOMAIN,yui.cat
 - DOMAIN,dns.yuu-g.net
 - DOMAIN,yuvelirtut.website
 - DOMAIN,yuyuproxy.com
 - DOMAIN,yuyuproxy.online
-- DOMAIN,yxorproxy.com
 - DOMAIN,dns.daemon.za.net
 - DOMAIN,zacebookpk.com
 - DOMAIN,adguard.zachitect.com
