@@ -21,7 +21,6 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
-- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -102,14 +101,15 @@ payload:
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
-- DOMAIN,www.live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
+- DOMAIN,adsdkpreprod.azureedge.net
 - DOMAIN,adsdkprod.azureedge.net
+- DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
 - DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
@@ -250,7 +250,6 @@ payload:
 - DOMAIN,applicationinsights.microsoft.com
 - DOMAIN,dc.applicationinsights.microsoft.com
 - DOMAIN,rt.applicationinsights.microsoft.com
-- DOMAIN,www.rt.applicationinsights.microsoft.com
 - DOMAIN,pipe.aria.microsoft.com
 - DOMAIN,browser.pipe.aria.microsoft.com
 - DOMAIN,eu.pipe.aria.microsoft.com
@@ -668,6 +667,7 @@ payload:
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
+- DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net

@@ -1591,7 +1591,6 @@ payload:
 - DOMAIN,ipchanging.com
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
-- DOMAIN,ipoac.nl
 - DOMAIN,iportal.me
 - DOMAIN,ipprotectionauth.goog
 - DOMAIN,ipredator.se
@@ -2233,6 +2232,7 @@ payload:
 - DOMAIN,oraclevpn.com
 - DOMAIN,orangeproxy.net
 - DOMAIN,proxy.ordentlichbreit.de
+- DOMAIN,resolver.dnsprivacy.org.uk
 - DOMAIN,dns.oryxlabs.com
 - DOMAIN,os4work.com
 - DOMAIN,ospylac.com
@@ -2380,6 +2380,7 @@ payload:
 - DOMAIN,lindung.pp.ua
 - DOMAIN,sundalandia.pp.ua
 - DOMAIN,virga.pp.ua
+- DOMAIN,zxcvb.pp.ua
 - DOMAIN,ppira.com
 - DOMAIN,pq7hdf.com
 - DOMAIN,pr0xy.com
