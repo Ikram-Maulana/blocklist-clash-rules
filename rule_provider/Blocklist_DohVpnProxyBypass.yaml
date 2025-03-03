@@ -343,7 +343,6 @@ payload:
 - DOMAIN,dns.bermeitinger.eu
 - DOMAIN,bestaitool.news
 - DOMAIN,bestfreevpn.com
-- DOMAIN,bestmod.site
 - DOMAIN,bestproxy.xyz
 - DOMAIN,bestssh.net
 - DOMAIN,bestukvpn.com
@@ -391,7 +390,6 @@ payload:
 - DOMAIN,dot-fi.blahdns.com
 - DOMAIN,dot-jp.blahdns.com
 - DOMAIN,dot-sg.blahdns.com
-- DOMAIN,blahn.space
 - DOMAIN,dns.blaumer.dev
 - DOMAIN,blewpass.com
 - DOMAIN,us1.blissdns.net
@@ -463,7 +461,6 @@ payload:
 - DOMAIN,dns.butterfly87.sbs
 - DOMAIN,bvpn.com
 - DOMAIN,byewall.com
-- DOMAIN,bypass.pw
 - DOMAIN,bypassable.com
 - DOMAIN,bypassed.wtf
 - DOMAIN,bypasser.us
@@ -485,9 +482,7 @@ payload:
 - DOMAIN,doh.captnemo.in
 - DOMAIN,carebuzz.io
 - DOMAIN,careproxy.com
-- DOMAIN,console.carestyle.org
 - DOMAIN,dns.carson-family.com
-- DOMAIN,dns.carter.me
 - DOMAIN,casinovpn.com
 - DOMAIN,dns.caspervk.net
 - DOMAIN,catchen121299.top
@@ -623,6 +618,7 @@ payload:
 - DOMAIN,dns.cmrg.net
 - DOMAIN,pope.cnblw.me
 - DOMAIN,doh.cnetwork.cloud
+- DOMAIN,10bestvpn.co.uk
 - DOMAIN,akashiro.co.id
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
@@ -850,7 +846,6 @@ payload:
 - DOMAIN,dns.dns-53.us
 - DOMAIN,dns1.dns-ga.de
 - DOMAIN,dns2.dns-ga.de
-- DOMAIN,dns3.dns-ga.de
 - DOMAIN,doh.dns-ga.de
 - DOMAIN,secure-dns.dns-ga.de
 - DOMAIN,dns.dns-over-https.com
@@ -1841,6 +1836,7 @@ payload:
 - DOMAIN,n5.lsasss.com
 - DOMAIN,dns.lsho.top
 - DOMAIN,ltlxvxjjmvhn.me
+- DOMAIN,lucasmaia.org
 - DOMAIN,lukscasino-479-tr.xyz
 - DOMAIN,lukscasino-542-tr.xyz
 - DOMAIN,lukscasino-929-tr.xyz
@@ -1939,7 +1935,6 @@ payload:
 - DOMAIN,mitmproxy.org
 - DOMAIN,doh.mmmalia.com
 - DOMAIN,dns.mnet-online.de
-- DOMAIN,mnrv.trade
 - DOMAIN,dns.mo0on15.com
 - DOMAIN,moamao.shop
 - DOMAIN,dnstls.mobik.com
@@ -2188,9 +2183,16 @@ payload:
 - DOMAIN,nvpn.net
 - DOMAIN,nvpn.to
 - DOMAIN,ns.nwps.fi
+- DOMAIN,nym.com
+- DOMAIN,nym.community
+- DOMAIN,nym.dev
+- DOMAIN,nym.network
+- DOMAIN,nymtech.net
 - DOMAIN,qdns02.nymterm.com
+- DOMAIN,nymvpn.com
 - DOMAIN,5g.o0o.re
 - DOMAIN,o1.lt
+- DOMAIN,obscura.net
 - DOMAIN,oceanbrowser.co
 - DOMAIN,octohide.com
 - DOMAIN,octovpn.net
