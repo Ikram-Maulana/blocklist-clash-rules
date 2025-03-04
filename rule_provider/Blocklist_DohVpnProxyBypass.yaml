@@ -51,6 +51,7 @@ payload:
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
 - DOMAIN,1banproxy.com
+- DOMAIN,1clickvpn.com
 - DOMAIN,1clickvpn.net
 - DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
@@ -191,6 +192,7 @@ payload:
 - DOMAIN,vps.alloxr.info
 - DOMAIN,allunblocked.com
 - DOMAIN,dns.almir1904.eu
+- DOMAIN,alohabrowser.com
 - DOMAIN,alphabr.online
 - DOMAIN,alphabrowser.xyz
 - DOMAIN,adguard.alu.dog
@@ -1073,6 +1075,7 @@ payload:
 - DOMAIN,enproxy.com
 - DOMAIN,enrollkirgo.com
 - DOMAIN,dns.enzonix.com
+- DOMAIN,eonvpn.com
 - DOMAIN,epicbrowser.com
 - DOMAIN,123-24.eport.gr
 - DOMAIN,bl.eq.md
@@ -1202,6 +1205,7 @@ payload:
 - DOMAIN,for-privacy.net
 - DOMAIN,rf4.forestberrypi.com
 - DOMAIN,www-rf4.forestberrypi.com
+- DOMAIN,forestvpn.com
 - DOMAIN,www-proxy.formen.cc
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
@@ -1337,6 +1341,7 @@ payload:
 - DOMAIN,ghanau.uk
 - DOMAIN,croxy.ghgi.site
 - DOMAIN,www-croxy.ghgi.site
+- DOMAIN,ghostbrowser.com
 - DOMAIN,ghostpath.com
 - DOMAIN,gibblets.top
 - DOMAIN,adguard.maison.gifino.fr
@@ -1364,7 +1369,6 @@ payload:
 - DOMAIN,dns.api.staging.globuscs.info
 - DOMAIN,dns.api.test.globuscs.info
 - DOMAIN,agh.gloom.nexus
-- DOMAIN,dns.glorydns.com
 - DOMAIN,glype.com
 - DOMAIN,dns.gnb09.id
 - DOMAIN,privacydns.go6lab.si
@@ -1433,7 +1437,6 @@ payload:
 - DOMAIN,ordns.he.net
 - DOMAIN,heiwanotameno.com
 - DOMAIN,us-ny-alula.heliumcloud.cc
-- DOMAIN,helloworld.cx
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helpmehide.net
 - DOMAIN,dns.henek.ovh
@@ -1587,7 +1590,6 @@ payload:
 - DOMAIN,yy.in6.to
 - DOMAIN,dns.inclusioproject.com
 - DOMAIN,incog.works
-- DOMAIN,indialifes.com
 - DOMAIN,adblock.indianets.net
 - DOMAIN,indiaproxy.win
 - DOMAIN,indo-ssh.com
@@ -1608,6 +1610,7 @@ payload:
 - DOMAIN,internetcloak.com
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
+- DOMAIN,invisv.com
 - DOMAIN,ioxy.de
 - DOMAIN,ipbuzz.net
 - DOMAIN,ipchanging.com
@@ -1833,6 +1836,7 @@ payload:
 - DOMAIN,doh.phdns5.lonet.org
 - DOMAIN,lookingglass.site
 - DOMAIN,lopana.com
+- DOMAIN,loubonde.xyz
 - DOMAIN,n5.lsasss.com
 - DOMAIN,dns.lsho.top
 - DOMAIN,ltlxvxjjmvhn.me
@@ -1935,6 +1939,7 @@ payload:
 - DOMAIN,mitmproxy.org
 - DOMAIN,doh.mmmalia.com
 - DOMAIN,dns.mnet-online.de
+- DOMAIN,mnrv.trade
 - DOMAIN,dns.mo0on15.com
 - DOMAIN,moamao.shop
 - DOMAIN,dnstls.mobik.com
@@ -2537,6 +2542,7 @@ payload:
 - DOMAIN,proxy-works.com
 - DOMAIN,proxy-youtube.com
 - DOMAIN,proxy-youtube.net
+- DOMAIN,proxy0101.com
 - DOMAIN,proxy2014.net
 - DOMAIN,proxy2link.com
 - DOMAIN,proxy2you.com
@@ -2793,6 +2799,7 @@ payload:
 - DOMAIN,dns.sarakas.net
 - DOMAIN,dns.sarilouis.com
 - DOMAIN,saturnvpn.com
+- DOMAIN,www-proxy.sayed.page
 - DOMAIN,ns1.sc-lezhi.com
 - DOMAIN,dns.scapetical.com
 - DOMAIN,dns.scarx.net
