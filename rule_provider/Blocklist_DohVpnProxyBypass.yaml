@@ -1014,7 +1014,6 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1301,7 +1300,6 @@ payload:
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
 - DOMAIN,gatcha.org
-- DOMAIN,gclouddns.com
 - DOMAIN,gecko.fun
 - DOMAIN,geckovpn.xyz
 - DOMAIN,geekproxy.com
@@ -2091,7 +2089,6 @@ payload:
 - DOMAIN,cube.neubsi.at
 - DOMAIN,dns.neubsi.at
 - DOMAIN,dns.neutopia.org
-- DOMAIN,newads-cdn.com
 - DOMAIN,newipnow.com
 - DOMAIN,newshosting.com
 - DOMAIN,doh.luigi.nexific.it
@@ -2108,7 +2105,6 @@ payload:
 - DOMAIN,ngrok.pro
 - DOMAIN,ngrok-free.app
 - DOMAIN,ngrok-free.dev
-- DOMAIN,ngsw1234.com
 - DOMAIN,dns.nguyendn.com
 - DOMAIN,dns.nhtsky.com
 - DOMAIN,d.niaox.com
@@ -3263,7 +3259,6 @@ payload:
 - DOMAIN,trustedproxies.com
 - DOMAIN,truta.org
 - DOMAIN,dns.tryk.app
-- DOMAIN,adg.tshost.no
 - DOMAIN,doh.ibr.cs.tu-bs.de
 - DOMAIN,tubeprox.com
 - DOMAIN,tubeunblock.me
