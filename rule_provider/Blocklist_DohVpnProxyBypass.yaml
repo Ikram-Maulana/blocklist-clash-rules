@@ -1014,6 +1014,7 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1300,6 +1301,7 @@ payload:
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
 - DOMAIN,gatcha.org
+- DOMAIN,gclouddns.com
 - DOMAIN,gecko.fun
 - DOMAIN,geckovpn.xyz
 - DOMAIN,geekproxy.com
@@ -2673,7 +2675,6 @@ payload:
 - DOMAIN,frog.dns.qwer.pw
 - DOMAIN,lion.dns.qwer.pw
 - DOMAIN,tiger.dns.qwer.pw
-- DOMAIN,www-web.r-2.top
 - DOMAIN,resolver.r0cket.net
 - DOMAIN,r1bnc.com
 - DOMAIN,resolve2.r9x.cc
@@ -2731,7 +2732,6 @@ payload:
 - DOMAIN,resolver.rferee.dev
 - DOMAIN,rhys1901.biz
 - DOMAIN,ricko.is
-- DOMAIN,rifhchj.uk
 - DOMAIN,dns.rin.sh
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
@@ -2868,7 +2868,6 @@ payload:
 - DOMAIN,sharejav.com
 - DOMAIN,sharevpn.org
 - DOMAIN,dns.shareworx.net
-- DOMAIN,shaw2426.org
 - DOMAIN,shazamio.online
 - DOMAIN,dns.shecan.ir
 - DOMAIN,free.shecan.ir
@@ -2929,7 +2928,6 @@ payload:
 - DOMAIN,dns.smartguard.io
 - DOMAIN,smartproxy.com
 - DOMAIN,smartydns.com
-- DOMAIN,snapxs.com
 - DOMAIN,snowproxy.com
 - DOMAIN,guard.sntrk.ru
 - DOMAIN,dove.soapclient.com
@@ -3192,7 +3190,6 @@ payload:
 - DOMAIN,timmes.nl
 - DOMAIN,adb.timnichollsphotography.com
 - DOMAIN,timurpoyraz.com
-- DOMAIN,tinf0il.tech
 - DOMAIN,tinfoil-is-ass.xyz
 - DOMAIN,dns.tipsy.coffee
 - DOMAIN,titaniumnetwork.org
@@ -3450,9 +3447,9 @@ payload:
 - DOMAIN,unblockyouku.org
 - DOMAIN,unblockyoutube.co
 - DOMAIN,unblockyoutube.video
-- DOMAIN,unblockyoutubeatschool.com
 - DOMAIN,unblockytproxy.com
 - DOMAIN,uncensoreddns.org
+- DOMAIN,underage-gambling.site
 - DOMAIN,undofilters.com
 - DOMAIN,dns.unerror.network
 - DOMAIN,ines.zfn.uni-bremen.de
@@ -3511,7 +3508,6 @@ payload:
 - DOMAIN,utube.cc
 - DOMAIN,utunnel.io
 - DOMAIN,uvpn.me
-- DOMAIN,uyureufasod.xyz
 - DOMAIN,dns.vaioswolke.xyz
 - DOMAIN,doh.valscosmos.com
 - DOMAIN,vanilcraft.ru
