@@ -1767,6 +1767,7 @@ payload:
 - DOMAIN,agh.kyusang.win
 - DOMAIN,dns.l337.site
 - DOMAIN,lablancer.com
+- DOMAIN,dns.labnekotest.site
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,www-proxy.ladifsoftware.com
 - DOMAIN,lantern.io
