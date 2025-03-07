@@ -210,6 +210,7 @@ payload:
 - DOMAIN,amirabbasmousavi.news
 - DOMAIN,mailer.amlegion.org
 - DOMAIN,ammmae150.news
+- DOMAIN,amnezia.org
 - DOMAIN,doh.amonsul.net
 - DOMAIN,anachem.online
 - DOMAIN,ananoos.com
@@ -618,7 +619,6 @@ payload:
 - DOMAIN,ca.doh.cloudveil.org
 - DOMAIN,us.doh.cloudveil.org
 - DOMAIN,dns.cmrg.net
-- DOMAIN,pope.cnblw.me
 - DOMAIN,doh.cnetwork.cloud
 - DOMAIN,10bestvpn.co.uk
 - DOMAIN,akashiro.co.id
@@ -814,6 +814,7 @@ payload:
 - DOMAIN,adguard.depieri.net
 - DOMAIN,deproxyserver.com
 - DOMAIN,desbloquearredes.online
+- DOMAIN,desec.io
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
 - DOMAIN,dns.dev-umbrellagov.com
@@ -2074,6 +2075,7 @@ payload:
 - DOMAIN,ne1.ca
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
+- DOMAIN,nekoray.org
 - DOMAIN,nenam.eu
 - DOMAIN,adguard.neon0404.space
 - DOMAIN,neonos.me
@@ -2783,6 +2785,7 @@ payload:
 - DOMAIN,doh.safesurfer.io
 - DOMAIN,safetysurf.net
 - DOMAIN,safeunblock.com
+- DOMAIN,safing.io
 - DOMAIN,vpn.sakhwow.ru
 - DOMAIN,sakirdakproxy.tk
 - DOMAIN,samj.codes
@@ -3728,7 +3731,6 @@ payload:
 - DOMAIN,workingvpn.com
 - DOMAIN,workproxy.net
 - DOMAIN,my.worksheetsforteachers.org
-- DOMAIN,parrotballs.worksheetsforteachers.xyz
 - DOMAIN,worldgravityapp.com
 - DOMAIN,worldvpn.net
 - DOMAIN,worldwideproxy4u.win
@@ -3781,6 +3783,7 @@ payload:
 - DOMAIN,yd6n63ptky.com
 - DOMAIN,yellowproxy.net
 - DOMAIN,yellowshiitake.com
+- DOMAIN,yesbutno.wtf
 - DOMAIN,ylink.info
 - DOMAIN,yogavpn.com
 - DOMAIN,youcanhide.net
