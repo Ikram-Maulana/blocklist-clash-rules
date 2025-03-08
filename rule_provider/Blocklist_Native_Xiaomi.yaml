@@ -20,6 +20,13 @@ payload:
 - DOMAIN,sdk-cache.video.ptqy.gitv.tv
 - DOMAIN,time.video.ptqy.gitv.tv
 - DOMAIN,openapi.vip.ptqy.gitv.tv
+- DOMAIN,app.chat.global.xiaomi.net.iberostar.com
+- DOMAIN,resolver.msg.global.xiaomi.net.iberostar.com
+- DOMAIN,find.api.micloud.xiaomi.net.iberostar.com
+- DOMAIN,us.appbackupapi.micloud.xiaomi.net.iberostar.com
+- DOMAIN,us.micardapi.micloud.xiaomi.net.iberostar.com
+- DOMAIN,us.noteapi.micloud.xiaomi.net.iberostar.com
+- DOMAIN,us.pdc.micloud.xiaomi.net.iberostar.com
 - DOMAIN,ad.intl.xiaomi.com.ksyna.net
 - DOMAIN,kuyun.com
 - DOMAIN,config.kuyun.com
@@ -194,7 +201,6 @@ payload:
 - DOMAIN,marketing.ad.xiaomi.com
 - DOMAIN,max.ad.xiaomi.com
 - DOMAIN,sdkconfig.ad.xiaomi.com
-- DOMAIN,default.sdkconfig.ad.xiaomi.com
 - DOMAIN,staging-diagnosis.ad.xiaomi.com
 - DOMAIN,test.ad.xiaomi.com
 - DOMAIN,track.ad.xiaomi.com
@@ -351,7 +357,6 @@ payload:
 - DOMAIN,us.statusapi.micloud.xiaomi.net
 - DOMAIN,tv.app.migc.xiaomi.com
 - DOMAIN,invoice.netroam.mihome.xiaomi.net
-- DOMAIN,abtest.mistat.xiaomi.com
 - DOMAIN,data.mistat.xiaomi.com
 - DOMAIN,storeconfig.mistat.xiaomi.com
 - DOMAIN,file.cdn.mvideo.xiaomi.com

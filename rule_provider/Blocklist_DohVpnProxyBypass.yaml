@@ -451,6 +451,7 @@ payload:
 - DOMAIN,browsebridge.com
 - DOMAIN,browsec.com
 - DOMAIN,browser.lol
+- DOMAIN,browserling.com
 - DOMAIN,doh.bt.com
 - DOMAIN,btguard.com
 - DOMAIN,bubbleset.com
@@ -1170,6 +1171,7 @@ payload:
 - DOMAIN,filterbypass.me
 - DOMAIN,finalbreaths.xyz
 - DOMAIN,finchvpn.com
+- DOMAIN,fineproxy.org
 - DOMAIN,finevpn.org
 - DOMAIN,antistalkerfree-eu.europe-west1.firebasedatabase.app
 - DOMAIN,xcomvpn-7000b-default-rtdb.firebaseio.com
@@ -1467,6 +1469,7 @@ payload:
 - DOMAIN,hidemebro.com
 - DOMAIN,hidemefast.net
 - DOMAIN,hidemenow.net
+- DOMAIN,hidemium.io
 - DOMAIN,hidemy.io
 - DOMAIN,hidemy.name
 - DOMAIN,hidemyass.com
@@ -2265,6 +2268,7 @@ payload:
 - DOMAIN,ns3.opennameserver.org
 - DOMAIN,ns4.opennameserver.org
 - DOMAIN,openproxy.space
+- DOMAIN,openproxylist.com
 - DOMAIN,opentunnel.net
 - DOMAIN,openvpn.cc
 - DOMAIN,openvpn.com
@@ -2531,6 +2535,7 @@ payload:
 - DOMAIN,proxy-123.com
 - DOMAIN,proxy-2014.com
 - DOMAIN,proxy-2015.info
+- DOMAIN,proxy-best.com
 - DOMAIN,proxy-bypass.com
 - DOMAIN,proxy-german.de
 - DOMAIN,proxy-internet.info
@@ -2560,6 +2565,7 @@ payload:
 - DOMAIN,proxybuss.com
 - DOMAIN,proxycloud.net
 - DOMAIN,proxycloyd.com
+- DOMAIN,proxycompass.com
 - DOMAIN,proxydrop.com
 - DOMAIN,proxydude.red
 - DOMAIN,proxydude.xyz
@@ -2580,6 +2586,7 @@ payload:
 - DOMAIN,proxyist.com
 - DOMAIN,proxyium.com
 - DOMAIN,proxyium.org
+- DOMAIN,proxylister.com
 - DOMAIN,proxylistpro.com
 - DOMAIN,proxyload.net
 - DOMAIN,proxymaster.me
@@ -2604,6 +2611,7 @@ payload:
 - DOMAIN,proxyserver.buzz
 - DOMAIN,proxyserver.com
 - DOMAIN,proxyserverlist24.top
+- DOMAIN,proxyshare.com
 - DOMAIN,proxysheep.com
 - DOMAIN,proxysite.cc
 - DOMAIN,proxysite.cloud
@@ -2621,6 +2629,7 @@ payload:
 - DOMAIN,proxysurfing.org
 - DOMAIN,proxythis.info
 - DOMAIN,proxytime.net
+- DOMAIN,proxytitan.com
 - DOMAIN,proxytoplay.com
 - DOMAIN,proxyturbo.com
 - DOMAIN,proxyunblock.site
@@ -2937,6 +2946,7 @@ payload:
 - DOMAIN,dove.soapclient.com
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
+- DOMAIN,sockslist.us
 - DOMAIN,www-proxy.sodemc.com
 - DOMAIN,clientdns3.softcom.net
 - DOMAIN,free-vpn.en.softonic.com

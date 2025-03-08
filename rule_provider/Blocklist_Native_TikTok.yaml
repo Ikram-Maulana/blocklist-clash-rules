@@ -17,6 +17,7 @@ payload:
 - DOMAIN,mcs-tiktok.byteoversea.net
 - DOMAIN,mon.byteoversea.com
 - DOMAIN,mon-csj-maliva-ios.byteoversea.com
+- DOMAIN,mon-sg.byteoversea.com
 - DOMAIN,mon-va.byteoversea.com
 - DOMAIN,mon-va-useast2a.byteoversea.com
 - DOMAIN,mssdk-sg.byteoversea.com
@@ -110,6 +111,7 @@ payload:
 - DOMAIN,ad-instantpage.tiktokv.us
 - DOMAIN,ad-instantpage-sg.tiktokv.com
 - DOMAIN,ad-instantpage-ttp2.tiktokv.eu
+- DOMAIN,ad-instantpage-ttp2.tiktokv.us
 - DOMAIN,ad-instantpage-va.tiktokv.com
 - DOMAIN,location.tiktokv.com
 - DOMAIN,location-i18n.tiktokv.com

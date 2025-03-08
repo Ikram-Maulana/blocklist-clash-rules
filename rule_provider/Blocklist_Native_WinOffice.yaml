@@ -165,6 +165,7 @@ payload:
 - DOMAIN,pgtbr1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtbr1-word-telemetry-vip.officeapps.live.com
+- DOMAIN,pgtbr2-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtca1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtca1-word-telemetry-vip.officeapps.live.com
@@ -608,7 +609,6 @@ payload:
 - DOMAIN,v20-asimov-win.vortex.data.trafficmanager.net
 - DOMAIN,dsp-ad-cache-tm.trafficmanager.net
 - DOMAIN,adstore.response.gcp.eastus.trafficmanager.net
-- DOMAIN,adstore.response.eastus.trafficmanager.net
 - DOMAIN,telemetry.eastus.trafficmanager.net
 - DOMAIN,eventservice.trafficmanager.net
 - DOMAIN,fsad.trafficmanager.net
