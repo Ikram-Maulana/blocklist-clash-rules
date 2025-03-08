@@ -409,7 +409,6 @@ payload:
 - DOMAIN,bloquer.fr
 - DOMAIN,rfree1.blue-shield.at
 - DOMAIN,rfree2.blue-shield.at
-- DOMAIN,www-proxy2.blueboy.cf
 - DOMAIN,bluemood.me
 - DOMAIN,bluesnap.com
 - DOMAIN,blufvpn.com
@@ -1099,11 +1098,9 @@ payload:
 - DOMAIN,arashi.net.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
-- DOMAIN,evacraft.xyz
 - DOMAIN,evpn.net
 - DOMAIN,evyy.net
 - DOMAIN,ewon.biz
-- DOMAIN,excitedmurashin.com
 - DOMAIN,expatshield.com
 - DOMAIN,expressapisv2.net
 - DOMAIN,expressvpn.com
@@ -1274,7 +1271,6 @@ payload:
 - DOMAIN,freevpnsoftware.net
 - DOMAIN,freewebproxy.eu
 - DOMAIN,freewebproxyserver.net
-- DOMAIN,freeworldwideproxy.app
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
 - DOMAIN,freeyoutube.net
@@ -1387,6 +1383,7 @@ payload:
 - DOMAIN,google-public-dns-a.google.com
 - DOMAIN,google-public-dns-b.google.com
 - DOMAIN,dns-tunnel-check.googlezip.net
+- DOMAIN,tunnel.googlezip.net
 - DOMAIN,goosevpn.com
 - DOMAIN,performance.gosami.xyz
 - DOMAIN,vpn.gosami.xyz
@@ -1435,7 +1432,6 @@ payload:
 - DOMAIN,harbaletsstudy.com
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
-- DOMAIN,hdjptube.site
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,heiwanotameno.com
@@ -1662,7 +1658,6 @@ payload:
 - DOMAIN,tj.jamesxue.xyz
 - DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
-- DOMAIN,px.jarnus.xyz
 - DOMAIN,jayshaun.com
 - DOMAIN,jellyvpn.com
 - DOMAIN,doh.jeroenhd.nl
@@ -1892,6 +1887,7 @@ payload:
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
 - DOMAIN,mathnotes.icu
+- DOMAIN,adguard.mattiafenzi.uk
 - DOMAIN,maxfong.cc
 - DOMAIN,maxvpn.info
 - DOMAIN,dns.maybe.icu
@@ -1934,7 +1930,6 @@ payload:
 - DOMAIN,dns.mihanentalpo.me
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
-- DOMAIN,milanopuma.ir
 - DOMAIN,minilla.store
 - DOMAIN,miniprox.com
 - DOMAIN,miniprox.info
@@ -2327,7 +2322,6 @@ payload:
 - DOMAIN,paradise-human.shop
 - DOMAIN,dns.pari.network
 - DOMAIN,parkviewenglish.buzz
-- DOMAIN,parsazr.ir
 - DOMAIN,pashagame456.com
 - DOMAIN,a.passcloud.xyz
 - DOMAIN,i.passcloud.xyz
@@ -3107,7 +3101,6 @@ payload:
 - DOMAIN,tailnet.ru
 - DOMAIN,tailscale.com
 - DOMAIN,talk2m.com
-- DOMAIN,tancheetiong.online
 - DOMAIN,tbjr6.com
 - DOMAIN,tbunet.com
 - DOMAIN,tcpvpn.com
