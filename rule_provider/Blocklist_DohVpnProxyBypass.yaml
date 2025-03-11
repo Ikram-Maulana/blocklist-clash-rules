@@ -329,7 +329,6 @@ payload:
 - DOMAIN,base99.com
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
-- DOMAIN,bdns.io
 - DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
@@ -2812,6 +2811,7 @@ payload:
 - DOMAIN,schoolnewsletter.us
 - DOMAIN,schoology.college
 - DOMAIN,schoology.help
+- DOMAIN,schoology123.org
 - DOMAIN,schoolooks.com
 - DOMAIN,schoolproxy.co
 - DOMAIN,schooxy.com
