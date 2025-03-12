@@ -27,13 +27,18 @@ payload:
 - DOMAIN,us.micardapi.micloud.xiaomi.net.iberostar.com
 - DOMAIN,us.noteapi.micloud.xiaomi.net.iberostar.com
 - DOMAIN,us.pdc.micloud.xiaomi.net.iberostar.com
+- DOMAIN,mistat.xiaomi.com.download.ks-cdn.com
+- DOMAIN,mistat.india.xiaomi.com.ksyna.net
 - DOMAIN,ad.intl.xiaomi.com.ksyna.net
+- DOMAIN,mistat.intl.xiaomi.com.ksyna.net
+- DOMAIN,mistat.rus.xiaomi.com.ksyna.net
 - DOMAIN,kuyun.com
 - DOMAIN,config.kuyun.com
 - DOMAIN,logonext.tv.kuyun.com
 - DOMAIN,www.kuyun.com
 - DOMAIN,ad.mi.com
 - DOMAIN,ads.mi.com
+- DOMAIN,e.mi.com
 - DOMAIN,staging.admin.e.mi.com
 - DOMAIN,api.e.mi.com
 - DOMAIN,site.e.mi.com
@@ -79,6 +84,7 @@ payload:
 - DOMAIN,tracking.india.miui.com
 - DOMAIN,mitv.tracking.india.miui.com
 - DOMAIN,inf.miui.com
+- DOMAIN,apm-rum-ind.inf.miui.com
 - DOMAIN,mcc.intl.inf.miui.com
 - DOMAIN,api.accelerator.intl.miui.com
 - DOMAIN,api.aurogon.intl.miui.com
@@ -293,6 +299,7 @@ payload:
 - DOMAIN,pi.ias.xiaomi.com
 - DOMAIN,sdkconfig.ad.india.xiaomi.com
 - DOMAIN,controller.india.xiaomi.com
+- DOMAIN,mistat.india.xiaomi.com
 - DOMAIN,data.mistat.india.xiaomi.com
 - DOMAIN,sys.tv.india.xiaomi.com
 - DOMAIN,api.installer.xiaomi.com
