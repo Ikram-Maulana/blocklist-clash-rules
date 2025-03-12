@@ -1090,7 +1090,6 @@ payload:
 - DOMAIN,ettego.com
 - DOMAIN,arashi.eu.org
 - DOMAIN,armorrush.eu.org
-- DOMAIN,doh.excdn.eu.org
 - DOMAIN,dns.de.futuredns.eu.org
 - DOMAIN,dns.us.futuredns.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
@@ -1680,6 +1679,7 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
+- DOMAIN,johneldenring.lol
 - DOMAIN,johnkellyprivate.com
 - DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com
