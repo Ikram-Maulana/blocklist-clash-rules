@@ -1014,8 +1014,12 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1676,7 +1680,6 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
-- DOMAIN,johneldenring.lol
 - DOMAIN,johnkellyprivate.com
 - DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com
@@ -3167,7 +3170,6 @@ payload:
 - DOMAIN,theproxysports.com
 - DOMAIN,theproxyultra.com
 - DOMAIN,therabbitvpn.com
-- DOMAIN,dns.theres.one
 - DOMAIN,dns.therifleman.name
 - DOMAIN,thesafety.us
 - DOMAIN,thesiteproxy.com
@@ -3482,18 +3484,6 @@ payload:
 - DOMAIN,url10.org
 - DOMAIN,urology.wiki
 - DOMAIN,dns.koala.us.to
-- DOMAIN,nightlymoon.us.kg
-- DOMAIN,luna-is.so-gorgeo.us.kg
-- DOMAIN,mecca-is.so-gorgeo.us.kg
-- DOMAIN,mita-is.so-gorgeo.us.kg
-- DOMAIN,myrra-is.so-gorgeo.us.kg
-- DOMAIN,nana-is.so-gorgeo.us.kg
-- DOMAIN,nindy-is.so-gorgeo.us.kg
-- DOMAIN,nora-is.so-gorgeo.us.kg
-- DOMAIN,nova-is.so-gorgeo.us.kg
-- DOMAIN,sitha-is.so-gorgeo.us.kg
-- DOMAIN,tetty-is.so-gorgeo.us.kg
-- DOMAIN,yussy-is.so-gorgeo.us.kg
 - DOMAIN,webproxy.us.com
 - DOMAIN,us-proxy.org
 - DOMAIN,usa-proxy.org
