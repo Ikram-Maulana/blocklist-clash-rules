@@ -1015,11 +1015,8 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
-- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
-- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1046,7 +1043,6 @@ payload:
 - DOMAIN,dns.edgeburnmedia.com
 - DOMAIN,edgedcircles.com
 - DOMAIN,edgy-dns.com
-- DOMAIN,dns.edison42.dev
 - DOMAIN,dns.editechstudio.com
 - DOMAIN,edpuzzle.space
 - DOMAIN,dns.tuna.tsinghua.edu.cn
@@ -1667,7 +1663,6 @@ payload:
 - DOMAIN,jfalling.com
 - DOMAIN,adguard.jfchenier.ca
 - DOMAIN,dns.jhangy.us
-- DOMAIN,dns.jichi.io
 - DOMAIN,dns.jinwoo.dev
 - DOMAIN,dns.jiyi.eu
 - DOMAIN,jkdns.me
@@ -1713,7 +1708,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -2735,6 +2729,7 @@ payload:
 - DOMAIN,doh.rezhajul.io
 - DOMAIN,newd.rezyro.com
 - DOMAIN,resolver.rferee.dev
+- DOMAIN,rhehrbrb.wiki
 - DOMAIN,rhys1901.biz
 - DOMAIN,ricko.is
 - DOMAIN,dns.rin.sh
