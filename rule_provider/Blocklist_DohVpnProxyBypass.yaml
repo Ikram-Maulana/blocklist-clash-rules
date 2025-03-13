@@ -1015,8 +1015,11 @@ payload:
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
+- DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1708,6 +1711,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -1886,6 +1890,7 @@ payload:
 - DOMAIN,dns.maybe.icu
 - DOMAIN,mazevpn.com
 - DOMAIN,dns.mbrjun.cn
+- DOMAIN,mc-sft.cn
 - DOMAIN,ispcapi.mcafee.com
 - DOMAIN,msc.mcafee.com
 - DOMAIN,safeconnect.mcafee.com
