@@ -104,6 +104,7 @@ payload:
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
+- DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
@@ -237,6 +238,7 @@ payload:
 - DOMAIN,developers.ads.microsoft.com
 - DOMAIN,dmc.ads.microsoft.com
 - DOMAIN,help.ads.microsoft.com
+- DOMAIN,learninglab.ads.microsoft.com
 - DOMAIN,mmcapi.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com
@@ -292,6 +294,7 @@ payload:
 - DOMAIN,ch1b.bingads.microsoft.com
 - DOMAIN,community.bingads.microsoft.com
 - DOMAIN,developers.bingads.microsoft.com
+- DOMAIN,express.bingads.microsoft.com
 - DOMAIN,fd.bingads.microsoft.com
 - DOMAIN,feedback.bingads.microsoft.com
 - DOMAIN,help.bingads.microsoft.com
@@ -434,6 +437,7 @@ payload:
 - DOMAIN,a.ads2.msads.net
 - DOMAIN,b.ads2.msads.net
 - DOMAIN,www.msads.net
+- DOMAIN,az667904.vo.msecnd.net
 - DOMAIN,fp.msedge.net
 - DOMAIN,win10-trt.msedge.net
 - DOMAIN,ac2.msn.com
@@ -562,6 +566,7 @@ payload:
 - DOMAIN,powerpointonline.nelsdf.measure.office.net
 - DOMAIN,sdwan.measure.office.com
 - DOMAIN,wan.measure.office.com
+- DOMAIN,ads-msn-com-profile.trafficmanager.net
 - DOMAIN,adsdk.trafficmanager.net
 - DOMAIN,agps-location-livenet.trafficmanager.net
 - DOMAIN,analytics.trafficmanager.net
@@ -637,6 +642,7 @@ payload:
 - DOMAIN,tenmax-ads.trafficmanager.net
 - DOMAIN,tm-analytics-pr.trafficmanager.net
 - DOMAIN,tm-enrollment-telemetry-datacore.trafficmanager.net
+- DOMAIN,vstelemetry.trafficmanager.net
 - DOMAIN,euc-excel-telemetry.wac.trafficmanager.net
 - DOMAIN,euc-powerpoint-telemetry.wac.trafficmanager.net
 - DOMAIN,euc-word-telemetry.wac.trafficmanager.net
