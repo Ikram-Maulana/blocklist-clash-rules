@@ -329,6 +329,7 @@ payload:
 - DOMAIN,base99.com
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
+- DOMAIN,bdns.io
 - DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
@@ -1754,7 +1755,6 @@ payload:
 - DOMAIN,adblock.krctech.dev
 - DOMAIN,xray.krnl.eu
 - DOMAIN,kryptovpn.kryptotel.net
-- DOMAIN,adguard.kss.ovh
 - DOMAIN,dns.kukal.cz
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
@@ -3002,8 +3002,11 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
+- DOMAIN,us-browse.startpage.com
 - DOMAIN,us1-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
@@ -3539,7 +3542,6 @@ payload:
 - DOMAIN,vload.net
 - DOMAIN,vobas.com
 - DOMAIN,dns.vod11.xyz
-- DOMAIN,dns.vojtat.cz
 - DOMAIN,vonvpn.com
 - DOMAIN,vpn0109.voodonline.fr
 - DOMAIN,vorlif.org
