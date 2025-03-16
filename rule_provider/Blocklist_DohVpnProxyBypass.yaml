@@ -60,6 +60,7 @@ payload:
 - DOMAIN,doh003.280blocker.net
 - DOMAIN,28383829.com
 - DOMAIN,28383829.site
+- DOMAIN,2a87.com
 - DOMAIN,proxy.2d.su
 - DOMAIN,2fastsurfer.com
 - DOMAIN,2fastsurfer.eu
@@ -67,6 +68,7 @@ payload:
 - DOMAIN,2proxy.de
 - DOMAIN,2proxyweb.com
 - DOMAIN,2r34.com
+- DOMAIN,2ub.top
 - DOMAIN,30t.online
 - DOMAIN,doh.30x.me
 - DOMAIN,351242444.xyz
@@ -136,6 +138,7 @@ payload:
 - DOMAIN,resolver3.absolight.net
 - DOMAIN,block.abstergo.it
 - DOMAIN,doh.iucc.ac.il
+- DOMAIN,accessmeproxy.com
 - DOMAIN,acdtop.com
 - DOMAIN,aceproxy.com
 - DOMAIN,acevpn.com
@@ -289,6 +292,7 @@ payload:
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
+- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
@@ -329,6 +333,7 @@ payload:
 - DOMAIN,base99.com
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
+- DOMAIN,bdns.io
 - DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
@@ -446,6 +451,7 @@ payload:
 - DOMAIN,brightvpn.com
 - DOMAIN,britishproxy.com
 - DOMAIN,dns.brono.cloud
+- DOMAIN,brothebro.com
 - DOMAIN,brovpn.io
 - DOMAIN,browsebridge.com
 - DOMAIN,browsec.com
@@ -619,7 +625,6 @@ payload:
 - DOMAIN,ca.doh.cloudveil.org
 - DOMAIN,us.doh.cloudveil.org
 - DOMAIN,dns.cmrg.net
-- DOMAIN,doh.cnetwork.cloud
 - DOMAIN,10bestvpn.co.uk
 - DOMAIN,akashiro.co.id
 - DOMAIN,antidnsvpn.co.cc
