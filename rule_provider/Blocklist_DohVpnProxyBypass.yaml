@@ -476,6 +476,7 @@ payload:
 - DOMAIN,bypassfw.com
 - DOMAIN,bypassip.com
 - DOMAIN,bypasskey.com
+- DOMAIN,bypasstunnel.com
 - DOMAIN,api.bytelixir.com
 - DOMAIN,bytzvpn.com
 - DOMAIN,c-dns.com
@@ -718,6 +719,7 @@ payload:
 - DOMAIN,dns1.conne.net
 - DOMAIN,dns.connect.fail
 - DOMAIN,connectionvpn.com
+- DOMAIN,constitutional.design
 - DOMAIN,contassh.com
 - DOMAIN,contentabc.com
 - DOMAIN,dns.controld.com
@@ -1019,11 +1021,7 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
-- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
-- DOMAIN,punono.duckdns.org
-- DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
