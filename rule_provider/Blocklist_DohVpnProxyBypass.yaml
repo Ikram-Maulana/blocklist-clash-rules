@@ -294,6 +294,7 @@ payload:
 - DOMAIN,atvsh.ir
 - DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
+- DOMAIN,avanquestusa.com
 - DOMAIN,vanheim.ff.avast.com
 - DOMAIN,vpn-sd.ff.avast.com
 - DOMAIN,vpn.avg.tools.avast.com
@@ -836,6 +837,7 @@ payload:
 - DOMAIN,dns1.digitale-gesellschaft.ch
 - DOMAIN,dns2.digitale-gesellschaft.ch
 - DOMAIN,dns.digitalsize.net
+- DOMAIN,diglet.org
 - DOMAIN,directoryproxy.info
 - DOMAIN,disconnect.me
 - DOMAIN,doh.disconnect.app
@@ -997,6 +999,7 @@ payload:
 - DOMAIN,doh.pub
 - DOMAIN,doh.sb
 - DOMAIN,doh.xyz
+- DOMAIN,dolopo.net
 - DOMAIN,domainownership.us
 - DOMAIN,doh.domreg.lt
 - DOMAIN,takhtakh.domyah.net
@@ -1021,7 +1024,11 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
+- DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,osefcorp.duckdns.org
+- DOMAIN,punono.duckdns.org
+- DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
 - DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
@@ -1099,6 +1106,7 @@ payload:
 - DOMAIN,arashi.net.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
+- DOMAIN,everyproxies.info
 - DOMAIN,evpn.net
 - DOMAIN,evyy.net
 - DOMAIN,ewon.biz
@@ -1221,6 +1229,7 @@ payload:
 - DOMAIN,free-proxysite.com
 - DOMAIN,free-signal.com
 - DOMAIN,free-vpn.cn
+- DOMAIN,free-vpn.xyz
 - DOMAIN,free-webproxy.com
 - DOMAIN,free2surfvpn.com
 - DOMAIN,freeanimesonline.com
@@ -1248,6 +1257,7 @@ payload:
 - DOMAIN,freeproxy.me
 - DOMAIN,freeproxy.top
 - DOMAIN,freeproxy.win
+- DOMAIN,freeproxyaccess.com
 - DOMAIN,freeproxyserver.co
 - DOMAIN,freeproxysites.co
 - DOMAIN,freeproxyunblockyoutube.com
@@ -1297,6 +1307,7 @@ payload:
 - DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,obamna.gamefr.xyz
+- DOMAIN,gameroz1.ir
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
@@ -2334,6 +2345,7 @@ payload:
 - DOMAIN,dns.peb-schmidt.de
 - DOMAIN,peekproxy.com
 - DOMAIN,check.peer2profit.site
+- DOMAIN,penkun0286.xyz
 - DOMAIN,fuchur.pentament.de
 - DOMAIN,peoplesproxy.com
 - DOMAIN,pepetio.xyz
