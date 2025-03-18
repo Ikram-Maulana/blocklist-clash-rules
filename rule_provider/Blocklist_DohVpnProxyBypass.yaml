@@ -53,7 +53,6 @@ payload:
 - DOMAIN,1banproxy.com
 - DOMAIN,1clickvpn.com
 - DOMAIN,1clickvpn.net
-- DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
@@ -182,9 +181,7 @@ payload:
 - DOMAIN,dns2.alekberg.net
 - DOMAIN,dnses.alekberg.net
 - DOMAIN,dnsnl.alekberg.net
-- DOMAIN,dnsnl-noads.alekberg.net
 - DOMAIN,dnsse.alekberg.net
-- DOMAIN,dnsse-noads.alekberg.net
 - DOMAIN,alhapi.com
 - DOMAIN,alhvp.com
 - DOMAIN,alidns.com
@@ -1772,6 +1769,7 @@ payload:
 - DOMAIN,xray.krnl.eu
 - DOMAIN,kryptovpn.kryptotel.net
 - DOMAIN,dns.kukal.cz
+- DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.kuuhaku.moe
 - DOMAIN,kx-97795-tr.xyz
 - DOMAIN,dns.kxy.ink
@@ -1884,7 +1882,6 @@ payload:
 - DOMAIN,mallocapp.com
 - DOMAIN,mallocprivacy.com
 - DOMAIN,dns.mandre.dev
-- DOMAIN,dns.maolaohei.xyz
 - DOMAIN,maqgie.xyz
 - DOMAIN,dns.marasov.id
 - DOMAIN,dns.marbledfennec.net
@@ -1897,6 +1894,7 @@ payload:
 - DOMAIN,masterssh.com
 - DOMAIN,masthisis.ir
 - DOMAIN,dns.mateo.ovh
+- DOMAIN,adsadkjsadjksakldjxx.math-solver.online
 - DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
