@@ -2697,6 +2697,7 @@ payload:
 - DOMAIN,doh.quickline.ch
 - DOMAIN,dot.quickline.ch
 - DOMAIN,quickprox.com
+- DOMAIN,quickproxies.com
 - DOMAIN,quicksilvervpn.com
 - DOMAIN,dns.quiet.rocks
 - DOMAIN,quintex.com
@@ -2769,6 +2770,7 @@ payload:
 - DOMAIN,riseup.net
 - DOMAIN,rnblyatclub.online
 - DOMAIN,rocketube.online
+- DOMAIN,rockwell.website
 - DOMAIN,dns.roedel.cloud
 - DOMAIN,romirely.tech
 - DOMAIN,dns.ronc.ru
@@ -2964,6 +2966,7 @@ payload:
 - DOMAIN,smartydns.com
 - DOMAIN,snowproxy.com
 - DOMAIN,guard.sntrk.ru
+- DOMAIN,dove.soapagent.com
 - DOMAIN,dove.soapclient.com
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
@@ -2974,6 +2977,7 @@ payload:
 - DOMAIN,solaxy.live
 - DOMAIN,soleilvpn-app.com
 - DOMAIN,solidproxy.net
+- DOMAIN,somelikeitproxy.com
 - DOMAIN,sourceproxy.com
 - DOMAIN,spacedns.org
 - DOMAIN,spacevpn.io
@@ -3061,6 +3065,7 @@ payload:
 - DOMAIN,dns.stvsk.ml
 - DOMAIN,doh.sublime9.xyz
 - DOMAIN,doh.suche.org
+- DOMAIN,suedeproxy.info
 - DOMAIN,dns.suhaila.dev
 - DOMAIN,resolver.sunet.se
 - DOMAIN,sunnygyl.com
@@ -3107,6 +3112,7 @@ payload:
 - DOMAIN,surfskip.com
 - DOMAIN,surfsneaker.com
 - DOMAIN,surfsuark.com
+- DOMAIN,surfwebsite.org
 - DOMAIN,dns.surobe.com
 - DOMAIN,surtshark.com
 - DOMAIN,dns.sv-zauner.at
