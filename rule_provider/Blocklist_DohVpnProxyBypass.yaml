@@ -424,7 +424,6 @@ payload:
 - DOMAIN,dns.bofh.in
 - DOMAIN,boghag.party
 - DOMAIN,boi9osyg1uwtyafn.com
-- DOMAIN,doh.boje8.me
 - DOMAIN,bolehvpn.net
 - DOMAIN,adguard.bonis.de
 - DOMAIN,adguard.bonsirven.eu
@@ -1680,6 +1679,7 @@ payload:
 - DOMAIN,jfalling.com
 - DOMAIN,adguard.jfchenier.ca
 - DOMAIN,dns.jhangy.us
+- DOMAIN,dns.jichi.io
 - DOMAIN,dns.jinwoo.dev
 - DOMAIN,dns.jiyi.eu
 - DOMAIN,jkdns.me
@@ -2693,6 +2693,7 @@ payload:
 - DOMAIN,dns13.quad9.net
 - DOMAIN,dns9.quad9.net
 - DOMAIN,2.dnscrypt-cert.quad9.net
+- DOMAIN,quic.lol
 - DOMAIN,quickbypass.com
 - DOMAIN,doh.quickline.ch
 - DOMAIN,dot.quickline.ch
@@ -3143,6 +3144,7 @@ payload:
 - DOMAIN,tecdrive.site
 - DOMAIN,dns1.techeasy.org
 - DOMAIN,doh.technochat.in
+- DOMAIN,technofix.ir
 - DOMAIN,dns.technologycage.com
 - DOMAIN,dns.technostriker.com
 - DOMAIN,rx.techomespace.com
@@ -3253,6 +3255,7 @@ payload:
 - DOMAIN,toptip.cc
 - DOMAIN,topvpn.cc
 - DOMAIN,topvpnguides.com
+- DOMAIN,tor-gateways.de
 - DOMAIN,tor2web.fi
 - DOMAIN,tor2web.in
 - DOMAIN,tor2web.io
@@ -3427,6 +3430,7 @@ payload:
 - DOMAIN,unblockedproxy.us
 - DOMAIN,unblockedrussian.com
 - DOMAIN,unblockedscene.com
+- DOMAIN,unblockedschool.com
 - DOMAIN,unblockedsite.biz
 - DOMAIN,unblockedsite.club
 - DOMAIN,unblockedsite.fun
@@ -3455,6 +3459,7 @@ payload:
 - DOMAIN,unblockit.one
 - DOMAIN,unblockit.onl
 - DOMAIN,unblockit.pro
+- DOMAIN,unblockit.rsvp
 - DOMAIN,unblockit.uno
 - DOMAIN,unblockmate.com
 - DOMAIN,unblockme.us
@@ -3484,6 +3489,7 @@ payload:
 - DOMAIN,unblockweb.co
 - DOMAIN,unblockweb.one
 - DOMAIN,unblockweb.org
+- DOMAIN,unblockwebsite.online
 - DOMAIN,unblockwebsites.com
 - DOMAIN,unblockyouku.com
 - DOMAIN,unblockyouku.org
@@ -3526,11 +3532,13 @@ payload:
 - DOMAIN,adfree.usableprivacy.net
 - DOMAIN,usafastproxy.info
 - DOMAIN,usaip.eu
+- DOMAIN,usaip.net
 - DOMAIN,usawebproxy.com
 - DOMAIN,usawebproxy.net
 - DOMAIN,userload.co
 - DOMAIN,userproxy.com
 - DOMAIN,uskt.info
+- DOMAIN,usproxies.info
 - DOMAIN,usvpn.cf
 - DOMAIN,uswebproxy.com
 - DOMAIN,uswebproxy.net
@@ -3564,6 +3572,7 @@ payload:
 - DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
+- DOMAIN,viewyoutube.net
 - DOMAIN,vikingvpn.com
 - DOMAIN,dns.vinnyp.xyz
 - DOMAIN,dns.vinokurov.tk
@@ -3603,8 +3612,10 @@ payload:
 - DOMAIN,vpnarea.com
 - DOMAIN,vpnbaron.com
 - DOMAIN,vpnbook.com
+- DOMAIN,vpnbookpk.com
 - DOMAIN,vpnbrowse.com
 - DOMAIN,vpncentral.com
+- DOMAIN,vpncity.info
 - DOMAIN,vpnclientapp.com
 - DOMAIN,vpndaily.com
 - DOMAIN,vpndeluxe.com
@@ -3643,6 +3654,7 @@ payload:
 - DOMAIN,vpnprivacy.com
 - DOMAIN,vpnprivacy.services
 - DOMAIN,vpnpro.com
+- DOMAIN,vpnproxy.online
 - DOMAIN,vpnproxy.org
 - DOMAIN,vpnproxy.pw
 - DOMAIN,vpnproxy.site
@@ -3663,6 +3675,7 @@ payload:
 - DOMAIN,vpntunnel.se
 - DOMAIN,vpnudp.com
 - DOMAIN,vpnuk.net
+- DOMAIN,vpnumbrella.com
 - DOMAIN,vpnunlimited.com
 - DOMAIN,vpnunlimitedapp.com
 - DOMAIN,vpnv6.com
@@ -3695,6 +3708,7 @@ payload:
 - DOMAIN,doh.this.web.id
 - DOMAIN,1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 - DOMAIN,webbrowser.live
+- DOMAIN,webevade.com
 - DOMAIN,webjax.ir
 - DOMAIN,weblockapp.com
 - DOMAIN,doh.webnmail.de
@@ -3752,11 +3766,13 @@ payload:
 - DOMAIN,wobti.com
 - DOMAIN,wonderland.ws
 - DOMAIN,clearweb.woodbridge.club
+- DOMAIN,workbypass.com
 - DOMAIN,workdigi.com
 - DOMAIN,workhost.eu
 - DOMAIN,workingvpn.com
 - DOMAIN,workproxy.net
 - DOMAIN,my.worksheetsforteachers.org
+- DOMAIN,workstudyplay.com
 - DOMAIN,worldgravityapp.com
 - DOMAIN,worldvpn.net
 - DOMAIN,worldwideproxy4u.win
@@ -3816,6 +3832,7 @@ payload:
 - DOMAIN,net01.youcef.io
 - DOMAIN,youfreeproxytube.com
 - DOMAIN,younblocked.com
+- DOMAIN,youproxything.com
 - DOMAIN,youproxytube.com
 - DOMAIN,your-dns.run
 - DOMAIN,your-freedom.de
@@ -3834,6 +3851,7 @@ payload:
 - DOMAIN,yuvelirtut.website
 - DOMAIN,yuyuproxy.com
 - DOMAIN,yuyuproxy.online
+- DOMAIN,yxorproxy.com
 - DOMAIN,dns.daemon.za.net
 - DOMAIN,zacebookpk.com
 - DOMAIN,adguard.zachitect.com
