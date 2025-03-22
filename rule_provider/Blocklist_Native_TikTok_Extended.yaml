@@ -76,7 +76,6 @@ payload:
 - DOMAIN,ads.tiktok.tv
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-frontier.tiktok.com
-- DOMAIN,ads-service.tiktok.com
 - DOMAIN,ads-sg.tiktok.com
 - DOMAIN,analytics.tiktok.com
 - DOMAIN,analytics-attribution.tiktok.com
@@ -106,7 +105,6 @@ payload:
 - DOMAIN,mcs.us.tiktok.com
 - DOMAIN,mcs-ttp2.us.tiktok.com
 - DOMAIN,mssdk.us.tiktok.com
-- DOMAIN,mssdk-ttp2.us.tiktok.com
 - DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com
 - DOMAIN,ad.tiktokv.com
 - DOMAIN,ad.tiktokv.us
@@ -362,4 +360,3 @@ payload:
 - DOMAIN,mcs16-normal-no1a.tiktokw.eu
 - DOMAIN,mssdk.tiktokw.eu
 - DOMAIN,mssdk.tiktokw.us
-- DOMAIN,mssdk-ttp2.tiktokw.us

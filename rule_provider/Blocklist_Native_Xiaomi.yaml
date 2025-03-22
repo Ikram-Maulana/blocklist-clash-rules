@@ -55,6 +55,7 @@ payload:
 - DOMAIN,hd.mi.com
 - DOMAIN,a.hl.mi.com
 - DOMAIN,idm.iot.mi.com
+- DOMAIN,api.jr.mi.com
 - DOMAIN,pandora.mi.com
 - DOMAIN,adx.tv.mi.com
 - DOMAIN,h5.tv.mi.com
