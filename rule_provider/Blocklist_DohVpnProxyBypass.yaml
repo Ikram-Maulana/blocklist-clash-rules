@@ -1515,6 +1515,7 @@ payload:
 - DOMAIN,holavpnrussia.com
 - DOMAIN,holax.io
 - DOMAIN,holyubvpn.com
+- DOMAIN,beta.holyunblocker.org
 - DOMAIN,home-server.store
 - DOMAIN,homemail.info
 - DOMAIN,homeproxy.com
@@ -1683,6 +1684,7 @@ payload:
 - DOMAIN,dns.jinwoo.dev
 - DOMAIN,dns.jiyi.eu
 - DOMAIN,jkdns.me
+- DOMAIN,www-fp.jkw.st
 - DOMAIN,vps.jmarkin.ru
 - DOMAIN,adg.jnorton.us
 - DOMAIN,green2.jnraptor.net
@@ -1846,6 +1848,7 @@ payload:
 - DOMAIN,doh.phdns5.lonet.org
 - DOMAIN,lookingglass.site
 - DOMAIN,lopana.com
+- DOMAIN,lotofabric.ru
 - DOMAIN,loubonde.xyz
 - DOMAIN,n5.lsasss.com
 - DOMAIN,dns.lsho.top
@@ -2141,6 +2144,7 @@ payload:
 - DOMAIN,ninjaproxy.eu
 - DOMAIN,ninjavpn.io
 - DOMAIN,ninjaweb.xyz
+- DOMAIN,nirbytes.com
 - DOMAIN,dns.nixnet.xyz
 - DOMAIN,lux1.nixnet.xyz
 - DOMAIN,lv1.nixnet.xyz
