@@ -2799,6 +2799,7 @@ payload:
 - DOMAIN,dns.rubyfish.cn
 - DOMAIN,ea-dns.rubyfish.cn
 - DOMAIN,uw-dns.rubyfish.cn
+- DOMAIN,adg.rueiliu.space
 - DOMAIN,rumpelsepp.org
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
@@ -3226,7 +3227,6 @@ payload:
 - DOMAIN,jp.tiar.app
 - DOMAIN,doh.tiarap.org
 - DOMAIN,jp.tiarap.org
-- DOMAIN,dns.tierradeayala.com
 - DOMAIN,tigervpn.com
 - DOMAIN,tigrons.ru
 - DOMAIN,tikvpn.com
@@ -3789,7 +3789,6 @@ payload:
 - DOMAIN,x9fnzrtl4x8pynsf.com
 - DOMAIN,adb-home.xaoimoon.fr
 - DOMAIN,pub.xapktech.xyz
-- DOMAIN,xbcpb668.com
 - DOMAIN,doh.xcom.pro
 - DOMAIN,xcomplus.com
 - DOMAIN,xenergy.cc
