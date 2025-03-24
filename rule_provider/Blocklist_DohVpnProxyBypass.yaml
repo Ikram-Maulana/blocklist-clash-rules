@@ -2799,7 +2799,6 @@ payload:
 - DOMAIN,dns.rubyfish.cn
 - DOMAIN,ea-dns.rubyfish.cn
 - DOMAIN,uw-dns.rubyfish.cn
-- DOMAIN,adg.rueiliu.space
 - DOMAIN,rumpelsepp.org
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
@@ -3025,7 +3024,6 @@ payload:
 - DOMAIN,sslsecureproxy.com
 - DOMAIN,sslunblocker.com
 - DOMAIN,doh.ntu.ssooss.win
-- DOMAIN,ag.ssrahul96.xyz
 - DOMAIN,dns.sstomp.nl
 - DOMAIN,stable-vpn.com
 - DOMAIN,stackfront.xyz
