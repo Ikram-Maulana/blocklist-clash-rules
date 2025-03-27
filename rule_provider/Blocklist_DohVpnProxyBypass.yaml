@@ -751,6 +751,7 @@ payload:
 - DOMAIN,croxy.rocks
 - DOMAIN,croxy-proxy.com
 - DOMAIN,croxyproxy.best
+- DOMAIN,croxyproxy.blog
 - DOMAIN,croxyproxy.com
 - DOMAIN,croxyproxy.net
 - DOMAIN,croxyproxy.rocks
@@ -1362,7 +1363,6 @@ payload:
 - DOMAIN,gizlen.net
 - DOMAIN,gizlibaglanti.com
 - DOMAIN,h.gjrick.tw
-- DOMAIN,sdns22.gkonuralp.com
 - DOMAIN,glacius.top
 - DOMAIN,dns.glf.wtf
 - DOMAIN,global-proxy.com
@@ -1551,6 +1551,7 @@ payload:
 - DOMAIN,httpdserver.info
 - DOMAIN,hugeph.art
 - DOMAIN,dns.hujiayucc.cn
+- DOMAIN,ads.hunga1k47.com
 - DOMAIN,doth.huque.com
 - DOMAIN,dns.huseynov.work
 - DOMAIN,hustlersuniversity.pro
@@ -1899,6 +1900,7 @@ payload:
 - DOMAIN,masthisis.ir
 - DOMAIN,dns.mateo.ovh
 - DOMAIN,adsadkjsadjksakldjxx.math-solver.online
+- DOMAIN,dns.mathewakhil.online
 - DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
