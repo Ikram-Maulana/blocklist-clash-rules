@@ -1048,7 +1048,6 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
-- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1388,6 +1387,7 @@ payload:
 - DOMAIN,gizlen.net
 - DOMAIN,gizlibaglanti.com
 - DOMAIN,h.gjrick.tw
+- DOMAIN,sdns22.gkonuralp.com
 - DOMAIN,glacius.top
 - DOMAIN,dns.glf.wtf
 - DOMAIN,global-proxy.com
@@ -1669,6 +1669,8 @@ payload:
 - DOMAIN,dns.is0mino.com
 - DOMAIN,mickedi.isgood.host
 - DOMAIN,dns.ishan.pw
+- DOMAIN,ishark.com
+- DOMAIN,isharkvpn.com
 - DOMAIN,isityet.net
 - DOMAIN,dns.islandnet.com
 - DOMAIN,ispunblock.com
@@ -1740,6 +1742,7 @@ payload:
 - DOMAIN,dns.k3nny.fr
 - DOMAIN,kaiwu.xyz
 - DOMAIN,dns.kamilszczepanski.com
+- DOMAIN,adguard.kantinyoyok.xyz
 - DOMAIN,dns.kapite.in
 - DOMAIN,dns.karadag.me
 - DOMAIN,dns.karfamily.net
@@ -3543,6 +3546,7 @@ payload:
 - DOMAIN,untraceable.us
 - DOMAIN,untracer.com
 - DOMAIN,dns.unx.io
+- DOMAIN,updatedproxies.com
 - DOMAIN,dns.uplenk.com
 - DOMAIN,uproxy.online
 - DOMAIN,ur-browser.com
