@@ -21,6 +21,7 @@ payload:
 - DOMAIN,beezboo.com
 - DOMAIN,search.biboumail.fr
 - DOMAIN,searx.bissisoft.com
+- DOMAIN,blackle.com
 - DOMAIN,boomle.com
 - DOMAIN,search.bowlman.org
 - DOMAIN,searx.catfluori.de
@@ -136,7 +137,6 @@ payload:
 - DOMAIN,roteserver.de
 - DOMAIN,search.rubberverse.xyz
 - DOMAIN,searchencrypt.com
-- DOMAIN,searchx.mobi
 - DOMAIN,searx.bar
 - DOMAIN,searx.ch
 - DOMAIN,searx.info

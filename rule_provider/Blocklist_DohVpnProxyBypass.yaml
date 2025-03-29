@@ -1048,6 +1048,7 @@ payload:
 - DOMAIN,duapps.com
 - DOMAIN,duba.net
 - DOMAIN,home27.duckdns.org
+- DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
@@ -1567,9 +1568,9 @@ payload:
 - DOMAIN,doh.hottis.de
 - DOMAIN,howdy.id
 - DOMAIN,hoxx.com
+- DOMAIN,hoxx.net
 - DOMAIN,hoyofun.xyz
 - DOMAIN,hshh.org
-- DOMAIN,dns.hshoe.cn
 - DOMAIN,hsselite.com
 - DOMAIN,html.cafe
 - DOMAIN,httpdserver.info
@@ -3064,6 +3065,7 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com

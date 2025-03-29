@@ -81,6 +81,7 @@ payload:
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
 - DOMAIN,usgovarizona-0.in.applicationinsights.azure.us
 - DOMAIN,usgovarizona-global.in.applicationinsights.azure.us
+- DOMAIN,usgovtexas-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-1.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-global.in.applicationinsights.azure.us
@@ -101,7 +102,6 @@ payload:
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
-- DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
 - DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
@@ -160,7 +160,6 @@ payload:
 - DOMAIN,ffc-word-telemetry.officeapps.live.com
 - DOMAIN,frc-visio-telemetry.officeapps.live.com
 - DOMAIN,inc-visio-telemetry.officeapps.live.com
-- DOMAIN,jpc-visio-telemetry.officeapps.live.com
 - DOMAIN,nexus.officeapps.live.com
 - DOMAIN,nexusrules.officeapps.live.com
 - DOMAIN,noc-visio-telemetry.officeapps.live.com
@@ -248,7 +247,6 @@ payload:
 - DOMAIN,adsdk.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
-- DOMAIN,fp.advertising.microsoft.com
 - DOMAIN,sts.advertising.microsoft.com
 - DOMAIN,analyticspixel.microsoft.com
 - DOMAIN,applicationinsights.microsoft.com
@@ -433,7 +431,6 @@ payload:
 - DOMAIN,gateway.bingviz.microsoftapp.net
 - DOMAIN,msads.net
 - DOMAIN,ads1.msads.net
-- DOMAIN,a.ads1.msads.net
 - DOMAIN,ads2.msads.net
 - DOMAIN,a.ads2.msads.net
 - DOMAIN,b.ads2.msads.net
@@ -449,8 +446,6 @@ payload:
 - DOMAIN,ads1.msn.com
 - DOMAIN,ads2.msn.com
 - DOMAIN,adsyndication.msn.com
-- DOMAIN,images.adsyndication.msn.com
-- DOMAIN,images-ppe.adsyndication.msn.com
 - DOMAIN,analytics.msn.com
 - DOMAIN,metric.appex-rf.msn.com
 - DOMAIN,c.ar.msn.com
