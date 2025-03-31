@@ -170,7 +170,6 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
-- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,apple-relay.akamaized.net
@@ -3726,7 +3725,6 @@ payload:
 - DOMAIN,waitfree.us
 - DOMAIN,walln.com
 - DOMAIN,dns.wang.art
-- DOMAIN,wantaquddin.com
 - DOMAIN,dns.wargan.io
 - DOMAIN,abel.waringer-atg.de
 - DOMAIN,dns.warma.me
