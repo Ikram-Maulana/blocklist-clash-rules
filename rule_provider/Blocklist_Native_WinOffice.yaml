@@ -112,6 +112,7 @@ payload:
 - DOMAIN,adsdkprod.azureedge.net
 - DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
+- DOMAIN,msadsscale.azureedge.net
 - DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
 - DOMAIN,a4.bing.com
@@ -394,6 +395,7 @@ payload:
 - DOMAIN,geover-prod.do.dsp.mp.microsoft.com
 - DOMAIN,track.mp.microsoft.com
 - DOMAIN,dm3.track.mp.microsoft.com
+- DOMAIN,msadsscale.microsoft.com
 - DOMAIN,oca.microsoft.com
 - DOMAIN,watson.officeint.microsoft.com
 - DOMAIN,analytics.pstnhub.microsoft.com

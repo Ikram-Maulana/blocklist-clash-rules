@@ -170,6 +170,7 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
+- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,apple-relay.akamaized.net
@@ -1799,6 +1800,7 @@ payload:
 - DOMAIN,adblock.krctech.dev
 - DOMAIN,xray.krnl.eu
 - DOMAIN,kryptovpn.kryptotel.net
+- DOMAIN,dns.kugoapps.com
 - DOMAIN,dns.kukal.cz
 - DOMAIN,dns.kusoneko.moe
 - DOMAIN,dns.kuuhaku.moe
@@ -3271,6 +3273,7 @@ payload:
 - DOMAIN,tmhhd.tk
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
+- DOMAIN,tokit.site
 - DOMAIN,tonvpn.com
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
@@ -3838,6 +3841,7 @@ payload:
 - DOMAIN,dns.xusqui.com
 - DOMAIN,xvbelink.com
 - DOMAIN,xvpn.io
+- DOMAIN,dns.xwdmw.xyz
 - DOMAIN,v2.xx3210766.live
 - DOMAIN,dns.yameenassotally.com
 - DOMAIN,2.dnscrypt-cert.browser.yandex.net
