@@ -170,6 +170,7 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
+- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,apple-relay.akamaized.net
@@ -2441,6 +2442,7 @@ payload:
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
 - DOMAIN,pluton.plan9-dns.com
+- DOMAIN,draco.plan9-ns2.com
 - DOMAIN,play5r.com
 - DOMAIN,playproxy.com
 - DOMAIN,secure-dns.pleumkungz.com
