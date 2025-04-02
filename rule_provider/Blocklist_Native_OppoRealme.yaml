@@ -45,6 +45,15 @@ payload:
 - DOMAIN,zen-core-in.allawnos.com
 - DOMAIN,zen-core-sg.allawnos.com
 - DOMAIN,zen-core-us.allawnos.com
+- DOMAIN,conn-service-cn-01.allawntech.com
+- DOMAIN,conn-service-cn-03.allawntech.com
+- DOMAIN,conn-service-cn-04.allawntech.com
+- DOMAIN,conn-service-cn-05.allawntech.com
+- DOMAIN,conn-service-cn-07.allawntech.com
+- DOMAIN,conn-service-cn-08.allawntech.com
+- DOMAIN,conn-service-gl-01.allawntech.com
+- DOMAIN,conn-service-gl-03.allawntech.com
+- DOMAIN,conn-service-gl-04.allawntech.com
 - DOMAIN,smartcard.apps.coloros.com
 - DOMAIN,smartcardf.apps.coloros.com
 - DOMAIN,smartcardf-eu.apps.coloros.com
@@ -220,6 +229,9 @@ payload:
 - DOMAIN,api-cn.cdo.heytapmobi.com
 - DOMAIN,api-gl.cdo.heytapmobi.com
 - DOMAIN,epoch-id.cdo.heytapmobi.com
+- DOMAIN,dragate-cn.dc.heytapmobi.com
+- DOMAIN,dragate-in.dc.heytapmobi.com
+- DOMAIN,dragate-sg.dc.heytapmobi.com
 - DOMAIN,obus-cn.dc.heytapmobi.com
 - DOMAIN,api-id.game.heytapmobi.com
 - DOMAIN,iot-earbuds-cn.heytapmobi.com
@@ -382,6 +394,10 @@ payload:
 - DOMAIN,sms.ads.oppomobile.com
 - DOMAIN,wifi.ads.oppomobile.com
 - DOMAIN,adsfs.oppomobile.com
+- DOMAIN,dragate.dc.oppomobile.com
+- DOMAIN,dragate-br.dc.oppomobile.com
+- DOMAIN,dragate-sg.dc.oppomobile.com
+- DOMAIN,predragate.dc.oppomobile.com
 - DOMAIN,dhfs-id.oppomobile.com
 - DOMAIN,dhfs-in.oppomobile.com
 - DOMAIN,dhfs-th.oppomobile.com
