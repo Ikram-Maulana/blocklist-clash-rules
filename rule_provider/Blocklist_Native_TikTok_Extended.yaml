@@ -76,7 +76,6 @@ payload:
 - DOMAIN,ads.tiktok.tv
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-frontier.tiktok.com
-- DOMAIN,ads-service.tiktok.com
 - DOMAIN,ads-sg.tiktok.com
 - DOMAIN,analytics.tiktok.com
 - DOMAIN,analytics-attribution.tiktok.com

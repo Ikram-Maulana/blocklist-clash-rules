@@ -56,8 +56,6 @@ payload:
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
 - DOMAIN,doh003.280blocker.net
-- DOMAIN,28383829.com
-- DOMAIN,28383829.site
 - DOMAIN,2a87.com
 - DOMAIN,proxy.2d.su
 - DOMAIN,2fastsurfer.com
@@ -91,7 +89,6 @@ payload:
 - DOMAIN,vpn.52oupa.com
 - DOMAIN,www-vpn.52oupa.com
 - DOMAIN,57824.com
-- DOMAIN,5963anrue.lol
 - DOMAIN,family.5ososea.com
 - DOMAIN,kids.5ososea.com
 - DOMAIN,dns.688447.xyz
@@ -3063,9 +3060,11 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy1.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com

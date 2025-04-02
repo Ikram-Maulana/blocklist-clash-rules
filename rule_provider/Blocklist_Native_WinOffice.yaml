@@ -21,6 +21,7 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
+- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -81,7 +82,6 @@ payload:
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
 - DOMAIN,usgovarizona-0.in.applicationinsights.azure.us
 - DOMAIN,usgovarizona-global.in.applicationinsights.azure.us
-- DOMAIN,usgovtexas-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-1.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-global.in.applicationinsights.azure.us
