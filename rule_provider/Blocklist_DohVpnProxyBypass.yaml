@@ -169,12 +169,9 @@ payload:
 - DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
-- DOMAIN,apple-relay.akamaized.net
 - DOMAIN,akunssh.net
 - DOMAIN,dns.albony.xyz
 - DOMAIN,aldhaferi.store
-- DOMAIN,dnsnl.alekberg.net
-- DOMAIN,dnsse.alekberg.net
 - DOMAIN,alhapi.com
 - DOMAIN,alhvp.com
 - DOMAIN,alidns.com
@@ -245,10 +242,14 @@ payload:
 - DOMAIN,ad.anym0re.ru
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
-- DOMAIN,apple-relay.apple.com
 - DOMAIN,doh.dns.apple.com
 - DOMAIN,mask-api.fe2.apple-dns.net
-- DOMAIN,mask.apple-dns.net
+- DOMAIN,canary.mask.apple-dns.net
+- DOMAIN,africa-mask.wrr.mask.apple-dns.net
+- DOMAIN,apac-mask.wrr.mask.apple-dns.net
+- DOMAIN,emea-mask.wrr.mask.apple-dns.net
+- DOMAIN,north-america-mask.wrr.mask.apple-dns.net
+- DOMAIN,south-america-mask.wrr.mask.apple-dns.net
 - DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
@@ -537,9 +538,7 @@ payload:
 - DOMAIN,cloaker.us
 - DOMAIN,cloakvpn.com
 - DOMAIN,cloudbenders.fun
-- DOMAIN,apple-relay.cloudfare.com
 - DOMAIN,dns.cloudfiction.eu
-- DOMAIN,apple-relay.cloudflare.com
 - DOMAIN,dns.233py.com.cdn.cloudflare.net
 - DOMAIN,dns.cloudflare.com
 - DOMAIN,cloudflare-dns.com
@@ -1157,7 +1156,6 @@ payload:
 - DOMAIN,fastestvpn.info
 - DOMAIN,fastfoxvpn.com
 - DOMAIN,fastfreeproxy.info
-- DOMAIN,apple-relay.fastly-edge.com
 - DOMAIN,fastp.org
 - DOMAIN,fastpro.info
 - DOMAIN,fastproxy.nl
@@ -2633,6 +2631,7 @@ payload:
 - DOMAIN,proxyist.com
 - DOMAIN,proxyium.com
 - DOMAIN,proxyium.org
+- DOMAIN,www-cdn.proxyiumi.com
 - DOMAIN,proxylister.com
 - DOMAIN,proxylistpro.com
 - DOMAIN,proxyload.net
