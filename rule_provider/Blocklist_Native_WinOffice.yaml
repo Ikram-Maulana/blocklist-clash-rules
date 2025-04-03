@@ -21,7 +21,6 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
-- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -100,8 +99,10 @@ payload:
 - DOMAIN,westus2-4.in.applicationinsights.azure.com
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
+- DOMAIN,westus3.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
+- DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
 - DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com

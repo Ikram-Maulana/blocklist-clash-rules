@@ -325,7 +325,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -505,7 +504,6 @@ payload:
 - DOMAIN,changemyip.com
 - DOMAIN,chaos-system.de
 - DOMAIN,dns.charraud.eu
-- DOMAIN,checkmate.my
 - DOMAIN,dns.chenu.ch
 - DOMAIN,dns.chilimac.net
 - DOMAIN,chillglobal.com
@@ -3059,7 +3057,6 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy1.startpage.com
