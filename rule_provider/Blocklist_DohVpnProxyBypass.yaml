@@ -67,6 +67,7 @@ payload:
 - DOMAIN,2ub.top
 - DOMAIN,30t.online
 - DOMAIN,doh.30x.me
+- DOMAIN,33bitbank.com
 - DOMAIN,351242444.xyz
 - DOMAIN,dns.354688.xyz
 - DOMAIN,doh.360.cn
@@ -276,13 +277,13 @@ payload:
 - DOMAIN,astrill.org
 - DOMAIN,astrovpn.co
 - DOMAIN,dandelionsprout.asuscomm.com
-- DOMAIN,dns.asysec.com
 - DOMAIN,adguardhome.atakorah.com
 - DOMAIN,atlasvpn.com
 - DOMAIN,atozproxy.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
+- DOMAIN,dns.auapi.fun
 - DOMAIN,auto-aufladen.de
 - DOMAIN,avanquestusa.com
 - DOMAIN,vanheim.ff.avast.com
@@ -952,7 +953,6 @@ payload:
 - DOMAIN,rdu01.dnscry.pt
 - DOMAIN,sea01.dnscry.pt
 - DOMAIN,sgn01.dnscry.pt
-- DOMAIN,sin01.dnscry.pt
 - DOMAIN,sin02.dnscry.pt
 - DOMAIN,sin03.dnscry.pt
 - DOMAIN,sjc01.dnscry.pt
@@ -1414,6 +1414,7 @@ payload:
 - DOMAIN,goosevpn.com
 - DOMAIN,performance.gosami.xyz
 - DOMAIN,vpn.gosami.xyz
+- DOMAIN,gostarlight.xyz
 - DOMAIN,gotrusted.com
 - DOMAIN,gowork.info
 - DOMAIN,gpreport.us
@@ -2987,6 +2988,7 @@ payload:
 - DOMAIN,slickvpn.com
 - DOMAIN,dns.slinkyman.net
 - DOMAIN,smartdnsproxy.com
+- DOMAIN,lunarsync.smartfoloo.space
 - DOMAIN,dns.smartguard.io
 - DOMAIN,smartproxy.com
 - DOMAIN,smartydns.com
