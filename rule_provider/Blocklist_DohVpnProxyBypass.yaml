@@ -1061,7 +1061,6 @@ payload:
 - DOMAIN,easyhandshake.com
 - DOMAIN,easyproxy.tech
 - DOMAIN,easyvpn.com
-- DOMAIN,eazy.wtf
 - DOMAIN,ebookdz.com
 - DOMAIN,ebumna.net
 - DOMAIN,ecoweb-network.com
@@ -1072,7 +1071,6 @@ payload:
 - DOMAIN,edgedcircles.com
 - DOMAIN,edgy-dns.com
 - DOMAIN,dns.editechstudio.com
-- DOMAIN,edpuzzle.space
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
@@ -1087,7 +1085,6 @@ payload:
 - DOMAIN,dns.ellichua.com
 - DOMAIN,emban-networks.com
 - DOMAIN,emeraldeyex.dev
-- DOMAIN,dns.emiliyan.com
 - DOMAIN,encrypt.me
 - DOMAIN,endente.com
 - DOMAIN,adguard.ender.fr
@@ -1149,7 +1146,6 @@ payload:
 - DOMAIN,dns.fancyorg.at
 - DOMAIN,farewellkou.click
 - DOMAIN,dns.farshidhakimy.de
-- DOMAIN,fast-receive.com
 - DOMAIN,fastestvpn.com
 - DOMAIN,fastestvpn.info
 - DOMAIN,fastfoxvpn.com
@@ -1233,7 +1229,6 @@ payload:
 - DOMAIN,fortniters.info
 - DOMAIN,forwardproxie.com
 - DOMAIN,fproxy.net
-- DOMAIN,francis-proxy.top
 - DOMAIN,frandcomfort.us
 - DOMAIN,free-proxy.com
 - DOMAIN,free-proxy.cz
@@ -3059,6 +3054,7 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy1.startpage.com
