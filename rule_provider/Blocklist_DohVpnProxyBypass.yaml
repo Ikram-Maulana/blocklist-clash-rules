@@ -1306,7 +1306,6 @@ payload:
 - DOMAIN,dns.furrydns.de
 - DOMAIN,doh.futa.app
 - DOMAIN,doh.futa.gg
-- DOMAIN,dns.futuredns.me
 - DOMAIN,g-a-y.pro
 - DOMAIN,gabstorm.com
 - DOMAIN,cluster-0.gac.edu
@@ -1435,13 +1434,11 @@ payload:
 - DOMAIN,guardster.com
 - DOMAIN,guavi.com
 - DOMAIN,dns2.guidocioni.it
-- DOMAIN,gumm.org
 - DOMAIN,dns.gutwe.in
 - DOMAIN,gvirabi.com
 - DOMAIN,gwopboyded.com
 - DOMAIN,gztech.me
 - DOMAIN,h-vpn.org
-- DOMAIN,h0w.cc
 - DOMAIN,dns.hahnjo.de
 - DOMAIN,dns.haka.se
 - DOMAIN,dns.hakim.one
@@ -1457,7 +1454,6 @@ payload:
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
-- DOMAIN,heiwanotameno.com
 - DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helpmehide.net
@@ -1528,7 +1524,6 @@ payload:
 - DOMAIN,holavpnextension.com
 - DOMAIN,holavpnrussia.com
 - DOMAIN,holax.io
-- DOMAIN,holyubvpn.com
 - DOMAIN,beta.holyunblocker.org
 - DOMAIN,home-server.store
 - DOMAIN,homemail.info
@@ -1598,7 +1593,6 @@ payload:
 - DOMAIN,iij.jp
 - DOMAIN,ikarosalpha.xyz
 - DOMAIN,dns.ikataruto.com
-- DOMAIN,ikhebdorst.nl
 - DOMAIN,iksde.com
 - DOMAIN,ilumu.com
 - DOMAIN,ilysk.lol
@@ -1621,7 +1615,6 @@ payload:
 - DOMAIN,indiaproxy.win
 - DOMAIN,indo-ssh.com
 - DOMAIN,dns.indust.me
-- DOMAIN,dns.indybanipal.com
 - DOMAIN,dns.inforlogia.com
 - DOMAIN,doh.infracell.net
 - DOMAIN,infvpn.com
@@ -1769,6 +1762,7 @@ payload:
 - DOMAIN,dns1.klcd.eu
 - DOMAIN,dns2.klcd.eu
 - DOMAIN,klcknerrip.com
+- DOMAIN,knowurcson.store
 - DOMAIN,knvpn.net
 - DOMAIN,ko-18948-tr.xyz
 - DOMAIN,proxy.kokecoco.me
@@ -1970,7 +1964,6 @@ payload:
 - DOMAIN,mitmproxy.org
 - DOMAIN,doh.mmmalia.com
 - DOMAIN,dns.mnet-online.de
-- DOMAIN,mnrv.trade
 - DOMAIN,dns.mo0on15.com
 - DOMAIN,moamao.shop
 - DOMAIN,dnstls.mobik.com
