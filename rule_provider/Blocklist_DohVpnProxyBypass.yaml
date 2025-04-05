@@ -1626,7 +1626,6 @@ payload:
 - DOMAIN,intego.com
 - DOMAIN,dns.interhub.cc
 - DOMAIN,interncloud.info
-- DOMAIN,internetbypass.com
 - DOMAIN,internetcloak.com
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
@@ -1676,7 +1675,6 @@ payload:
 - DOMAIN,jabber-germany.de
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
-- DOMAIN,jailbreaked.net
 - DOMAIN,jamesisbald.xyz
 - DOMAIN,tj.jamesxue.xyz
 - DOMAIN,janathanmahes-mysharepoint.com
@@ -3051,7 +3049,6 @@ payload:
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com

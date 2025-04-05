@@ -99,7 +99,6 @@ payload:
 - DOMAIN,westus2-4.in.applicationinsights.azure.com
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
-- DOMAIN,westus3.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
@@ -147,6 +146,7 @@ payload:
 - DOMAIN,auc-visio-telemetry.officeapps.live.com
 - DOMAIN,brc-visio-telemetry.officeapps.live.com
 - DOMAIN,cac-visio-telemetry.officeapps.live.com
+- DOMAIN,chc-visio-telemetry.officeapps.live.com
 - DOMAIN,dec-visio-telemetry.officeapps.live.com
 - DOMAIN,euc-excel-telemetry.officeapps.live.com
 - DOMAIN,euc-onenote-telemetry.officeapps.live.com
@@ -578,6 +578,7 @@ payload:
 - DOMAIN,bf-tracker-release-tm.trafficmanager.net
 - DOMAIN,bingads.trafficmanager.net
 - DOMAIN,azure.bingads.trafficmanager.net
+- DOMAIN,bingadsedgeextension-prod.trafficmanager.net
 - DOMAIN,collector-main.trafficmanager.net
 - DOMAIN,tracker.flightview.com.trafficmanager.net
 - DOMAIN,events.data.trafficmanager.net
