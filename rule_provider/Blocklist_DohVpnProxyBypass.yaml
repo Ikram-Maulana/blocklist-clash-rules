@@ -198,6 +198,8 @@ payload:
 - DOMAIN,37er19htfd.execute-api.us-east-1.amazonaws.com
 - DOMAIN,i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 - DOMAIN,dsl-app.s3.us-east-2.amazonaws.com
+- DOMAIN,american-proxy.com
+- DOMAIN,americaproxy.info
 - DOMAIN,amirabbasmousavi.news
 - DOMAIN,mailer.amlegion.org
 - DOMAIN,ammmae150.news
@@ -300,6 +302,7 @@ payload:
 - DOMAIN,award-vpn.com
 - DOMAIN,awebproxy.com
 - DOMAIN,awhoer.net
+- DOMAIN,axaxa.fun
 - DOMAIN,azirevpn.com
 - DOMAIN,doh.azoris.ovh
 - DOMAIN,dns.azsopro.net
@@ -436,6 +439,7 @@ payload:
 - DOMAIN,brazilproxy.info
 - DOMAIN,breakwall.net
 - DOMAIN,dns.brembeck.cloud
+- DOMAIN,ag.brianlee.fun
 - DOMAIN,bright4good.eco
 - DOMAIN,brightvpn.com
 - DOMAIN,britishproxy.com
@@ -763,7 +767,6 @@ payload:
 - DOMAIN,createssh.net
 - DOMAIN,creatine.wtf
 - DOMAIN,criarssh.com
-- DOMAIN,dns.criena.net
 - DOMAIN,crownproxy.com
 - DOMAIN,croxy.com
 - DOMAIN,croxy.network
@@ -817,7 +820,6 @@ payload:
 - DOMAIN,proxy.darkvpn.com
 - DOMAIN,mail.data.haus
 - DOMAIN,ns.data.haus
-- DOMAIN,doh.datacore.ch
 - DOMAIN,doh.datahata.by
 - DOMAIN,datatech.icu
 - DOMAIN,dns.datenquark.de
@@ -1320,7 +1322,6 @@ payload:
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
 - DOMAIN,gatcha.org
-- DOMAIN,gclouddns.com
 - DOMAIN,gecko.fun
 - DOMAIN,geckovpn.xyz
 - DOMAIN,geekproxy.com
@@ -1979,7 +1980,6 @@ payload:
 - DOMAIN,naganohara-yoimiya.momokko.moe
 - DOMAIN,dns.momou.ch
 - DOMAIN,monoprivacy.io
-- DOMAIN,monro-stom-plus.info
 - DOMAIN,monthlyssh.net
 - DOMAIN,monvpn.com
 - DOMAIN,zrh1-ns01.monzoon.net
@@ -2099,7 +2099,6 @@ payload:
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
 - DOMAIN,nekoray.org
-- DOMAIN,nenam.eu
 - DOMAIN,adguard.neon0404.space
 - DOMAIN,neonos.me
 - DOMAIN,dns.neowutran.ovh
@@ -2433,7 +2432,6 @@ payload:
 - DOMAIN,polandgrows.com
 - DOMAIN,polargrizzly.com
 - DOMAIN,polaris.cx
-- DOMAIN,polarvoid.store
 - DOMAIN,polisitogel.accountant
 - DOMAIN,polisitogel.beauty
 - DOMAIN,polisitogel.builders
@@ -2714,7 +2712,6 @@ payload:
 - DOMAIN,quicksilvervpn.com
 - DOMAIN,dns.quiet.rocks
 - DOMAIN,quintex.com
-- DOMAIN,quotivatehub.com
 - DOMAIN,ant.dns.qwer.pw
 - DOMAIN,dog.dns.qwer.pw
 - DOMAIN,frog.dns.qwer.pw
@@ -2793,7 +2790,6 @@ payload:
 - DOMAIN,dns.rootlab.top
 - DOMAIN,roskomnadzorgorivadu.ru
 - DOMAIN,dns.rotunneling.net
-- DOMAIN,roundrockisd.online
 - DOMAIN,o.rsaikat.com
 - DOMAIN,au.rslvr.eu
 - DOMAIN,bg.rslvr.eu
@@ -3864,6 +3860,7 @@ payload:
 - DOMAIN,yuyuproxy.com
 - DOMAIN,yuyuproxy.online
 - DOMAIN,yxorproxy.com
+- DOMAIN,adg.yybyy.wiki
 - DOMAIN,dns.daemon.za.net
 - DOMAIN,zacebookpk.com
 - DOMAIN,adguard.zachitect.com

@@ -100,6 +100,7 @@ payload:
 - DOMAIN,tr-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,tr-st-sl.vivoglobal.com
 - DOMAIN,tr-st-sysupgrade.vivoglobal.com
+- DOMAIN,tr-stsdk.vivoglobal.com
 - DOMAIN,tr-sysupgrade-api.vivoglobal.com
 - DOMAIN,tr-timesync.vivoglobal.com
 - DOMAIN,tr-vcode-api.vivoglobal.com
