@@ -215,6 +215,7 @@ payload:
 - DOMAIN,aniscartujo.com
 - DOMAIN,dns.anon.no
 - DOMAIN,anonine.com
+- DOMAIN,anonproxy.eu
 - DOMAIN,anonproxy.org
 - DOMAIN,anonvpn.io
 - DOMAIN,anonwebproxy.com
@@ -403,7 +404,6 @@ payload:
 - DOMAIN,blockless.com
 - DOMAIN,new-proxy-sites.blogspot.com
 - DOMAIN,ukvpns.blogspot.ru
-- DOMAIN,adguard.blogssl.com
 - DOMAIN,dns.blokada.org
 - DOMAIN,bloquer.fr
 - DOMAIN,rfree1.blue-shield.at
@@ -648,6 +648,7 @@ payload:
 - DOMAIN,us.doh.cloudveil.org
 - DOMAIN,dns.cmrg.net
 - DOMAIN,10bestvpn.co.uk
+- DOMAIN,adguard.aa4.co.uk
 - DOMAIN,akashiro.co.id
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
@@ -1054,6 +1055,7 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
+- DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
@@ -1956,7 +1958,6 @@ payload:
 - DOMAIN,dns.mihanentalpo.me
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
-- DOMAIN,minilla.store
 - DOMAIN,miniprox.com
 - DOMAIN,miniprox.info
 - DOMAIN,netcup.mismat.ch
@@ -2843,14 +2844,12 @@ payload:
 - DOMAIN,dns.scarx.net
 - DOMAIN,proxy.schel.li
 - DOMAIN,dns.schlagheck.berlin
-- DOMAIN,vps4.scho.io
 - DOMAIN,school-websites.us
 - DOMAIN,schoolnewsletter.us
 - DOMAIN,schoology.college
 - DOMAIN,schoology.help
 - DOMAIN,schoology123.org
 - DOMAIN,schoolooks.com
-- DOMAIN,schoolproxy.co
 - DOMAIN,schooxy.com
 - DOMAIN,schoprox.com
 - DOMAIN,sciencesimplified.pro
@@ -3306,7 +3305,6 @@ payload:
 - DOMAIN,trilightzone.org
 - DOMAIN,trueproxy.com
 - DOMAIN,trust.zone
-- DOMAIN,dns.trust404.win
 - DOMAIN,trustedproxies.com
 - DOMAIN,truta.org
 - DOMAIN,dns.tryk.app
@@ -3529,7 +3527,6 @@ payload:
 - DOMAIN,untracer.com
 - DOMAIN,dns.unx.io
 - DOMAIN,updatedproxies.com
-- DOMAIN,dns.uplenk.com
 - DOMAIN,uproxy.online
 - DOMAIN,ur-browser.com
 - DOMAIN,urban-vpn.com
@@ -3811,6 +3808,7 @@ payload:
 - DOMAIN,xitesite.com
 - DOMAIN,xjumper.com
 - DOMAIN,dns.xlion.tw
+- DOMAIN,xmr.land
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
 - DOMAIN,xsfwow.com
