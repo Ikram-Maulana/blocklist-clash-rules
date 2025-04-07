@@ -287,6 +287,7 @@ payload:
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
 - DOMAIN,dns.auapi.fun
+- DOMAIN,aurora-softworks.xyz
 - DOMAIN,auto-aufladen.de
 - DOMAIN,avanquestusa.com
 - DOMAIN,vanheim.ff.avast.com
@@ -349,6 +350,7 @@ payload:
 - DOMAIN,bestproxy.xyz
 - DOMAIN,bestssh.net
 - DOMAIN,bestukvpn.com
+- DOMAIN,bestvideoproxy.com
 - DOMAIN,bestvpn.org
 - DOMAIN,bestvpnprovider.info
 - DOMAIN,bestvpnrating.com
@@ -377,6 +379,7 @@ payload:
 - DOMAIN,bitping.com
 - DOMAIN,dns.bitservices.io
 - DOMAIN,dns-tls.bitwiseshift.net
+- DOMAIN,bizfast.info
 - DOMAIN,blacklogic.com
 - DOMAIN,blackvpn.com
 - DOMAIN,2.dnscrypt-cert.blahdns.com
@@ -1203,7 +1206,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -3248,7 +3250,6 @@ payload:
 - DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
 - DOMAIN,tmhhd.tk
-- DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,tokit.site
 - DOMAIN,tonvpn.com
@@ -3265,7 +3266,6 @@ payload:
 - DOMAIN,topvpnguides.com
 - DOMAIN,tor-gateways.de
 - DOMAIN,tor2web.fi
-- DOMAIN,tor2web.in
 - DOMAIN,tor2web.io
 - DOMAIN,tor2web.it
 - DOMAIN,tor2web.org
@@ -3479,7 +3479,6 @@ payload:
 - DOMAIN,unblockproxy.win
 - DOMAIN,unblocks.net
 - DOMAIN,unblocksite.biz
-- DOMAIN,unblocksite.ch
 - DOMAIN,unblocksite.fun
 - DOMAIN,unblocksite.id
 - DOMAIN,unblocksite.org
