@@ -466,6 +466,7 @@ payload:
 - DOMAIN,dns.butterfly87.sbs
 - DOMAIN,bvpn.com
 - DOMAIN,byewall.com
+- DOMAIN,bypass.pw
 - DOMAIN,bypassable.com
 - DOMAIN,bypassed.wtf
 - DOMAIN,bypasser.us
@@ -482,6 +483,7 @@ payload:
 - DOMAIN,calculusproblems.online
 - DOMAIN,callies-online.site
 - DOMAIN,tor.calyxinstitute.org
+- DOMAIN,canadaproxy.info
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
 - DOMAIN,2.dnscrypt-cert.captnemo.in
@@ -510,6 +512,7 @@ payload:
 - DOMAIN,ibuki.cgnat.net
 - DOMAIN,dns.chadeyron.fr
 - DOMAIN,changemyip.com
+- DOMAIN,changemyip.uk
 - DOMAIN,chaos-system.de
 - DOMAIN,dns.charraud.eu
 - DOMAIN,dns.chenu.ch
@@ -542,6 +545,7 @@ payload:
 - DOMAIN,clickwork7secure.com
 - DOMAIN,cloaker.ca
 - DOMAIN,cloaker.us
+- DOMAIN,cloakpoint.com
 - DOMAIN,cloakvpn.com
 - DOMAIN,cloudbenders.fun
 - DOMAIN,dns.cloudfiction.eu
@@ -1082,7 +1086,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -2011,6 +2014,7 @@ payload:
 - DOMAIN,dns.iki.my.id
 - DOMAIN,dns.lista.my.id
 - DOMAIN,dns.mikrotikrumahan.my.id
+- DOMAIN,dns.pnh.my.id
 - DOMAIN,dns.repinger.my.id
 - DOMAIN,dns.velyn.my.id
 - DOMAIN,dns.vmath.my.id
@@ -2046,7 +2050,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3810,7 +3813,6 @@ payload:
 - DOMAIN,xmr.land
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
-- DOMAIN,xsfwow.com
 - DOMAIN,dns.xuming.studio
 - DOMAIN,dns.xusqui.com
 - DOMAIN,xvbelink.com
@@ -3835,7 +3837,6 @@ payload:
 - DOMAIN,yogavpn.com
 - DOMAIN,youcanhide.net
 - DOMAIN,net01.youcef.io
-- DOMAIN,youfreeproxytube.com
 - DOMAIN,younblocked.com
 - DOMAIN,youproxything.com
 - DOMAIN,youproxytube.com
