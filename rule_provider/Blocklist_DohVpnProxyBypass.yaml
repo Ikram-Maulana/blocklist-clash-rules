@@ -755,11 +755,13 @@ payload:
 - DOMAIN,freedns.controld.com
 - DOMAIN,cool-proxy.net
 - DOMAIN,coolbits.org
+- DOMAIN,coolproxy.org
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,corsproxy.io
 - DOMAIN,cosmohacker.space
 - DOMAIN,coverproxy.com
+- DOMAIN,covertproxy.com
 - DOMAIN,doh.cox.net
 - DOMAIN,dot.cox.net
 - DOMAIN,dohdot.coxlab.net
@@ -770,6 +772,7 @@ payload:
 - DOMAIN,www.i.cpfrx.info
 - DOMAIN,crawlbase.com
 - DOMAIN,crazyfastrace.lol
+- DOMAIN,crazyproxy.org
 - DOMAIN,crazysurfer.info
 - DOMAIN,createssh.com
 - DOMAIN,createssh.net
@@ -1086,6 +1089,7 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -3879,7 +3883,6 @@ payload:
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
 - DOMAIN,zerovpn-app.com
-- DOMAIN,zexusdigital.online
 - DOMAIN,dns.zfsystem.tech
 - DOMAIN,zippyproxy.com
 - DOMAIN,doh.zknt.org
