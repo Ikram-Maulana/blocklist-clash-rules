@@ -870,6 +870,7 @@ payload:
 - DOMAIN,dns.digitalsize.net
 - DOMAIN,diglet.org
 - DOMAIN,directoryproxy.info
+- DOMAIN,dirtyworkproxy.com
 - DOMAIN,disconnect.me
 - DOMAIN,doh.disconnect.app
 - DOMAIN,fdns1.dismail.de
@@ -887,6 +888,7 @@ payload:
 - DOMAIN,dns.dns-53.com
 - DOMAIN,dns.dns-53.uk
 - DOMAIN,dns.dns-53.us
+- DOMAIN,dns-free.link
 - DOMAIN,dns1.dns-ga.de
 - DOMAIN,dns2.dns-ga.de
 - DOMAIN,doh.dns-ga.de
@@ -1089,7 +1091,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1748,7 +1749,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -1967,6 +1967,7 @@ payload:
 - DOMAIN,dns.mihanentalpo.me
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
+- DOMAIN,dns.milkpie.one
 - DOMAIN,miniprox.com
 - DOMAIN,miniprox.info
 - DOMAIN,netcup.mismat.ch
@@ -3049,10 +3050,8 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
@@ -3759,6 +3758,7 @@ payload:
 - DOMAIN,whoer.net
 - DOMAIN,whoisping.com
 - DOMAIN,whyproxy.com
+- DOMAIN,dns.wibenson.cloud
 - DOMAIN,widevpn.com
 - DOMAIN,wikimedia-dns.org
 - DOMAIN,wiksa.com
