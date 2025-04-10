@@ -1067,6 +1067,7 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1091,7 +1092,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1445,6 +1445,7 @@ payload:
 - DOMAIN,vps.grussenmeyer.com
 - DOMAIN,gsdkhjgsbgsdsjhvdskjlg.ru
 - DOMAIN,dns.guard.io
+- DOMAIN,guardian-vpn.com
 - DOMAIN,guardianapp.com
 - DOMAIN,guardianvpn.net
 - DOMAIN,dns.guardmydns.com
@@ -1497,6 +1498,7 @@ payload:
 - DOMAIN,hideipvpn.com
 - DOMAIN,hideman.net
 - DOMAIN,hideme.be
+- DOMAIN,hideme101.info
 - DOMAIN,hidemebro.com
 - DOMAIN,hidemefast.net
 - DOMAIN,hidemenow.net
@@ -1517,6 +1519,7 @@ payload:
 - DOMAIN,hidesurf.us
 - DOMAIN,hidetheinternet.com
 - DOMAIN,hidethisip.net
+- DOMAIN,hidethistime.com
 - DOMAIN,hidevpn.info
 - DOMAIN,hideway.eu
 - DOMAIN,hideweb.org
