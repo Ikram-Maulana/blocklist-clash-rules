@@ -1092,6 +1092,7 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1652,6 +1653,7 @@ payload:
 - DOMAIN,invisv.com
 - DOMAIN,ioxy.de
 - DOMAIN,ipbuzz.net
+- DOMAIN,ipcamouflage.com
 - DOMAIN,ipchanging.com
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
@@ -1661,6 +1663,7 @@ payload:
 - DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
 - DOMAIN,ipsharkk.com
+- DOMAIN,ipstopper.com
 - DOMAIN,ipunblock.com
 - DOMAIN,ipunblocker.com
 - DOMAIN,ipvanish.com
@@ -1721,7 +1724,6 @@ payload:
 - DOMAIN,dns.joey01245.nl
 - DOMAIN,vpn.jogjacloud.com
 - DOMAIN,adguard.johanliebert.top
-- DOMAIN,johneldenring.lol
 - DOMAIN,johnkellyprivate.com
 - DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com

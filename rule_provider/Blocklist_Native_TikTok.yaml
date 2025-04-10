@@ -93,8 +93,6 @@ payload:
 - DOMAIN,location.tiktok.com
 - DOMAIN,mcs-i18n.tiktok.com
 - DOMAIN,mcs-va.tiktok.com
-- DOMAIN,mssdk-i18n.tiktok.com
-- DOMAIN,mssdk-sg.tiktok.com
 - DOMAIN,ads.us.tiktok.com
 - DOMAIN,ads-ttp2.us.tiktok.com
 - DOMAIN,analytics.us.tiktok.com
@@ -198,6 +196,7 @@ payload:
 - DOMAIN,rtc-logger.tiktokv.us
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-ie.tiktokv.eu
+- DOMAIN,rtc-logger-ttp2.tiktokv.us
 - DOMAIN,rtc-logger-va.tiktokv.com
 - DOMAIN,rtlog.tiktokv.com
 - DOMAIN,rtlog-i18n.tiktokv.com
