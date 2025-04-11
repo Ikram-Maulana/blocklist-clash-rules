@@ -85,6 +85,11 @@ payload:
 - DOMAIN,log-eap-sg.coloros.com
 - DOMAIN,moa-upload-online.coloros.com
 - DOMAIN,moa-upload-online-in.coloros.com
+- DOMAIN,storedl1.nearme.com.cn
+- DOMAIN,storedl3f.nearme.com.cn
+- DOMAIN,storedl4f.nearme.com.cn
+- DOMAIN,storedl5f.nearme.com.cn
+- DOMAIN,storedl82cc6d1f.nearme.com.cn
 - DOMAIN,finosfin.com
 - DOMAIN,www.finosfin.com
 - DOMAIN,appconf-ocs-eu.heytapdl.com
