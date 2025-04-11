@@ -1092,7 +1092,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1216,7 +1215,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1677,6 +1675,7 @@ payload:
 - DOMAIN,isharkvpn.com
 - DOMAIN,isityet.net
 - DOMAIN,dns.islandnet.com
+- DOMAIN,ispban.com
 - DOMAIN,ispunblock.com
 - DOMAIN,ispvpn.com
 - DOMAIN,math.isreally.pro
@@ -1692,6 +1691,7 @@ payload:
 - DOMAIN,ivnkn.xyz
 - DOMAIN,ivpn.net
 - DOMAIN,iwantproxy.com
+- DOMAIN,iweb365.info
 - DOMAIN,iweb365.net
 - DOMAIN,iwebproxy.com
 - DOMAIN,ixl.plus
@@ -1703,6 +1703,7 @@ payload:
 - DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
 - DOMAIN,jayshaun.com
+- DOMAIN,jcdns.fun
 - DOMAIN,jellyvpn.com
 - DOMAIN,doh.jeroenhd.nl
 - DOMAIN,jetbean.com
@@ -1777,6 +1778,7 @@ payload:
 - DOMAIN,kiliclar.lol
 - DOMAIN,doh.killtw.im
 - DOMAIN,blog.kimiblock.top
+- DOMAIN,kingsurfproxy.com
 - DOMAIN,kinoshka.su
 - DOMAIN,kirushop.xyz
 - DOMAIN,dns1.klcd.eu
@@ -2066,7 +2068,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io

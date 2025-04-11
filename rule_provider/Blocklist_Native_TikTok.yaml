@@ -93,6 +93,7 @@ payload:
 - DOMAIN,location.tiktok.com
 - DOMAIN,mcs-i18n.tiktok.com
 - DOMAIN,mcs-va.tiktok.com
+- DOMAIN,mssdk-i18n.tiktok.com
 - DOMAIN,ads.us.tiktok.com
 - DOMAIN,ads-ttp2.us.tiktok.com
 - DOMAIN,analytics.us.tiktok.com
