@@ -52,6 +52,7 @@ payload:
 - DOMAIN,1banproxy.com
 - DOMAIN,1clickvpn.com
 - DOMAIN,1clickvpn.net
+- DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
@@ -1092,6 +1093,7 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1215,6 +1217,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1915,6 +1918,7 @@ payload:
 - DOMAIN,maddw.com
 - DOMAIN,mailkyb.co
 - DOMAIN,mailproxy.info
+- DOMAIN,mainprox.com
 - DOMAIN,mainssh.com
 - DOMAIN,dns.maitrekuc.fr
 - DOMAIN,mallocapp.com
@@ -2068,6 +2072,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3844,6 +3849,7 @@ payload:
 - DOMAIN,safe.dot.dns.yandex.net
 - DOMAIN,yasosy.pro
 - DOMAIN,dns.yatima.tv
+- DOMAIN,lion.yazilimatolye.com
 - DOMAIN,ychen.cf
 - DOMAIN,ychen.gq
 - DOMAIN,yd6n63ptky.com
