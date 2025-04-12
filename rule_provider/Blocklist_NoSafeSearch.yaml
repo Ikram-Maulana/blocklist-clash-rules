@@ -111,7 +111,6 @@ payload:
 - DOMAIN,whoogle.no-logs.com
 - DOMAIN,librex.nohost.network
 - DOMAIN,timdor.noip.me
-- DOMAIN,search.notrustverify.ch
 - DOMAIN,null.media
 - DOMAIN,offtheradar.info
 - DOMAIN,searx.openhoofd.nl
@@ -122,7 +121,6 @@ payload:
 - DOMAIN,search.pabloferreiro.es
 - DOMAIN,peekier.com
 - DOMAIN,presearch.com
-- DOMAIN,whoogle.privacydev.net
 - DOMAIN,search.privacytools.io
 - DOMAIN,search.in.projectsegfau.lt
 - DOMAIN,search.us.projectsegfau.lt
@@ -172,7 +170,6 @@ payload:
 - DOMAIN,lx.vern.cc
 - DOMAIN,wg.vern.cc
 - DOMAIN,searx.vitanetworks.link
-- DOMAIN,gowogle.voring.me
 - DOMAIN,webcrawler.com
 - DOMAIN,searx.wegeeks.win
 - DOMAIN,wiby.me
