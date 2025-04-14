@@ -170,7 +170,6 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
-- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,akunssh.net
@@ -1103,7 +1102,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1233,6 +1231,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1434,6 +1433,7 @@ payload:
 - DOMAIN,gointerstellar.app
 - DOMAIN,goldenfrog.com
 - DOMAIN,dns.goldplate.org
+- DOMAIN,gomath.us
 - DOMAIN,doh-primary-pool.goodbyegambling.com
 - DOMAIN,goodssh.com
 - DOMAIN,dns.google.com
@@ -1789,7 +1789,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -2106,7 +2105,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2542,7 +2540,6 @@ payload:
 - DOMAIN,dns2.prima-solusindo.com
 - DOMAIN,primeproxy23.info
 - DOMAIN,dns.princex.net
-- DOMAIN,princez.uk
 - DOMAIN,agh.printk.info
 - DOMAIN,printruns.us
 - DOMAIN,printtools.us
@@ -3063,7 +3060,6 @@ payload:
 - DOMAIN,spanish101.college
 - DOMAIN,spanproxy.com
 - DOMAIN,sparklabs.com
-- DOMAIN,adguard.sparshbajaj.me
 - DOMAIN,doh-01.spectrum.com
 - DOMAIN,doh-02.spectrum.com
 - DOMAIN,speedify.com
@@ -3933,7 +3929,6 @@ payload:
 - DOMAIN,zacebookpk.com
 - DOMAIN,adguard.zachitect.com
 - DOMAIN,zagbit.com
-- DOMAIN,zakaria.website
 - DOMAIN,zalmos.com
 - DOMAIN,zburger.top
 - DOMAIN,zcoup.com
