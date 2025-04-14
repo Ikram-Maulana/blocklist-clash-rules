@@ -170,6 +170,7 @@ payload:
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
 - DOMAIN,blitz-setup.ahadns.com
+- DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
 - DOMAIN,akunssh.net
@@ -1102,6 +1103,7 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1789,6 +1791,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -1919,7 +1922,6 @@ payload:
 - DOMAIN,lotofabric.ru
 - DOMAIN,loubonde.xyz
 - DOMAIN,n5.lsasss.com
-- DOMAIN,dns.lsho.top
 - DOMAIN,ltlxvxjjmvhn.me
 - DOMAIN,lucasmaia.org
 - DOMAIN,lukscasino-479-tr.xyz
@@ -2540,6 +2542,7 @@ payload:
 - DOMAIN,dns2.prima-solusindo.com
 - DOMAIN,primeproxy23.info
 - DOMAIN,dns.princex.net
+- DOMAIN,princez.uk
 - DOMAIN,agh.printk.info
 - DOMAIN,printruns.us
 - DOMAIN,printtools.us
@@ -3929,6 +3932,7 @@ payload:
 - DOMAIN,zacebookpk.com
 - DOMAIN,adguard.zachitect.com
 - DOMAIN,zagbit.com
+- DOMAIN,zakaria.website
 - DOMAIN,zalmos.com
 - DOMAIN,zburger.top
 - DOMAIN,zcoup.com
