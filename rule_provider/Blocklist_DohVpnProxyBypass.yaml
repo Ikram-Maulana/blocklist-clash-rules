@@ -53,10 +53,12 @@ payload:
 - DOMAIN,1clickvpn.com
 - DOMAIN,1clickvpn.net
 - DOMAIN,onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
+- DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
 - DOMAIN,doh003.280blocker.net
+- DOMAIN,28383829.com
 - DOMAIN,2a87.com
 - DOMAIN,proxy.2d.su
 - DOMAIN,2fastsurfer.com
@@ -334,7 +336,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -424,7 +425,6 @@ payload:
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bmwhocking.com
 - DOMAIN,dns.bobstrecansky.com
-- DOMAIN,d.bod.lol
 - DOMAIN,boda-vip.net
 - DOMAIN,bodvpn.com
 - DOMAIN,dns.bofh.in
@@ -454,7 +454,6 @@ payload:
 - DOMAIN,bright4good.eco
 - DOMAIN,brightvpn.com
 - DOMAIN,britishproxy.com
-- DOMAIN,dns.brono.cloud
 - DOMAIN,brothebro.com
 - DOMAIN,brovpn.io
 - DOMAIN,browsebridge.com
@@ -1079,7 +1078,6 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1234,7 +1232,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
