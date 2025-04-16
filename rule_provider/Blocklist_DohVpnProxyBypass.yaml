@@ -336,6 +336,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -1069,6 +1070,7 @@ payload:
 - DOMAIN,huawaakiskokoa.duckdns.org
 - DOMAIN,jurre-home.duckdns.org
 - DOMAIN,krtekvpn.duckdns.org
+- DOMAIN,osefcorp.duckdns.org
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
@@ -1078,6 +1080,7 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1710,6 +1713,7 @@ payload:
 - DOMAIN,smellyal.isreally.pro
 - DOMAIN,smellypay.isreally.pro
 - DOMAIN,stuffyschicken.isreallycool.lol
+- DOMAIN,itamcorp.fr
 - DOMAIN,itopvpn.com
 - DOMAIN,itsayx.online
 - DOMAIN,itsnotevil.com
@@ -2968,6 +2972,7 @@ payload:
 - DOMAIN,dns.sev.monster
 - DOMAIN,sf-helper.com
 - DOMAIN,pates.services.sfr.fr.casepp.sfr.fr
+- DOMAIN,www-8.shaammy.ir
 - DOMAIN,d2.shabi.icu
 - DOMAIN,shadeyouvpn.com
 - DOMAIN,shadowsocks.org
