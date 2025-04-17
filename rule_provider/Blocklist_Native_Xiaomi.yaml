@@ -94,7 +94,6 @@ payload:
 - DOMAIN,api.competition.intl.miui.com
 - DOMAIN,api.content.intl.miui.com
 - DOMAIN,api.collect.data.intl.miui.com
-- DOMAIN,feedback.intl.miui.com
 - DOMAIN,api.game.intl.miui.com
 - DOMAIN,gtglobal.intl.miui.com
 - DOMAIN,m.beehive.in.intl.miui.com
