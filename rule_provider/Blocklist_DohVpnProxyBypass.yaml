@@ -343,6 +343,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -708,7 +709,6 @@ payload:
 - DOMAIN,surfvpn.co.cc
 - DOMAIN,uk-proxy.co.uk
 - DOMAIN,unblocksites.co.uk
-- DOMAIN,freeflow.math3.vhutambo.co.za
 - DOMAIN,vpn-proxies.co.cc
 - DOMAIN,vpn-services.co.cc
 - DOMAIN,vpncompare.co.uk
@@ -1105,7 +1105,6 @@ payload:
 - DOMAIN,earthvpn.com
 - DOMAIN,adguard.easez.net
 - DOMAIN,konnnitiha----saiko.easterndns.com
-- DOMAIN,koreharannma-heddodesu.easterndns.com
 - DOMAIN,easyhandshake.com
 - DOMAIN,easyproxy.tech
 - DOMAIN,easyvpn.com
@@ -1123,7 +1122,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1261,6 +1259,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1384,7 +1383,6 @@ payload:
 - DOMAIN,gabstorm.com
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
-- DOMAIN,callllllllllcu.galaxybbs.net
 - DOMAIN,galeben.fr
 - DOMAIN,dns.gamban.com
 - DOMAIN,adguard.gambini.org
@@ -1594,6 +1592,7 @@ payload:
 - DOMAIN,hidingit.com
 - DOMAIN,hidingyour.info
 - DOMAIN,hiload.org
+- DOMAIN,himedns.com
 - DOMAIN,dns.hinet.net
 - DOMAIN,hiproxy.net
 - DOMAIN,hismanual.ru
@@ -1898,7 +1897,6 @@ payload:
 - DOMAIN,dns.kxy.ink
 - DOMAIN,kyoheitensai.com
 - DOMAIN,agh.kyusang.win
-- DOMAIN,sena-and-jacob-yap-too-much.l0ckd0wn.com
 - DOMAIN,dns.l337.site
 - DOMAIN,adamz2eso.l5.ca
 - DOMAIN,lablancer.com
@@ -1981,6 +1979,7 @@ payload:
 - DOMAIN,doh.phdns3.lonet.org
 - DOMAIN,doh.phdns4.lonet.org
 - DOMAIN,doh.phdns5.lonet.org
+- DOMAIN,lookingglass.site
 - DOMAIN,lopana.com
 - DOMAIN,lotofabric.ru
 - DOMAIN,loubonde.xyz
@@ -2171,6 +2170,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2435,6 +2435,7 @@ payload:
 - DOMAIN,oraclevpn.com
 - DOMAIN,orangeproxy.net
 - DOMAIN,proxy.ordentlichbreit.de
+- DOMAIN,resolver.dnsprivacy.org.uk
 - DOMAIN,dns.oryxlabs.com
 - DOMAIN,os4work.com
 - DOMAIN,ospylac.com
@@ -3255,6 +3256,7 @@ payload:
 - DOMAIN,surfall.net
 - DOMAIN,surfbouncer.com
 - DOMAIN,surfbytes.info
+- DOMAIN,surfcovertly.com
 - DOMAIN,surfdoge.pro
 - DOMAIN,surfeasy.com
 - DOMAIN,surfly.com
