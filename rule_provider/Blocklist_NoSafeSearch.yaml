@@ -8,6 +8,7 @@ payload:
 - DOMAIN,search.ahwx.org
 - DOMAIN,search.albony.xyz
 - DOMAIN,alltheinternet.com
+- DOMAIN,zoek.anchel.nl
 - DOMAIN,andisearch.com
 - DOMAIN,recherche.aol.fr
 - DOMAIN,search.aol.ca
@@ -22,6 +23,7 @@ payload:
 - DOMAIN,search.biboumail.fr
 - DOMAIN,searx.bissisoft.com
 - DOMAIN,blackle.com
+- DOMAIN,search.bluelock.org
 - DOMAIN,boomle.com
 - DOMAIN,search.bowlman.org
 - DOMAIN,searx.catfluori.de
@@ -105,6 +107,7 @@ payload:
 - DOMAIN,searx.netzspielplatz.de
 - DOMAIN,nibblehole.com
 - DOMAIN,searxng.nicfab.eu
+- DOMAIN,searx.nightmare.life
 - DOMAIN,nigma.eu
 - DOMAIN,searx.nixnet.services
 - DOMAIN,searxng.no-logs.com
@@ -167,6 +170,7 @@ payload:
 - DOMAIN,suche.tromdienste.de
 - DOMAIN,s.trung.fun
 - DOMAIN,searx.tyil.nl
+- DOMAIN,suche.uferwerk.org
 - DOMAIN,lx.vern.cc
 - DOMAIN,wg.vern.cc
 - DOMAIN,searx.vitanetworks.link

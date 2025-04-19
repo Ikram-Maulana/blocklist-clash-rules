@@ -343,6 +343,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -1258,6 +1259,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -3196,8 +3198,11 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy1.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
@@ -3310,6 +3315,7 @@ payload:
 - DOMAIN,tcpvpn.com
 - DOMAIN,tecdrive.site
 - DOMAIN,dns1.techeasy.org
+- DOMAIN,vpn.technicule.info
 - DOMAIN,doh.technochat.in
 - DOMAIN,technofix.ir
 - DOMAIN,dns.technologycage.com
@@ -3771,6 +3777,7 @@ payload:
 - DOMAIN,vpn-account.com
 - DOMAIN,vpn-byen.dk
 - DOMAIN,vpn-fastest.com
+- DOMAIN,vpn-for-test.ru
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
 - DOMAIN,vpn-professional.company
@@ -3856,6 +3863,7 @@ payload:
 - DOMAIN,vpnwelt.com
 - DOMAIN,antispam.vpsvpn.com
 - DOMAIN,go.vrpyourself.online
+- DOMAIN,vtcuong.site
 - DOMAIN,vyprvpn.com
 - DOMAIN,dns.w3ctag.org
 - DOMAIN,dns.wahr.top

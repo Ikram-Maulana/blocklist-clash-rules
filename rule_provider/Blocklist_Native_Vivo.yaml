@@ -1,10 +1,12 @@
 payload:
 
+- DOMAIN,az.appstore.vivo.com.cn
 - DOMAIN,asia-abeacdataonrt-stsdk.vivoglobal.com
 - DOMAIN,asia-abeacdataort-stsdk.vivoglobal.com
 - DOMAIN,asia-ad-mkt-vivofs.vivoglobal.com
 - DOMAIN,asia-adlog.vivoglobal.com
 - DOMAIN,asia-adsjssdk.vivoglobal.com
+- DOMAIN,asia-album-api.vivoglobal.com
 - DOMAIN,asia-analyzer-appstore.vivoglobal.com
 - DOMAIN,asia-commonitor-stsdk.vivoglobal.com
 - DOMAIN,asia-comonrt-stsdk.vivoglobal.com
@@ -29,6 +31,7 @@ payload:
 - DOMAIN,asia-st-sysupgrade.vivoglobal.com
 - DOMAIN,asia-stsdk.vivoglobal.com
 - DOMAIN,asia-sysupgrade-api.vivoglobal.com
+- DOMAIN,asia-third-appstore.vivoglobal.com
 - DOMAIN,asia-timesync.vivoglobal.com
 - DOMAIN,asia-vcode-api.vivoglobal.com
 - DOMAIN,asia-vcode-od.vivoglobal.com
@@ -79,6 +82,7 @@ payload:
 - DOMAIN,ex-adreq-in.vivoglobal.com
 - DOMAIN,ex-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,id-analyzer-appstore.vivoglobal.com
+- DOMAIN,id-third-appstore.vivoglobal.com
 - DOMAIN,in-adlog.vivoglobal.com
 - DOMAIN,in-adreq.vivoglobal.com
 - DOMAIN,in-adsjssdk.vivoglobal.com
@@ -86,6 +90,7 @@ payload:
 - DOMAIN,in-apport-stsdk.vivoglobal.com
 - DOMAIN,in-apppnrt-stsdk.vivoglobal.com
 - DOMAIN,in-appprt-stsdk.vivoglobal.com
+- DOMAIN,in-cota.vivoglobal.com
 - DOMAIN,in-ctdbonrt-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbort-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbpnrt-stsdk.vivoglobal.com
@@ -99,6 +104,7 @@ payload:
 - DOMAIN,in-ort-stsdk.vivoglobal.com
 - DOMAIN,in-os-config-appstore.vivoglobal.com
 - DOMAIN,in-pnrt-stsdk.vivoglobal.com
+- DOMAIN,in-third-appstore.vivoglobal.com
 - DOMAIN,in-timesync.vivoglobal.com
 - DOMAIN,in-vcode-api.vivoglobal.com
 - DOMAIN,in-vcode-od.vivoglobal.com
@@ -166,6 +172,7 @@ payload:
 - DOMAIN,ru-st-sysupgrade.vivoglobal.com
 - DOMAIN,ru-stsdk.vivoglobal.com
 - DOMAIN,ru-sysupgrade-api.vivoglobal.com
+- DOMAIN,ru-third-appstore.vivoglobal.com
 - DOMAIN,ru-timesync.vivoglobal.com
 - DOMAIN,ru-vcode-api.vivoglobal.com
 - DOMAIN,ru-vcode-od.vivoglobal.com
@@ -189,6 +196,7 @@ payload:
 - DOMAIN,sca-weather.vivoglobal.com
 - DOMAIN,sg-cfg-stsdk.vivoglobal.com
 - DOMAIN,stsdk.vivoglobal.com
+- DOMAIN,tr-album-api.vivoglobal.com
 - DOMAIN,tr-cota.vivoglobal.com
 - DOMAIN,tr-domaincfg.vivoglobal.com
 - DOMAIN,tr-onrt-stsdk.vivoglobal.com
