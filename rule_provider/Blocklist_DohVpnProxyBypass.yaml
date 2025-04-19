@@ -53,7 +53,6 @@ payload:
 - DOMAIN,1clickvpn.com
 - DOMAIN,1clickvpn.net
 - DOMAIN,onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
-- DOMAIN,dns.23-4.cn
 - DOMAIN,233py.com
 - DOMAIN,dns.240527.xyz
 - DOMAIN,24tunnel.com
@@ -343,7 +342,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -1900,7 +1898,6 @@ payload:
 - DOMAIN,dns.l337.site
 - DOMAIN,adamz2eso.l5.ca
 - DOMAIN,lablancer.com
-- DOMAIN,dns.labnekotest.site
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,www-proxy.ladifsoftware.com
 - DOMAIN,lantern.io
@@ -3987,7 +3984,6 @@ payload:
 - DOMAIN,xitesite.com
 - DOMAIN,xjumper.com
 - DOMAIN,dns.xlion.tw
-- DOMAIN,xmr.land
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
 - DOMAIN,dns.xuming.studio
