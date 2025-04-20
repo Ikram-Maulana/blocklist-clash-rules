@@ -342,7 +342,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -514,7 +513,6 @@ payload:
 - DOMAIN,alidns.cb1999.top
 - DOMAIN,alidns2.cb1999.top
 - DOMAIN,cbentertainment.online
-- DOMAIN,dns2.cbio.top
 - DOMAIN,doh.ccb-net.it
 - DOMAIN,vpn.ccnt.fr
 - DOMAIN,dns.cctld.kg
@@ -789,6 +787,7 @@ payload:
 - DOMAIN,c.cpfrx.info
 - DOMAIN,e.cpfrx.info
 - DOMAIN,www.i.cpfrx.info
+- DOMAIN,cracksite.info
 - DOMAIN,crawlbase.com
 - DOMAIN,crazyfastrace.lol
 - DOMAIN,crazyproxy.org
@@ -1842,6 +1841,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com

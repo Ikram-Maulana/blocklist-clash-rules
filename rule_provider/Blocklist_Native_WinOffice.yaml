@@ -403,6 +403,7 @@ payload:
 - DOMAIN,watson.officeint.microsoft.com
 - DOMAIN,analytics.pstnhub.microsoft.com
 - DOMAIN,rad.microsoft.com
+- DOMAIN,telem-edge.smartscreen.microsoft.com
 - DOMAIN,i1.services.social.microsoft.com
 - DOMAIN,spynet2.microsoft.com
 - DOMAIN,spynetalt.microsoft.com
