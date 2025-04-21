@@ -342,6 +342,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
@@ -513,6 +514,7 @@ payload:
 - DOMAIN,alidns.cb1999.top
 - DOMAIN,alidns2.cb1999.top
 - DOMAIN,cbentertainment.online
+- DOMAIN,dns2.cbio.top
 - DOMAIN,doh.ccb-net.it
 - DOMAIN,vpn.ccnt.fr
 - DOMAIN,dns.cctld.kg
@@ -824,6 +826,7 @@ payload:
 - DOMAIN,dns.csswg.org
 - DOMAIN,ct-vpn.com
 - DOMAIN,cubedns.com
+- DOMAIN,cubixpvp.net
 - DOMAIN,qual.cuprum.ru
 - DOMAIN,curd.io
 - DOMAIN,cv-unfiltered.xyz
@@ -1257,7 +1260,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -2168,7 +2170,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
