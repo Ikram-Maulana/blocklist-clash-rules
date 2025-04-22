@@ -342,7 +342,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1101,12 +1100,14 @@ payload:
 - DOMAIN,dzhot.us
 - DOMAIN,dnscache.e-utp.net
 - DOMAIN,earnapp.com
+- DOMAIN,earth-vpn.net
 - DOMAIN,earthvpn.com
 - DOMAIN,adguard.easez.net
 - DOMAIN,konnnitiha----saiko.easterndns.com
 - DOMAIN,easyhandshake.com
 - DOMAIN,easyproxy.tech
 - DOMAIN,easyvpn.com
+- DOMAIN,easyvpn.zone
 - DOMAIN,ebookdz.com
 - DOMAIN,ebumna.net
 - DOMAIN,ecoweb-network.com
@@ -1121,7 +1122,6 @@ payload:
 - DOMAIN,eduacation.lol
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1258,7 +1258,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1306,7 +1305,9 @@ payload:
 - DOMAIN,free-proxysite.com
 - DOMAIN,free-signal.com
 - DOMAIN,free-vpn.cn
+- DOMAIN,free-vpn.pro
 - DOMAIN,free-vpn.xyz
+- DOMAIN,free-vpnapp.com
 - DOMAIN,free-webproxy.com
 - DOMAIN,free2surfvpn.com
 - DOMAIN,freeanimesonline.com
@@ -2333,6 +2334,7 @@ payload:
 - DOMAIN,nslookup.io
 - DOMAIN,nsv4w.com
 - DOMAIN,ntwrkh.pro
+- DOMAIN,nucleusvpn.com
 - DOMAIN,dns.nullgate.net
 - DOMAIN,nullsbrawly.xyz
 - DOMAIN,dns.numerus.com
@@ -2614,6 +2616,7 @@ payload:
 - DOMAIN,presidentalhistory.wiki
 - DOMAIN,dns2.prima-solusindo.com
 - DOMAIN,primeproxy23.info
+- DOMAIN,primevpn.pro
 - DOMAIN,dns.princex.net
 - DOMAIN,princez.uk
 - DOMAIN,agh.printk.info
@@ -3682,6 +3685,7 @@ payload:
 - DOMAIN,galileo.math.unipd.it
 - DOMAIN,unkn0wngb.lol
 - DOMAIN,unknownproxy.com
+- DOMAIN,unlimitedvpn.net
 - DOMAIN,unlimitedvpnapp.com
 - DOMAIN,unlocator.com
 - DOMAIN,unmoor.com
