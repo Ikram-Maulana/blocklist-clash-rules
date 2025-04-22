@@ -342,6 +342,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1095,7 +1096,6 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -2169,6 +2169,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3244,6 +3245,7 @@ payload:
 - DOMAIN,super123.org
 - DOMAIN,super123proxy.com
 - DOMAIN,superbproxy.com
+- DOMAIN,supercoolcomputersandstuff.win
 - DOMAIN,superfreevpn.com
 - DOMAIN,superproxy123.com
 - DOMAIN,dns.superstefan.win
