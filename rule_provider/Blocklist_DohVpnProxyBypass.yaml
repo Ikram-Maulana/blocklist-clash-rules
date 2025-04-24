@@ -74,6 +74,7 @@ payload:
 - DOMAIN,dns.354688.xyz
 - DOMAIN,doh.360.cn
 - DOMAIN,dot.360.cn
+- DOMAIN,3bbb.me
 - DOMAIN,3dcosas.xyz
 - DOMAIN,3dns.eu
 - DOMAIN,3jjxxl.tech
@@ -342,6 +343,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -424,6 +426,7 @@ payload:
 - DOMAIN,bloquer.fr
 - DOMAIN,rfree1.blue-shield.at
 - DOMAIN,rfree2.blue-shield.at
+- DOMAIN,bluegray.us
 - DOMAIN,bluemood.me
 - DOMAIN,bluesnap.com
 - DOMAIN,blufvpn.com
@@ -554,6 +557,7 @@ payload:
 - DOMAIN,citizenvpn.com
 - DOMAIN,dns.clanless.ovh
 - DOMAIN,dns.clanto.cloud
+- DOMAIN,classicpen.us
 - DOMAIN,cleanbrowsing.org
 - DOMAIN,clearvpn.com
 - DOMAIN,clickwork7secure.com
@@ -772,6 +776,7 @@ payload:
 - DOMAIN,cool-proxy.net
 - DOMAIN,coolbits.org
 - DOMAIN,coolproxy.org
+- DOMAIN,coproxy.io
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,corsproxy.io
@@ -808,6 +813,7 @@ payload:
 - DOMAIN,croxyproxy.com
 - DOMAIN,croxyproxy.net
 - DOMAIN,croxyproxy.rocks
+- DOMAIN,croxyproxycom.org
 - DOMAIN,croxyproxys.com
 - DOMAIN,croxyproxyvpn.com
 - DOMAIN,crushus.com
@@ -874,6 +880,7 @@ payload:
 - DOMAIN,deproxyserver.com
 - DOMAIN,desbloquearredes.online
 - DOMAIN,desec.io
+- DOMAIN,desertsand.us
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
 - DOMAIN,dns.dev-umbrellagov.com
@@ -1071,6 +1078,7 @@ payload:
 - DOMAIN,dragoncgiproxy.online
 - DOMAIN,dreamvpn.us
 - DOMAIN,dns.dremaxx.de
+- DOMAIN,dress-codes.us
 - DOMAIN,droidvpn.com
 - DOMAIN,droyd.top
 - DOMAIN,doh.dscloud.me
@@ -1095,7 +1103,6 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1109,6 +1116,7 @@ payload:
 - DOMAIN,easyproxy.tech
 - DOMAIN,easyvpn.com
 - DOMAIN,easyvpn.zone
+- DOMAIN,eblan.pro
 - DOMAIN,ebookdz.com
 - DOMAIN,ebumna.net
 - DOMAIN,ecoweb-network.com
@@ -1121,6 +1129,7 @@ payload:
 - DOMAIN,dns.editechstudio.com
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,eduacation.lol
+- DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
 - DOMAIN,dns.efficientdocuments.com
@@ -1260,6 +1269,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1516,6 +1526,7 @@ payload:
 - DOMAIN,dns.guardmydns.com
 - DOMAIN,guardster.com
 - DOMAIN,guavi.com
+- DOMAIN,guestappearance.us
 - DOMAIN,dns2.guidocioni.it
 - DOMAIN,dns.gutwe.in
 - DOMAIN,gvirabi.com
@@ -1899,6 +1910,7 @@ payload:
 - DOMAIN,dns.kxy.ink
 - DOMAIN,kyoheitensai.com
 - DOMAIN,agh.kyusang.win
+- DOMAIN,l-am-sigma.pro
 - DOMAIN,dns.l337.site
 - DOMAIN,adamz2eso.l5.ca
 - DOMAIN,lablancer.com
@@ -2016,10 +2028,12 @@ payload:
 - DOMAIN,mailproxy.info
 - DOMAIN,mainprox.com
 - DOMAIN,mainssh.com
+- DOMAIN,maintainbrain.us
 - DOMAIN,dns.maitrekuc.fr
 - DOMAIN,mallocapp.com
 - DOMAIN,mallocprivacy.com
 - DOMAIN,dns.mandre.dev
+- DOMAIN,mapspublications.us
 - DOMAIN,maqgie.xyz
 - DOMAIN,dns.marasov.id
 - DOMAIN,dns.marbledfennec.net
@@ -2182,6 +2196,7 @@ payload:
 - DOMAIN,dns.nako.kr
 - DOMAIN,www.chungocoai.name.vn
 - DOMAIN,adguard.quydang.name.vn
+- DOMAIN,name-meaning.us
 - DOMAIN,nanoproxy.com
 - DOMAIN,napps-1.com
 - DOMAIN,napps-2.com
@@ -2499,6 +2514,7 @@ payload:
 - DOMAIN,peekproxy.com
 - DOMAIN,check.peer2profit.site
 - DOMAIN,penkun0286.xyz
+- DOMAIN,penrepair.us
 - DOMAIN,fuchur.pentament.de
 - DOMAIN,peoplesproxy.com
 - DOMAIN,pepetio.xyz
@@ -2987,6 +3003,7 @@ payload:
 - DOMAIN,sakirdakproxy.tk
 - DOMAIN,samj.codes
 - DOMAIN,cloud.samutz.com
+- DOMAIN,sandmining.us
 - DOMAIN,sandparticles.us
 - DOMAIN,saoudiproxy.info
 - DOMAIN,dns.sarak.as
@@ -3270,6 +3287,7 @@ payload:
 - DOMAIN,surfcovertly.com
 - DOMAIN,surfdoge.pro
 - DOMAIN,surfeasy.com
+- DOMAIN,surfeasy.mobi
 - DOMAIN,surfly.com
 - DOMAIN,surfmenow.com
 - DOMAIN,surfmo.com
@@ -3733,6 +3751,7 @@ payload:
 - DOMAIN,uvpn.me
 - DOMAIN,dns.vaioswolke.xyz
 - DOMAIN,doh.valscosmos.com
+- DOMAIN,valuepremium.us
 - DOMAIN,vanilcraft.ru
 - DOMAIN,tor.vasi.li
 - DOMAIN,dns.vault81.de
@@ -3928,6 +3947,7 @@ payload:
 - DOMAIN,webxify.com
 - DOMAIN,webypass.info
 - DOMAIN,dns.wechat.com
+- DOMAIN,wedding-present.us
 - DOMAIN,wellpoint.com
 - DOMAIN,wevpn.com
 - DOMAIN,doh.wewitro.net
@@ -3957,6 +3977,7 @@ payload:
 - DOMAIN,wobti.com
 - DOMAIN,wonderland.ws
 - DOMAIN,clearweb.woodbridge.club
+- DOMAIN,woodenclock.us
 - DOMAIN,workbypass.com
 - DOMAIN,workdigi.com
 - DOMAIN,workhost.eu
