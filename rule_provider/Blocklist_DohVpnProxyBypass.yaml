@@ -343,7 +343,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -964,7 +963,6 @@ payload:
 - DOMAIN,hel01.dnscry.pt
 - DOMAIN,hkg01.dnscry.pt
 - DOMAIN,hkg02.dnscry.pt
-- DOMAIN,hrk01.dnscry.pt
 - DOMAIN,isb01.dnscry.pt
 - DOMAIN,ist01.dnscry.pt
 - DOMAIN,jhb01.dnscry.pt
@@ -1078,7 +1076,6 @@ payload:
 - DOMAIN,dragoncgiproxy.online
 - DOMAIN,dreamvpn.us
 - DOMAIN,dns.dremaxx.de
-- DOMAIN,dress-codes.us
 - DOMAIN,droidvpn.com
 - DOMAIN,droyd.top
 - DOMAIN,doh.dscloud.me
@@ -1103,6 +1100,7 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1558,7 +1556,6 @@ payload:
 - DOMAIN,betternet-backend.herokuapp.com
 - DOMAIN,heroproxy.com
 - DOMAIN,httpdns-push.heytapmobile.com
-- DOMAIN,hfgx.shop
 - DOMAIN,hiddendigital.info
 - DOMAIN,hiddenproxy.net
 - DOMAIN,hide.me
@@ -2196,7 +2193,6 @@ payload:
 - DOMAIN,dns.nako.kr
 - DOMAIN,www.chungocoai.name.vn
 - DOMAIN,adguard.quydang.name.vn
-- DOMAIN,name-meaning.us
 - DOMAIN,nanoproxy.com
 - DOMAIN,napps-1.com
 - DOMAIN,napps-2.com
