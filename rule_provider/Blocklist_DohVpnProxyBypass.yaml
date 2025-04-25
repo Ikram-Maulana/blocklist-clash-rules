@@ -147,6 +147,7 @@ payload:
 - DOMAIN,achievementnetwork.tk
 - DOMAIN,r.achievementnetwork.gq
 - DOMAIN,acrea.cz
+- DOMAIN,activatevpn.com
 - DOMAIN,activpn.com
 - DOMAIN,actmobile.com
 - DOMAIN,adblockersite.com
@@ -166,6 +167,7 @@ payload:
 - DOMAIN,adresseip.com
 - DOMAIN,dns.adrianlam.com
 - DOMAIN,adsocialmediamarketing.com
+- DOMAIN,adultproxy.men
 - DOMAIN,advancedvpn.com
 - DOMAIN,aerodrorne.vip
 - DOMAIN,affcdn.net
@@ -290,6 +292,7 @@ payload:
 - DOMAIN,astrill.org
 - DOMAIN,astrovpn.co
 - DOMAIN,dandelionsprout.asuscomm.com
+- DOMAIN,dns.asysec.com
 - DOMAIN,adguardhome.atakorah.com
 - DOMAIN,atlasvpn.com
 - DOMAIN,atozproxy.com
@@ -343,6 +346,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -377,6 +381,7 @@ payload:
 - DOMAIN,bgvpn.com
 - DOMAIN,bi-tree.ru
 - DOMAIN,bia2dige.ir
+- DOMAIN,bigma.org
 - DOMAIN,bingle.icu
 - DOMAIN,bingle.pw
 - DOMAIN,ns3.bit-trail.nl
@@ -835,6 +840,7 @@ payload:
 - DOMAIN,cv-unfiltered.xyz
 - DOMAIN,dns.cwlys.com
 - DOMAIN,cyberghostvpn.com
+- DOMAIN,cybershield.cc
 - DOMAIN,cybersilent.com
 - DOMAIN,cyberssh.com
 - DOMAIN,dns.cybertonic.tech
@@ -919,7 +925,6 @@ payload:
 - DOMAIN,dns1.dns-ga.de
 - DOMAIN,dns2.dns-ga.de
 - DOMAIN,doh.dns-ga.de
-- DOMAIN,secure-dns.dns-ga.de
 - DOMAIN,dns.dns-over-https.com
 - DOMAIN,dns-savage.com
 - DOMAIN,dns0.eu
@@ -1124,7 +1129,6 @@ payload:
 - DOMAIN,dns.edgeburnmedia.com
 - DOMAIN,edgedcircles.com
 - DOMAIN,edgy-dns.com
-- DOMAIN,dns.editechstudio.com
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,eduacation.lol
 - DOMAIN,educationdean.us
@@ -1187,6 +1191,7 @@ payload:
 - DOMAIN,expressvpn.com
 - DOMAIN,expressvpn.net
 - DOMAIN,dns.extrawdw.net
+- DOMAIN,extremevpn.com
 - DOMAIN,fra1.eyecay.xyz
 - DOMAIN,ezwebsites.ezwebsites.com
 - DOMAIN,f0lga.tech
@@ -1336,6 +1341,7 @@ payload:
 - DOMAIN,freehollandproxy.nl
 - DOMAIN,freelux.world
 - DOMAIN,freemicvpn.com
+- DOMAIN,freenetproject.org
 - DOMAIN,freenewslinks.com
 - DOMAIN,freenomisratelimitingme.cf
 - DOMAIN,freeopenproxy.com
@@ -1364,6 +1370,7 @@ payload:
 - DOMAIN,freevpn.org
 - DOMAIN,freevpn.pw
 - DOMAIN,freevpn.us
+- DOMAIN,freevpn.win
 - DOMAIN,freevpn.zone
 - DOMAIN,freevpn4you.net
 - DOMAIN,freevpnapp.org
@@ -1550,6 +1557,7 @@ payload:
 - DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 - DOMAIN,dns.hellozhao.com
+- DOMAIN,helphideme.com
 - DOMAIN,helpmehide.net
 - DOMAIN,dns.henek.ovh
 - DOMAIN,herbalserver.me
@@ -1559,6 +1567,7 @@ payload:
 - DOMAIN,hiddendigital.info
 - DOMAIN,hiddenproxy.net
 - DOMAIN,hide.me
+- DOMAIN,hide.mn
 - DOMAIN,hide-me.org
 - DOMAIN,hide-my-ip.com
 - DOMAIN,hideallip.com
@@ -1628,6 +1637,7 @@ payload:
 - DOMAIN,homeproxy.net
 - DOMAIN,homevpn.eu
 - DOMAIN,homevpn.info
+- DOMAIN,homevpn.org
 - DOMAIN,homeworkhelp.click
 - DOMAIN,honeygain.me
 - DOMAIN,dns.hoody.com
@@ -1748,6 +1758,7 @@ payload:
 - DOMAIN,ipredator.se
 - DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
+- DOMAIN,iproyal.com
 - DOMAIN,ipsharkk.com
 - DOMAIN,ipstopper.com
 - DOMAIN,ipunblock.com
@@ -1947,6 +1958,7 @@ payload:
 - DOMAIN,lesuo.top
 - DOMAIN,let-vpn.com
 - DOMAIN,letscomply.online
+- DOMAIN,letsvpn.world
 - DOMAIN,testlinkimadernyoufatbitc.letz.dev
 - DOMAIN,verynicewebsite.letz.dev
 - DOMAIN,dns.levonet.sk
@@ -1978,6 +1990,7 @@ payload:
 - DOMAIN,litebrowser.net
 - DOMAIN,literally.info
 - DOMAIN,litevpn.top
+- DOMAIN,liyu321.cn
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
 - DOMAIN,locaproxy.com
@@ -2021,6 +2034,7 @@ payload:
 - DOMAIN,mabuktogel.properties
 - DOMAIN,mabuktogel.solutions
 - DOMAIN,maddw.com
+- DOMAIN,magiccloak.net
 - DOMAIN,mailkyb.co
 - DOMAIN,mailproxy.info
 - DOMAIN,mainprox.com
@@ -2160,6 +2174,7 @@ payload:
 - DOMAIN,family.mydns.network
 - DOMAIN,freedom.mydns.network
 - DOMAIN,paranoia.mydns.network
+- DOMAIN,myhalo.online
 - DOMAIN,myhidden.info
 - DOMAIN,myip.io
 - DOMAIN,myip-proxy.info
@@ -2175,6 +2190,7 @@ payload:
 - DOMAIN,myproxy.lol
 - DOMAIN,myproxysite.org
 - DOMAIN,myspaceunlock.com
+- DOMAIN,mysteriumvpn.com
 - DOMAIN,mytunneling.com
 - DOMAIN,myturtle.net
 - DOMAIN,myvpn.com
@@ -2261,6 +2277,7 @@ payload:
 - DOMAIN,dns.neubsi.at
 - DOMAIN,dns.neutopia.org
 - DOMAIN,newipnow.com
+- DOMAIN,newproxylist.net
 - DOMAIN,newshosting.com
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
@@ -2309,6 +2326,7 @@ payload:
 - DOMAIN,pi1.node15.com
 - DOMAIN,nodepay.ai
 - DOMAIN,dns.nodoa.me
+- DOMAIN,nolagvpn.com
 - DOMAIN,sink.nolo.ltd
 - DOMAIN,paulo.nom.za
 - DOMAIN,ttag.dns.nomu.pw
@@ -2319,6 +2337,7 @@ payload:
 - DOMAIN,dns-cybersec.nordthreatprotection.com
 - DOMAIN,dns-malwaresec.nordthreatprotection.com
 - DOMAIN,nordvpn.com
+- DOMAIN,nordvpn.net
 - DOMAIN,nordvpnteams.com
 - DOMAIN,1.dns.noridev.moe
 - DOMAIN,2.dns.noridev.moe
@@ -2370,6 +2389,7 @@ payload:
 - DOMAIN,octohide.com
 - DOMAIN,octovpn.net
 - DOMAIN,dns.odinpl.com
+- DOMAIN,oeck.com
 - DOMAIN,dns.ofdoom.net
 - DOMAIN,okado.online
 - DOMAIN,okayfreedom.com
@@ -2708,7 +2728,9 @@ payload:
 - DOMAIN,proxssl.com
 - DOMAIN,proxtrot.com
 - DOMAIN,proxtube.com
+- DOMAIN,proxy.am
 - DOMAIN,proxy.cc
+- DOMAIN,proxy.gd
 - DOMAIN,proxy.lol
 - DOMAIN,proxy.nu
 - DOMAIN,proxy.org
@@ -2738,7 +2760,9 @@ payload:
 - DOMAIN,proxy4down.com
 - DOMAIN,proxy4free.me
 - DOMAIN,proxy4freedom.com
+- DOMAIN,proxy62.com
 - DOMAIN,proxy7.club
+- DOMAIN,proxyadult.org
 - DOMAIN,proxyarab.com
 - DOMAIN,proxybits.com
 - DOMAIN,proxyboost.net
@@ -2772,6 +2796,7 @@ payload:
 - DOMAIN,proxyium.com
 - DOMAIN,proxyium.org
 - DOMAIN,www-cdn.proxyiumi.com
+- DOMAIN,proxyjet.io
 - DOMAIN,proxylister.com
 - DOMAIN,proxylistpro.com
 - DOMAIN,proxyload.net
@@ -2911,6 +2936,7 @@ payload:
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redhoodie.site
 - DOMAIN,redproxy.info
+- DOMAIN,redshieldvpn.com
 - DOMAIN,dns.redvau.lt
 - DOMAIN,reezus.us
 - DOMAIN,reflect4.me
@@ -3001,6 +3027,7 @@ payload:
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandmining.us
 - DOMAIN,sandparticles.us
+- DOMAIN,sandvpn.com
 - DOMAIN,saoudiproxy.info
 - DOMAIN,dns.sarak.as
 - DOMAIN,dns.sarakas.net
@@ -3187,6 +3214,7 @@ payload:
 - DOMAIN,spysurfing.com
 - DOMAIN,squidmall.vip
 - DOMAIN,squidproxyserver.com
+- DOMAIN,squirrelvpn.com
 - DOMAIN,sriedmueadguard.casa
 - DOMAIN,adbox-v8.srv64.de
 - DOMAIN,adguard.sscw.win
@@ -3267,6 +3295,7 @@ payload:
 - DOMAIN,superbproxy.com
 - DOMAIN,supercoolcomputersandstuff.win
 - DOMAIN,superfreevpn.com
+- DOMAIN,supergreenstuff.com
 - DOMAIN,superproxy123.com
 - DOMAIN,dns.superstefan.win
 - DOMAIN,superunblocked.net
@@ -3294,6 +3323,7 @@ payload:
 - DOMAIN,surfshark.com
 - DOMAIN,surfshark.io
 - DOMAIN,surfshark.jp
+- DOMAIN,surfshark.net
 - DOMAIN,surfshark.ph
 - DOMAIN,surfshark.ru
 - DOMAIN,surfshark.sg
@@ -3320,6 +3350,7 @@ payload:
 - DOMAIN,switchvpn.net
 - DOMAIN,dns.sy.st
 - DOMAIN,dns.syaifullah.com
+- DOMAIN,symlexvpn.com
 - DOMAIN,ibksturm.synology.me
 - DOMAIN,ihctw.synology.me
 - DOMAIN,doh.syshero.org
@@ -3470,6 +3501,7 @@ payload:
 - DOMAIN,torsona.com
 - DOMAIN,torvpn.com
 - DOMAIN,totallyacdn.com
+- DOMAIN,totalvpn.com
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
@@ -3701,6 +3733,7 @@ payload:
 - DOMAIN,flipcleverplay.unids.com
 - DOMAIN,unifiedvpn.com
 - DOMAIN,galileo.math.unipd.it
+- DOMAIN,universityproxy.net
 - DOMAIN,unkn0wngb.lol
 - DOMAIN,unknownproxy.com
 - DOMAIN,unlimitedvpn.net
@@ -3871,6 +3904,7 @@ payload:
 - DOMAIN,vpnshazam.com
 - DOMAIN,vpnshieldapp.com
 - DOMAIN,vpnsuper.app
+- DOMAIN,vpnsuper.com
 - DOMAIN,vpntraffic.com
 - DOMAIN,vpntunnel.com
 - DOMAIN,vpntunnel.net
@@ -3939,7 +3973,9 @@ payload:
 - DOMAIN,websynchrony.com
 - DOMAIN,webtester.cc
 - DOMAIN,webtunnel.org
+- DOMAIN,webtunnelproxy.com
 - DOMAIN,webtunnelx.com
+- DOMAIN,webunblock.net
 - DOMAIN,webxify.com
 - DOMAIN,webypass.info
 - DOMAIN,dns.wechat.com
@@ -4039,6 +4075,7 @@ payload:
 - DOMAIN,yesbutno.wtf
 - DOMAIN,ylink.info
 - DOMAIN,yogavpn.com
+- DOMAIN,yogawiki.in
 - DOMAIN,youcanhide.net
 - DOMAIN,net01.youcef.io
 - DOMAIN,youfreeproxytube.com
