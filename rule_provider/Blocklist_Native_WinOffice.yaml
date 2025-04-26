@@ -99,7 +99,6 @@ payload:
 - DOMAIN,westus2-4.in.applicationinsights.azure.com
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
-- DOMAIN,westus3.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com

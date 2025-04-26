@@ -329,6 +329,7 @@ payload:
 - DOMAIN,doh1.b-cdn.net
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
+- DOMAIN,hola-client-cdn4.b-cdn.net
 - DOMAIN,b-dns.se
 - DOMAIN,b0xedpr0x.cyou
 - DOMAIN,dns.b33.space
@@ -346,6 +347,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1133,6 +1135,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1374,7 +1377,6 @@ payload:
 - DOMAIN,freevpnplanet.com
 - DOMAIN,freevpnsoftware.net
 - DOMAIN,freewebproxy.eu
-- DOMAIN,freewebproxyserver.net
 - DOMAIN,www-server.freewebsproxy.com
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
@@ -2582,7 +2584,6 @@ payload:
 - DOMAIN,pkrreaperr.me
 - DOMAIN,pktriot.net
 - DOMAIN,pkw-aufladen.de
-- DOMAIN,placenetworks.com
 - DOMAIN,plainproxies.com
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
@@ -3242,10 +3243,8 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
@@ -3335,6 +3334,7 @@ payload:
 - DOMAIN,surfsuark.com
 - DOMAIN,surfwebsite.org
 - DOMAIN,dns.surobe.com
+- DOMAIN,surprise.pics
 - DOMAIN,surtshark.com
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev

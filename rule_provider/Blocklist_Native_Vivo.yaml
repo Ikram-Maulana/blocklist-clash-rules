@@ -43,7 +43,6 @@ payload:
 - DOMAIN,cl-sysupgrade-api.vivoglobal.com
 - DOMAIN,cl-vcode-api.vivoglobal.com
 - DOMAIN,cl-vcode-od.vivoglobal.com
-- DOMAIN,cl-weather.vivoglobal.com
 - DOMAIN,cname-ali-asia-stsdk.vivoglobal.com
 - DOMAIN,cname-asia-st-exappupgrade.vivoglobal.com
 - DOMAIN,cname-asia-stsdk09.vivoglobal.com
@@ -67,6 +66,7 @@ payload:
 - DOMAIN,err-up.vivoglobal.com
 - DOMAIN,eu-domaincfg.vivoglobal.com
 - DOMAIN,eu-errup.vivoglobal.com
+- DOMAIN,eu-onrt-stsdk.vivoglobal.com
 - DOMAIN,eu-ort-stsdk.vivoglobal.com
 - DOMAIN,eu-pnrt-stsdk.vivoglobal.com
 - DOMAIN,eu-romsp-unifyconfig.vivoglobal.com
@@ -90,7 +90,6 @@ payload:
 - DOMAIN,in-apport-stsdk.vivoglobal.com
 - DOMAIN,in-apppnrt-stsdk.vivoglobal.com
 - DOMAIN,in-appprt-stsdk.vivoglobal.com
-- DOMAIN,in-cota.vivoglobal.com
 - DOMAIN,in-ctdbonrt-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbort-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbpnrt-stsdk.vivoglobal.com
@@ -194,7 +193,6 @@ payload:
 - DOMAIN,sca-vcode-od.vivoglobal.com
 - DOMAIN,sca-vcode-or.vivoglobal.com
 - DOMAIN,sca-weather.vivoglobal.com
-- DOMAIN,sg-cfg-stsdk.vivoglobal.com
 - DOMAIN,stsdk.vivoglobal.com
 - DOMAIN,tr-album-api.vivoglobal.com
 - DOMAIN,tr-cota.vivoglobal.com
