@@ -299,7 +299,6 @@ payload:
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
-- DOMAIN,dns.auapi.fun
 - DOMAIN,aurora-softworks.xyz
 - DOMAIN,auto-aufladen.de
 - DOMAIN,avanquestusa.com
@@ -347,7 +346,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1106,7 +1104,6 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1130,6 +1127,7 @@ payload:
 - DOMAIN,dns.edgeburnmedia.com
 - DOMAIN,edgedcircles.com
 - DOMAIN,edgy-dns.com
+- DOMAIN,dns.editechstudio.com
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,eduacation.lol
 - DOMAIN,educationdean.us
@@ -3312,6 +3310,7 @@ payload:
 - DOMAIN,surfly.com
 - DOMAIN,surfmenow.com
 - DOMAIN,surfmo.com
+- DOMAIN,minfort.surfnet.ca.surfnet.ca
 - DOMAIN,surfonym.com
 - DOMAIN,surfshark.app
 - DOMAIN,surfshark.be
