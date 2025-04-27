@@ -345,7 +345,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1104,7 +1103,6 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1568,6 +1566,7 @@ payload:
 - DOMAIN,hide.mn
 - DOMAIN,hide-me.org
 - DOMAIN,hide-my-ip.com
+- DOMAIN,hide-my-ip.org
 - DOMAIN,hideallip.com
 - DOMAIN,hideandgo.com
 - DOMAIN,hideapplication.com
@@ -2165,6 +2164,7 @@ payload:
 - DOMAIN,dns.vmath.my.id
 - DOMAIN,ssl-proxy.my-addr.com
 - DOMAIN,my-proxy.com
+- DOMAIN,my-safe-net.com
 - DOMAIN,myatris.sbs
 - DOMAIN,mybestvpn.info
 - DOMAIN,mycelium.site
@@ -2198,6 +2198,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2446,6 +2447,7 @@ payload:
 - DOMAIN,sandbox.opendns.com
 - DOMAIN,opengw.net
 - DOMAIN,resolver4.dns.openinternet.io
+- DOMAIN,openips.cc
 - DOMAIN,ns1.opennameserver.org
 - DOMAIN,ns2.opennameserver.org
 - DOMAIN,ns3.opennameserver.org
