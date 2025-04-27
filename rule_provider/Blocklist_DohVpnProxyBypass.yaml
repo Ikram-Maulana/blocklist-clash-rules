@@ -329,7 +329,6 @@ payload:
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
 - DOMAIN,hola-client-cdn4.b-cdn.net
-- DOMAIN,b-dns.se
 - DOMAIN,b0xedpr0x.cyou
 - DOMAIN,dns.b33.space
 - DOMAIN,i.am.selling.b33r.us
@@ -346,6 +345,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1104,6 +1104,7 @@ payload:
 - DOMAIN,resolver2.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -2197,7 +2198,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3310,7 +3310,6 @@ payload:
 - DOMAIN,surfly.com
 - DOMAIN,surfmenow.com
 - DOMAIN,surfmo.com
-- DOMAIN,minfort.surfnet.ca.surfnet.ca
 - DOMAIN,surfonym.com
 - DOMAIN,surfshark.app
 - DOMAIN,surfshark.be
