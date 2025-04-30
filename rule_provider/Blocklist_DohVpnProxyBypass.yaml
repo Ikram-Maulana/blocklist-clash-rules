@@ -342,6 +342,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1615,6 +1616,7 @@ payload:
 - DOMAIN,holavpn.net
 - DOMAIN,holavpnextension.com
 - DOMAIN,holavpnrussia.com
+- DOMAIN,holavpnworld.com
 - DOMAIN,holax.io
 - DOMAIN,beta.holyunblocker.org
 - DOMAIN,mythica.home.kg
@@ -2532,6 +2534,7 @@ payload:
 - DOMAIN,pesemes.ir
 - DOMAIN,dns.petqa.ru
 - DOMAIN,adguard.pggns.de
+- DOMAIN,phantompeer.com
 - DOMAIN,dns.phillipjberry.net
 - DOMAIN,photonsecure.com
 - DOMAIN,phpbido.com
@@ -3439,6 +3442,7 @@ payload:
 - DOMAIN,tinfoil-is-ass.xyz
 - DOMAIN,dns.tipsy.coffee
 - DOMAIN,titaniumnetwork.org
+- DOMAIN,titantunnelvpn.com
 - DOMAIN,dns.tls-data.de
 - DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
@@ -3725,6 +3729,7 @@ payload:
 - DOMAIN,resolver.unstoppable.io
 - DOMAIN,untraceable.us
 - DOMAIN,untracer.com
+- DOMAIN,unvpn.org
 - DOMAIN,dns.unx.io
 - DOMAIN,updatedproxies.com
 - DOMAIN,uproxy.online
