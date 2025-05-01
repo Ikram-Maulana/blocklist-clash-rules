@@ -21,6 +21,7 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
+- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -101,6 +102,7 @@ payload:
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
+- DOMAIN,www.live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
@@ -254,6 +256,7 @@ payload:
 - DOMAIN,applicationinsights.microsoft.com
 - DOMAIN,dc.applicationinsights.microsoft.com
 - DOMAIN,rt.applicationinsights.microsoft.com
+- DOMAIN,www.rt.applicationinsights.microsoft.com
 - DOMAIN,pipe.aria.microsoft.com
 - DOMAIN,browser.pipe.aria.microsoft.com
 - DOMAIN,eu.pipe.aria.microsoft.com
@@ -359,7 +362,6 @@ payload:
 - DOMAIN,uk-v20.events.data.microsoft.com
 - DOMAIN,umwatson.events.data.microsoft.com
 - DOMAIN,umwatsonc.events.data.microsoft.com
-- DOMAIN,us-ic3.events.data.microsoft.com
 - DOMAIN,us-mesh.events.data.microsoft.com
 - DOMAIN,us-mobile.events.data.microsoft.com
 - DOMAIN,us-teams.events.data.microsoft.com
@@ -672,12 +674,10 @@ payload:
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
-- DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net
 - DOMAIN,citrixanalyticseh-alias.servicebus.windows.net
-- DOMAIN,citrixanalyticseh2.servicebus.windows.net
 - DOMAIN,citrixanalyticseh2-alias.servicebus.windows.net
 - DOMAIN,citrixanalyticsehaps.servicebus.windows.net
 - DOMAIN,citrixanalyticsehaps-alias.servicebus.windows.net

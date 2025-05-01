@@ -256,13 +256,6 @@ payload:
 - DOMAIN,doh.apad.pro
 - DOMAIN,ag.apollohct.com
 - DOMAIN,doh.dns.apple.com
-- DOMAIN,mask-api.fe2.apple-dns.net
-- DOMAIN,canary.mask.apple-dns.net
-- DOMAIN,africa-mask.wrr.mask.apple-dns.net
-- DOMAIN,apac-mask.wrr.mask.apple-dns.net
-- DOMAIN,emea-mask.wrr.mask.apple-dns.net
-- DOMAIN,north-america-mask.wrr.mask.apple-dns.net
-- DOMAIN,south-america-mask.wrr.mask.apple-dns.net
 - DOMAIN,appleproxy.com
 - DOMAIN,dns.applewebkit.dev
 - DOMAIN,doh.applied-privacy.net
@@ -342,6 +335,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -774,6 +768,7 @@ payload:
 - DOMAIN,cool-proxy.net
 - DOMAIN,coolbits.org
 - DOMAIN,coolproxy.org
+- DOMAIN,dns.cooluc.com
 - DOMAIN,coproxy.io
 - DOMAIN,corecloak.com
 - DOMAIN,doh.cornes.me
@@ -1679,9 +1674,6 @@ payload:
 - DOMAIN,webproxy.ich-war-hier.de
 - DOMAIN,icitek.com
 - DOMAIN,mask.icloud.com
-- DOMAIN,mask-api.icloud.com
-- DOMAIN,mask-boot.icloud.com
-- DOMAIN,mask-canary.icloud.com
 - DOMAIN,mask-h2.icloud.com
 - DOMAIN,icpsuawn1zy5amys.com
 - DOMAIN,tienpham.id.vn
@@ -4038,6 +4030,7 @@ payload:
 - DOMAIN,common.dot.dns.yandex.net
 - DOMAIN,family.dot.dns.yandex.net
 - DOMAIN,safe.dot.dns.yandex.net
+- DOMAIN,yapidor.pro
 - DOMAIN,yasosy.pro
 - DOMAIN,dns.yatima.tv
 - DOMAIN,lion.yazilimatolye.com
