@@ -338,6 +338,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1094,6 +1095,7 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1123,6 +1125,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1147,7 +1150,6 @@ payload:
 - DOMAIN,dns.enzonix.com
 - DOMAIN,eonvpn.com
 - DOMAIN,epicbrowser.com
-- DOMAIN,bigpoppa.epicgamer.org
 - DOMAIN,epix.epicgamer.org
 - DOMAIN,123-24.eport.gr
 - DOMAIN,bl.eq.md
@@ -1261,7 +1263,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1516,7 +1517,6 @@ payload:
 - DOMAIN,guavi.com
 - DOMAIN,guestappearance.us
 - DOMAIN,dns2.guidocioni.it
-- DOMAIN,thankchristianifthisworks.guojinloong.cn
 - DOMAIN,dns.gutwe.in
 - DOMAIN,gvirabi.com
 - DOMAIN,gwopboyded.com
@@ -1531,7 +1531,6 @@ payload:
 - DOMAIN,dns.hanmey.de
 - DOMAIN,hanniel.tech
 - DOMAIN,dns.hannielzhang.com
-- DOMAIN,classroom.haoqiw.com
 - DOMAIN,happy-vpn.com
 - DOMAIN,harbaletsstudy.com
 - DOMAIN,resolver-eu.haringstad.com
@@ -2184,6 +2183,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2248,7 +2248,6 @@ payload:
 - DOMAIN,doh.max.net.id
 - DOMAIN,ns.net.kg
 - DOMAIN,net-ml.online
-- DOMAIN,mathew-hill.net4ria.com
 - DOMAIN,netaltr.com
 - DOMAIN,netnut.io
 - DOMAIN,netscop.net
@@ -2411,7 +2410,6 @@ payload:
 - DOMAIN,onlineproxy.us
 - DOMAIN,adguard.onlyfriends.info
 - DOMAIN,onyx7.com
-- DOMAIN,bokkki.oops.wtf
 - DOMAIN,hk2.ooroot.com
 - DOMAIN,jp2.ooroot.com
 - DOMAIN,kr1.ooroot.com
@@ -3534,7 +3532,6 @@ payload:
 - DOMAIN,u8sj3.com
 - DOMAIN,ubint.net
 - DOMAIN,ublocker.info
-- DOMAIN,screwedupclick.ufodns.com
 - DOMAIN,ufovpn.io
 - DOMAIN,ufreevpn.com
 - DOMAIN,ugdsoft.com
