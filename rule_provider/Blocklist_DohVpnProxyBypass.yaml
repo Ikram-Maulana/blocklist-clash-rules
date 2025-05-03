@@ -217,6 +217,7 @@ payload:
 - DOMAIN,ammmae150.news
 - DOMAIN,amnezia.org
 - DOMAIN,doh.amonsul.net
+- DOMAIN,an-us.pro
 - DOMAIN,anachem.online
 - DOMAIN,ananoos.com
 - DOMAIN,anchorfree.net
@@ -338,6 +339,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1086,6 +1088,7 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1202,7 +1205,6 @@ payload:
 - DOMAIN,tenhh.farted.net
 - DOMAIN,fastestvpn.com
 - DOMAIN,fastestvpn.info
-- DOMAIN,fastfoxvpn.com
 - DOMAIN,fastfreeproxy.info
 - DOMAIN,fastp.org
 - DOMAIN,fastpro.info
@@ -1310,7 +1312,6 @@ payload:
 - DOMAIN,freecanadavpn.com
 - DOMAIN,freecavpn.com
 - DOMAIN,hkname.freecdn.one
-- DOMAIN,freecloudvpn.com
 - DOMAIN,freeconnect.link
 - DOMAIN,freedevpn.com
 - DOMAIN,freedom.cx
@@ -1342,7 +1343,6 @@ payload:
 - DOMAIN,freesupervpn.com
 - DOMAIN,freesurfproxy.com
 - DOMAIN,freetrialvpn.com
-- DOMAIN,freeukvpn.com
 - DOMAIN,freevideoproxy.com
 - DOMAIN,freevmess.com
 - DOMAIN,freevpn.cloud
@@ -1378,12 +1378,10 @@ payload:
 - DOMAIN,g-a-y.pro
 - DOMAIN,cluster-0.gac.edu
 - DOMAIN,cluster-1.gac.edu
-- DOMAIN,galeben.fr
 - DOMAIN,dns.gamban.com
 - DOMAIN,adguard.gambini.org
 - DOMAIN,proxy.gamecove.net
 - DOMAIN,obamna.gamefr.xyz
-- DOMAIN,gameroz1.ir
 - DOMAIN,gamers-nor.com
 - DOMAIN,gamingssh.com
 - DOMAIN,dns.beta.gandi.net
@@ -1509,6 +1507,7 @@ payload:
 - DOMAIN,dns2.guidocioni.it
 - DOMAIN,dns.gutwe.in
 - DOMAIN,gvirabi.com
+- DOMAIN,gwardgxd.baby
 - DOMAIN,gwopboyded.com
 - DOMAIN,gztech.me
 - DOMAIN,h-vpn.org
@@ -1519,13 +1518,11 @@ payload:
 - DOMAIN,dns.hanahira.dev
 - DOMAIN,adguard.haneulo.com
 - DOMAIN,dns.hanmey.de
-- DOMAIN,hanniel.tech
 - DOMAIN,dns.hannielzhang.com
 - DOMAIN,happy-vpn.com
 - DOMAIN,harbaletsstudy.com
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
-- DOMAIN,fair.hashable.org
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
 - DOMAIN,us-ny-alula.heliumcloud.cc
@@ -1538,7 +1535,6 @@ payload:
 - DOMAIN,betternet-backend.herokuapp.com
 - DOMAIN,heroproxy.com
 - DOMAIN,httpdns-push.heytapmobile.com
-- DOMAIN,hiddendigital.info
 - DOMAIN,hiddenproxy.net
 - DOMAIN,hide.me
 - DOMAIN,hide.mn
@@ -1546,7 +1542,6 @@ payload:
 - DOMAIN,hide-my-ip.com
 - DOMAIN,hide-my-ip.org
 - DOMAIN,hideallip.com
-- DOMAIN,hideandgo.com
 - DOMAIN,hideapplication.com
 - DOMAIN,hidebuzz.com
 - DOMAIN,hidebuzz.me
@@ -1607,7 +1602,6 @@ payload:
 - DOMAIN,holax.io
 - DOMAIN,beta.holyunblocker.org
 - DOMAIN,kyrgyzstan-travel.home.kg
-- DOMAIN,mythica.home.kg
 - DOMAIN,home-server.store
 - DOMAIN,homemail.info
 - DOMAIN,homeproxy.com
@@ -1673,7 +1667,6 @@ payload:
 - DOMAIN,icpsuawn1zy5amys.com
 - DOMAIN,tienpham.id.vn
 - DOMAIN,idcloak.com
-- DOMAIN,idealvpn.com
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
 - DOMAIN,ietors.com
@@ -2173,7 +2166,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2524,6 +2516,7 @@ payload:
 - DOMAIN,photonsecure.com
 - DOMAIN,phpbido.com
 - DOMAIN,phproxysite.com
+- DOMAIN,malachi.is.dumb.physiosagart.de
 - DOMAIN,doh.centraleu.pi-dns.com
 - DOMAIN,dot.centraleu.pi-dns.com
 - DOMAIN,doh.pi-dns.com
@@ -2824,6 +2817,7 @@ payload:
 - DOMAIN,ptoserver.com
 - DOMAIN,publicdnsserver.com
 - DOMAIN,publicproxy.org
+- DOMAIN,puckerbucket.xyz
 - DOMAIN,timeisblind.puffballofevil.com
 - DOMAIN,dns.pumpkinvrar.com
 - DOMAIN,pupilproxy.com
@@ -3471,7 +3465,6 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
-- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
