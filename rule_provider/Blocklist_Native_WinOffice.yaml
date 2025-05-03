@@ -81,6 +81,7 @@ payload:
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
 - DOMAIN,usgovarizona-0.in.applicationinsights.azure.us
 - DOMAIN,usgovarizona-global.in.applicationinsights.azure.us
+- DOMAIN,usgovtexas-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-0.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-1.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-global.in.applicationinsights.azure.us
@@ -99,7 +100,6 @@ payload:
 - DOMAIN,westus2-4.in.applicationinsights.azure.com
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
-- DOMAIN,westus3.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
 - DOMAIN,live.applicationinsights.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
@@ -360,6 +360,7 @@ payload:
 - DOMAIN,uk-v20.events.data.microsoft.com
 - DOMAIN,umwatson.events.data.microsoft.com
 - DOMAIN,umwatsonc.events.data.microsoft.com
+- DOMAIN,us-ic3.events.data.microsoft.com
 - DOMAIN,us-mesh.events.data.microsoft.com
 - DOMAIN,us-mobile.events.data.microsoft.com
 - DOMAIN,us-teams.events.data.microsoft.com

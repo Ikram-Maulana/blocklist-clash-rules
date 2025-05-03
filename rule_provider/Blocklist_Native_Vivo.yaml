@@ -43,6 +43,7 @@ payload:
 - DOMAIN,cl-sysupgrade-api.vivoglobal.com
 - DOMAIN,cl-vcode-api.vivoglobal.com
 - DOMAIN,cl-vcode-od.vivoglobal.com
+- DOMAIN,cl-weather.vivoglobal.com
 - DOMAIN,cname-ali-asia-stsdk.vivoglobal.com
 - DOMAIN,cname-asia-st-exappupgrade.vivoglobal.com
 - DOMAIN,cname-asia-stsdk09.vivoglobal.com
@@ -129,7 +130,6 @@ payload:
 - DOMAIN,kz-vcode-or.vivoglobal.com
 - DOMAIN,kz-weather.vivoglobal.com
 - DOMAIN,monitor-stsdk.vivoglobal.com
-- DOMAIN,mx-cota.vivoglobal.com
 - DOMAIN,mx-domaincfg.vivoglobal.com
 - DOMAIN,mx-err-up.vivoglobal.com
 - DOMAIN,mx-onrt-stsdk.vivoglobal.com

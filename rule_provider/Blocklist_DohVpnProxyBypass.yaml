@@ -338,7 +338,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -372,7 +371,6 @@ payload:
 - DOMAIN,bettervpn.com
 - DOMAIN,bgvpn.com
 - DOMAIN,bi-tree.ru
-- DOMAIN,bia2dige.ir
 - DOMAIN,bigma.org
 - DOMAIN,bingle.icu
 - DOMAIN,bingle.pw
@@ -428,7 +426,6 @@ payload:
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bmwhocking.com
 - DOMAIN,dns.bobstrecansky.com
-- DOMAIN,boda-vip.net
 - DOMAIN,bodvpn.com
 - DOMAIN,dns.bofh.in
 - DOMAIN,boghag.party
@@ -753,10 +750,8 @@ payload:
 - DOMAIN,webproxy.com.de
 - DOMAIN,dns.comff.net
 - DOMAIN,rammerhead.command.enterprises
-- DOMAIN,commonapp.college
 - DOMAIN,commons.host
 - DOMAIN,easy-vpn.comodo.com
-- DOMAIN,compsci.college
 - DOMAIN,comss.one
 - DOMAIN,comss.ru
 - DOMAIN,confirmedvpn.com
@@ -829,7 +824,6 @@ payload:
 - DOMAIN,cubixpvp.net
 - DOMAIN,qual.cuprum.ru
 - DOMAIN,curd.io
-- DOMAIN,cv-unfiltered.xyz
 - DOMAIN,dns.cwlys.com
 - DOMAIN,cyberghostvpn.com
 - DOMAIN,cybershield.cc
@@ -914,9 +908,6 @@ payload:
 - DOMAIN,dns.dns-53.uk
 - DOMAIN,dns.dns-53.us
 - DOMAIN,dns-free.link
-- DOMAIN,dns1.dns-ga.de
-- DOMAIN,dns2.dns-ga.de
-- DOMAIN,doh.dns-ga.de
 - DOMAIN,dns.dns-over-https.com
 - DOMAIN,dns-savage.com
 - DOMAIN,dns0.eu
@@ -1095,7 +1086,6 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us

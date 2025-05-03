@@ -76,7 +76,9 @@ payload:
 - DOMAIN,ads.tiktok.tv
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-frontier.tiktok.com
+- DOMAIN,ads-service.tiktok.com
 - DOMAIN,ads-sg.tiktok.com
+- DOMAIN,ads-useast2a.tiktok.com
 - DOMAIN,analytics.tiktok.com
 - DOMAIN,analytics-attribution.tiktok.com
 - DOMAIN,analytics-attribution-va.tiktok.com
@@ -150,6 +152,7 @@ payload:
 - DOMAIN,log16-normal-useast2a.tiktokv.com
 - DOMAIN,log16-normal-useast5.tiktokv.us
 - DOMAIN,log16-normal-useast8.tiktokv.us
+- DOMAIN,log16-normal-useastred.tiktokv.eu
 - DOMAIN,log16-normal-zr-useast1a.tiktokv.com
 - DOMAIN,log16-platform-ycru.tiktokv.com
 - DOMAIN,log16-tmp-normal-useast1a.tiktokv.com
@@ -221,6 +224,7 @@ payload:
 - DOMAIN,mon16-normal-useast1a.tiktokv.com
 - DOMAIN,mon16-normal-useast5.tiktokv.us
 - DOMAIN,mon16-normal-useast8.tiktokv.us
+- DOMAIN,mon16-normal-useastred.tiktokv.eu
 - DOMAIN,mon16-normal-zr-useast1a.tiktokv.com
 - DOMAIN,mon16-platform-ycru.tiktokv.com
 - DOMAIN,mon16-tmp-normal-useast1a.tiktokv.com
@@ -253,6 +257,7 @@ payload:
 - DOMAIN,mssdk16-normal-useast2a.tiktokv.com
 - DOMAIN,mssdk16-normal-useast5.tiktokv.us
 - DOMAIN,mssdk16-normal-useast8.tiktokv.us
+- DOMAIN,mssdk16-normal-useastred.tiktokv.eu
 - DOMAIN,mssdk16-normal-zr-useast1a.tiktokv.com
 - DOMAIN,mssdk19-normal.tiktokv.com
 - DOMAIN,mssdk19-normal-alisg.tiktokv.com
@@ -270,7 +275,6 @@ payload:
 - DOMAIN,rtc-logger.tiktokv.us
 - DOMAIN,rtc-logger-i18n.tiktokv.com
 - DOMAIN,rtc-logger-ie.tiktokv.eu
-- DOMAIN,rtc-logger-ttp2.tiktokv.us
 - DOMAIN,rtc-logger-va.tiktokv.com
 - DOMAIN,rtlog.tiktokv.com
 - DOMAIN,rtlog-i18n.tiktokv.com
@@ -292,6 +296,7 @@ payload:
 - DOMAIN,rtlog16-normal-useast2a.tiktokv.com
 - DOMAIN,rtlog16-normal-useast5.tiktokv.us
 - DOMAIN,rtlog16-normal-useast8.tiktokv.us
+- DOMAIN,rtlog16-normal-useastred.tiktokv.eu
 - DOMAIN,rtlog16-tmp-normal-useast1a.tiktokv.com
 - DOMAIN,rtlog17-normal.tiktokv.com
 - DOMAIN,rtlog17-normal-alisg.tiktokv.com
