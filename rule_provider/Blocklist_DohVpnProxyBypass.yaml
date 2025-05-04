@@ -339,7 +339,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -899,7 +898,6 @@ payload:
 - DOMAIN,divalane.com
 - DOMAIN,divaloo.com
 - DOMAIN,divavu.com
-- DOMAIN,dltuykfgp.top
 - DOMAIN,hihohornsluttlekidspop.dmdistribution.net
 - DOMAIN,dns.expert
 - DOMAIN,dns.google
@@ -1255,6 +1253,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1708,7 +1707,6 @@ payload:
 - DOMAIN,instantunblock.com
 - DOMAIN,intego.com
 - DOMAIN,dns.interhub.cc
-- DOMAIN,interncloud.info
 - DOMAIN,internetcloak.com
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
@@ -1723,7 +1721,6 @@ payload:
 - DOMAIN,iportal.me
 - DOMAIN,ipprotectionauth.goog
 - DOMAIN,ipredator.se
-- DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
 - DOMAIN,iproyal.com
 - DOMAIN,ipsharkk.com
@@ -1832,7 +1829,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -1852,7 +1848,6 @@ payload:
 - DOMAIN,doh.killtw.im
 - DOMAIN,blog.kimiblock.top
 - DOMAIN,kingsurfproxy.com
-- DOMAIN,kinoshka.su
 - DOMAIN,kirushop.xyz
 - DOMAIN,dns1.klcd.eu
 - DOMAIN,dns2.klcd.eu
@@ -1872,7 +1867,6 @@ payload:
 - DOMAIN,notebooks.kozow.com
 - DOMAIN,kproxy.asia
 - DOMAIN,kproxy.com
-- DOMAIN,kproxy.in
 - DOMAIN,kproxysite.com
 - DOMAIN,dart.kpsn.org
 - DOMAIN,adblock.krctech.dev
@@ -1981,7 +1975,6 @@ payload:
 - DOMAIN,lukscasino-542-tr.xyz
 - DOMAIN,lukscasino-929-tr.xyz
 - DOMAIN,dns.luma-medien.com
-- DOMAIN,power.lumeacopiilorploiesti.ro
 - DOMAIN,lumes.jp
 - DOMAIN,luminati.io
 - DOMAIN,luminatinet.com
@@ -2026,7 +2019,6 @@ payload:
 - DOMAIN,masthisis.ir
 - DOMAIN,dns.mateo.ovh
 - DOMAIN,dns.mathewakhil.online
-- DOMAIN,mathhelpnow.site
 - DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
 - DOMAIN,mathnotes.icu
@@ -2061,7 +2053,6 @@ payload:
 - DOMAIN,dns.mestdag.fr
 - DOMAIN,metal-masters.us
 - DOMAIN,metalinjection.us
-- DOMAIN,mfho.cc
 - DOMAIN,dns.mh4ckt3mh4ckt1c4s.xyz
 - DOMAIN,mhany.xyz
 - DOMAIN,esel.stusta.mhn.de
@@ -2166,6 +2157,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2580,7 +2572,6 @@ payload:
 - DOMAIN,polisitogel.limo
 - DOMAIN,polisitogel.living
 - DOMAIN,polisitogel.luxe
-- DOMAIN,polisitogel.show
 - DOMAIN,polisitogel.webcam
 - DOMAIN,loilonote.poo.li
 - DOMAIN,science-exp.port0.org
