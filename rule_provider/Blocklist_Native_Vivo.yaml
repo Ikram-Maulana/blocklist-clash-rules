@@ -1,6 +1,10 @@
 payload:
 
+- DOMAIN,vhs.wwstat.com.dsa.dnsv1.com.cn
+- DOMAIN,vhs.wwstat.com.eo.unicomcdn.com.cn
 - DOMAIN,az.appstore.vivo.com.cn
+- DOMAIN,vhs.wwstat.com.ctdns.cn
+- DOMAIN,vhs.wwstat.com.eo.dnse0.com
 - DOMAIN,asia-abeacdataonrt-stsdk.vivoglobal.com
 - DOMAIN,asia-abeacdataort-stsdk.vivoglobal.com
 - DOMAIN,asia-ad-mkt-vivofs.vivoglobal.com
@@ -212,3 +216,4 @@ payload:
 - DOMAIN,tr-weather.vivoglobal.com
 - DOMAIN,err.up.vivoglobal.com
 - DOMAIN,xn-ex-adreq-asa-c5b.vivoglobal.com
+- DOMAIN,vhs.wwstat.com
