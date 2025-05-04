@@ -339,6 +339,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1086,7 +1087,6 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,im-in-the-thick-of-it-everybody-knows.dynorex.com
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,dns.dynx.pro
 - DOMAIN,vpn.dzarlax.dev
 - DOMAIN,dzhot.us
@@ -1829,6 +1829,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,kerbeans.com
@@ -2209,7 +2210,6 @@ payload:
 - DOMAIN,nathanielgavin.lol
 - DOMAIN,vpn.nbvalente.fr
 - DOMAIN,vpn.ncapi.io
-- DOMAIN,ne1.ca
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
 - DOMAIN,nekoray.org
@@ -2360,7 +2360,6 @@ payload:
 - DOMAIN,oneproxy.biz
 - DOMAIN,oneproxy.xyz
 - DOMAIN,onestreaming.org
-- DOMAIN,onevanalla.site
 - DOMAIN,onion.am
 - DOMAIN,onion.cab
 - DOMAIN,onion.casa
@@ -2686,7 +2685,6 @@ payload:
 - DOMAIN,proxy.cc
 - DOMAIN,proxy.gd
 - DOMAIN,proxy.lol
-- DOMAIN,proxy.nu
 - DOMAIN,proxy.org
 - DOMAIN,proxy.red
 - DOMAIN,proxy.rocks
@@ -2706,12 +2704,10 @@ payload:
 - DOMAIN,proxy-works.com
 - DOMAIN,proxy-youtube.com
 - DOMAIN,proxy0101.com
-- DOMAIN,proxy2014.net
 - DOMAIN,proxy2link.com
 - DOMAIN,proxy2you.com
 - DOMAIN,proxy4down.com
 - DOMAIN,proxy4free.me
-- DOMAIN,proxy4freedom.com
 - DOMAIN,proxy62.com
 - DOMAIN,proxy7.club
 - DOMAIN,proxyadult.org
@@ -2847,7 +2843,6 @@ payload:
 - DOMAIN,dot.quickline.ch
 - DOMAIN,quickprox.com
 - DOMAIN,quickproxies.com
-- DOMAIN,quicksilvervpn.com
 - DOMAIN,dns.quiet.rocks
 - DOMAIN,quintex.com
 - DOMAIN,ant.dns.qwer.pw
@@ -2948,7 +2943,6 @@ payload:
 - DOMAIN,ea-dns.rubyfish.cn
 - DOMAIN,uw-dns.rubyfish.cn
 - DOMAIN,yoursuper.rude.li
-- DOMAIN,adg.rueiliu.space
 - DOMAIN,rumpelsepp.org
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
@@ -3456,6 +3450,7 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
+- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
