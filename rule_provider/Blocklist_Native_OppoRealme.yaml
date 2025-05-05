@@ -325,6 +325,10 @@ payload:
 - DOMAIN,browser-api-us.heytapmobile.com
 - DOMAIN,browser-api-vn.heytapmobile.com
 - DOMAIN,browser-api-za.heytapmobile.com
+- DOMAIN,browser-sdk-fr.heytapmobile.com
+- DOMAIN,browser-sdk-in.heytapmobile.com
+- DOMAIN,browser-sdk-ru.heytapmobile.com
+- DOMAIN,browser-sdk-us.heytapmobile.com
 - DOMAIN,browserfiles.heytapmobile.com
 - DOMAIN,api-gl.cdo.heytapmobile.com
 - DOMAIN,api-id.cdo.heytapmobile.com

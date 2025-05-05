@@ -4,6 +4,8 @@ payload:
 - DOMAIN,measure.office.com.akamaized.net
 - DOMAIN,fp.measure.office.com.akamaized.net
 - DOMAIN,upload2.fp.measure.office.com.akamaized.net
+- DOMAIN,in.applicationinsights.azure.com.albertk12.org
+- DOMAIN,ukwest-0.in.applicationinsights.azure.com.albertk12.org
 - DOMAIN,in.appcenter.ms
 - DOMAIN,js.cdn.applicationinsights.io
 - DOMAIN,js0.cdn.applicationinsights.io
@@ -21,6 +23,7 @@ payload:
 - DOMAIN,dc.applicationinsights.azure.cn
 - DOMAIN,dc.applicationinsights.azure.com
 - DOMAIN,dc.applicationinsights.azure.us
+- DOMAIN,www.dc.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.cn
 - DOMAIN,in.applicationinsights.azure.com
 - DOMAIN,in.applicationinsights.azure.us
@@ -39,6 +42,7 @@ payload:
 - DOMAIN,centralus-2.in.applicationinsights.azure.com
 - DOMAIN,centralus-3.in.applicationinsights.azure.com
 - DOMAIN,chinaeast2-0.in.applicationinsights.azure.cn
+- DOMAIN,chinaeast3-global.in.applicationinsights.azure.cn
 - DOMAIN,chinanorth3-0.in.applicationinsights.azure.cn
 - DOMAIN,eastasia-0.in.applicationinsights.azure.com
 - DOMAIN,eastus-0.in.applicationinsights.azure.com
@@ -53,6 +57,7 @@ payload:
 - DOMAIN,eastus2-0.in.applicationinsights.azure.com
 - DOMAIN,eastus2-3.in.applicationinsights.azure.com
 - DOMAIN,eastus2-4.in.applicationinsights.azure.com
+- DOMAIN,francecentral-0.in.applicationinsights.azure.com
 - DOMAIN,francecentral-1.in.applicationinsights.azure.com
 - DOMAIN,germanywestcentral-0.in.applicationinsights.azure.com
 - DOMAIN,germanywestcentral-1.in.applicationinsights.azure.com
@@ -76,6 +81,8 @@ payload:
 - DOMAIN,southeastasia-1.in.applicationinsights.azure.com
 - DOMAIN,swedencentral-0.in.applicationinsights.azure.com
 - DOMAIN,switzerlandnorth-0.in.applicationinsights.azure.com
+- DOMAIN,uaecentral-0.in.applicationinsights.azure.com
+- DOMAIN,uaenorth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-0.in.applicationinsights.azure.com
 - DOMAIN,uksouth-1.in.applicationinsights.azure.com
 - DOMAIN,ukwest-0.in.applicationinsights.azure.com
@@ -100,11 +107,16 @@ payload:
 - DOMAIN,westus2-4.in.applicationinsights.azure.com
 - DOMAIN,westus2-5.in.applicationinsights.azure.com
 - DOMAIN,westus2-global.in.applicationinsights.azure.com
+- DOMAIN,westus3.in.applicationinsights.azure.com
 - DOMAIN,westus3-1.in.applicationinsights.azure.com
+- DOMAIN,live.applicationinsights.azure.cn
 - DOMAIN,live.applicationinsights.azure.com
+- DOMAIN,www.live.applicationinsights.azure.com
+- DOMAIN,azsc-bingads-centralus.centralus.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.eastus2.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.koreacentral.cloudapp.azure.com
 - DOMAIN,inference-app-gateway.northeurope.cloudapp.azure.com
+- DOMAIN,azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com
 - DOMAIN,azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
@@ -113,6 +125,7 @@ payload:
 - DOMAIN,adsdkprod.azureedge.net
 - DOMAIN,adsdkpreprod.afd.azureedge.net
 - DOMAIN,adsdkprod.afd.azureedge.net
+- DOMAIN,adsdkprprod.ec.azureedge.net
 - DOMAIN,msadsscale.azureedge.net
 - DOMAIN,cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 - DOMAIN,location-microsoft-com.b-0005.b-msedge.net
@@ -147,6 +160,7 @@ payload:
 - DOMAIN,auc-visio-telemetry.officeapps.live.com
 - DOMAIN,brc-visio-telemetry.officeapps.live.com
 - DOMAIN,cac-visio-telemetry.officeapps.live.com
+- DOMAIN,chc-visio-telemetry.officeapps.live.com
 - DOMAIN,dec-visio-telemetry.officeapps.live.com
 - DOMAIN,euc-excel-telemetry.officeapps.live.com
 - DOMAIN,euc-onenote-telemetry.officeapps.live.com
@@ -162,6 +176,7 @@ payload:
 - DOMAIN,ffc-word-telemetry.officeapps.live.com
 - DOMAIN,frc-visio-telemetry.officeapps.live.com
 - DOMAIN,inc-visio-telemetry.officeapps.live.com
+- DOMAIN,jpc-visio-telemetry.officeapps.live.com
 - DOMAIN,nexus.officeapps.live.com
 - DOMAIN,nexusrules.officeapps.live.com
 - DOMAIN,noc-visio-telemetry.officeapps.live.com
@@ -238,6 +253,7 @@ payload:
 - DOMAIN,bcp.ads.microsoft.com
 - DOMAIN,beta.ads.microsoft.com
 - DOMAIN,api.beta.ads.microsoft.com
+- DOMAIN,beta-about.ads.microsoft.com
 - DOMAIN,developers.ads.microsoft.com
 - DOMAIN,dmc.ads.microsoft.com
 - DOMAIN,help.ads.microsoft.com
@@ -245,9 +261,19 @@ payload:
 - DOMAIN,mmcapi.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com
+- DOMAIN,tip.ads.microsoft.com
+- DOMAIN,api.tip.ads.microsoft.com
 - DOMAIN,ucm.ads.microsoft.com
 - DOMAIN,ui.ads.microsoft.com
+- DOMAIN,clientcenter.ads-int.microsoft.com
+- DOMAIN,api.clientcenter.ads-int.microsoft.com
+- DOMAIN,dmc.ads-int.microsoft.com
+- DOMAIN,beta.dmc.ads-int.microsoft.com
+- DOMAIN,ui.ads-int.microsoft.com
 - DOMAIN,adsdk.microsoft.com
+- DOMAIN,adsstatic.microsoft.com
+- DOMAIN,beta.adsstatic.microsoft.com
+- DOMAIN,adsstatic-int.microsoft.com
 - DOMAIN,advertising.microsoft.com
 - DOMAIN,community.advertising.microsoft.com
 - DOMAIN,sts.advertising.microsoft.com
@@ -275,10 +301,12 @@ payload:
 - DOMAIN,azurewatson.microsoft.com
 - DOMAIN,azurewatsontest.microsoft.com
 - DOMAIN,bingads.microsoft.com
+- DOMAIN,academycourses.bingads.microsoft.com
 - DOMAIN,adinquiry.bingads.microsoft.com
 - DOMAIN,ads.bingads.microsoft.com
 - DOMAIN,advertise.bingads.microsoft.com
 - DOMAIN,www.advertise.bingads.microsoft.com
+- DOMAIN,advertising.bingads.microsoft.com
 - DOMAIN,api.bingads.microsoft.com
 - DOMAIN,adinsight.api.bingads.microsoft.com
 - DOMAIN,bulk.api.bingads.microsoft.com
@@ -310,11 +338,13 @@ payload:
 - DOMAIN,secure.sandbox.bingads.microsoft.com
 - DOMAIN,secure.bingads.microsoft.com
 - DOMAIN,si.bingads.microsoft.com
+- DOMAIN,eu.si.bingads.microsoft.com
 - DOMAIN,ui.si.bingads.microsoft.com
 - DOMAIN,tip.bingads.microsoft.com
 - DOMAIN,ucm.bingads.microsoft.com
 - DOMAIN,ui.bingads.microsoft.com
 - DOMAIN,www.bingads.microsoft.com
+- DOMAIN,bingadseditor.microsoft.com
 - DOMAIN,c1.microsoft.com
 - DOMAIN,track.notif.careersppe.microsoft.com
 - DOMAIN,clarity.microsoft.com
@@ -392,6 +422,10 @@ payload:
 - DOMAIN,v20.vortex-win.data.microsoft.com
 - DOMAIN,vortex-win-sandbox.data.microsoft.com
 - DOMAIN,api.edgeoffer.microsoft.com
+- DOMAIN,adsdisplay.glbdns2.microsoft.com
+- DOMAIN,aisefs.adsdisplay.glbdns2.microsoft.com
+- DOMAIN,bingads.glbdns2.microsoft.com
+- DOMAIN,si.bingads.glbdns2.microsoft.com
 - DOMAIN,ieonline.microsoft.com
 - DOMAIN,location.microsoft.com
 - DOMAIN,redir.metaservices.microsoft.com
@@ -482,6 +516,7 @@ payload:
 - DOMAIN,c.be.msn.com
 - DOMAIN,c.br.msn.com
 - DOMAIN,c.ca.msn.com
+- DOMAIN,archive.causes.msn.com
 - DOMAIN,c.cl.msn.com
 - DOMAIN,confiant.msn.com
 - DOMAIN,events.data.msn.cn
@@ -560,7 +595,11 @@ payload:
 - DOMAIN,measure.office.com
 - DOMAIN,measure.office.net
 - DOMAIN,fp.measure.office.com
+- DOMAIN,4e83215548583efc70931bb7da7ddd61.fp.measure.office.com
+- DOMAIN,66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
+- DOMAIN,ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 - DOMAIN,config.fp.measure.office.com
+- DOMAIN,fe39653332994916a0e6c9dbe06d9a78.fp.measure.office.com
 - DOMAIN,graph-next.fp.measure.office.com
 - DOMAIN,ns1.fp.measure.office.com
 - DOMAIN,ns2.fp.measure.office.com
@@ -598,6 +637,8 @@ payload:
 - DOMAIN,bf-tracker-release-tm.trafficmanager.net
 - DOMAIN,bingads.trafficmanager.net
 - DOMAIN,azure.bingads.trafficmanager.net
+- DOMAIN,bingadsresources.trafficmanager.net
+- DOMAIN,collection-location-livenet.trafficmanager.net
 - DOMAIN,collector-main.trafficmanager.net
 - DOMAIN,tracker.flightview.com.trafficmanager.net
 - DOMAIN,events.data.trafficmanager.net
@@ -633,6 +674,7 @@ payload:
 - DOMAIN,v20-asimov-win.vortex.data.trafficmanager.net
 - DOMAIN,dsp-ad-cache-tm.trafficmanager.net
 - DOMAIN,adstore.response.gcp.eastus.trafficmanager.net
+- DOMAIN,adstore.response.eastus.trafficmanager.net
 - DOMAIN,telemetry.eastus.trafficmanager.net
 - DOMAIN,eventservice.trafficmanager.net
 - DOMAIN,fsad.trafficmanager.net
@@ -661,6 +703,7 @@ payload:
 - DOMAIN,tenmax-ads.trafficmanager.net
 - DOMAIN,tm-analytics-pr.trafficmanager.net
 - DOMAIN,tm-enrollment-telemetry-datacore.trafficmanager.net
+- DOMAIN,us-mesh-events-data-leafs.trafficmanager.net
 - DOMAIN,vstelemetry.trafficmanager.net
 - DOMAIN,euc-excel-telemetry.wac.trafficmanager.net
 - DOMAIN,euc-powerpoint-telemetry.wac.trafficmanager.net
@@ -689,12 +732,14 @@ payload:
 - DOMAIN,weus2watcab02.blob.core.windows.net
 - DOMAIN,cache.datamart.windows.com
 - DOMAIN,sa.windows.com
+- DOMAIN,adsdktelemetry-prod.servicebus.windows.net
 - DOMAIN,analytics-dev-lleap-events.servicebus.windows.net
 - DOMAIN,analytics-dev-simpad-events.servicebus.windows.net
 - DOMAIN,analyticsehnwe.servicebus.windows.net
 - DOMAIN,analyticsiot-prod-simpad-ehn.servicebus.windows.net
 - DOMAIN,btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 - DOMAIN,btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
+- DOMAIN,chem4wordtelemetry.servicebus.windows.net
 - DOMAIN,citrixanalyticseh.servicebus.windows.net
 - DOMAIN,citrixanalyticseh-alias.servicebus.windows.net
 - DOMAIN,citrixanalyticseh2.servicebus.windows.net
@@ -709,6 +754,7 @@ payload:
 - DOMAIN,citrixtelemetryeheu-alias.servicebus.windows.net
 - DOMAIN,ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 - DOMAIN,hme-live-loganalytics-namespace.servicebus.windows.net
+- DOMAIN,jetanalytics.servicebus.windows.net
 - DOMAIN,nexxtv-events.servicebus.windows.net
 - DOMAIN,ppm-licensingtelemetry.servicebus.windows.net
 - DOMAIN,prod-eh-v1-analytics.servicebus.windows.net

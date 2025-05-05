@@ -1,6 +1,5 @@
 payload:
 
-- DOMAIN,vhs.wwstat.com.dsa.dnsv1.com.cn
 - DOMAIN,vhs.wwstat.com.eo.unicomcdn.com.cn
 - DOMAIN,az.appstore.vivo.com.cn
 - DOMAIN,vhs.wwstat.com.ctdns.cn
@@ -43,7 +42,11 @@ payload:
 - DOMAIN,asia-vpushonrt-stsdk.vivoglobal.com
 - DOMAIN,asia-vpushort-stsdk.vivoglobal.com
 - DOMAIN,asia-weather.vivoglobal.com
+- DOMAIN,au-sysupgrade-api.vivoglobal.com
+- DOMAIN,cl-domaincfg.vivoglobal.com
 - DOMAIN,cl-romsp-unifyconfig.vivoglobal.com
+- DOMAIN,cl-st-sl.vivoglobal.com
+- DOMAIN,cl-st-sysupgrade.vivoglobal.com
 - DOMAIN,cl-sysupgrade-api.vivoglobal.com
 - DOMAIN,cl-vcode-api.vivoglobal.com
 - DOMAIN,cl-vcode-od.vivoglobal.com
@@ -52,9 +55,12 @@ payload:
 - DOMAIN,cname-asia-st-exappupgrade.vivoglobal.com
 - DOMAIN,cname-asia-stsdk09.vivoglobal.com
 - DOMAIN,cname-asia02-stsdk.vivoglobal.com
+- DOMAIN,cname-de-stsdk.vivoglobal.com
 - DOMAIN,cname-in-bom01-nginxpool03.vivoglobal.com
 - DOMAIN,cname-sin01-stsdk09.vivoglobal.com
+- DOMAIN,co-cota.vivoglobal.com
 - DOMAIN,co-domaincfg.vivoglobal.com
+- DOMAIN,co-err-up.vivoglobal.com
 - DOMAIN,co-onrt-stsdk.vivoglobal.com
 - DOMAIN,co-ort-stsdk.vivoglobal.com
 - DOMAIN,co-pnrt-stsdk.vivoglobal.com
@@ -68,7 +74,16 @@ payload:
 - DOMAIN,co-vcode-od.vivoglobal.com
 - DOMAIN,co-vcode-or.vivoglobal.com
 - DOMAIN,co-weather.vivoglobal.com
+- DOMAIN,de-err-up.vivoglobal.com
+- DOMAIN,de-gdpr-err-up.vivoglobal.com
+- DOMAIN,de-gdpr-vcode-od.vivoglobal.com
+- DOMAIN,de-onrt-stsdk.vivoglobal.com
+- DOMAIN,de-ort-stsdk.vivoglobal.com
+- DOMAIN,de-prt-stsdk.vivoglobal.com
+- DOMAIN,de-vcode-od.vivoglobal.com
 - DOMAIN,err-up.vivoglobal.com
+- DOMAIN,eu-album-api.vivoglobal.com
+- DOMAIN,eu-cota.vivoglobal.com
 - DOMAIN,eu-domaincfg.vivoglobal.com
 - DOMAIN,eu-errup.vivoglobal.com
 - DOMAIN,eu-onrt-stsdk.vivoglobal.com
@@ -91,10 +106,12 @@ payload:
 - DOMAIN,in-adlog.vivoglobal.com
 - DOMAIN,in-adreq.vivoglobal.com
 - DOMAIN,in-adsjssdk.vivoglobal.com
+- DOMAIN,in-analyzer-appstore.vivoglobal.com
 - DOMAIN,in-apponrt-stsdk.vivoglobal.com
 - DOMAIN,in-apport-stsdk.vivoglobal.com
 - DOMAIN,in-apppnrt-stsdk.vivoglobal.com
 - DOMAIN,in-appprt-stsdk.vivoglobal.com
+- DOMAIN,in-cota.vivoglobal.com
 - DOMAIN,in-ctdbonrt-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbort-stsdk.vivoglobal.com
 - DOMAIN,in-ctdbpnrt-stsdk.vivoglobal.com
@@ -121,6 +138,7 @@ payload:
 - DOMAIN,kz-monitor-stsdk.vivoglobal.com
 - DOMAIN,kz-onrt-stsdk.vivoglobal.com
 - DOMAIN,kz-ort-stsdk.vivoglobal.com
+- DOMAIN,kz-p.vivoglobal.com
 - DOMAIN,kz-pnrt-stsdk.vivoglobal.com
 - DOMAIN,kz-prt-stsdk.vivoglobal.com
 - DOMAIN,kz-romsp-unifyconfig.vivoglobal.com
@@ -129,11 +147,13 @@ payload:
 - DOMAIN,kz-st-sysupgrade.vivoglobal.com
 - DOMAIN,kz-stsdk.vivoglobal.com
 - DOMAIN,kz-sysupgrade-api.vivoglobal.com
+- DOMAIN,kz-timesync.vivoglobal.com
 - DOMAIN,kz-vcode-api.vivoglobal.com
 - DOMAIN,kz-vcode-od.vivoglobal.com
 - DOMAIN,kz-vcode-or.vivoglobal.com
 - DOMAIN,kz-weather.vivoglobal.com
 - DOMAIN,monitor-stsdk.vivoglobal.com
+- DOMAIN,mx-cota.vivoglobal.com
 - DOMAIN,mx-domaincfg.vivoglobal.com
 - DOMAIN,mx-err-up.vivoglobal.com
 - DOMAIN,mx-onrt-stsdk.vivoglobal.com
@@ -160,6 +180,7 @@ payload:
 - DOMAIN,ru-comort-stsdk.vivoglobal.com
 - DOMAIN,ru-compnrt-stsdk.vivoglobal.com
 - DOMAIN,ru-comprt-stsdk.vivoglobal.com
+- DOMAIN,ru-cota.vivoglobal.com
 - DOMAIN,ru-err-up.vivoglobal.com
 - DOMAIN,ru-exstsdk.vivoglobal.com
 - DOMAIN,ru-monitor-stsdk.vivoglobal.com
@@ -181,6 +202,7 @@ payload:
 - DOMAIN,ru-vcode-od.vivoglobal.com
 - DOMAIN,ru-vcode-or.vivoglobal.com
 - DOMAIN,ru-weather.vivoglobal.com
+- DOMAIN,sca-cota.vivoglobal.com
 - DOMAIN,sca-domaincfg.vivoglobal.com
 - DOMAIN,sca-err-up.vivoglobal.com
 - DOMAIN,sca-onrt-stsdk.vivoglobal.com
@@ -197,6 +219,7 @@ payload:
 - DOMAIN,sca-vcode-od.vivoglobal.com
 - DOMAIN,sca-vcode-or.vivoglobal.com
 - DOMAIN,sca-weather.vivoglobal.com
+- DOMAIN,sg-cfg-stsdk.vivoglobal.com
 - DOMAIN,stsdk.vivoglobal.com
 - DOMAIN,tr-album-api.vivoglobal.com
 - DOMAIN,tr-cota.vivoglobal.com
@@ -216,4 +239,7 @@ payload:
 - DOMAIN,tr-weather.vivoglobal.com
 - DOMAIN,err.up.vivoglobal.com
 - DOMAIN,xn-ex-adreq-asa-c5b.vivoglobal.com
+- DOMAIN,zasc-sysupgrade-api.vivoglobal.com
+- DOMAIN,zasc-vcode-api.vivoglobal.com
+- DOMAIN,zasc-vcode-od.vivoglobal.com
 - DOMAIN,vhs.wwstat.com

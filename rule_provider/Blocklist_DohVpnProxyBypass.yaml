@@ -339,7 +339,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -373,6 +372,7 @@ payload:
 - DOMAIN,bettervpn.com
 - DOMAIN,bgvpn.com
 - DOMAIN,bi-tree.ru
+- DOMAIN,bigjimmy.xyz
 - DOMAIN,bigma.org
 - DOMAIN,bingle.icu
 - DOMAIN,bingle.pw
@@ -1116,7 +1116,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -2158,7 +2157,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2878,7 +2876,6 @@ payload:
 - DOMAIN,rayobyte.com
 - DOMAIN,dns.rbn.gr
 - DOMAIN,rcsm.ir
-- DOMAIN,readandmath.today
 - DOMAIN,login.readinghelper.online
 - DOMAIN,www-p.reaper.mx
 - DOMAIN,dns.reckoningslug.name
@@ -2923,12 +2920,10 @@ payload:
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
-- DOMAIN,hotdogs.root.sx
 - DOMAIN,pluh.root.sx
 - DOMAIN,dns.rootlab.top
 - DOMAIN,roskomnadzorgorivadu.ru
 - DOMAIN,dns.rotunneling.net
-- DOMAIN,fol.l.rren.ch
 - DOMAIN,o.rsaikat.com
 - DOMAIN,au.rslvr.eu
 - DOMAIN,bg.rslvr.eu
@@ -2970,7 +2965,6 @@ payload:
 - DOMAIN,safing.io
 - DOMAIN,vpn.sakhwow.ru
 - DOMAIN,sakirdakproxy.tk
-- DOMAIN,samj.codes
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandmining.us
 - DOMAIN,sandparticles.us
@@ -3129,7 +3123,6 @@ payload:
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
 - DOMAIN,sockslist.us
-- DOMAIN,www-proxy.sodemc.com
 - DOMAIN,clientdns3.softcom.net
 - DOMAIN,free-vpn.en.softonic.com
 - DOMAIN,solaxy.live
@@ -3141,7 +3134,6 @@ payload:
 - DOMAIN,spacedns.org
 - DOMAIN,scienceandmore.spacetechnology.net
 - DOMAIN,spacevpn.io
-- DOMAIN,spanish101.college
 - DOMAIN,sparklabs.com
 - DOMAIN,doh-01.spectrum.com
 - DOMAIN,doh-02.spectrum.com
@@ -3303,7 +3295,6 @@ payload:
 - DOMAIN,t-dz.com
 - DOMAIN,dns.t-ipnet.de
 - DOMAIN,dns.t53.de
-- DOMAIN,t92.online
 - DOMAIN,tailnet.ru
 - DOMAIN,tailscale.com
 - DOMAIN,talk2m.com
