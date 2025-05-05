@@ -40,8 +40,6 @@ payload:
 - DOMAIN,xlog-o.byteoversea.com
 - DOMAIN,xlog-va.byteoversea.com
 - DOMAIN,xlog-va-useast2a.byteoversea.com
-- DOMAIN,mssdk24-normal-alisg.tiktokv.com.cdn.cloudflare.net
-- DOMAIN,mssdk24-normal-useast1a.tiktokv.com.cdn.cloudflare.net
 - DOMAIN,abtest-ch.snssdk.com
 - DOMAIN,analytics.snssdk.com
 - DOMAIN,applog.snssdk.com
