@@ -339,6 +339,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1116,6 +1117,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -3184,11 +3186,16 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu-proxy.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy.startpage.com
+- DOMAIN,proxy1.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
+- DOMAIN,us-proxy.startpage.com
 - DOMAIN,us1-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
@@ -3409,7 +3416,6 @@ payload:
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
 - DOMAIN,proxy.toolur.com
-- DOMAIN,top-proxy.site
 - DOMAIN,top10vpn.com
 - DOMAIN,toppal.tech
 - DOMAIN,topsecure.info
@@ -3441,7 +3447,6 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
-- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
@@ -3471,7 +3476,6 @@ payload:
 - DOMAIN,tunnelbear.com
 - DOMAIN,turbohide.org
 - DOMAIN,turbossh.com
-- DOMAIN,turbotrackvpn.com
 - DOMAIN,turbovpn.co
 - DOMAIN,turbovpn.com
 - DOMAIN,turmericrecipes.com
@@ -3664,8 +3668,6 @@ payload:
 - DOMAIN,undofilters.com
 - DOMAIN,dns.unerror.network
 - DOMAIN,ines.zfn.uni-bremen.de
-- DOMAIN,flipclevergrid.unids.com
-- DOMAIN,flipcleverplay.unids.com
 - DOMAIN,unifiedvpn.com
 - DOMAIN,galileo.math.unipd.it
 - DOMAIN,universityproxy.net
@@ -3698,7 +3700,6 @@ payload:
 - DOMAIN,us-proxy.org
 - DOMAIN,usa-proxy.org
 - DOMAIN,adfree.usableprivacy.net
-- DOMAIN,usafastproxy.info
 - DOMAIN,usaip.eu
 - DOMAIN,usaip.net
 - DOMAIN,usawebproxy.com
@@ -3883,7 +3884,6 @@ payload:
 - DOMAIN,1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 - DOMAIN,webbrowser.live
 - DOMAIN,webevade.com
-- DOMAIN,webjax.ir
 - DOMAIN,weblockapp.com
 - DOMAIN,doh.webnmail.de
 - DOMAIN,weboproxy.com
@@ -4020,7 +4020,6 @@ payload:
 - DOMAIN,youproxything.com
 - DOMAIN,youproxytube.com
 - DOMAIN,your-dns.run
-- DOMAIN,your-freedom.de
 - DOMAIN,yourcheat.com
 - DOMAIN,yourinternetproxy.info
 - DOMAIN,youtube-proxy.com
