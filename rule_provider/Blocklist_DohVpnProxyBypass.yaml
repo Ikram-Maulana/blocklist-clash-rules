@@ -189,7 +189,6 @@ payload:
 - DOMAIN,alidns.com
 - DOMAIN,aliveproxies.com
 - DOMAIN,httpdns-sc.aliyuncs.com
-- DOMAIN,alleesph.online
 - DOMAIN,dns.alloxr.info
 - DOMAIN,vps.alloxr.info
 - DOMAIN,allunblocked.com
@@ -338,6 +337,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -410,7 +410,6 @@ payload:
 - DOMAIN,us1.blissdns.net
 - DOMAIN,blocka.net
 - DOMAIN,blockaway.net
-- DOMAIN,blockawayproxy.net
 - DOMAIN,blockedsiteaccess.com
 - DOMAIN,doh.blockerdns.com
 - DOMAIN,blockless.com
@@ -1115,6 +1114,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1251,6 +1251,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
