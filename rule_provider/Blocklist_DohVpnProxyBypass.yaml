@@ -119,7 +119,6 @@ payload:
 - DOMAIN,922proxy.com
 - DOMAIN,dns.9999.sg
 - DOMAIN,99proxy.com
-- DOMAIN,9w9.org
 - DOMAIN,dns.a47.me
 - DOMAIN,doh.aaaab3n.moe
 - DOMAIN,adb.aadityakushwaha.com
@@ -339,7 +338,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1117,7 +1115,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -3447,6 +3444,7 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
+- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
