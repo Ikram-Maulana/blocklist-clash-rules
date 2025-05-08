@@ -337,6 +337,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1075,7 +1076,6 @@ payload:
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
-- DOMAIN,vpschito.duckdns.org
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
 - DOMAIN,dvprovider.icu
@@ -1307,7 +1307,6 @@ payload:
 - DOMAIN,freecavpn.com
 - DOMAIN,hkname.freecdn.one
 - DOMAIN,freeconnect.link
-- DOMAIN,freedevpn.com
 - DOMAIN,freedom.cx
 - DOMAIN,freedome-vpn.net
 - DOMAIN,freedomproxy.com
@@ -3182,16 +3181,11 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu-proxy.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
+- DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
-- DOMAIN,us-proxy.startpage.com
 - DOMAIN,us1-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
