@@ -337,6 +337,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1111,6 +1112,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1247,7 +1249,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1659,6 +1660,7 @@ payload:
 - DOMAIN,icpsuawn1zy5amys.com
 - DOMAIN,tienpham.id.vn
 - DOMAIN,idcloak.com
+- DOMAIN,idinahui.pro
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
 - DOMAIN,ietors.com
@@ -1852,7 +1854,6 @@ payload:
 - DOMAIN,proxy.kokecoco.me
 - DOMAIN,www-proxy.kokecoco.me
 - DOMAIN,adguard.konikoni428.com
-- DOMAIN,www-proxy.konstl01.xyz
 - DOMAIN,doh.kooman.org
 - DOMAIN,korzhov.dev
 - DOMAIN,dns.kosan.moe
@@ -1880,6 +1881,7 @@ payload:
 - DOMAIN,lablancer.com
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,www-proxy.ladifsoftware.com
+- DOMAIN,laflame.us
 - DOMAIN,lantern.io
 - DOMAIN,largero.com
 - DOMAIN,larpicidecentralproxy.org
@@ -1935,8 +1937,6 @@ payload:
 - DOMAIN,linkmefree.net
 - DOMAIN,linkmetube.com
 - DOMAIN,dns.linkr.ninja
-- DOMAIN,omar.linxy.eu
-- DOMAIN,omarcreatedthis.linxy.eu
 - DOMAIN,lionssh.com
 - DOMAIN,quickvpn.lipisoft.com
 - DOMAIN,africadns1.liquidtelecom.net
@@ -2151,7 +2151,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
