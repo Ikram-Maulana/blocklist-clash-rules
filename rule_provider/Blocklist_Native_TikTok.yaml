@@ -118,7 +118,6 @@ payload:
 - DOMAIN,mcs-ttp2.us.tiktok.com
 - DOMAIN,mssdk.us.tiktok.com
 - DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com
-- DOMAIN,monitoring-op-ttp2.tiktokd.org
 - DOMAIN,ad.tiktokv.com
 - DOMAIN,ad.tiktokv.us
 - DOMAIN,ad-format.tiktokv.us
@@ -181,8 +180,6 @@ payload:
 - DOMAIN,log22-applog-useast2a.tiktokv.com
 - DOMAIN,log22-normal.tiktokv.com
 - DOMAIN,log22-normal-alisg.tiktokv.com
-- DOMAIN,log22-normal-c-useast1a.tiktokv.com
-- DOMAIN,log22-normal-c-useast2a.tiktokv.com
 - DOMAIN,log22-normal-useast1a.tiktokv.com
 - DOMAIN,log22-normal-useast2a.tiktokv.com
 - DOMAIN,log3-normal-c-alisg.tiktokv.com
@@ -262,7 +259,6 @@ payload:
 - DOMAIN,rtlog19-applog-useast2a.tiktokv.com
 - DOMAIN,rtlog19-normal.tiktokv.com
 - DOMAIN,rtlog19-normal-alisg.tiktokv.com
-- DOMAIN,1.rtlog19-normal-alisg.tiktokv.com
 - DOMAIN,rtlog19-normal-useast1a.tiktokv.com
 - DOMAIN,rtlog19-normal-useast2a.tiktokv.com
 - DOMAIN,rtlog22-applog-useast1a.tiktokv.com

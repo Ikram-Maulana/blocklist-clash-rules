@@ -121,7 +121,6 @@ payload:
 - DOMAIN,azsc-bingads-westus.westus.cloudapp.azure.com
 - DOMAIN,collector.azure.cn
 - DOMAIN,js.monitor.azure.com
-- DOMAIN,www.js.monitor.azure.com
 - DOMAIN,adsdkpreprod.azureedge.net
 - DOMAIN,adsdkprod.azureedge.net
 - DOMAIN,adsdkpreprod.afd.azureedge.net
