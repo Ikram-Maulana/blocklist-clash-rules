@@ -337,6 +337,7 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1111,6 +1112,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1148,8 +1150,6 @@ payload:
 - DOMAIN,ettego.com
 - DOMAIN,arashi.eu.org
 - DOMAIN,armorrush.eu.org
-- DOMAIN,dns.de.futuredns.eu.org
-- DOMAIN,dns.us.futuredns.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
 - DOMAIN,arashi.net.eu.org
@@ -1247,7 +1247,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -2150,7 +2149,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2431,7 +2429,6 @@ payload:
 - DOMAIN,vps-33e5a7f3.vps.ovh.us
 - DOMAIN,ovpn.com
 - DOMAIN,ovpn.to
-- DOMAIN,dns.ovpn.bond
 - DOMAIN,oxylabs.io
 - DOMAIN,oxywebproxy.sbs
 - DOMAIN,oystervpn.com
@@ -2913,7 +2910,6 @@ payload:
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
-- DOMAIN,pluh.root.sx
 - DOMAIN,dns.rootlab.top
 - DOMAIN,roskomnadzorgorivadu.ru
 - DOMAIN,dns.rotunneling.net
@@ -4022,6 +4018,7 @@ payload:
 - DOMAIN,yoyovpn.org
 - DOMAIN,ytcroxyproxy.com
 - DOMAIN,dns.yuu-g.net
+- DOMAIN,yuvelirtut.website
 - DOMAIN,yuyuproxy.com
 - DOMAIN,yuyuproxy.online
 - DOMAIN,yxorproxy.com
