@@ -337,7 +337,6 @@ payload:
 - DOMAIN,doh.battle.christmas
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.link
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1247,6 +1246,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1647,7 +1647,6 @@ payload:
 - DOMAIN,vd.i81.ru
 - DOMAIN,vpn.i81.ru
 - DOMAIN,beepboopbop.iamadeveloper.dev
-- DOMAIN,dns.iamanuragh.in
 - DOMAIN,dns.iamninja.ru
 - DOMAIN,iblocker.info
 - DOMAIN,ibvpn.com
@@ -2149,6 +2148,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3979,6 +3979,7 @@ payload:
 - DOMAIN,xvpn.io
 - DOMAIN,dns.xwdmw.xyz
 - DOMAIN,v2.xx3210766.live
+- DOMAIN,ya-krutoi.pro
 - DOMAIN,dns.yameenassotally.com
 - DOMAIN,2.dnscrypt-cert.browser.yandex.net
 - DOMAIN,dns.yandex.ru
