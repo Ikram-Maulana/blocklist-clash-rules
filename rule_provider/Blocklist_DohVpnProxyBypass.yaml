@@ -1111,6 +1111,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1515,7 +1516,6 @@ payload:
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
-- DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helphideme.com
@@ -2148,6 +2148,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3175,6 +3176,7 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
