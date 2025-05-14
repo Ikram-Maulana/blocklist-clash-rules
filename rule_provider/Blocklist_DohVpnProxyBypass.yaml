@@ -46,6 +46,7 @@ payload:
 - DOMAIN,123unblocked.com
 - DOMAIN,12vpx.com
 - DOMAIN,dns.13evl.com
+- DOMAIN,14-88.pro
 - DOMAIN,16yd.com
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
@@ -672,6 +673,7 @@ payload:
 - DOMAIN,pihole.datamatter.co.za
 - DOMAIN,ddelay.co.uk
 - DOMAIN,diskcrmvpn.co.cc
+- DOMAIN,www.dnsadguard.co.uk
 - DOMAIN,englandproxy.co.uk
 - DOMAIN,dns.gayanalysing.co.uk
 - DOMAIN,dns.gi.co.id
@@ -1111,7 +1113,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1246,7 +1247,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1516,6 +1516,7 @@ payload:
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
+- DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 - DOMAIN,dns.hellozhao.com
 - DOMAIN,helphideme.com
@@ -2148,7 +2149,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2975,6 +2975,7 @@ payload:
 - DOMAIN,schoology.help
 - DOMAIN,schoology123.org
 - DOMAIN,schoolooks.com
+- DOMAIN,schoolooks.net
 - DOMAIN,schoolwebproxy.com
 - DOMAIN,schooxy.com
 - DOMAIN,schoprox.com
