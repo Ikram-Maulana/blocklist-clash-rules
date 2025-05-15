@@ -172,7 +172,6 @@ payload:
 - DOMAIN,adguard-dns.com
 - DOMAIN,adguard-vpn.com
 - DOMAIN,adguard-vpn.online
-- DOMAIN,fenelonfallscantstopclg.oliver.adm.br
 - DOMAIN,adresseip.com
 - DOMAIN,dns.adrianlam.com
 - DOMAIN,adsocialmediamarketing.com
@@ -280,7 +279,6 @@ payload:
 - DOMAIN,appshost.us
 - DOMAIN,iron-dot-cobalt-antenna-219709.appspot.com
 - DOMAIN,vpn.appsverse.com
-- DOMAIN,epicunblocked.aqdv.ru
 - DOMAIN,dns.aquilenet.fr
 - DOMAIN,arcai.com
 - DOMAIN,proof.major.archanet.org
@@ -389,9 +387,6 @@ payload:
 - DOMAIN,betterproxy.net
 - DOMAIN,bettervpn.com
 - DOMAIN,bgvpn.com
-- DOMAIN,thats-a-but-eli.bhankanomthai.com
-- DOMAIN,who-is-making-these.bhankanomthai.com
-- DOMAIN,wave-is-best.bhjsalumni.com
 - DOMAIN,bi-tree.ru
 - DOMAIN,bigjimmy.xyz
 - DOMAIN,bigma.org
@@ -551,8 +546,6 @@ payload:
 - DOMAIN,unicast.censurfridns.dk
 - DOMAIN,center-crm.store
 - DOMAIN,lab.graph.central64.com
-- DOMAIN,derrell-c-randolph-nesbitt.centrodiagnosticogenetico.com
-- DOMAIN,icl-u-pmo-n-ts-pmo-sm-ngl-atp-js-sybau.centrodiagnosticogenetico.com
 - DOMAIN,dns.cert.ee
 - DOMAIN,cfdjb.org
 - DOMAIN,ibuki.cgnat.net
@@ -560,7 +553,6 @@ payload:
 - DOMAIN,core.goal.challengepursuit.com
 - DOMAIN,changemyip.com
 - DOMAIN,chaos-system.de
-- DOMAIN,passwordforlockedstellarisabc.charbel.cl
 - DOMAIN,dns.charraud.eu
 - DOMAIN,dns.chenu.ch
 - DOMAIN,freedns.kiuo-utopias.chickenkiller.com
@@ -885,7 +877,6 @@ payload:
 - DOMAIN,qual.cuprum.ru
 - DOMAIN,curd.io
 - DOMAIN,dns.cwlys.com
-- DOMAIN,uhh.cybdyn.com
 - DOMAIN,cyberghostvpn.com
 - DOMAIN,cybershield.cc
 - DOMAIN,cybersilent.com
@@ -941,7 +932,6 @@ payload:
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
 - DOMAIN,dns.dev-umbrellagov.com
-- DOMAIN,again.devmon.ru
 - DOMAIN,dewassh.net
 - DOMAIN,mainframe.dewed.de
 - DOMAIN,dns.dgea.fr
@@ -1169,8 +1159,6 @@ payload:
 - DOMAIN,adguard.easez.net
 - DOMAIN,filter-admins-come-and-get-me.easterndns.com
 - DOMAIN,goguardian-is-not-my-guardian.easterndns.com
-- DOMAIN,idontnotknowwhattoput.easterndns.com
-- DOMAIN,just-do-work-gng.easterndns.com
 - DOMAIN,konnnitiha----saiko.easterndns.com
 - DOMAIN,math.easterndns.com
 - DOMAIN,what-is-interstellar-all-i-know-is-linewize.easterndns.com
@@ -1195,7 +1183,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1559,7 +1546,6 @@ payload:
 - DOMAIN,gobestvpn.com
 - DOMAIN,goingthere.org
 - DOMAIN,gointerstellar.app
-- DOMAIN,kitty.gokartprix.se
 - DOMAIN,goldenfrog.com
 - DOMAIN,dns.goldplate.org
 - DOMAIN,gomath.us
@@ -1624,8 +1610,6 @@ payload:
 - DOMAIN,turtle.happyforever.com
 - DOMAIN,yessir.happyforever.com
 - DOMAIN,harbaletsstudy.com
-- DOMAIN,chicken16765jockey.hardsoft.nu
-- DOMAIN,gmail11.com.hardsoft.nu
 - DOMAIN,resolver-eu.haringstad.com
 - DOMAIN,adguard.hartley.cloud
 - DOMAIN,query.hdns.io
@@ -1699,7 +1683,6 @@ payload:
 - DOMAIN,pihole2.hoerli.net
 - DOMAIN,pihole3.hoerli.net
 - DOMAIN,pihole4.hoerli.net
-- DOMAIN,tidepod.hoffer.cx
 - DOMAIN,hola.org
 - DOMAIN,hola-vpn.com
 - DOMAIN,holafreevpn.com
@@ -1770,7 +1753,6 @@ payload:
 - DOMAIN,beepboopbop.iamadeveloper.dev
 - DOMAIN,dns.iamanuragh.in
 - DOMAIN,dns.iamninja.ru
-- DOMAIN,i.know.iamnotwhoiam.net
 - DOMAIN,link-five.ibewlocalzero.com
 - DOMAIN,link-four.ibewlocalzero.com
 - DOMAIN,link-one.ibewlocalzero.com
@@ -1820,7 +1802,6 @@ payload:
 - DOMAIN,indo-ssh.com
 - DOMAIN,dns.indust.me
 - DOMAIN,dns.indybanipal.com
-- DOMAIN,lightspeedmakingmachine.infer.cl
 - DOMAIN,dns.inforlogia.com
 - DOMAIN,doh.infracell.net
 - DOMAIN,infvpn.com
@@ -2021,7 +2002,6 @@ payload:
 - DOMAIN,dns.l337.site
 - DOMAIN,adamz2eso.l5.ca
 - DOMAIN,quesosrammerhaha.l5.ca
-- DOMAIN,for.my.subscribers.gg.schools.l5.ca
 - DOMAIN,lablancer.com
 - DOMAIN,doh.lacontrevoie.fr
 - DOMAIN,www-proxy.ladifsoftware.com
@@ -2077,8 +2057,6 @@ payload:
 - DOMAIN,dns.lihj.me
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
-- DOMAIN,yondr.disciple.limnet.org
-- DOMAIN,content.keeper.hater.limnet.org
 - DOMAIN,pa.linkall.uk
 - DOMAIN,www-pa.linkall.uk
 - DOMAIN,linkideo.com
@@ -2136,7 +2114,6 @@ payload:
 - DOMAIN,mabuktogel.marketing
 - DOMAIN,mabuktogel.properties
 - DOMAIN,mabuktogel.solutions
-- DOMAIN,purchase.machines.asia
 - DOMAIN,maddw.com
 - DOMAIN,magiccloak.net
 - DOMAIN,mailkyb.co
@@ -2236,7 +2213,6 @@ payload:
 - DOMAIN,www-nsc.moebh.me
 - DOMAIN,mojtreker.ru
 - DOMAIN,edu.moldeo.org
-- DOMAIN,history.lessons.forallages.moldeo.org
 - DOMAIN,history-of-earth.moldeo.org
 - DOMAIN,only-shooting-stars-breakthe.moldeo.org
 - DOMAIN,dns.molinero.dev
@@ -2265,7 +2241,6 @@ payload:
 - DOMAIN,mullvad.net
 - DOMAIN,blockerads.multimediaconcept.fr
 - DOMAIN,dns.murgi.de
-- DOMAIN,croz-is-sigma-owner.music-menges.si
 - DOMAIN,dns.muxinghe.cn
 - DOMAIN,muxyuji.ru
 - DOMAIN,d.apemlegit.my.id
@@ -2288,8 +2263,6 @@ payload:
 - DOMAIN,freelearn.myclarevision.com
 - DOMAIN,i.myclarevision.com
 - DOMAIN,learn.myclarevision.com
-- DOMAIN,rammerhead-1.myclarevision.com
-- DOMAIN,rammerhead-umekomi.myclarevision.com
 - DOMAIN,thisismathteach.myclarevision.com
 - DOMAIN,adblock.mydns.network
 - DOMAIN,family.mydns.network
@@ -2322,7 +2295,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3093,7 +3065,6 @@ payload:
 - DOMAIN,dns.renardyre.com
 - DOMAIN,dns.repinger.com
 - DOMAIN,repocket.co
-- DOMAIN,study.reprap.eu
 - DOMAIN,dns.repressoh.it
 - DOMAIN,restaurantgift.us
 - DOMAIN,dnspub.restena.lu
@@ -3495,7 +3466,6 @@ payload:
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
 - DOMAIN,popteeee-oawhnefoua-foaebaouef.swanndvr.net
-- DOMAIN,rammerhead-4.swanndvr.net
 - DOMAIN,rammerhead-himitu-umekomi-1.swanndvr.net
 - DOMAIN,swapip.com
 - DOMAIN,swiftshieldvpn.com
@@ -3525,7 +3495,6 @@ payload:
 - DOMAIN,tbunet.com
 - DOMAIN,its-spatter.blood-spatter.tcm-studios.info
 - DOMAIN,tcpvpn.com
-- DOMAIN,welcome.teamoptimization.com
 - DOMAIN,tecdrive.site
 - DOMAIN,dns1.techeasy.org
 - DOMAIN,vpn.technicule.info
@@ -3560,7 +3529,6 @@ payload:
 - DOMAIN,login.thegalleryofart.info
 - DOMAIN,dns.thegoodsource.net
 - DOMAIN,distributiveproperty.thehomeserver.net
-- DOMAIN,the-low-taper-fade-meme-is-still-massive.thehomeserver.net
 - DOMAIN,thejungla.com
 - DOMAIN,themeaningofallmeaningsforallofthemeaningsmeanings.lol
 - DOMAIN,thenuke.org
@@ -3956,7 +3924,6 @@ payload:
 - DOMAIN,ranamaddadaaaadjka.ve3.info
 - DOMAIN,vectroproxy.com
 - DOMAIN,veepn.com
-- DOMAIN,yesking.vendo.ar
 - DOMAIN,securedns.vendorvista.xyz
 - DOMAIN,algebra-help-and-lessons.vercel.app
 - DOMAIN,art-class-omg.vercel.app
@@ -3970,7 +3937,6 @@ payload:
 - DOMAIN,v4-ai14.vercel.app
 - DOMAIN,vercel-is-cool.vercel.app
 - DOMAIN,veripn.com
-- DOMAIN,mynameis.veronicabazan.cl
 - DOMAIN,viatun.com
 - DOMAIN,videocollage.us
 - DOMAIN,videomy.online
@@ -3988,7 +3954,6 @@ payload:
 - DOMAIN,virtualshield.com
 - DOMAIN,dns.vishalk.com
 - DOMAIN,vitaproxy.com
-- DOMAIN,ilovemrsg.vivandex.com
 - DOMAIN,vload.net
 - DOMAIN,vobas.com
 - DOMAIN,dns.vod11.xyz
@@ -4283,7 +4248,6 @@ payload:
 - DOMAIN,yxorproxy.com
 - DOMAIN,adg.yybyy.wiki
 - DOMAIN,dns.daemon.za.net
-- DOMAIN,infinitecampusportal.zach24.at
 - DOMAIN,adguard.zachitect.com
 - DOMAIN,zagbit.com
 - DOMAIN,zakaria.website
@@ -4301,6 +4265,7 @@ payload:
 - DOMAIN,zenmate.com
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
+- DOMAIN,zerfaucet.space
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
