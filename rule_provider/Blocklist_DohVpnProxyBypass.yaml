@@ -31,6 +31,7 @@ payload:
 - DOMAIN,123music.app
 - DOMAIN,123mymusic.net
 - DOMAIN,123proxy.app
+- DOMAIN,123proxy.biz
 - DOMAIN,123proxy.cool
 - DOMAIN,123proxy.me
 - DOMAIN,123proxyx.com
@@ -125,6 +126,7 @@ payload:
 - DOMAIN,922proxy.com
 - DOMAIN,dns.9999.sg
 - DOMAIN,99proxy.com
+- DOMAIN,9w9.org
 - DOMAIN,dns.a47.me
 - DOMAIN,doh.aaaab3n.moe
 - DOMAIN,adb.aadityakushwaha.com
@@ -1321,7 +1323,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
