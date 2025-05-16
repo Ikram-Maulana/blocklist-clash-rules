@@ -401,6 +401,7 @@ payload:
 - DOMAIN,bingle.pw
 - DOMAIN,sunny-wolf-734.biologyscholar.org
 - DOMAIN,ns3.bit-trail.nl
+- DOMAIN,bit123.biz
 - DOMAIN,dns.bitdefender.net
 - DOMAIN,fra-dns.bitdefender.net
 - DOMAIN,iow-dns.bitdefender.net
@@ -452,6 +453,7 @@ payload:
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bmwhocking.com
 - DOMAIN,dns.bobstrecansky.com
+- DOMAIN,boda-vip.net
 - DOMAIN,bodvpn.com
 - DOMAIN,dns.bofh.in
 - DOMAIN,boghag.party
@@ -537,6 +539,7 @@ payload:
 - DOMAIN,help.cartes.cl
 - DOMAIN,casinovpn.com
 - DOMAIN,dns.caspervk.net
+- DOMAIN,catch.gift
 - DOMAIN,catchen121299.top
 - DOMAIN,catdns.org
 - DOMAIN,alidns.cb1999.top
@@ -1190,7 +1193,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1329,6 +1331,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -3925,6 +3928,7 @@ payload:
 - DOMAIN,utunnel.io
 - DOMAIN,uvpn.me
 - DOMAIN,dns.vaioswolke.xyz
+- DOMAIN,www-proxy.valentiin.com
 - DOMAIN,doh.valscosmos.com
 - DOMAIN,valuepremium.us
 - DOMAIN,vanilcraft.ru
