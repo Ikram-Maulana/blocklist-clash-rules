@@ -878,6 +878,7 @@ payload:
 - DOMAIN,dns.csa-rz.de
 - DOMAIN,dns.csaonline.de
 - DOMAIN,r8gjg2-8000.csb.app
+- DOMAIN,pltw.csproject.org
 - DOMAIN,dns.csswg.org
 - DOMAIN,grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 - DOMAIN,ct-vpn.com
@@ -1149,6 +1150,7 @@ payload:
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
+- DOMAIN,vpschito.duckdns.org
 - DOMAIN,georgetown.duia.us
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1188,11 +1190,13 @@ payload:
 - DOMAIN,edgedcircles.com
 - DOMAIN,edgy-dns.com
 - DOMAIN,dns.editechstudio.com
+- DOMAIN,edpuzzle.space
 - DOMAIN,dns.tuna.tsinghua.edu.cn
 - DOMAIN,eduacation.lol
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1331,7 +1335,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
