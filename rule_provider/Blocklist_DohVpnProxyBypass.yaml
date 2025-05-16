@@ -241,6 +241,7 @@ payload:
 - DOMAIN,a-regist.anondns.net
 - DOMAIN,anonine.com
 - DOMAIN,anonproxy.eu
+- DOMAIN,anonproxy.org
 - DOMAIN,anonvpn.io
 - DOMAIN,anonwebproxy.com
 - DOMAIN,anonymitynetwork.com
@@ -270,6 +271,7 @@ payload:
 - DOMAIN,ad.anym0re.ru
 - DOMAIN,vocab.real.anynall.com
 - DOMAIN,doh.apad.pro
+- DOMAIN,aplusvpn.com
 - DOMAIN,ag.apollohct.com
 - DOMAIN,doh.dns.apple.com
 - DOMAIN,appleproxy.com
@@ -287,6 +289,7 @@ payload:
 - DOMAIN,doh.archuser.org
 - DOMAIN,dns.ares-taiwan.com
 - DOMAIN,dns.arkbotech.com
+- DOMAIN,doh.armadillodns.net
 - DOMAIN,nsec.arnor.org
 - DOMAIN,artclass.lol
 - DOMAIN,artclass.site
@@ -306,6 +309,7 @@ payload:
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
+- DOMAIN,dns.auapi.fun
 - DOMAIN,aufonddesbois.com
 - DOMAIN,stevenisafemboy.auraria.org
 - DOMAIN,aurora-softworks.xyz
@@ -925,6 +929,7 @@ payload:
 - DOMAIN,defilter.us
 - DOMAIN,dns.dekedin.me
 - DOMAIN,adguard.dekonix.ru
+- DOMAIN,use.delcarmen.cl
 - DOMAIN,doh.denypradana.com
 - DOMAIN,adguard.depieri.net
 - DOMAIN,deproxyserver.com
@@ -1185,6 +1190,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -3094,6 +3100,7 @@ payload:
 - DOMAIN,roodel.com
 - DOMAIN,roogen.com
 - DOMAIN,roonyx.com
+- DOMAIN,jaiguneeds.root.sx
 - DOMAIN,dns.rootlab.top
 - DOMAIN,roskomnadzorgorivadu.ru
 - DOMAIN,dns.rotunneling.net
@@ -3112,6 +3119,7 @@ payload:
 - DOMAIN,uw-dns.rubyfish.cn
 - DOMAIN,yoursuper.rude.li
 - DOMAIN,rumpelsepp.org
+- DOMAIN,error404becausepar1scantlose.run.place
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
 - DOMAIN,agh-yz.russel053.com
@@ -3360,6 +3368,7 @@ payload:
 - DOMAIN,dns.sstomp.nl
 - DOMAIN,stable-vpn.com
 - DOMAIN,stackfront.xyz
+- DOMAIN,use.star.is
 - DOMAIN,stargate.one
 - DOMAIN,task.words.starlordbob.com
 - DOMAIN,starruby.us
@@ -3371,7 +3380,6 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
