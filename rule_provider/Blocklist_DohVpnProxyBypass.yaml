@@ -1791,10 +1791,13 @@ payload:
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
 - DOMAIN,ietors.com
+- DOMAIN,worldbookonline.ignorelist.com
 - DOMAIN,dns.ihaveacloud.com
+- DOMAIN,hellotaka.iiiii.info
 - DOMAIN,iij.jp
 - DOMAIN,ikarosalpha.xyz
 - DOMAIN,dns.ikataruto.com
+- DOMAIN,ikhebdorst.nl
 - DOMAIN,iksde.com
 - DOMAIN,hp.ilove4ndan.com
 - DOMAIN,rhp.ilove4ndan.com
@@ -1832,7 +1835,10 @@ payload:
 - DOMAIN,instantunblock.com
 - DOMAIN,intego.com
 - DOMAIN,dns.interhub.cc
+- DOMAIN,interncloud.info
+- DOMAIN,internetbypass.com
 - DOMAIN,internetcloak.com
+- DOMAIN,interssh.com
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
 - DOMAIN,reallyreallyhardmathstuff333.intprosys.net
@@ -1892,12 +1898,14 @@ payload:
 - DOMAIN,jabber-germany.de
 - DOMAIN,jackyes.ovh
 - DOMAIN,jagoanssh.com
+- DOMAIN,jailbreaked.net
 - DOMAIN,mmm-yummy-tasty.jakesthoughts.xyz
 - DOMAIN,jalaliveapp.com
 - DOMAIN,jamesisbald.xyz
 - DOMAIN,tj.jamesxue.xyz
 - DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
+- DOMAIN,px.jarnus.xyz
 - DOMAIN,jayshaun.com
 - DOMAIN,jcdns.fun
 - DOMAIN,jellyvpn.com
@@ -1990,6 +1998,7 @@ payload:
 - DOMAIN,knowurcson.store
 - DOMAIN,knvpn.net
 - DOMAIN,ko-18948-tr.xyz
+- DOMAIN,www-proxy.koirdsuzu.com
 - DOMAIN,proxy.kokecoco.me
 - DOMAIN,www-proxy.kokecoco.me
 - DOMAIN,adguard.konikoni428.com
@@ -2075,6 +2084,7 @@ payload:
 - DOMAIN,dot.libredns.gr
 - DOMAIN,lifeisa.live
 - DOMAIN,dns.lihj.me
+- DOMAIN,likeproxy.com
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
 - DOMAIN,pa.linkall.uk
@@ -2315,7 +2325,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
