@@ -1197,7 +1197,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1336,7 +1335,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -2093,6 +2091,8 @@ payload:
 - DOMAIN,linkmefree.net
 - DOMAIN,linkmetube.com
 - DOMAIN,dns.linkr.ninja
+- DOMAIN,omar.linxy.eu
+- DOMAIN,omarcreatedthis.linxy.eu
 - DOMAIN,lionssh.com
 - DOMAIN,quickvpn.lipisoft.com
 - DOMAIN,africadns1.liquidtelecom.net
@@ -2146,6 +2146,7 @@ payload:
 - DOMAIN,mabuktogel.solutions
 - DOMAIN,maddw.com
 - DOMAIN,magiccloak.net
+- DOMAIN,mahnor.com
 - DOMAIN,mailkyb.co
 - DOMAIN,mailproxy.info
 - DOMAIN,mainprox.com
@@ -2325,6 +2326,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2377,6 +2379,7 @@ payload:
 - DOMAIN,nathanielgavin.lol
 - DOMAIN,vpn.nbvalente.fr
 - DOMAIN,vpn.ncapi.io
+- DOMAIN,ne1.ca
 - DOMAIN,bdedu.ne1.co
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
@@ -3671,6 +3674,7 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
+- DOMAIN,tpymainx01.ru
 - DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,linewize.tradekinginternational.com
