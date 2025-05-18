@@ -1202,7 +1202,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -1995,7 +1994,6 @@ payload:
 - DOMAIN,adguard.kiboko.it
 - DOMAIN,kickassproxy.com
 - DOMAIN,doh.kidzonet.io
-- DOMAIN,kilabit.info
 - DOMAIN,kiliclar.lol
 - DOMAIN,doh.killtw.im
 - DOMAIN,blog.kimiblock.top
@@ -3537,6 +3535,7 @@ payload:
 - DOMAIN,switch.ch
 - DOMAIN,switchvpn.com
 - DOMAIN,switchvpn.net
+- DOMAIN,swordvpn.com
 - DOMAIN,dns.sy.st
 - DOMAIN,dns.syaifullah.com
 - DOMAIN,symlexvpn.com
@@ -3665,6 +3664,7 @@ payload:
 - DOMAIN,tlsext.com
 - DOMAIN,tlz.asia
 - DOMAIN,tmhhd.tk
+- DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,tokit.site
 - DOMAIN,tonvpn.com
@@ -3712,6 +3712,7 @@ payload:
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
+- DOMAIN,travelvpn.info
 - DOMAIN,travelvpn.net
 - DOMAIN,ns.trcnet.fi
 - DOMAIN,consumervpn.trendmicro.com
@@ -3800,6 +3801,7 @@ payload:
 - DOMAIN,unblock2d.com
 - DOMAIN,unblock3d.biz
 - DOMAIN,unblock4you.com
+- DOMAIN,unblockableproxy.org
 - DOMAIN,unblockaccess.com
 - DOMAIN,unblockandsurf.com
 - DOMAIN,unblockanime.com
@@ -4009,6 +4011,7 @@ payload:
 - DOMAIN,videonew.online
 - DOMAIN,videoproxy.site
 - DOMAIN,videounblock.com
+- DOMAIN,videounblocked.com
 - DOMAIN,videounblocker.net
 - DOMAIN,vidproxy.com
 - DOMAIN,viewyoutube.net
@@ -4044,6 +4047,7 @@ payload:
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
 - DOMAIN,vpn-professional.company
+- DOMAIN,vpn-quick.com
 - DOMAIN,vpn4all.com
 - DOMAIN,vpn99.net
 - DOMAIN,vpnaccounts.com
@@ -4199,6 +4203,8 @@ payload:
 - DOMAIN,whyproxy.com
 - DOMAIN,dns.wibenson.cloud
 - DOMAIN,widevpn.com
+- DOMAIN,wiefy.com
+- DOMAIN,hellotaka.wiki.gd
 - DOMAIN,wikimedia-dns.org
 - DOMAIN,wiksa.com
 - DOMAIN,dns-1.wil.cloud
@@ -4261,6 +4267,7 @@ payload:
 - DOMAIN,dns.xlion.tw
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
+- DOMAIN,xsfwow.com
 - DOMAIN,hailey-complex.xst.cl
 - DOMAIN,dns.xuming.studio
 - DOMAIN,dns.xusqui.com
@@ -4296,6 +4303,7 @@ payload:
 - DOMAIN,youproxything.com
 - DOMAIN,youproxytube.com
 - DOMAIN,your-dns.run
+- DOMAIN,your-freedom.de
 - DOMAIN,yourcheat.com
 - DOMAIN,yourinternetproxy.info
 - DOMAIN,youtube-proxy.com
@@ -4307,6 +4315,7 @@ payload:
 - DOMAIN,yovbak.com
 - DOMAIN,yoyovpn.org
 - DOMAIN,ytcroxyproxy.com
+- DOMAIN,yui.cat
 - DOMAIN,dns.yuu-g.net
 - DOMAIN,yuvelirtut.website
 - DOMAIN,yuyuproxy.com
@@ -4336,6 +4345,7 @@ payload:
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
 - DOMAIN,zerovpn-app.com
+- DOMAIN,zexusdigital.online
 - DOMAIN,dns.zfsystem.tech
 - DOMAIN,zippyproxy.com
 - DOMAIN,doh.zknt.org
