@@ -1202,6 +1202,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -2341,7 +2342,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3063,6 +3063,7 @@ payload:
 - DOMAIN,quickproxies.com
 - DOMAIN,dns.quiet.rocks
 - DOMAIN,quintex.com
+- DOMAIN,quotivatehub.com
 - DOMAIN,ant.dns.qwer.pw
 - DOMAIN,dog.dns.qwer.pw
 - DOMAIN,frog.dns.qwer.pw
@@ -3104,6 +3105,7 @@ payload:
 - DOMAIN,dns.reckoningslug.name
 - DOMAIN,redhoodie.site
 - DOMAIN,redproxy.info
+- DOMAIN,redschool.info
 - DOMAIN,redshieldvpn.com
 - DOMAIN,dns.redvau.lt
 - DOMAIN,reezus.us
@@ -3136,6 +3138,7 @@ payload:
 - DOMAIN,riseup.net
 - DOMAIN,rnblyatclub.online
 - DOMAIN,skibidirizz.robinhud.com
+- DOMAIN,rocketprox.com
 - DOMAIN,rocketube.online
 - DOMAIN,rockwell.website
 - DOMAIN,dns.roedel.cloud
@@ -3148,6 +3151,7 @@ payload:
 - DOMAIN,dns.rootlab.top
 - DOMAIN,roskomnadzorgorivadu.ru
 - DOMAIN,dns.rotunneling.net
+- DOMAIN,roundrockisd.online
 - DOMAIN,o.rsaikat.com
 - DOMAIN,au.rslvr.eu
 - DOMAIN,bg.rslvr.eu
