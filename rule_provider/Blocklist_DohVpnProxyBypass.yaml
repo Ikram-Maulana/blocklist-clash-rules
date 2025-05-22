@@ -197,6 +197,7 @@ payload:
 - DOMAIN,ahoj.email
 - DOMAIN,airdns.org
 - DOMAIN,airvpn.org
+- DOMAIN,study.ajhurst.org
 - DOMAIN,akunssh.net
 - DOMAIN,use.alabasgames.com
 - DOMAIN,dns.albony.xyz
@@ -501,6 +502,7 @@ payload:
 - DOMAIN,browsec.com
 - DOMAIN,browser.lol
 - DOMAIN,browserling.com
+- DOMAIN,edu.bsfa.info
 - DOMAIN,travel.bsfa.info
 - DOMAIN,doh.bt.com
 - DOMAIN,btguard.com
@@ -1174,6 +1176,7 @@ payload:
 - DOMAIN,earth-vpn.net
 - DOMAIN,earthvpn.com
 - DOMAIN,adguard.easez.net
+- DOMAIN,study.info.east-kazakhstan.su
 - DOMAIN,filter-admins-come-and-get-me.easterndns.com
 - DOMAIN,goguardian-is-not-my-guardian.easterndns.com
 - DOMAIN,konnnitiha----saiko.easterndns.com
@@ -1601,6 +1604,7 @@ payload:
 - DOMAIN,intertravel.guillaumevanstrydonck.be
 - DOMAIN,gumm.org
 - DOMAIN,domain.guojinloong.cn
+- DOMAIN,edu.gurdit.com
 - DOMAIN,dns.gutwe.in
 - DOMAIN,gvirabi.com
 - DOMAIN,gwardgxd.baby
@@ -1840,6 +1844,7 @@ payload:
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
 - DOMAIN,invisv.com
+- DOMAIN,use.edu.iownyour.org
 - DOMAIN,ioxy.de
 - DOMAIN,ipbuzz.net
 - DOMAIN,ipcamouflage.com
@@ -2255,6 +2260,7 @@ payload:
 - DOMAIN,edu.moldeo.org
 - DOMAIN,history-of-earth.moldeo.org
 - DOMAIN,only-shooting-stars-breakthe.moldeo.org
+- DOMAIN,study.moldeo.org
 - DOMAIN,dns.molinero.dev
 - DOMAIN,naganohara-yoimiya.momokko.moe
 - DOMAIN,dns.momou.ch
@@ -2335,6 +2341,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2838,6 +2845,7 @@ payload:
 - DOMAIN,prointern.info
 - DOMAIN,project-evoex.de
 - DOMAIN,dns.propheci.xyz
+- DOMAIN,edu.prostitutki-na-vyezd.com
 - DOMAIN,prostovpn.org
 - DOMAIN,vpn-api.proton.me
 - DOMAIN,protonstatus.com
@@ -3658,6 +3666,7 @@ payload:
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,tokit.site
+- DOMAIN,app.tollgatevillagetn.com
 - DOMAIN,tonvpn.com
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
@@ -3694,6 +3703,7 @@ payload:
 - DOMAIN,doh.totoro.pub
 - DOMAIN,touchvpn.net
 - DOMAIN,towervpn.com
+- DOMAIN,home.sso.toythieves.com
 - DOMAIN,tpymainx01.ru
 - DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
