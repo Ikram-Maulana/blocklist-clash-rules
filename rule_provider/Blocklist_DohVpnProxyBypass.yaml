@@ -1203,6 +1203,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -3666,7 +3667,6 @@ payload:
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,tokit.site
-- DOMAIN,app.tollgatevillagetn.com
 - DOMAIN,tonvpn.com
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
