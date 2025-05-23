@@ -1105,6 +1105,7 @@ payload:
 - DOMAIN,b.safe.ns.dnslify.com
 - DOMAIN,dnslow.me
 - DOMAIN,dns.dnsoverhttps.net
+- DOMAIN,dnstunnel.run
 - DOMAIN,adblock-dot.dnswarden.com
 - DOMAIN,adult-filter-dot.dnswarden.com
 - DOMAIN,doh.asia.dnswarden.com
@@ -3430,7 +3431,6 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
@@ -4148,6 +4148,7 @@ payload:
 - DOMAIN,waselpro.com
 - DOMAIN,watchunblocked.com
 - DOMAIN,dns.engineer.web.id
+- DOMAIN,h4g3z1-doh-vpn-proxy-bypass.web.app
 - DOMAIN,doh.this.web.id
 - DOMAIN,1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 - DOMAIN,webbrowser.live
