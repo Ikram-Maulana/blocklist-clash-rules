@@ -317,7 +317,6 @@ payload:
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,atvsh.ir
-- DOMAIN,dns.auapi.fun
 - DOMAIN,stevenisafemboy.auraria.org
 - DOMAIN,aurora-softworks.xyz
 - DOMAIN,auto-aufladen.de
@@ -506,7 +505,6 @@ payload:
 - DOMAIN,travel.bsfa.info
 - DOMAIN,doh.bt.com
 - DOMAIN,btguard.com
-- DOMAIN,bubbleset.com
 - DOMAIN,goose.buckyfan.net
 - DOMAIN,buffered.com
 - DOMAIN,stratus.bugz.fr
@@ -576,7 +574,6 @@ payload:
 - DOMAIN,whydidiask.chickenkiller.com
 - DOMAIN,dns.chilimac.net
 - DOMAIN,chillglobal.com
-- DOMAIN,chinagrows.com
 - DOMAIN,dns.christerwaren.fi
 - DOMAIN,dns.christian.moe
 - DOMAIN,christophbrem.com
@@ -1105,7 +1102,6 @@ payload:
 - DOMAIN,b.safe.ns.dnslify.com
 - DOMAIN,dnslow.me
 - DOMAIN,dns.dnsoverhttps.net
-- DOMAIN,dnstunnel.run
 - DOMAIN,adblock-dot.dnswarden.com
 - DOMAIN,adult-filter-dot.dnswarden.com
 - DOMAIN,doh.asia.dnswarden.com
@@ -1204,7 +1200,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
@@ -2207,7 +2202,6 @@ payload:
 - DOMAIN,meganerd.nl
 - DOMAIN,megaproxy.com
 - DOMAIN,megaproxylist.net
-- DOMAIN,mehide.asia
 - DOMAIN,mehide.org
 - DOMAIN,mehmetarikan.tech
 - DOMAIN,admin.mehtionthebeat.com
@@ -2343,7 +2337,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2618,7 +2611,6 @@ payload:
 - DOMAIN,openvpn.com
 - DOMAIN,openvpn.net
 - DOMAIN,openvpn-ssh.com
-- DOMAIN,opera-proxy.net
 - DOMAIN,musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id
 - DOMAIN,this.revolution.been.televised.df.cissp.or.id
 - DOMAIN,jacksunblocked.malam.or.id
@@ -2751,7 +2743,6 @@ payload:
 - DOMAIN,pkrreaperr.me
 - DOMAIN,pktriot.net
 - DOMAIN,pkw-aufladen.de
-- DOMAIN,placenetworks.com
 - DOMAIN,plainproxies.com
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
@@ -2910,7 +2901,6 @@ payload:
 - DOMAIN,proxy-best.com
 - DOMAIN,proxy-bypass.com
 - DOMAIN,proxy-german.de
-- DOMAIN,proxy-internet.info
 - DOMAIN,proxy-n-vpn.com
 - DOMAIN,proxy-search.com
 - DOMAIN,proxy-seller.com
@@ -3140,7 +3130,6 @@ payload:
 - DOMAIN,romirely.tech
 - DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
-- DOMAIN,roogen.com
 - DOMAIN,roonyx.com
 - DOMAIN,jaiguneeds.root.sx
 - DOMAIN,dns.rootlab.top
@@ -3166,7 +3155,6 @@ payload:
 - DOMAIN,doh.runsel.id
 - DOMAIN,rushproxy.com
 - DOMAIN,agh-yz.russel053.com
-- DOMAIN,drs.rustsword.com
 - DOMAIN,rustynailspace.com
 - DOMAIN,rusvpn.com
 - DOMAIN,rvpn.ws
@@ -3536,7 +3524,6 @@ payload:
 - DOMAIN,switch.ch
 - DOMAIN,switchvpn.com
 - DOMAIN,switchvpn.net
-- DOMAIN,swordvpn.com
 - DOMAIN,dns.sy.st
 - DOMAIN,dns.syaifullah.com
 - DOMAIN,symlexvpn.com
@@ -3713,7 +3700,6 @@ payload:
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
-- DOMAIN,travelvpn.info
 - DOMAIN,travelvpn.net
 - DOMAIN,ns.trcnet.fi
 - DOMAIN,consumervpn.trendmicro.com
@@ -3853,7 +3839,6 @@ payload:
 - DOMAIN,unblockedarabic.com
 - DOMAIN,unblockedbay.com
 - DOMAIN,unblockedbook.net
-- DOMAIN,unblockedbrowser.com
 - DOMAIN,unblockedme.com
 - DOMAIN,unblockedmusic.net
 - DOMAIN,unblockedonline.net
@@ -4039,11 +4024,9 @@ payload:
 - DOMAIN,vpn-account.com
 - DOMAIN,vpn-byen.dk
 - DOMAIN,vpn-fastest.com
-- DOMAIN,vpn-for-test.ru
 - DOMAIN,vpn-free.com
 - DOMAIN,vpn-free.download
 - DOMAIN,vpn-professional.company
-- DOMAIN,vpn-quick.com
 - DOMAIN,vpn4all.com
 - DOMAIN,vpn99.net
 - DOMAIN,vpnaccounts.com
@@ -4065,7 +4048,6 @@ payload:
 - DOMAIN,vpneasy.info
 - DOMAIN,proxy.vpner.com
 - DOMAIN,vpnfan.com
-- DOMAIN,vpnfree.info
 - DOMAIN,vpngame.com
 - DOMAIN,vpngate.net
 - DOMAIN,vpngate2.jp
@@ -4218,7 +4200,6 @@ payload:
 - DOMAIN,wiseghostapp.com
 - DOMAIN,witopia.net
 - DOMAIN,wlvpn.com
-- DOMAIN,wobti.com
 - DOMAIN,lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 - DOMAIN,wonderland.ws
 - DOMAIN,clearweb.woodbridge.club
@@ -4310,7 +4291,6 @@ payload:
 - DOMAIN,youtubebyclick.com
 - DOMAIN,youtubefreeproxy.net
 - DOMAIN,youtubeunblocked.live
-- DOMAIN,youtubeunblocked.org
 - DOMAIN,yovbak.com
 - DOMAIN,yoyovpn.org
 - DOMAIN,ytcroxyproxy.com

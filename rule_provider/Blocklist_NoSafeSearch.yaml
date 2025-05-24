@@ -26,7 +26,6 @@ payload:
 - DOMAIN,search.bluelock.org
 - DOMAIN,boomle.com
 - DOMAIN,search.bowlman.org
-- DOMAIN,searx.catfluori.de
 - DOMAIN,search.aol.co.uk
 - DOMAIN,websearch.excite.co.jp
 - DOMAIN,searx.com.au
@@ -172,6 +171,7 @@ payload:
 - DOMAIN,lx.vern.cc
 - DOMAIN,wg.vern.cc
 - DOMAIN,searx.vitanetworks.link
+- DOMAIN,h4g3z1-nosafesearch.web.app
 - DOMAIN,webcrawler.com
 - DOMAIN,searx.wegeeks.win
 - DOMAIN,wiby.me

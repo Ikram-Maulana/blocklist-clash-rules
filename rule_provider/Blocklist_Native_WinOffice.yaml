@@ -320,6 +320,7 @@ payload:
 - DOMAIN,bc.bingads.microsoft.com
 - DOMAIN,secure.bc.bingads.microsoft.com
 - DOMAIN,bcp.bingads.microsoft.com
+- DOMAIN,adinquiry.bcp.bingads.microsoft.com
 - DOMAIN,ui.bcp.bingads.microsoft.com
 - DOMAIN,beta.bingads.microsoft.com
 - DOMAIN,ch1b.bingads.microsoft.com
@@ -330,6 +331,8 @@ payload:
 - DOMAIN,feedback.bingads.microsoft.com
 - DOMAIN,help.bingads.microsoft.com
 - DOMAIN,m.bingads.microsoft.com
+- DOMAIN,nirvana.bingads.microsoft.com
+- DOMAIN,preview-services.bingads.microsoft.com
 - DOMAIN,reportingapi.bingads.microsoft.com
 - DOMAIN,sandbox.bingads.microsoft.com
 - DOMAIN,bulk.api.sandbox.bingads.microsoft.com
@@ -664,6 +667,7 @@ payload:
 - DOMAIN,l4.tb.events.data.trafficmanager.net
 - DOMAIN,uk.events.data.trafficmanager.net
 - DOMAIN,us.events.data.trafficmanager.net
+- DOMAIN,us-v20.events.data.trafficmanager.net
 - DOMAIN,vortex.data.trafficmanager.net
 - DOMAIN,asimov.vortex.data.trafficmanager.net
 - DOMAIN,asimov-win.vortex.data.trafficmanager.net
@@ -714,6 +718,7 @@ payload:
 - DOMAIN,word-telemetry.wac.trafficmanager.net
 - DOMAIN,win-global-asimov-leafs-events-data.trafficmanager.net
 - DOMAIN,dc.services.visualstudio.com
+- DOMAIN,h4g3z1-native.winoffice.web.app
 - DOMAIN,activity.windows.com
 - DOMAIN,assets.activity.windows.com
 - DOMAIN,canary.activity.windows.com

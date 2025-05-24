@@ -212,6 +212,7 @@ payload:
 - DOMAIN,tr-onrt-stsdk.vivoglobal.com
 - DOMAIN,tr-ort-stsdk.vivoglobal.com
 - DOMAIN,tr-p.vivoglobal.com
+- DOMAIN,tr-pnrt-stsdk.vivoglobal.com
 - DOMAIN,tr-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,tr-st-sl.vivoglobal.com
 - DOMAIN,tr-st-sysupgrade.vivoglobal.com
@@ -226,4 +227,5 @@ payload:
 - DOMAIN,xn-ex-adreq-asa-c5b.vivoglobal.com
 - DOMAIN,zasc-vcode-api.vivoglobal.com
 - DOMAIN,zasc-vcode-od.vivoglobal.com
+- DOMAIN,h4g3z1-native.vivo.web.app
 - DOMAIN,vhs.wwstat.com
