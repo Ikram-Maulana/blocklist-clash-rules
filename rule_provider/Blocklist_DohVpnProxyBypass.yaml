@@ -1102,6 +1102,7 @@ payload:
 - DOMAIN,b.safe.ns.dnslify.com
 - DOMAIN,dnslow.me
 - DOMAIN,dns.dnsoverhttps.net
+- DOMAIN,dnstunnel.run
 - DOMAIN,adblock-dot.dnswarden.com
 - DOMAIN,adult-filter-dot.dnswarden.com
 - DOMAIN,doh.asia.dnswarden.com
@@ -1200,10 +1201,12 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,dns.elemental.software
 - DOMAIN,elephantvpn.com
 - DOMAIN,elgatobypasses.org
+- DOMAIN,eliatofani.ovh
 - DOMAIN,dns.eliv.kr
 - DOMAIN,emban-networks.com
 - DOMAIN,emeraldeyex.dev
@@ -1338,7 +1341,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
