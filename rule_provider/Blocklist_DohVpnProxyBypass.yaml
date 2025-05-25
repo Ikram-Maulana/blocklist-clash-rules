@@ -351,6 +351,7 @@ payload:
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
 - DOMAIN,hola-client-cdn4.b-cdn.net
+- DOMAIN,b-dns.se
 - DOMAIN,dns.b33.space
 - DOMAIN,i.am.selling.b33r.us
 - DOMAIN,dns.b612.me
@@ -368,6 +369,7 @@ payload:
 - DOMAIN,plant-selection.baumgardner.us
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1102,7 +1104,6 @@ payload:
 - DOMAIN,b.safe.ns.dnslify.com
 - DOMAIN,dnslow.me
 - DOMAIN,dns.dnsoverhttps.net
-- DOMAIN,dnstunnel.run
 - DOMAIN,adblock-dot.dnswarden.com
 - DOMAIN,adult-filter-dot.dnswarden.com
 - DOMAIN,doh.asia.dnswarden.com
@@ -1341,6 +1342,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
 - DOMAIN,flashput.net
@@ -1401,7 +1403,6 @@ payload:
 - DOMAIN,freebypassproxy.com
 - DOMAIN,freecanadavpn.com
 - DOMAIN,freecavpn.com
-- DOMAIN,hkname.freecdn.one
 - DOMAIN,freeconnect.link
 - DOMAIN,freedom.cx
 - DOMAIN,freedome-vpn.net
@@ -2339,6 +2340,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
