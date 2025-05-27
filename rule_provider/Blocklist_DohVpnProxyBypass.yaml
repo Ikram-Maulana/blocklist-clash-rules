@@ -351,7 +351,6 @@ payload:
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
 - DOMAIN,hola-client-cdn4.b-cdn.net
-- DOMAIN,b-dns.se
 - DOMAIN,dns.b33.space
 - DOMAIN,i.am.selling.b33r.us
 - DOMAIN,dns.b612.me
@@ -369,7 +368,6 @@ payload:
 - DOMAIN,plant-selection.baumgardner.us
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
-- DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -1805,6 +1803,7 @@ payload:
 - DOMAIN,rhp.ilove4ndan.com
 - DOMAIN,ilumu.com
 - DOMAIN,ilysk.lol
+- DOMAIN,dns.imaicool.com
 - DOMAIN,noads.imbuffering.com
 - DOMAIN,dns.imchristian.de
 - DOMAIN,dns.immanuelschaffer.de
