@@ -99,7 +99,6 @@ payload:
 - DOMAIN,notfound-google.404.mn
 - DOMAIN,doh.42l.fr
 - DOMAIN,bannana.web-doge.42web.io
-- DOMAIN,dns.444723.xyz
 - DOMAIN,46sdzf3zdg1dxg2.us
 - DOMAIN,4everproxy.com
 - DOMAIN,ns2.4netguides.org
@@ -117,8 +116,6 @@ payload:
 - DOMAIN,i-ready.69.mu
 - DOMAIN,71745718.online
 - DOMAIN,7713.info
-- DOMAIN,doh.774445.xyz
-- DOMAIN,dns.775467.xyz
 - DOMAIN,777schoolutilities.website
 - DOMAIN,777surfer.info
 - DOMAIN,dns.7vpn.com
@@ -126,7 +123,6 @@ payload:
 - DOMAIN,87826100.xyz
 - DOMAIN,dns.886886886.xyz
 - DOMAIN,dns.888654.xyz
-- DOMAIN,dns.8887744.xyz
 - DOMAIN,8888.google
 - DOMAIN,8proxy.com
 - DOMAIN,8v9m.com
@@ -351,6 +347,7 @@ payload:
 - DOMAIN,doh2.b-cdn.net
 - DOMAIN,freevpnme.b-cdn.net
 - DOMAIN,hola-client-cdn4.b-cdn.net
+- DOMAIN,b-dns.se
 - DOMAIN,dns.b33.space
 - DOMAIN,i.am.selling.b33r.us
 - DOMAIN,dns.b612.me
@@ -364,10 +361,10 @@ payload:
 - DOMAIN,jp-dns1.bancuh.com
 - DOMAIN,sg-dns1.bancuh.com
 - DOMAIN,base99.com
-- DOMAIN,doh.battle.christmas
 - DOMAIN,plant-selection.baumgardner.us
 - DOMAIN,bazooki-infra.dev
 - DOMAIN,bdns.io
+- DOMAIN,bdns.nu
 - DOMAIN,bdns.pro
 - DOMAIN,beapasswpn.com
 - DOMAIN,dns.beardic.cn
@@ -3419,6 +3416,7 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
