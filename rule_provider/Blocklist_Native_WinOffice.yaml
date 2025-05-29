@@ -484,11 +484,13 @@ payload:
 - DOMAIN,b-ring-fallback.msedge.net
 - DOMAIN,c-ring.msedge.net
 - DOMAIN,c-ring-fallback.msedge.net
+- DOMAIN,dual-s-ring.msedge.net
 - DOMAIN,fp.msedge.net
 - DOMAIN,k-ring.msedge.net
 - DOMAIN,k-ring-fallback.msedge.net
 - DOMAIN,ln-ring.msedge.net
 - DOMAIN,ln-ring-fallback.msedge.net
+- DOMAIN,s-ring.msedge.net
 - DOMAIN,s-ring-fallback.msedge.net
 - DOMAIN,t-ring.msedge.net
 - DOMAIN,t-ring-fallback.msedge.net
