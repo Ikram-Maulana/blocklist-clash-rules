@@ -82,6 +82,7 @@ payload:
 - DOMAIN,2ub.top
 - DOMAIN,30t.online
 - DOMAIN,doh.30x.me
+- DOMAIN,free.30x.ru
 - DOMAIN,33bitbank.com
 - DOMAIN,351242444.xyz
 - DOMAIN,dns.354688.xyz
@@ -152,6 +153,7 @@ payload:
 - DOMAIN,data.focus.abonament.net
 - DOMAIN,abouts.lol
 - DOMAIN,doh.abraservice.xyz
+- DOMAIN,jp.absl.ro
 - DOMAIN,res-acst1.absolight.net
 - DOMAIN,res-acst2.absolight.net
 - DOMAIN,res-acst3.absolight.net
@@ -866,6 +868,7 @@ payload:
 - DOMAIN,adguard.gbrossi.com.br
 - DOMAIN,german-proxy.com.de
 - DOMAIN,germany-proxy.com.de
+- DOMAIN,btg.go4it.com.mx
 - DOMAIN,doge.intinet.com.ar
 - DOMAIN,dns.joaofidelix.com.br
 - DOMAIN,12bucklemyshoe.kalbas.com.vn
@@ -1047,10 +1050,12 @@ payload:
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
 - DOMAIN,dns.dev-umbrellagov.com
+- DOMAIN,study.know.devreler.com
 - DOMAIN,dewassh.net
 - DOMAIN,mainframe.dewed.de
 - DOMAIN,dns.dgea.fr
 - DOMAIN,dialertoserver.com
+- DOMAIN,utopia.tests.dianmarisa.com
 - DOMAIN,dns.diarbagus.id
 - DOMAIN,dev.dietpc.org
 - DOMAIN,help.dietpc.org
@@ -1077,6 +1082,7 @@ payload:
 - DOMAIN,divavu.com
 - DOMAIN,coolgams.dk-condos.com
 - DOMAIN,hihohornsluttlekidspop.dmdistribution.net
+- DOMAIN,kahoot.it.dmtr.ru
 - DOMAIN,easydomain.dnet.hu
 - DOMAIN,dns.expert
 - DOMAIN,dns.google
@@ -1474,7 +1480,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1919,6 +1924,7 @@ payload:
 - DOMAIN,travel.connect.hqcloud.de
 - DOMAIN,greenbeandean.hs.vc
 - DOMAIN,jahyussif.hs.vc
+- DOMAIN,be.hse.tw
 - DOMAIN,code.edu.hse.tw
 - DOMAIN,hshh.org
 - DOMAIN,hsselite.com
@@ -2198,6 +2204,7 @@ payload:
 - DOMAIN,kingsurfproxy.com
 - DOMAIN,howto.piano.kiptrak.com
 - DOMAIN,kirushop.xyz
+- DOMAIN,good.kje.us
 - DOMAIN,dns1.klcd.eu
 - DOMAIN,dns2.klcd.eu
 - DOMAIN,klcknerrip.com
@@ -2264,6 +2271,7 @@ payload:
 - DOMAIN,larva.app
 - DOMAIN,dns.lashes-brow.ru
 - DOMAIN,lastentarvike.fi
+- DOMAIN,chart.words.lasvegasanonymous.org
 - DOMAIN,eu1.dns.lavate.ch
 - DOMAIN,us1.dns.lavate.ch
 - DOMAIN,inboxdayo.laviewddns.com
@@ -2410,6 +2418,7 @@ payload:
 - DOMAIN,luh.masgas.cl
 - DOMAIN,doh.maskab.com
 - DOMAIN,maskedip.com
+- DOMAIN,paper.train.massalin.com
 - DOMAIN,sage.know.massloading.net
 - DOMAIN,master-clock.us
 - DOMAIN,masters-of-cloud.de
@@ -2605,6 +2614,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2897,6 +2907,7 @@ payload:
 - DOMAIN,openvpn.com
 - DOMAIN,openvpn.net
 - DOMAIN,openvpn-ssh.com
+- DOMAIN,flipgrid.opior.com
 - DOMAIN,musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id
 - DOMAIN,this.revolution.been.televised.df.cissp.or.id
 - DOMAIN,hitman.malam.or.id
@@ -2952,6 +2963,7 @@ payload:
 - DOMAIN,pandashield.com
 - DOMAIN,pandavpn.pro
 - DOMAIN,pandavpnpro.com
+- DOMAIN,pangdavpn.com
 - DOMAIN,adguard.pangerl.it
 - DOMAIN,pango-paas.co
 - DOMAIN,pankvyh.xyz
@@ -3490,6 +3502,7 @@ payload:
 - DOMAIN,rustynailspace.com
 - DOMAIN,rusvpn.com
 - DOMAIN,rvpn.ws
+- DOMAIN,myapforums.rwbcode.com
 - DOMAIN,dns1.ryan-palmer.com
 - DOMAIN,vpn.rynet.link
 - DOMAIN,s4m.tech
@@ -3776,7 +3789,6 @@ payload:
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,error.proxy.startpage.com
-- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us-browse.startpage.com
@@ -3880,6 +3892,7 @@ payload:
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
 - DOMAIN,popteeee-oawhnefoua-foaebaouef.swanndvr.net
+- DOMAIN,popteeeeee-sajoiwejfo-huhu.swanndvr.net
 - DOMAIN,ramm-ume-pro.swanndvr.net
 - DOMAIN,rammerhead-10.swanndvr.net
 - DOMAIN,swapip.com
@@ -4126,6 +4139,7 @@ payload:
 - DOMAIN,tuxlervpn.com
 - DOMAIN,tvone.info
 - DOMAIN,dmvontop.twilightparadox.com
+- DOMAIN,rylandmadethisjustkidding.twilightparadox.com
 - DOMAIN,spacetechnology.twilightparadox.com
 - DOMAIN,twingate.com
 - DOMAIN,twinklestarknights.com
@@ -4795,6 +4809,7 @@ payload:
 - DOMAIN,zen44.com
 - DOMAIN,zend2.com
 - DOMAIN,zendproxy.com
+- DOMAIN,utopia.music.zenfitness.com
 - DOMAIN,zenmate.com
 - DOMAIN,cheifsarebad.zenrelax.ro
 - DOMAIN,zenrows.com
