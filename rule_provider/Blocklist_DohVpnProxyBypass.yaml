@@ -241,6 +241,7 @@ payload:
 - DOMAIN,aluu.xyz
 - DOMAIN,dns.alvosec.com
 - DOMAIN,alwaysvpn.com
+- DOMAIN,bolting.alyaf.com
 - DOMAIN,amandahugnkiss.org
 - DOMAIN,amanvpn.com
 - DOMAIN,ec2-34-194-122-51.compute-1.amazonaws.com
@@ -598,6 +599,7 @@ payload:
 - DOMAIN,careproxy.com
 - DOMAIN,dns.carson-family.com
 - DOMAIN,help.cartes.cl
+- DOMAIN,zscaler.casarosalba.com
 - DOMAIN,casinovpn.com
 - DOMAIN,dns.caspervk.net
 - DOMAIN,salyte.cassidycamp.work
@@ -1480,6 +1482,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2362,6 +2365,7 @@ payload:
 - DOMAIN,edu.loskks.org
 - DOMAIN,lotofabric.ru
 - DOMAIN,loubonde.xyz
+- DOMAIN,bolt.louis-ip.com
 - DOMAIN,eiken-jp.lozan.com
 - DOMAIN,worldwaronehistory.lozan.com
 - DOMAIN,n5.lsasss.com
@@ -2673,6 +2677,7 @@ payload:
 - DOMAIN,nrr.ne1.co
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
+- DOMAIN,z-brokethescaler.neighborhoodcloud.com
 - DOMAIN,nekoray.org
 - DOMAIN,qwertyabc123.nekros.info
 - DOMAIN,smart.quiz.nelsonshack.com
@@ -3948,6 +3953,7 @@ payload:
 - DOMAIN,testdomainname.xyz
 - DOMAIN,cloud.tezoi.com
 - DOMAIN,tgbio.ru
+- DOMAIN,bigchez.thailandhappiness.com
 - DOMAIN,thankvpn.com
 - DOMAIN,shark.thatguy.space
 - DOMAIN,the-cloak.com
@@ -4630,6 +4636,7 @@ payload:
 - DOMAIN,janvet.website.pl
 - DOMAIN,websitebypass.com
 - DOMAIN,websiteproxy.net
+- DOMAIN,websiteunblock.net
 - DOMAIN,websurf.in
 - DOMAIN,websurfproxy.me
 - DOMAIN,websynchrony.com
@@ -4828,7 +4835,6 @@ payload:
 - DOMAIN,zorrovpn.io
 - DOMAIN,calculus.zothow.com
 - DOMAIN,diagnostics.zothow.com
-- DOMAIN,zougloub.eu
 - DOMAIN,zpath.net
 - DOMAIN,zpn.im
 - DOMAIN,zproxy.de

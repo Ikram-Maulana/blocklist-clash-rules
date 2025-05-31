@@ -84,6 +84,7 @@ payload:
 - DOMAIN,eu-pnrt-stsdk.vivoglobal.com
 - DOMAIN,eu-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,eu-st-sl.vivoglobal.com
+- DOMAIN,eu-stsdk.vivoglobal.com
 - DOMAIN,eu-timesync.vivoglobal.com
 - DOMAIN,eu-vcode-api.vivoglobal.com
 - DOMAIN,eu-vcode-od.vivoglobal.com
