@@ -210,6 +210,7 @@ payload:
 - DOMAIN,tr-cota.vivoglobal.com
 - DOMAIN,tr-domaincfg.vivoglobal.com
 - DOMAIN,tr-err-up.vivoglobal.com
+- DOMAIN,tr-gdpr-vgc-datacenter.vivoglobal.com
 - DOMAIN,tr-onrt-stsdk.vivoglobal.com
 - DOMAIN,tr-ort-stsdk.vivoglobal.com
 - DOMAIN,tr-p.vivoglobal.com

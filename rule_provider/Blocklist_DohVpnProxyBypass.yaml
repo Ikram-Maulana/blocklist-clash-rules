@@ -1482,7 +1482,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -4835,6 +4834,7 @@ payload:
 - DOMAIN,zorrovpn.io
 - DOMAIN,calculus.zothow.com
 - DOMAIN,diagnostics.zothow.com
+- DOMAIN,zougloub.eu
 - DOMAIN,zpath.net
 - DOMAIN,zpn.im
 - DOMAIN,zproxy.de
