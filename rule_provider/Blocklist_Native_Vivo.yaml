@@ -39,13 +39,11 @@ payload:
 - DOMAIN,asia-vcode-or.vivoglobal.com
 - DOMAIN,asia-vpushonrt-stsdk.vivoglobal.com
 - DOMAIN,asia-vpushort-stsdk.vivoglobal.com
-- DOMAIN,asia-weather.vivoglobal.com
 - DOMAIN,cl-domaincfg.vivoglobal.com
 - DOMAIN,cl-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,cl-st-sl.vivoglobal.com
 - DOMAIN,cl-vcode-api.vivoglobal.com
 - DOMAIN,cl-vcode-od.vivoglobal.com
-- DOMAIN,cl-weather.vivoglobal.com
 - DOMAIN,cname-ali-asia-stsdk.vivoglobal.com
 - DOMAIN,cname-asia-st-exappupgrade.vivoglobal.com
 - DOMAIN,cname-asia-stsdk09.vivoglobal.com
@@ -66,7 +64,6 @@ payload:
 - DOMAIN,co-vcode-api.vivoglobal.com
 - DOMAIN,co-vcode-od.vivoglobal.com
 - DOMAIN,co-vcode-or.vivoglobal.com
-- DOMAIN,co-weather.vivoglobal.com
 - DOMAIN,de-err-up.vivoglobal.com
 - DOMAIN,de-gdpr-err-up.vivoglobal.com
 - DOMAIN,de-gdpr-vcode-od.vivoglobal.com
@@ -89,7 +86,6 @@ payload:
 - DOMAIN,eu-vcode-api.vivoglobal.com
 - DOMAIN,eu-vcode-od.vivoglobal.com
 - DOMAIN,eu-vcode-or.vivoglobal.com
-- DOMAIN,eu-weather.vivoglobal.com
 - DOMAIN,ex-adreq-asia.vivoglobal.com
 - DOMAIN,ex-adreq-in.vivoglobal.com
 - DOMAIN,ex-romsp-unifyconfig.vivoglobal.com
@@ -124,7 +120,6 @@ payload:
 - DOMAIN,in-vcode-or.vivoglobal.com
 - DOMAIN,in-vpushonrt-stsdk.vivoglobal.com
 - DOMAIN,in-vpushort-stsdk.vivoglobal.com
-- DOMAIN,in-weather.vivoglobal.com
 - DOMAIN,kz-cname-sin01-bigdata.vivoglobal.com
 - DOMAIN,kz-err-up.vivoglobal.com
 - DOMAIN,kz-monitor-stsdk.vivoglobal.com
@@ -142,7 +137,6 @@ payload:
 - DOMAIN,kz-vcode-api.vivoglobal.com
 - DOMAIN,kz-vcode-od.vivoglobal.com
 - DOMAIN,kz-vcode-or.vivoglobal.com
-- DOMAIN,kz-weather.vivoglobal.com
 - DOMAIN,monitor-stsdk.vivoglobal.com
 - DOMAIN,mx-cota.vivoglobal.com
 - DOMAIN,mx-domaincfg.vivoglobal.com
@@ -158,7 +152,6 @@ payload:
 - DOMAIN,mx-vcode-api.vivoglobal.com
 - DOMAIN,mx-vcode-od.vivoglobal.com
 - DOMAIN,mx-vcode-or.vivoglobal.com
-- DOMAIN,mx-weather.vivoglobal.com
 - DOMAIN,onrt-stsdk.vivoglobal.com
 - DOMAIN,ort-stsdk.vivoglobal.com
 - DOMAIN,pnrt-stsdk.vivoglobal.com
@@ -188,7 +181,6 @@ payload:
 - DOMAIN,ru-vcode-api.vivoglobal.com
 - DOMAIN,ru-vcode-od.vivoglobal.com
 - DOMAIN,ru-vcode-or.vivoglobal.com
-- DOMAIN,ru-weather.vivoglobal.com
 - DOMAIN,sca-cota.vivoglobal.com
 - DOMAIN,sca-domaincfg.vivoglobal.com
 - DOMAIN,sca-err-up.vivoglobal.com
@@ -203,7 +195,6 @@ payload:
 - DOMAIN,sca-vcode-api.vivoglobal.com
 - DOMAIN,sca-vcode-od.vivoglobal.com
 - DOMAIN,sca-vcode-or.vivoglobal.com
-- DOMAIN,sca-weather.vivoglobal.com
 - DOMAIN,sg-cfg-stsdk.vivoglobal.com
 - DOMAIN,stsdk.vivoglobal.com
 - DOMAIN,tr-album-api.vivoglobal.com
