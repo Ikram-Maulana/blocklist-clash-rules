@@ -586,6 +586,7 @@ payload:
 - DOMAIN,register.cakk.us
 - DOMAIN,calculusproblems.online
 - DOMAIN,solve.proof.california-red.com
+- DOMAIN,dns.caliph.dev
 - DOMAIN,callies-online.site
 - DOMAIN,bananakun.camdvr.org
 - DOMAIN,canadaproxy.info
@@ -1206,6 +1207,7 @@ payload:
 - DOMAIN,v.dnscrypt.uk
 - DOMAIN,dnsforfamily.com
 - DOMAIN,dnsforge.de
+- DOMAIN,dnsguard.pub
 - DOMAIN,dns.dnshome.de
 - DOMAIN,jiyuu.dnsitalia.org
 - DOMAIN,doh.dnslify.com
@@ -3794,10 +3796,8 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,error.proxy.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
-- DOMAIN,us-browse.startpage.com
 - DOMAIN,us1-browse.startpage.com
 - DOMAIN,us2-browse.startpage.com
 - DOMAIN,dns.startupstack.tech
@@ -3885,6 +3885,7 @@ payload:
 - DOMAIN,surfshark.sk
 - DOMAIN,surfsharkbiz.com
 - DOMAIN,surfsharkdeals.com
+- DOMAIN,dns.surfsharkdns.com
 - DOMAIN,surfsharkstatus.com
 - DOMAIN,surfshell.io
 - DOMAIN,surfsjark.com
@@ -4384,6 +4385,7 @@ payload:
 - DOMAIN,utube.cc
 - DOMAIN,utunnel.io
 - DOMAIN,uvpn.me
+- DOMAIN,v.recipes
 - DOMAIN,edge-v6x.v6.rocks
 - DOMAIN,greenzone.v6.army
 - DOMAIN,lawless-zone.v6.rocks
