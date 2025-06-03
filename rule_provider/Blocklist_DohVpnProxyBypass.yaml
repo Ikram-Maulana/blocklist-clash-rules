@@ -592,8 +592,6 @@ payload:
 - DOMAIN,canadaproxy.info
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
-- DOMAIN,idea.read.capella-technologies.com
-- DOMAIN,focus.lab.capetownblogger.com
 - DOMAIN,2.dnscrypt-cert.captnemo.in
 - DOMAIN,doh.captnemo.in
 - DOMAIN,carebuzz.io
@@ -659,7 +657,6 @@ payload:
 - DOMAIN,cienen.com
 - DOMAIN,kusogakill.cinedemedianoche.cl
 - DOMAIN,doh.cippapp.com
-- DOMAIN,ciproxy.de
 - DOMAIN,canadianshield.cira.ca
 - DOMAIN,dns.circl.lu
 - DOMAIN,circumvent.it
@@ -957,7 +954,6 @@ payload:
 - DOMAIN,croxy.network
 - DOMAIN,croxy.org
 - DOMAIN,croxy.red
-- DOMAIN,croxy.rocks
 - DOMAIN,croxy-proxy.com
 - DOMAIN,croxyproxy.best
 - DOMAIN,croxyproxy.blog
@@ -1015,7 +1011,6 @@ payload:
 - DOMAIN,danhcan.top
 - DOMAIN,dns.home.daniil.it
 - DOMAIN,adguard.dantynes.cyou
-- DOMAIN,darkfat.com
 - DOMAIN,darknet.to
 - DOMAIN,proxy.darkvpn.com
 - DOMAIN,mail.data.haus
@@ -1332,7 +1327,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1487,7 +1481,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2626,7 +2619,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
