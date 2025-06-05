@@ -1331,6 +1331,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1486,6 +1487,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1925,7 +1927,6 @@ payload:
 - DOMAIN,hoxx.net
 - DOMAIN,hoyofun.xyz
 - DOMAIN,ajmal.hpc.tw
-- DOMAIN,studyhubs.hqcloud.de
 - DOMAIN,greenbeandean.hs.vc
 - DOMAIN,be.hse.tw
 - DOMAIN,code.edu.hse.tw
@@ -2104,7 +2105,6 @@ payload:
 - DOMAIN,tj.jamesxue.xyz
 - DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
-- DOMAIN,study.japhar.com
 - DOMAIN,px.jarnus.xyz
 - DOMAIN,transit.javierblog.com
 - DOMAIN,state.gov.jaycloudlab.com
@@ -2515,13 +2515,10 @@ payload:
 - DOMAIN,mockblock.com
 - DOMAIN,sage.area.modeemi.net
 - DOMAIN,ps1.modr.club
-- DOMAIN,www-nsc.moebh.me
 - DOMAIN,mojtreker.ru
 - DOMAIN,edu.moldeo.org
 - DOMAIN,history-of-earth.moldeo.org
 - DOMAIN,only-shooting-stars-breakthe.moldeo.org
-- DOMAIN,study.moldeo.org
-- DOMAIN,use.moldeo.org
 - DOMAIN,dns.molinero.dev
 - DOMAIN,naganohara-yoimiya.momokko.moe
 - DOMAIN,dns.momou.ch
@@ -2617,6 +2614,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2677,7 +2675,6 @@ payload:
 - DOMAIN,needunblock.com
 - DOMAIN,z-brokethescaler.neighborhoodcloud.com
 - DOMAIN,nekoray.org
-- DOMAIN,qwertyabc123.nekros.info
 - DOMAIN,smart.quiz.nelsonshack.com
 - DOMAIN,adguard.neon0404.space
 - DOMAIN,neonos.me
@@ -2704,7 +2701,6 @@ payload:
 - DOMAIN,newipnow.com
 - DOMAIN,newproxylist.net
 - DOMAIN,newshosting.com
-- DOMAIN,nextgen.nex.sh
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
 - DOMAIN,dns1.nextdns.io
@@ -2783,11 +2779,9 @@ payload:
 - DOMAIN,gov.major.novacorp.com
 - DOMAIN,dns.novali.date
 - DOMAIN,novatech.fun
-- DOMAIN,novembeer.ru
 - DOMAIN,dns.novg.net
 - DOMAIN,nice.noviolencia.ar
 - DOMAIN,nowcache.com
-- DOMAIN,nowhiteflags.xyz
 - DOMAIN,noyourmean.xyz
 - DOMAIN,dns.npe.bz
 - DOMAIN,dns.npsolution.it
@@ -3447,7 +3441,6 @@ payload:
 - DOMAIN,dns.renardyre.com
 - DOMAIN,dns.repinger.com
 - DOMAIN,repocket.co
-- DOMAIN,travelreprap.reprap.eu
 - DOMAIN,dns.repressoh.it
 - DOMAIN,restaurantgift.us
 - DOMAIN,dnspub.restena.lu
