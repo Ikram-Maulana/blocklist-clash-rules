@@ -48,6 +48,7 @@ payload:
 - DOMAIN,12vpx.com
 - DOMAIN,liverpoolontop.1337.cx
 - DOMAIN,canva.login.1337.cx
+- DOMAIN,goal.music.1337.cx
 - DOMAIN,dns.13evl.com
 - DOMAIN,14-88.pro
 - DOMAIN,16yd.com
@@ -640,6 +641,7 @@ payload:
 - DOMAIN,mathhomeworkplus.chickenkiller.com
 - DOMAIN,mathiseasy.chickenkiller.com
 - DOMAIN,nathanlikesgames.chickenkiller.com
+- DOMAIN,oluka.chickenkiller.com
 - DOMAIN,whydidiask.chickenkiller.com
 - DOMAIN,dns.chilimac.net
 - DOMAIN,imisstheoldkanye.chillcrew.net
@@ -911,6 +913,7 @@ payload:
 - DOMAIN,comss.one
 - DOMAIN,comss.ru
 - DOMAIN,circlegeometry.conexioncircular.cl
+- DOMAIN,moremathat.conexioncircular.cl
 - DOMAIN,confirmedvpn.com
 - DOMAIN,concitedll.conifera.cl
 - DOMAIN,dns1.conne.net
@@ -929,6 +932,7 @@ payload:
 - DOMAIN,dns.cooluc.com
 - DOMAIN,coproxy.io
 - DOMAIN,corecloak.com
+- DOMAIN,core.mind.corega.ro
 - DOMAIN,real.coremindx.com
 - DOMAIN,doh.cornes.me
 - DOMAIN,corsproxy.io
@@ -1331,7 +1335,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1487,7 +1490,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1559,6 +1561,7 @@ payload:
 - DOMAIN,freehiddenvpn.gq
 - DOMAIN,freehollandproxy.nl
 - DOMAIN,freelux.world
+- DOMAIN,atom.area.freemath.ch
 - DOMAIN,freemicvpn.com
 - DOMAIN,freenetproject.org
 - DOMAIN,freenomisratelimitingme.cf
@@ -1909,6 +1912,7 @@ payload:
 - DOMAIN,dns.hoody.com
 - DOMAIN,schoolmath.hop.sh
 - DOMAIN,keithchung.hopto.org
+- DOMAIN,pranaynaygames123.hopto.org
 - DOMAIN,dns.horcrux.vip
 - DOMAIN,dns.internal.hosmatic.com
 - DOMAIN,hostless.club
@@ -1977,6 +1981,7 @@ payload:
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
 - DOMAIN,ietors.com
+- DOMAIN,heb1.ignorelist.com
 - DOMAIN,subscribe-to-vcsa.ignorelist.com
 - DOMAIN,test52139.ignorelist.com
 - DOMAIN,worldbookonline.ignorelist.com
@@ -2529,6 +2534,7 @@ payload:
 - DOMAIN,zrh1-ns01.monzoon.net
 - DOMAIN,dns.moonssif.com
 - DOMAIN,aahfgdd.mooo.com
+- DOMAIN,aleks.readtheory.com.mooo.com
 - DOMAIN,propeller.catapzlt.rohu.mooo.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
@@ -2614,7 +2620,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2768,7 +2773,6 @@ payload:
 - DOMAIN,o2comm-prd.norton.com
 - DOMAIN,spoc.norton.com
 - DOMAIN,the.norushcharge.com
-- DOMAIN,dns.norvig.dk
 - DOMAIN,notapr0xy.com
 - DOMAIN,easyschool.notesninjas.com
 - DOMAIN,dns.notjakob.com
@@ -2834,6 +2838,7 @@ payload:
 - DOMAIN,omegaproxy.com
 - DOMAIN,adguard.oms-ctr.ru
 - DOMAIN,onconnect.info
+- DOMAIN,skills.field.cftc-devoteam.one.pl
 - DOMAIN,one.one.one.one
 - DOMAIN,doh.onedns.net
 - DOMAIN,doh-pure.onedns.net
@@ -3255,7 +3260,6 @@ payload:
 - DOMAIN,proxyduke.lol
 - DOMAIN,proxyelite.info
 - DOMAIN,proxyen.com
-- DOMAIN,proxyer.net
 - DOMAIN,proxyfactory.io
 - DOMAIN,proxyfish.com
 - DOMAIN,proxyforfree.eu
@@ -3333,7 +3337,6 @@ payload:
 - DOMAIN,public-is-wonderful.publicvm.com
 - DOMAIN,puckerbucket.xyz
 - DOMAIN,dontgetthisblocked.puffballofevil.com
-- DOMAIN,timeisblind.puffballofevil.com
 - DOMAIN,dns.pumpkinvrar.com
 - DOMAIN,pupilproxy.com
 - DOMAIN,puredns.org
@@ -3510,6 +3513,7 @@ payload:
 - DOMAIN,s4m.xyz
 - DOMAIN,scienceforkids.saahee.cn
 - DOMAIN,math.sachhot.com
+- DOMAIN,desmos.saf-eng.com
 - DOMAIN,safe-inet.com
 - DOMAIN,safeguardianvpn.com
 - DOMAIN,safenetbrowser.com
@@ -3566,7 +3570,6 @@ payload:
 - DOMAIN,dot.seby.io
 - DOMAIN,sec-tunnel.com
 - DOMAIN,dns.sec511.com
-- DOMAIN,quiz.teach.secold.com
 - DOMAIN,secretbrowser.net
 - DOMAIN,secretproxy.org
 - DOMAIN,secretsline.biz
@@ -4098,11 +4101,11 @@ payload:
 - DOMAIN,home.sso.toythieves.com
 - DOMAIN,portal.sso.toythieves.com
 - DOMAIN,tpymainx01.ru
-- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,linewize.tradekinginternational.com
 - DOMAIN,trafflink.xyz
 - DOMAIN,traffmonetizer.com
+- DOMAIN,bio.goal.trans.am
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
