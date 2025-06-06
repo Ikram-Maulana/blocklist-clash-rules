@@ -375,6 +375,7 @@ payload:
 - DOMAIN,push-dc-us.heytapmobile.com
 - DOMAIN,bsf.sc.heytapmobile.com
 - DOMAIN,slb-apisnd-in.heytapmobile.com
+- DOMAIN,sms-ads-in.heytapmobile.com
 - DOMAIN,api-id.theme.heytapmobile.com
 - DOMAIN,report-eu.uc.heytapmobile.com
 - DOMAIN,report-in.uc.heytapmobile.com
