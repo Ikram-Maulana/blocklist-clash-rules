@@ -1335,6 +1335,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1490,6 +1491,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2145,6 +2147,11 @@ payload:
 - DOMAIN,adguard.johanliebert.top
 - DOMAIN,johneldenring.lol
 - DOMAIN,johnkellyprivate.com
+- DOMAIN,child.joindns4.eu
+- DOMAIN,child-noads.joindns4.eu
+- DOMAIN,noads.joindns4.eu
+- DOMAIN,protective.joindns4.eu
+- DOMAIN,unfiltered.joindns4.eu
 - DOMAIN,joker81fansbase.site
 - DOMAIN,opencdn.jomodns.com
 - DOMAIN,jongserver.xyz
@@ -2620,6 +2627,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3895,8 +3903,6 @@ payload:
 - DOMAIN,surtshark.com
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
-- DOMAIN,popteeee-oawhnefoua-foaebaouef.swanndvr.net
-- DOMAIN,popteeeeee-sajoiwejfo-huhu.swanndvr.net
 - DOMAIN,ramm-ume-pro.swanndvr.net
 - DOMAIN,rammerhead-10.swanndvr.net
 - DOMAIN,swapip.com
@@ -3962,7 +3968,6 @@ payload:
 - DOMAIN,thebestproxy.info
 - DOMAIN,thebestvpn.com
 - DOMAIN,ixl-tw6f.thebrittainlawfirm.com
-- DOMAIN,thisisnotagamewebsite.thebrittainlawfirm.com
 - DOMAIN,dns.thebuckners.org
 - DOMAIN,theclickcheck.com
 - DOMAIN,thecodeil.com
@@ -4101,6 +4106,7 @@ payload:
 - DOMAIN,home.sso.toythieves.com
 - DOMAIN,portal.sso.toythieves.com
 - DOMAIN,tpymainx01.ru
+- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,linewize.tradekinginternational.com
 - DOMAIN,trafflink.xyz
