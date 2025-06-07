@@ -93,6 +93,7 @@ payload:
 - DOMAIN,usgovvirginia-1.in.applicationinsights.azure.us
 - DOMAIN,usgovvirginia-global.in.applicationinsights.azure.us
 - DOMAIN,westeurope.in.applicationinsights.azure.com
+- DOMAIN,www.westeurope.in.applicationinsights.azure.com
 - DOMAIN,westeurope-0.in.applicationinsights.azure.com
 - DOMAIN,westeurope-1.in.applicationinsights.azure.com
 - DOMAIN,westeurope-2.in.applicationinsights.azure.com
@@ -251,6 +252,7 @@ payload:
 - DOMAIN,about-test.ads.microsoft.com
 - DOMAIN,about-test-deploy.ads.microsoft.com
 - DOMAIN,adlibrary.ads.microsoft.com
+- DOMAIN,api.ads.microsoft.com
 - DOMAIN,bcp.ads.microsoft.com
 - DOMAIN,beta.ads.microsoft.com
 - DOMAIN,api.beta.ads.microsoft.com
@@ -260,6 +262,8 @@ payload:
 - DOMAIN,help.ads.microsoft.com
 - DOMAIN,learninglab.ads.microsoft.com
 - DOMAIN,mmcapi.ads.microsoft.com
+- DOMAIN,sandbox.ads.microsoft.com
+- DOMAIN,api.sandbox.ads.microsoft.com
 - DOMAIN,smetric.ads.microsoft.com
 - DOMAIN,status.ads.microsoft.com
 - DOMAIN,tip.ads.microsoft.com
@@ -363,6 +367,7 @@ payload:
 - DOMAIN,eu-ic3.events.data.microsoft.com
 - DOMAIN,eu-mobile.events.data.microsoft.com
 - DOMAIN,eu-office.events.data.microsoft.com
+- DOMAIN,eu-r-mobile.events.data.microsoft.com
 - DOMAIN,eu-teams.events.data.microsoft.com
 - DOMAIN,eu-v10.events.data.microsoft.com
 - DOMAIN,eu-v10c.events.data.microsoft.com
@@ -638,7 +643,6 @@ payload:
 - DOMAIN,atm-settingsfe-prod-geo2.trafficmanager.net
 - DOMAIN,beacons.trafficmanager.net
 - DOMAIN,bf-analytics-tracker-tm.trafficmanager.net
-- DOMAIN,bf-tracker-release-tm.trafficmanager.net
 - DOMAIN,bingads.trafficmanager.net
 - DOMAIN,azure.bingads.trafficmanager.net
 - DOMAIN,bingadsresources.trafficmanager.net

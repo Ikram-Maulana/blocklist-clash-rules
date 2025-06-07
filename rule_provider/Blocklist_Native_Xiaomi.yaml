@@ -412,6 +412,7 @@ payload:
 - DOMAIN,netcheck.pandora.xiaomi.com
 - DOMAIN,ottl7-l2.pandora.xiaomi.com
 - DOMAIN,media.pre.pandora.xiaomi.com
+- DOMAIN,redirect.pandora.xiaomi.com
 - DOMAIN,rtmpott.pandora.xiaomi.com
 - DOMAIN,bsp.sasdc.pandora.xiaomi.com
 - DOMAIN,shop.pandora.xiaomi.com
@@ -422,7 +423,6 @@ payload:
 - DOMAIN,tvboss.pandora.xiaomi.com
 - DOMAIN,tvepg.pandora.xiaomi.com
 - DOMAIN,upgrade.pandora.xiaomi.com
-- DOMAIN,user.pandora.xiaomi.com
 - DOMAIN,w.pandora.xiaomi.com
 - DOMAIN,sentry.pay.xiaomi.com
 - DOMAIN,tj1.staging.pay.xiaomi.com
