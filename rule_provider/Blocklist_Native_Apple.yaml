@@ -50,6 +50,7 @@ payload:
 - DOMAIN,idiagnostics-devices-qa.apple.com
 - DOMAIN,idiagnostics-devices-reno.apple.com
 - DOMAIN,idiagnostics-ft.apple.com
+- DOMAIN,idiagnostics-it2.apple.com
 - DOMAIN,idiagnostics-mdn1.apple.com
 - DOMAIN,idiagnostics-qa.apple.com
 - DOMAIN,idiagnostics-reno.apple.com
