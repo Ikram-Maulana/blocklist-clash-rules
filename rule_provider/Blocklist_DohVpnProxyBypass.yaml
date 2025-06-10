@@ -1305,6 +1305,7 @@ payload:
 - DOMAIN,doh.eddi.net
 - DOMAIN,dns.edgeburnmedia.com
 - DOMAIN,edgedcircles.com
+- DOMAIN,dns.edgy.network
 - DOMAIN,edgy-dns.com
 - DOMAIN,dns.editechstudio.com
 - DOMAIN,edpuzzle.space
@@ -2482,7 +2483,6 @@ payload:
 - DOMAIN,propeller.catapzlt.rohu.mooo.com
 - DOMAIN,morbitzer.de
 - DOMAIN,morevpn.com
-- DOMAIN,dns.moulticast.net
 - DOMAIN,movieproxy.com
 - DOMAIN,moyazyinomoyasi.com
 - DOMAIN,vpn.mozilla.org
@@ -4006,7 +4006,6 @@ payload:
 - DOMAIN,towervpn.com
 - DOMAIN,home.sso.toythieves.com
 - DOMAIN,portal.sso.toythieves.com
-- DOMAIN,dns.tracker.ink
 - DOMAIN,tradeadspace.info
 - DOMAIN,linewize.tradekinginternational.com
 - DOMAIN,trafflink.xyz
