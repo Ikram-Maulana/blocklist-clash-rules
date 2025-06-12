@@ -868,7 +868,6 @@ payload:
 - DOMAIN,encryption.madereramilano.com.ar
 - DOMAIN,manaututors.manausclass.com.br
 - DOMAIN,packetyo.nanbang.com.tr
-- DOMAIN,dns.netraptor.com.au
 - DOMAIN,new-proxy.com.de
 - DOMAIN,proxy.com.de
 - DOMAIN,proxy-service.com.de
@@ -1314,6 +1313,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1464,6 +1464,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1571,6 +1572,7 @@ payload:
 - DOMAIN,freevpnplanet.com
 - DOMAIN,freevpnsoftware.net
 - DOMAIN,freewebproxy.eu
+- DOMAIN,freewebproxyserver.net
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
 - DOMAIN,freeyoutube.net
@@ -2563,6 +2565,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3711,6 +3714,7 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
