@@ -170,6 +170,7 @@ payload:
 - DOMAIN,activatevpn.com
 - DOMAIN,activpn.com
 - DOMAIN,actmobile.com
+- DOMAIN,i-hate-link-leakers-cyptopia-made-this.adaptor.cl
 - DOMAIN,schoolsucks.adaptor.cl
 - DOMAIN,adblockersite.com
 - DOMAIN,adblockluna.com
@@ -325,6 +326,7 @@ payload:
 - DOMAIN,dns.ashleyjackson.net
 - DOMAIN,terms.skill.asleepingturtle.com
 - DOMAIN,survey.aspdebugger.com
+- DOMAIN,task.major.assholetenants.com
 - DOMAIN,dns.asterimoon.com
 - DOMAIN,astrill.com
 - DOMAIN,astrill.org
@@ -573,6 +575,7 @@ payload:
 - DOMAIN,register.cakk.us
 - DOMAIN,calculusproblems.online
 - DOMAIN,solve.proof.california-red.com
+- DOMAIN,notes.sage.california-red.com
 - DOMAIN,dns.caliph.dev
 - DOMAIN,callies-online.site
 - DOMAIN,bananakun.camdvr.org
@@ -621,12 +624,14 @@ payload:
 - DOMAIN,dns.charraud.eu
 - DOMAIN,ougonokaze.cheftayebeh.ir
 - DOMAIN,dns.chenu.ch
+- DOMAIN,gooberman123.com.chickenkiller.com
 - DOMAIN,ilikefeet.chickenkiller.com
 - DOMAIN,freedns.kiuo-utopias.chickenkiller.com
 - DOMAIN,mathhomeworkplus.chickenkiller.com
 - DOMAIN,mathiseasy.chickenkiller.com
 - DOMAIN,nathanlikesgames.chickenkiller.com
 - DOMAIN,oluka.chickenkiller.com
+- DOMAIN,vamo.de.teste.chickenkiller.com
 - DOMAIN,whydidiask.chickenkiller.com
 - DOMAIN,dns.chilimac.net
 - DOMAIN,imisstheoldkanye.chillcrew.net
@@ -1464,7 +1469,6 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1572,7 +1576,6 @@ payload:
 - DOMAIN,freevpnplanet.com
 - DOMAIN,freevpnsoftware.net
 - DOMAIN,freewebproxy.eu
-- DOMAIN,freewebproxyserver.net
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
 - DOMAIN,freeyoutube.net
@@ -2000,6 +2003,7 @@ payload:
 - DOMAIN,interssh.com
 - DOMAIN,intervpn.com
 - DOMAIN,intl-alliance.com
+- DOMAIN,orbit.debate.invest.io
 - DOMAIN,invisv.com
 - DOMAIN,app.edu.iownyour.org
 - DOMAIN,use.edu.iownyour.org
@@ -2154,7 +2158,6 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
-- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -2202,6 +2205,7 @@ payload:
 - DOMAIN,kproxysite.com
 - DOMAIN,dart.kpsn.org
 - DOMAIN,adblock.krctech.dev
+- DOMAIN,recap.grade.kredytlinia.pl
 - DOMAIN,xray.krnl.eu
 - DOMAIN,kryptovpn.kryptotel.net
 - DOMAIN,dns.kugoapps.com
@@ -2245,6 +2249,7 @@ payload:
 - DOMAIN,taihenomatasesimasita.laviewddns.com
 - DOMAIN,useinterstellar.laviewddns.com
 - DOMAIN,iterator.lazada.com
+- DOMAIN,alumn.history.ldop.com
 - DOMAIN,le-vpn.com
 - DOMAIN,adguard1.leadmon.net
 - DOMAIN,adguard.leadseason.eu
@@ -2652,6 +2657,7 @@ payload:
 - DOMAIN,newipnow.com
 - DOMAIN,newproxylist.net
 - DOMAIN,newshosting.com
+- DOMAIN,blud.nex.sh
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
 - DOMAIN,dns1.nextdns.io
@@ -3088,6 +3094,7 @@ payload:
 - DOMAIN,privado.io
 - DOMAIN,orpi.privado.ovh
 - DOMAIN,privadovpn.com
+- DOMAIN,examccctestedd.privatedns.org
 - DOMAIN,privateinternetaccess.com
 - DOMAIN,privateproxy.me
 - DOMAIN,privatesurfforme.net
@@ -3713,7 +3720,9 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
@@ -3814,6 +3823,7 @@ payload:
 - DOMAIN,surtshark.com
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
+- DOMAIN,poptee-liawheufhwae-awef.swanndvr.net
 - DOMAIN,ramm-ume-pro.swanndvr.net
 - DOMAIN,rammerhead-10.swanndvr.net
 - DOMAIN,swapip.com

@@ -199,6 +199,9 @@ payload:
 - DOMAIN,pgteu3-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu4-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgteu5-excel-telemetry-vip.officeapps.live.com
+- DOMAIN,pgteu5-powerpoint-telemetry-vip.officeapps.live.com
+- DOMAIN,pgteu5-word-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtmx1-excel-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 - DOMAIN,pgtmx1-word-telemetry-vip.officeapps.live.com
