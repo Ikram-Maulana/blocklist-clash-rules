@@ -1317,6 +1317,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1363,6 +1364,7 @@ payload:
 - DOMAIN,armorrush.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
+- DOMAIN,arashi.net.eu.org
 - DOMAIN,rammerhead.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
@@ -3721,7 +3723,6 @@ payload:
 - DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
