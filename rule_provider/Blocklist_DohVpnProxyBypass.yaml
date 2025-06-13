@@ -631,7 +631,6 @@ payload:
 - DOMAIN,mathiseasy.chickenkiller.com
 - DOMAIN,nathanlikesgames.chickenkiller.com
 - DOMAIN,oluka.chickenkiller.com
-- DOMAIN,vamo.de.teste.chickenkiller.com
 - DOMAIN,whydidiask.chickenkiller.com
 - DOMAIN,dns.chilimac.net
 - DOMAIN,imisstheoldkanye.chillcrew.net
@@ -1318,7 +1317,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1365,7 +1363,6 @@ payload:
 - DOMAIN,armorrush.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
-- DOMAIN,arashi.net.eu.org
 - DOMAIN,rammerhead.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
@@ -1469,6 +1466,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2158,6 +2156,7 @@ payload:
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
 - DOMAIN,dns.keke125.com
+- DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
 - DOMAIN,dns.kerekes.xyz
@@ -2657,7 +2656,6 @@ payload:
 - DOMAIN,newipnow.com
 - DOMAIN,newproxylist.net
 - DOMAIN,newshosting.com
-- DOMAIN,blud.nex.sh
 - DOMAIN,doh.luigi.nexific.it
 - DOMAIN,dns.nextdns.io
 - DOMAIN,dns1.nextdns.io
@@ -4703,7 +4701,6 @@ payload:
 - DOMAIN,yui.cat
 - DOMAIN,friends-are.awesome.yukon.ar
 - DOMAIN,dns.yuu-g.net
-- DOMAIN,yuvelirtut.website
 - DOMAIN,yuyuproxy.com
 - DOMAIN,yxorproxy.com
 - DOMAIN,adg.yybyy.wiki
