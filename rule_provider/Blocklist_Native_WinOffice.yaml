@@ -435,6 +435,8 @@ payload:
 - DOMAIN,adsdisplay.glbdns2.microsoft.com
 - DOMAIN,aisefs.adsdisplay.glbdns2.microsoft.com
 - DOMAIN,bingads.glbdns2.microsoft.com
+- DOMAIN,beta.bingads.glbdns2.microsoft.com
+- DOMAIN,internal.beta.bingads.glbdns2.microsoft.com
 - DOMAIN,si.bingads.glbdns2.microsoft.com
 - DOMAIN,ieonline.microsoft.com
 - DOMAIN,location.microsoft.com
