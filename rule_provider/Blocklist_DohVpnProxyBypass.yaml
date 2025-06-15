@@ -95,6 +95,7 @@ payload:
 - DOMAIN,happy-sun-587.3kh0.org
 - DOMAIN,3proxy.de
 - DOMAIN,dns.3wv.de
+- DOMAIN,3x.nz
 - DOMAIN,dns.4-the.win
 - DOMAIN,notfound-google.404.mn
 - DOMAIN,doh.42l.fr
@@ -281,6 +282,7 @@ payload:
 - DOMAIN,anonymous-proxy-servers.net
 - DOMAIN,anonymousblog.info
 - DOMAIN,anonymouse.org
+- DOMAIN,anonymousengine.com
 - DOMAIN,anonymousvpn.info
 - DOMAIN,anonymousvpn.org
 - DOMAIN,anonymox.net
@@ -2579,7 +2581,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3730,9 +3731,7 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
