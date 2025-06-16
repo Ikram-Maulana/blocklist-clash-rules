@@ -385,6 +385,7 @@ payload:
 - DOMAIN,dns.b612.me
 - DOMAIN,dns.b72.com
 - DOMAIN,baconmania.click
+- DOMAIN,bookpog.bad.mn
 - DOMAIN,westhamforever.bad.mn
 - DOMAIN,purchase.badrag.net
 - DOMAIN,veryvery.badrag.net
@@ -1014,6 +1015,7 @@ payload:
 - DOMAIN,friedeggs.dagmaar.com
 - DOMAIN,dns.dallinbryce.com
 - DOMAIN,danhcan.top
+- DOMAIN,danielrcrawfordfanpage.danielrcrawford.com
 - DOMAIN,dns.home.daniil.it
 - DOMAIN,adguard.dantynes.cyou
 - DOMAIN,darknet.to
@@ -1340,6 +1342,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1386,7 +1389,6 @@ payload:
 - DOMAIN,armorrush.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
-- DOMAIN,arashi.net.eu.org
 - DOMAIN,rammerhead.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
@@ -1491,6 +1493,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1498,6 +1501,7 @@ payload:
 - DOMAIN,flashputon.net
 - DOMAIN,flashvpn.li
 - DOMAIN,dns.flatuslifir.is
+- DOMAIN,abdulv2.flazzard.com
 - DOMAIN,vps.fleuryk.ovh
 - DOMAIN,dns.flightspace.net
 - DOMAIN,dns01.flm9.net
@@ -1637,6 +1641,7 @@ payload:
 - DOMAIN,zxyp.02.garmanage.com
 - DOMAIN,gas.education
 - DOMAIN,gatcha.org
+- DOMAIN,myincredibleweightlossjounrney.gblandscape.com
 - DOMAIN,gecko.fun
 - DOMAIN,geckovpn.xyz
 - DOMAIN,geekproxy.com
@@ -1907,6 +1912,7 @@ payload:
 - DOMAIN,homevpn.info
 - DOMAIN,homevpn.org
 - DOMAIN,homeworkhelp.click
+- DOMAIN,7aisfulloftalent.hondascooterparts.com
 - DOMAIN,honeygain.me
 - DOMAIN,dns.hoody.com
 - DOMAIN,schoolmath.hop.sh
@@ -1987,6 +1993,7 @@ payload:
 - DOMAIN,youreagoodmanarthurmorgan.ignorelist.com
 - DOMAIN,dns.ihaveacloud.com
 - DOMAIN,hellotaka.iiiii.info
+- DOMAIN,yozora.iiiii.info
 - DOMAIN,iij.jp
 - DOMAIN,ikarosalpha.xyz
 - DOMAIN,dns.ikataruto.com
@@ -2049,9 +2056,11 @@ payload:
 - DOMAIN,ipchanging.com
 - DOMAIN,ipfreely.io
 - DOMAIN,ipinator.com
+- DOMAIN,iplama.com
 - DOMAIN,iportal.me
 - DOMAIN,ipprotectionauth.goog
 - DOMAIN,ipredator.se
+- DOMAIN,iprivatevpn.com
 - DOMAIN,iprovpn.com
 - DOMAIN,iproyal.com
 - DOMAIN,ipsharkk.com
@@ -2065,6 +2074,7 @@ payload:
 - DOMAIN,c.is-very.fun
 - DOMAIN,d.is-very.fun
 - DOMAIN,dns.is0mino.com
+- DOMAIN,tylerknowskungfu.isageek.net
 - DOMAIN,mickedi.isgood.host
 - DOMAIN,dns.ishan.pw
 - DOMAIN,ishark.com
@@ -2321,6 +2331,7 @@ payload:
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
 - DOMAIN,silly.lindhesidan.se
+- DOMAIN,yozora.lindhesidan.se
 - DOMAIN,theman.lingxi-ai.net
 - DOMAIN,www-pa.linkall.uk
 - DOMAIN,linkideo.com
@@ -2605,7 +2616,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2915,6 +2925,7 @@ payload:
 - DOMAIN,proxy.ordentlichbreit.de
 - DOMAIN,learning.orestpena.com
 - DOMAIN,resolver.dnsprivacy.org.uk
+- DOMAIN,oliverdiepiogreedycheckers.sponsorafuture.org.uk
 - DOMAIN,dns.oryxlabs.com
 - DOMAIN,os4work.com
 - DOMAIN,edu.osobi.ro
@@ -3373,6 +3384,7 @@ payload:
 - DOMAIN,boxcat.radio-zvez.info
 - DOMAIN,radmin-vpn.com
 - DOMAIN,radmin-vpn.org
+- DOMAIN,7afootball.rainbowcup.com
 - DOMAIN,ns.ral9005.org
 - DOMAIN,rapidprivacy.com
 - DOMAIN,rapidproxy.org
@@ -3605,6 +3617,7 @@ payload:
 - DOMAIN,fair-hawk-609.shuttlemath.com
 - DOMAIN,fair-lake-387.shuttlemath.com
 - DOMAIN,deep-hawk-892.shuttleproxy.com
+- DOMAIN,sical.s.ical.sic.al
 - DOMAIN,doh.sidnlabs.nl
 - DOMAIN,pigs.siglent.ru
 - DOMAIN,dns.silen.org
@@ -4103,6 +4116,7 @@ payload:
 - DOMAIN,dns.twnic.tw
 - DOMAIN,twoproxy.net
 - DOMAIN,adguard.twotigers.xyz
+- DOMAIN,rammerheadisok.tx2600.net
 - DOMAIN,dns.txq.life
 - DOMAIN,typaza.com
 - DOMAIN,typeracer.gq
@@ -4623,6 +4637,7 @@ payload:
 - DOMAIN,pirate.wildsurf.net
 - DOMAIN,windscribe.com
 - DOMAIN,windscribe.net
+- DOMAIN,thirteen13.windsormetalbattery.com
 - DOMAIN,buy.wine-software.com
 - DOMAIN,use.winterhouse.info
 - DOMAIN,wireguard.com
@@ -4761,7 +4776,6 @@ payload:
 - DOMAIN,cheifsarebad.zenrelax.ro
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
-- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
