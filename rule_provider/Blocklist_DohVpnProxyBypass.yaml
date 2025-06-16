@@ -341,6 +341,7 @@ payload:
 - DOMAIN,atozproxy.com
 - DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
+- DOMAIN,dns.auapi.fun
 - DOMAIN,stevenisafemboy.auraria.org
 - DOMAIN,auto-aufladen.de
 - DOMAIN,use.autoglass.my
@@ -581,10 +582,12 @@ payload:
 - DOMAIN,notes.sage.california-red.com
 - DOMAIN,dns.caliph.dev
 - DOMAIN,callies-online.site
+- DOMAIN,tor.calyxinstitute.org
 - DOMAIN,bananakun.camdvr.org
 - DOMAIN,canadaproxy.info
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
+- DOMAIN,idea.read.capella-technologies.com
 - DOMAIN,2.dnscrypt-cert.captnemo.in
 - DOMAIN,doh.captnemo.in
 - DOMAIN,carebuzz.io
@@ -898,9 +901,11 @@ payload:
 - DOMAIN,6922.yugadiluitel.com.np
 - DOMAIN,dns.comff.net
 - DOMAIN,rammerhead.command.enterprises
+- DOMAIN,commonapp.college
 - DOMAIN,commons.host
 - DOMAIN,easy-vpn.comodo.com
 - DOMAIN,math.tests.comprotusjuguetes.com
+- DOMAIN,compsci.college
 - DOMAIN,pluhster.computersforpeace.net
 - DOMAIN,comss.one
 - DOMAIN,comss.ru
@@ -959,6 +964,7 @@ payload:
 - DOMAIN,croxyproxy.com
 - DOMAIN,croxyproxy.net
 - DOMAIN,croxyproxy.rocks
+- DOMAIN,croxyproxy.us
 - DOMAIN,croxyproxys.com
 - DOMAIN,croxyproxyvpn.com
 - DOMAIN,crushus.com
@@ -987,6 +993,7 @@ payload:
 - DOMAIN,curd.io
 - DOMAIN,amir1.cuza16.ro
 - DOMAIN,cozy.cuza16.ro
+- DOMAIN,cv-unfiltered.xyz
 - DOMAIN,dns.cwlys.com
 - DOMAIN,vocab.real.cyberbeatnation.net
 - DOMAIN,cyberghostvpn.com
@@ -2794,7 +2801,6 @@ payload:
 - DOMAIN,sleepykirby.ofmdirect.com
 - DOMAIN,okado.online
 - DOMAIN,okayfreedom.com
-- DOMAIN,dns.olpploiopkuyhiopsfrt.info
 - DOMAIN,olympicproxy.net
 - DOMAIN,omegaproxy.com
 - DOMAIN,adguard.oms-ctr.ru
@@ -3339,7 +3345,6 @@ payload:
 - DOMAIN,mahiro-9.1project.r-o-o-t.net
 - DOMAIN,resolver.r0cket.net
 - DOMAIN,r1bnc.com
-- DOMAIN,resolve2.r9x.cc
 - DOMAIN,ra4wvpn.com
 - DOMAIN,dns.rabbitdns.org
 - DOMAIN,family.rabbitdns.org
@@ -4737,6 +4742,7 @@ payload:
 - DOMAIN,cheifsarebad.zenrelax.ro
 - DOMAIN,zenrows.com
 - DOMAIN,zenvpn.net
+- DOMAIN,doh.zephyrus.id
 - DOMAIN,adguard-kartoffel.zernico.de
 - DOMAIN,zerotier.com
 - DOMAIN,zerotunnel.com
