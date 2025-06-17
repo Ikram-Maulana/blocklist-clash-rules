@@ -1342,7 +1342,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1389,6 +1388,7 @@ payload:
 - DOMAIN,armorrush.eu.org
 - DOMAIN,dns.fullaccesstointernet.jp.eu.org
 - DOMAIN,dns.mayx.eu.org
+- DOMAIN,arashi.net.eu.org
 - DOMAIN,rammerhead.eu.org
 - DOMAIN,sukidayo.eu.org
 - DOMAIN,eurproxy.com
@@ -1735,6 +1735,7 @@ payload:
 - DOMAIN,dns-tunnel-check.googlezip.net
 - DOMAIN,tunnel.googlezip.net
 - DOMAIN,goosevpn.com
+- DOMAIN,performance.gosami.xyz
 - DOMAIN,vpn.gosami.xyz
 - DOMAIN,gostarlight.xyz
 - DOMAIN,fisdinstructure.gotroot.pw
@@ -2616,7 +2617,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2867,6 +2867,7 @@ payload:
 - DOMAIN,adguard.onlyfriends.info
 - DOMAIN,fun.onlytruelegendscanseethe.pics
 - DOMAIN,espanolmath.ontariobsd.net
+- DOMAIN,onweb.info
 - DOMAIN,onyx7.com
 - DOMAIN,benmani2341shark.oops.wtf
 - DOMAIN,brocanyoustopaskingforlinks.oops.wtf
@@ -3054,6 +3055,7 @@ payload:
 - DOMAIN,pkrreaperr.me
 - DOMAIN,pktriot.net
 - DOMAIN,pkw-aufladen.de
+- DOMAIN,placenetworks.com
 - DOMAIN,plainproxies.com
 - DOMAIN,helios.plan9-dns.com
 - DOMAIN,kronos.plan9-dns.com
@@ -3219,6 +3221,7 @@ payload:
 - DOMAIN,proxy-best.com
 - DOMAIN,proxy-bypass.com
 - DOMAIN,proxy-german.de
+- DOMAIN,proxy-internet.info
 - DOMAIN,proxy-n-vpn.com
 - DOMAIN,proxy-search.com
 - DOMAIN,proxy-seller.com
@@ -3261,6 +3264,7 @@ payload:
 - DOMAIN,proxygogo.info
 - DOMAIN,proxyhash.net
 - DOMAIN,proxyhub.in
+- DOMAIN,proxyisp.com
 - DOMAIN,proxyist.com
 - DOMAIN,proxyium.com
 - DOMAIN,proxyium.org
@@ -3380,6 +3384,7 @@ payload:
 - DOMAIN,dns.rabbitdns.org
 - DOMAIN,family.rabbitdns.org
 - DOMAIN,security.rabbitdns.org
+- DOMAIN,rabbithole.site
 - DOMAIN,racevpn.com
 - DOMAIN,dns.api.rackspacecloud.com
 - DOMAIN,boxcat.radio-zvez.info
@@ -3463,6 +3468,7 @@ payload:
 - DOMAIN,romirely.tech
 - DOMAIN,dns.ronc.ru
 - DOMAIN,roodel.com
+- DOMAIN,roogen.com
 - DOMAIN,roonyx.com
 - DOMAIN,helpmeget.root.sx
 - DOMAIN,jaiguneeds.root.sx
@@ -3512,6 +3518,7 @@ payload:
 - DOMAIN,safeunblock.com
 - DOMAIN,safing.io
 - DOMAIN,vpn.sakhwow.ru
+- DOMAIN,samj.codes
 - DOMAIN,cloud.samutz.com
 - DOMAIN,sandmining.us
 - DOMAIN,sandparticles.us
@@ -3712,6 +3719,7 @@ payload:
 - DOMAIN,spacedns.org
 - DOMAIN,scienceandmore.spacetechnology.net
 - DOMAIN,spacevpn.io
+- DOMAIN,spanish101.college
 - DOMAIN,sparklabs.com
 - DOMAIN,doh-01.spectrum.com
 - DOMAIN,doh-02.spectrum.com
@@ -3770,6 +3778,7 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
@@ -3879,6 +3888,8 @@ payload:
 - DOMAIN,switch.ch
 - DOMAIN,switchvpn.com
 - DOMAIN,switchvpn.net
+- DOMAIN,swordvpn.com
+- DOMAIN,swoshsvpn.com
 - DOMAIN,dns.sy.st
 - DOMAIN,nexsos.syac.ca
 - DOMAIN,dns.syaifullah.com
