@@ -1302,7 +1302,6 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,resolver1.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
 - DOMAIN,t9rke-5zq1m.dynv6.net
 - DOMAIN,dns.dynx.pro
@@ -3790,6 +3789,7 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy1.startpage.com
 - DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
