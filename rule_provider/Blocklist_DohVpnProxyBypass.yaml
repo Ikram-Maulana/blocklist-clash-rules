@@ -789,6 +789,7 @@ payload:
 - DOMAIN,10bestvpn.co.uk
 - DOMAIN,adguard.aa4.co.uk
 - DOMAIN,akashiro.co.id
+- DOMAIN,googie.anchorchain.co.za
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
 - DOMAIN,cars-a.co.za
@@ -861,6 +862,7 @@ payload:
 - DOMAIN,croxyproxy.com.in
 - DOMAIN,echan.faizinternational.com.np
 - DOMAIN,info.faizinternational.com.np
+- DOMAIN,keepchatactive.faizinternational.com.np
 - DOMAIN,pleaseworkiwantutopia.faizinternational.com.np
 - DOMAIN,yug-has-a-big-butt.faizinternational.com.np
 - DOMAIN,fast-proxy.com.de
@@ -1291,6 +1293,7 @@ payload:
 - DOMAIN,butidontwanttacos.duia.us
 - DOMAIN,dualpower.duia.eu
 - DOMAIN,georgetown.duia.us
+- DOMAIN,matheducaton.duia.us
 - DOMAIN,rawr.duia.us
 - DOMAIN,dukun.de
 - DOMAIN,dutchproxy.nl
@@ -1299,6 +1302,7 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,resolver1.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
 - DOMAIN,t9rke-5zq1m.dynv6.net
 - DOMAIN,dns.dynx.pro
@@ -1342,6 +1346,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1493,6 +1498,7 @@ payload:
 - DOMAIN,fishproxy.com
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1702,6 +1708,7 @@ payload:
 - DOMAIN,gizlibaglanti.com
 - DOMAIN,h.gjrick.tw
 - DOMAIN,sdns22.gkonuralp.com
+- DOMAIN,chaotic-guest-bestie.glacialpower.com
 - DOMAIN,i-civics.glacialpower.com
 - DOMAIN,glacius.top
 - DOMAIN,about.glasstechnik.ro
@@ -2271,6 +2278,7 @@ payload:
 - DOMAIN,www-proxy.ladifsoftware.com
 - DOMAIN,learnmaths.lahrtowers.com
 - DOMAIN,femboysfr.lain.ch
+- DOMAIN,classroom.google.lang.hm
 - DOMAIN,shop.lang.hm
 - DOMAIN,lantern.io
 - DOMAIN,bensmells.laoxz.cn
@@ -2494,6 +2502,7 @@ payload:
 - DOMAIN,dns.mikeliu.org
 - DOMAIN,mikezhang.xyz
 - DOMAIN,dns.milkpie.one
+- DOMAIN,farmhouse.mills-family.us
 - DOMAIN,aiden-major.minecraftnoob.com
 - DOMAIN,hihihi.minecraftnoob.com
 - DOMAIN,insta.minecraftnoob.com
@@ -3462,6 +3471,8 @@ payload:
 - DOMAIN,blob.ro0t.hm
 - DOMAIN,blobx.ro0t.hm
 - DOMAIN,skibidirizz.robinhud.com
+- DOMAIN,topdown.robtop.xyz
+- DOMAIN,topyea.robtop.xyz
 - DOMAIN,rocketprox.com
 - DOMAIN,rockwell.website
 - DOMAIN,dns.roedel.cloud
@@ -3773,6 +3784,7 @@ payload:
 - DOMAIN,starruby.us
 - DOMAIN,starrynight.site
 - DOMAIN,starssh.com
+- DOMAIN,math.startechcomputacion.com
 - DOMAIN,ams1.startpage.com
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
@@ -4040,6 +4052,7 @@ payload:
 - DOMAIN,toolara.net
 - DOMAIN,dot.tooli.ca
 - DOMAIN,proxy.toolur.com
+- DOMAIN,top-proxy.site
 - DOMAIN,top10vpn.com
 - DOMAIN,how.prep.topmoto.pl
 - DOMAIN,toppal.tech
@@ -4085,6 +4098,7 @@ payload:
 - DOMAIN,resolv1.trash.net
 - DOMAIN,resolv2.trash.net
 - DOMAIN,resolv3.trash.net
+- DOMAIN,travelvpn.info
 - DOMAIN,travelvpn.net
 - DOMAIN,ns.trcnet.fi
 - DOMAIN,consumervpn.trendmicro.com
@@ -4180,6 +4194,7 @@ payload:
 - DOMAIN,unblock4you.com
 - DOMAIN,unblockableproxy.org
 - DOMAIN,unblockaccess.com
+- DOMAIN,unblockadultsites.com
 - DOMAIN,unblockandsurf.com
 - DOMAIN,unblockanime.com
 - DOMAIN,unblockanything.com
@@ -4342,6 +4357,7 @@ payload:
 - DOMAIN,us-proxy.org
 - DOMAIN,usa-proxy.org
 - DOMAIN,adfree.usableprivacy.net
+- DOMAIN,usafastproxy.info
 - DOMAIN,usaip.eu
 - DOMAIN,usaip.net
 - DOMAIN,usawebproxy.com
@@ -4659,6 +4675,7 @@ payload:
 - DOMAIN,wiseghostapp.com
 - DOMAIN,witopia.net
 - DOMAIN,wlvpn.com
+- DOMAIN,wobti.com
 - DOMAIN,lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 - DOMAIN,wonderland.ws
 - DOMAIN,clearweb.woodbridge.club
@@ -4692,6 +4709,7 @@ payload:
 - DOMAIN,doh.xcom.pro
 - DOMAIN,xcomplus.com
 - DOMAIN,xenergy.cc
+- DOMAIN,www-bruh.xenon.lol
 - DOMAIN,doh.xfinity.com
 - DOMAIN,dot.xfinity.com
 - DOMAIN,doh2.gslb2.xfinity.com
