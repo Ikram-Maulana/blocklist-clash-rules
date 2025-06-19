@@ -1302,6 +1302,7 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,resolver1.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
 - DOMAIN,t9rke-5zq1m.dynv6.net
 - DOMAIN,dns.dynx.pro
@@ -2625,6 +2626,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
