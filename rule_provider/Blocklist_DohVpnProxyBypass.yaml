@@ -1308,7 +1308,6 @@ payload:
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,resolver1.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
-- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
 - DOMAIN,t9rke-5zq1m.dynv6.net
 - DOMAIN,dns.dynx.pro
@@ -1505,6 +1504,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2957,6 +2957,7 @@ payload:
 - DOMAIN,this.is.for.lightspeedpal.ostrovsky.sk
 - DOMAIN,thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 - DOMAIN,dns.oszx.co
+- DOMAIN,interstellar.otil.cl
 - DOMAIN,topic.idea.ottosulbmec.com
 - DOMAIN,ourproxy.net
 - DOMAIN,dns.ours.luxe
@@ -3799,8 +3800,6 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
