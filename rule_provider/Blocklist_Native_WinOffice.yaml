@@ -341,6 +341,7 @@ payload:
 - DOMAIN,preview-services.bingads.microsoft.com
 - DOMAIN,reportingapi.bingads.microsoft.com
 - DOMAIN,sandbox.bingads.microsoft.com
+- DOMAIN,adinsight.api.sandbox.bingads.microsoft.com
 - DOMAIN,bulk.api.sandbox.bingads.microsoft.com
 - DOMAIN,campaign.api.sandbox.bingads.microsoft.com
 - DOMAIN,clientcenter.api.sandbox.bingads.microsoft.com
@@ -435,8 +436,6 @@ payload:
 - DOMAIN,adsdisplay.glbdns2.microsoft.com
 - DOMAIN,aisefs.adsdisplay.glbdns2.microsoft.com
 - DOMAIN,bingads.glbdns2.microsoft.com
-- DOMAIN,beta.bingads.glbdns2.microsoft.com
-- DOMAIN,internal.beta.bingads.glbdns2.microsoft.com
 - DOMAIN,si.bingads.glbdns2.microsoft.com
 - DOMAIN,ieonline.microsoft.com
 - DOMAIN,location.microsoft.com
@@ -605,6 +604,11 @@ payload:
 - DOMAIN,msa.diagnostics.office.com
 - DOMAIN,api.msa.diagnostics.office.com
 - DOMAIN,supportexperience.diagnostics.office.com
+- DOMAIN,diagnostics-eudb.office.com
+- DOMAIN,api.diagnostics-eudb.office.com
+- DOMAIN,entitlement.diagnostics-eudb.office.com
+- DOMAIN,incidents.diagnostics-eudb.office.com
+- DOMAIN,logging.diagnostics-eudb.office.com
 - DOMAIN,measure.office.com
 - DOMAIN,measure.office.net
 - DOMAIN,fp.measure.office.com
