@@ -90,6 +90,7 @@ payload:
 - DOMAIN,hot.browser.intl.miui.com
 - DOMAIN,r.browser.intl.miui.com
 - DOMAIN,api.brs.intl.miui.com
+- DOMAIN,api.calendar.intl.miui.com
 - DOMAIN,abroad.api.comm.intl.miui.com
 - DOMAIN,api.competition.intl.miui.com
 - DOMAIN,api.content.intl.miui.com

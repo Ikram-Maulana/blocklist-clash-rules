@@ -1,6 +1,7 @@
 payload:
 
-- DOMAIN,byteoversea.com
+- DOMAIN,bytegeo.akadns.net
+- DOMAIN,frontier.byteoversea.com
 - DOMAIN,gplog-sg.byteoversea.com
 - DOMAIN,gplog-va.byteoversea.com
 - DOMAIN,gplog-va-useast2a.byteoversea.com
@@ -40,6 +41,7 @@ payload:
 - DOMAIN,xlog-o.byteoversea.com
 - DOMAIN,xlog-va.byteoversea.com
 - DOMAIN,xlog-va-useast2a.byteoversea.com
+- DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 - DOMAIN,abtest-ch.snssdk.com
 - DOMAIN,analytics.snssdk.com
 - DOMAIN,applog.snssdk.com
@@ -117,6 +119,7 @@ payload:
 - DOMAIN,mcs.us.tiktok.com
 - DOMAIN,mcs-ttp2.us.tiktok.com
 - DOMAIN,mssdk.us.tiktok.com
+- DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com
 - DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com
 - DOMAIN,ad.tiktokv.com
 - DOMAIN,ad.tiktokv.us
@@ -175,6 +178,7 @@ payload:
 - DOMAIN,log19-applog-useast2a.tiktokv.com
 - DOMAIN,log19-normal.tiktokv.com
 - DOMAIN,log19-normal-alisg.tiktokv.com
+- DOMAIN,log19-normal-no1a.tiktokv.eu
 - DOMAIN,log19-normal-useast1a.tiktokv.com
 - DOMAIN,log19-normal-useast2a.tiktokv.com
 - DOMAIN,log22-applog-useast1a.tiktokv.com
