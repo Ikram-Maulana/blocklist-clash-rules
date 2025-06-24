@@ -264,7 +264,6 @@ payload:
 - DOMAIN,anchorfree.net
 - DOMAIN,dns.andrewnw.xyz
 - DOMAIN,angle.goal.andrewshomelabs.com
-- DOMAIN,androvpn.com
 - DOMAIN,doh.angry.im
 - DOMAIN,animeproxy.net
 - DOMAIN,aniscartujo.com
@@ -422,6 +421,7 @@ payload:
 - DOMAIN,beetvpn.com
 - DOMAIN,beevpn.com
 - DOMAIN,dns.belnet.be
+- DOMAIN,bentnailfarm4121.com
 - DOMAIN,dns.bermeitinger.eu
 - DOMAIN,bestaitool.news
 - DOMAIN,bestfreevpn.com
@@ -592,7 +592,6 @@ payload:
 - DOMAIN,canadaproxy.info
 - DOMAIN,cantblockthis.org
 - DOMAIN,cantfindme.org
-- DOMAIN,idea.read.capella-technologies.com
 - DOMAIN,2.dnscrypt-cert.captnemo.in
 - DOMAIN,doh.captnemo.in
 - DOMAIN,carebuzz.io
@@ -1066,7 +1065,6 @@ payload:
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
 - DOMAIN,dns.dev-umbrellagov.com
-- DOMAIN,portal.devicars.com
 - DOMAIN,learn.devmon.ru
 - DOMAIN,study.know.devreler.com
 - DOMAIN,dewassh.net
@@ -1294,7 +1292,6 @@ payload:
 - DOMAIN,punono.duckdns.org
 - DOMAIN,tuandns.duckdns.org
 - DOMAIN,tungdnsne.duckdns.org
-- DOMAIN,vpschito.duckdns.org
 - DOMAIN,blahaj.duia.us
 - DOMAIN,butidontwanttacos.duia.us
 - DOMAIN,dualpower.duia.eu
@@ -1306,7 +1303,6 @@ payload:
 - DOMAIN,dvprovider.icu
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
-- DOMAIN,resolver1.dyndnsinternetguide.com
 - DOMAIN,adbox-v9.dynipv6.de
 - DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
@@ -1617,7 +1613,6 @@ payload:
 - DOMAIN,freexite.com
 - DOMAIN,freeyouproxytube.com
 - DOMAIN,freeyoutube.net
-- DOMAIN,french-vpn.com
 - DOMAIN,dns.freopc.fr
 - DOMAIN,dns.freyja.pw
 - DOMAIN,frlolyt.site
@@ -1744,7 +1739,6 @@ payload:
 - DOMAIN,dns.google.com
 - DOMAIN,google-public-dns-a.google.com
 - DOMAIN,google-public-dns-b.google.com
-- DOMAIN,dns-tunnel-check.googlezip.net
 - DOMAIN,tunnel.googlezip.net
 - DOMAIN,goosevpn.com
 - DOMAIN,performance.gosami.xyz
@@ -1986,7 +1980,6 @@ payload:
 - DOMAIN,iblocker.info
 - DOMAIN,ibvpn.com
 - DOMAIN,webproxy.ich-war-hier.de
-- DOMAIN,icitek.com
 - DOMAIN,mask.icloud.com
 - DOMAIN,mask-h2.icloud.com
 - DOMAIN,lab.clever.icp-seigyo.com
@@ -2240,7 +2233,6 @@ payload:
 - DOMAIN,login.knr.cl
 - DOMAIN,knvpn.net
 - DOMAIN,ko-18948-tr.xyz
-- DOMAIN,www-proxy.koirdsuzu.com
 - DOMAIN,www-proxy.kokecoco.me
 - DOMAIN,hr.komor.bid
 - DOMAIN,adguard.konikoni428.com
@@ -2414,7 +2406,6 @@ payload:
 - DOMAIN,mabuktogel.properties
 - DOMAIN,mabuktogel.solutions
 - DOMAIN,banana123.macao.org
-- DOMAIN,maddw.com
 - DOMAIN,use.madefalva.ro
 - DOMAIN,magiccloak.net
 - DOMAIN,mahnor.com
@@ -2449,7 +2440,6 @@ payload:
 - DOMAIN,dns.mateo.ovh
 - DOMAIN,ynbziad.math-solver.com
 - DOMAIN,dns.mathewakhil.online
-- DOMAIN,mathlearning.tech
 - DOMAIN,mathnotes.help
 - DOMAIN,mathnotes.icu
 - DOMAIN,matterhero.org
@@ -2691,6 +2681,7 @@ payload:
 - DOMAIN,nrr.ne1.co
 - DOMAIN,dns.neeb.it
 - DOMAIN,needunblock.com
+- DOMAIN,arain.neighborhoodcloud.com
 - DOMAIN,z-brokethescaler.neighborhoodcloud.com
 - DOMAIN,nekoray.org
 - DOMAIN,smart.quiz.nelsonshack.com
@@ -2698,7 +2689,6 @@ payload:
 - DOMAIN,neonos.me
 - DOMAIN,dns.neowutran.ovh
 - DOMAIN,dns.aa.net.uk
-- DOMAIN,doh.infotek.net.id
 - DOMAIN,doh.max.net.id
 - DOMAIN,ns.net.kg
 - DOMAIN,dog.vpn.net.br
@@ -2746,7 +2736,6 @@ payload:
 - DOMAIN,doh-random-upstream.nicolas-dorriere.fr
 - DOMAIN,nicsezcheckfbi.gov
 - DOMAIN,dns1.nielsdb.be
-- DOMAIN,nightowlvpn.com
 - DOMAIN,nimbleway.com
 - DOMAIN,dns.ningkelle.id
 - DOMAIN,ninjabrowse.com
@@ -2954,7 +2943,6 @@ payload:
 - DOMAIN,osqcsmm.shop
 - DOMAIN,this.is.for.lightspeedpal.ostrovsky.sk
 - DOMAIN,thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
-- DOMAIN,dns.oszx.co
 - DOMAIN,interstellar.otil.cl
 - DOMAIN,topic.idea.ottosulbmec.com
 - DOMAIN,ourproxy.net
@@ -3109,7 +3097,6 @@ payload:
 - DOMAIN,science-exp.port0.org
 - DOMAIN,doh.port53.dk
 - DOMAIN,croze.port82.net
-- DOMAIN,portalssh.com
 - DOMAIN,dns.porteii.com
 - DOMAIN,portmap.io
 - DOMAIN,portssh.com
@@ -3171,7 +3158,6 @@ payload:
 - DOMAIN,privoxy.org
 - DOMAIN,pro-tower.com
 - DOMAIN,chinesekidscheeksarentsafearoundme.procrastin.ar
-- DOMAIN,prohome.info
 - DOMAIN,prointern.info
 - DOMAIN,project-evoex.de
 - DOMAIN,dns.propheci.xyz
@@ -3481,7 +3467,6 @@ payload:
 - DOMAIN,skibidirizz.robinhud.com
 - DOMAIN,topdown.robtop.xyz
 - DOMAIN,topyea.robtop.xyz
-- DOMAIN,rocketprox.com
 - DOMAIN,rockwell.website
 - DOMAIN,dns.roedel.cloud
 - DOMAIN,romirely.tech
@@ -4162,7 +4147,6 @@ payload:
 - DOMAIN,ufovpn.io
 - DOMAIN,ufreevpn.com
 - DOMAIN,ugdsoft.com
-- DOMAIN,uinlive-time.com
 - DOMAIN,webproxy.uk.com
 - DOMAIN,ukwebproxy.eu
 - DOMAIN,debate.major.ulrik.net
@@ -4737,7 +4721,6 @@ payload:
 - DOMAIN,dns.xlion.tw
 - DOMAIN,xn--durhre-yxa.de
 - DOMAIN,xperienc.com
-- DOMAIN,xsfwow.com
 - DOMAIN,hailey-complex.xst.cl
 - DOMAIN,kofi-was-here-noob.xst.cl
 - DOMAIN,dns.xuming.studio
