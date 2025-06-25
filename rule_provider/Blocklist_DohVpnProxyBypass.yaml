@@ -189,7 +189,6 @@ payload:
 - DOMAIN,dns-unfiltered.adguard.com
 - DOMAIN,adguard-dns.com
 - DOMAIN,adguard-vpn.com
-- DOMAIN,adguard-vpn.online
 - DOMAIN,adresseip.com
 - DOMAIN,dns.adrianlam.com
 - DOMAIN,adsocialmediamarketing.com
@@ -342,7 +341,6 @@ payload:
 - DOMAIN,adguardhome.atakorah.com
 - DOMAIN,atlasvpn.com
 - DOMAIN,atozproxy.com
-- DOMAIN,atris.cyou
 - DOMAIN,dohtrial.att.net
 - DOMAIN,dns.auapi.fun
 - DOMAIN,stevenisafemboy.auraria.org
@@ -556,6 +554,7 @@ payload:
 - DOMAIN,use.bsfa.info
 - DOMAIN,doh.bt.com
 - DOMAIN,btguard.com
+- DOMAIN,btunnel.in
 - DOMAIN,goose.buckyfan.net
 - DOMAIN,buffered.com
 - DOMAIN,zainisashithead.bugaloop.com
@@ -797,6 +796,7 @@ payload:
 - DOMAIN,googie.anchorchain.co.za
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
+- DOMAIN,btunnel.co.in
 - DOMAIN,cars-a.co.za
 - DOMAIN,clearvpn.co.uk
 - DOMAIN,pihole.datamatter.co.za
@@ -2363,6 +2363,8 @@ payload:
 - DOMAIN,litevpn.top
 - DOMAIN,loadlow.me
 - DOMAIN,dns.lobbygod.com
+- DOMAIN,localto.net
+- DOMAIN,localtonet.com
 - DOMAIN,locaproxy.com
 - DOMAIN,lochridge.org
 - DOMAIN,browser.lolo.pro
@@ -2625,7 +2627,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3786,6 +3787,8 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
+- DOMAIN,proxy1.startpage.com
+- DOMAIN,proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
