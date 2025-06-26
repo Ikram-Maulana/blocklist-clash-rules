@@ -201,6 +201,7 @@ payload:
 - DOMAIN,research.africa.com
 - DOMAIN,gov.goal.agilewhitecloud.com
 - DOMAIN,agmath.xyz
+- DOMAIN,ebooks-edu.agmlabs.com
 - DOMAIN,wha.agmlabs.com
 - DOMAIN,ahadns.net
 - DOMAIN,blitz.ahadns.com
@@ -864,6 +865,7 @@ payload:
 - DOMAIN,budget.chodos.com.ar
 - DOMAIN,dns.cloud88.com.au
 - DOMAIN,about.cmbazan.com.ar
+- DOMAIN,state.lab.covi.com.ar
 - DOMAIN,croxyproxy.com.in
 - DOMAIN,echan.faizinternational.com.np
 - DOMAIN,info.faizinternational.com.np
@@ -954,6 +956,7 @@ payload:
 - DOMAIN,c.cpfrx.info
 - DOMAIN,e.cpfrx.info
 - DOMAIN,www.i.cpfrx.info
+- DOMAIN,teste.g.crabdance.com
 - DOMAIN,rammerhead.crackerstreams.org
 - DOMAIN,cracksite.info
 - DOMAIN,crawlbase.com
@@ -1753,6 +1756,7 @@ payload:
 - DOMAIN,gowork.info
 - DOMAIN,gpreport.us
 - DOMAIN,gracarno.com
+- DOMAIN,basic.idea.gracesiefer.com
 - DOMAIN,doge.gracyjohns.cl
 - DOMAIN,graef.in
 - DOMAIN,grammarhelpers.com
@@ -1995,6 +1999,7 @@ payload:
 - DOMAIN,class.recap.idiaga.com
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
+- DOMAIN,teste.g.ignorelist.com
 - DOMAIN,heb1.ignorelist.com
 - DOMAIN,subscribe-to-vcsa.ignorelist.com
 - DOMAIN,test52139.ignorelist.com
@@ -2204,6 +2209,7 @@ payload:
 - DOMAIN,katonetwork.com
 - DOMAIN,kavkaz.monster
 - DOMAIN,dns.kawa.tf
+- DOMAIN,base.train.kdits.ca
 - DOMAIN,ram.kdot.cam
 - DOMAIN,dns.kebree.fr
 - DOMAIN,keenow.com
@@ -2630,7 +2636,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -3604,6 +3609,7 @@ payload:
 - DOMAIN,serkanarslan.com
 - DOMAIN,privatnas.servebeer.com
 - DOMAIN,serverhoya.com
+- DOMAIN,harrypotter.serverpit.com
 - DOMAIN,serverssh.net
 - DOMAIN,assets-prod-a230.s3.serverwild.com
 - DOMAIN,pod.servicegrup.ro
@@ -4033,6 +4039,7 @@ payload:
 - DOMAIN,doh.tiarap.org
 - DOMAIN,jp.tiarap.org
 - DOMAIN,prestonhitgrandmasterinyorkmate.tice-industries.com
+- DOMAIN,world.guide.ticinostudio.com
 - DOMAIN,tigervpn.com
 - DOMAIN,tigrons.ru
 - DOMAIN,tikvpn.com
@@ -4668,6 +4675,7 @@ payload:
 - DOMAIN,wiksa.com
 - DOMAIN,dns-1.wil.cloud
 - DOMAIN,dns-2.wil.cloud
+- DOMAIN,tests.excel.wild1.net
 - DOMAIN,wildproxy.info
 - DOMAIN,education.wildsurf.net
 - DOMAIN,pirate.wildsurf.net
