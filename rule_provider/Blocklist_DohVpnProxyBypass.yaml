@@ -1067,6 +1067,7 @@ payload:
 - DOMAIN,desertsand.us
 - DOMAIN,adguard.lege.despagne.net
 - DOMAIN,doh-primary-pool.detoxifypornblocker.com
+- DOMAIN,dev-ngrok.com
 - DOMAIN,dns.dev-umbrellagov.com
 - DOMAIN,learn.devmon.ru
 - DOMAIN,study.know.devreler.com
@@ -3782,6 +3783,7 @@ payload:
 - DOMAIN,stable-vpn.com
 - DOMAIN,stackfront.xyz
 - DOMAIN,auraaa.staffordesq.com
+- DOMAIN,stage-ngrok.com
 - DOMAIN,use.star.is
 - DOMAIN,tests.data.stardustcommercialservices.com
 - DOMAIN,stargate.one
