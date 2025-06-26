@@ -956,7 +956,6 @@ payload:
 - DOMAIN,c.cpfrx.info
 - DOMAIN,e.cpfrx.info
 - DOMAIN,www.i.cpfrx.info
-- DOMAIN,teste.g.crabdance.com
 - DOMAIN,rammerhead.crackerstreams.org
 - DOMAIN,cracksite.info
 - DOMAIN,crawlbase.com
@@ -1352,7 +1351,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1505,7 +1503,6 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1999,7 +1996,6 @@ payload:
 - DOMAIN,class.recap.idiaga.com
 - DOMAIN,idolproxy.com
 - DOMAIN,adguard.shuting.idv.tw
-- DOMAIN,teste.g.ignorelist.com
 - DOMAIN,heb1.ignorelist.com
 - DOMAIN,subscribe-to-vcsa.ignorelist.com
 - DOMAIN,test52139.ignorelist.com
@@ -3609,7 +3605,6 @@ payload:
 - DOMAIN,serkanarslan.com
 - DOMAIN,privatnas.servebeer.com
 - DOMAIN,serverhoya.com
-- DOMAIN,harrypotter.serverpit.com
 - DOMAIN,serverssh.net
 - DOMAIN,assets-prod-a230.s3.serverwild.com
 - DOMAIN,pod.servicegrup.ro
