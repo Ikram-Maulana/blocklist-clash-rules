@@ -49,7 +49,6 @@ payload:
 - DOMAIN,liverpoolontop.1337.cx
 - DOMAIN,canva.login.1337.cx
 - DOMAIN,goal.music.1337.cx
-- DOMAIN,dns.13evl.com
 - DOMAIN,16yd.com
 - DOMAIN,cloud.198.games
 - DOMAIN,1and1-dns.de
@@ -1000,7 +999,6 @@ payload:
 - DOMAIN,academy.ctx.cl
 - DOMAIN,vynox.ctx.cl
 - DOMAIN,cubedns.com
-- DOMAIN,qual.cuprum.ru
 - DOMAIN,curd.io
 - DOMAIN,amir1.cuza16.ro
 - DOMAIN,cozy.cuza16.ro
@@ -1352,6 +1350,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1504,6 +1503,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -1973,7 +1973,6 @@ payload:
 - DOMAIN,h5.wan.360.23xinyou.51.3w2.cc.nc.hzlqun.cn
 - DOMAIN,i2p-projekt.de
 - DOMAIN,i2pd.xyz
-- DOMAIN,vd.i81.ru
 - DOMAIN,vpn.i81.ru
 - DOMAIN,beepboopbop.iamadeveloper.dev
 - DOMAIN,dns.iamanuragh.in
@@ -2293,7 +2292,6 @@ payload:
 - DOMAIN,thisforcinco.larrondoinstalaciones.cl
 - DOMAIN,dns.lars-lehmann.net
 - DOMAIN,larva.app
-- DOMAIN,dns.lashes-brow.ru
 - DOMAIN,lastentarvike.fi
 - DOMAIN,chart.words.lasvegasanonymous.org
 - DOMAIN,eu1.dns.lavate.ch
@@ -2388,7 +2386,6 @@ payload:
 - DOMAIN,bolt.louis-ip.com
 - DOMAIN,koolaid.lozan.com
 - DOMAIN,worldwaronehistory.lozan.com
-- DOMAIN,n5.lsasss.com
 - DOMAIN,ltlxvxjjmvhn.me
 - DOMAIN,btg.ludopop.cl
 - DOMAIN,lukscasino-479-tr.xyz
@@ -2633,6 +2630,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2850,7 +2848,6 @@ payload:
 - DOMAIN,dns.olpploiopkuyhiopsfrt.info
 - DOMAIN,olympicproxy.net
 - DOMAIN,omegaproxy.com
-- DOMAIN,adguard.oms-ctr.ru
 - DOMAIN,onconnect.info
 - DOMAIN,skills.field.cftc-devoteam.one.pl
 - DOMAIN,one.one.one.one
@@ -3796,10 +3793,31 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
-- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,proxy1.startpage.com
-- DOMAIN,proxy2.startpage.com
+- DOMAIN,0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
+- DOMAIN,071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
+- DOMAIN,0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
+- DOMAIN,1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com
+- DOMAIN,51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com
+- DOMAIN,5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com
+- DOMAIN,787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com
+- DOMAIN,919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
+- DOMAIN,9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
+- DOMAIN,954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com
+- DOMAIN,aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com
+- DOMAIN,afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
+- DOMAIN,c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com
+- DOMAIN,c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com
+- DOMAIN,c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com
+- DOMAIN,cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
+- DOMAIN,dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com
+- DOMAIN,e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
+- DOMAIN,ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com
+- DOMAIN,f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
+- DOMAIN,f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
+- DOMAIN,fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
+- DOMAIN,session.proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
