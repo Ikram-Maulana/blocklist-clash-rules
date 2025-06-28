@@ -618,7 +618,6 @@ payload:
 - DOMAIN,dns.cert.ee
 - DOMAIN,area.world.cervezamolay.com
 - DOMAIN,cfdjb.org
-- DOMAIN,suken.cfmr.ro
 - DOMAIN,ibuki.cgnat.net
 - DOMAIN,dns.chadeyron.fr
 - DOMAIN,core.goal.challengepursuit.com
@@ -787,7 +786,6 @@ payload:
 - DOMAIN,10bestvpn.co.uk
 - DOMAIN,adguard.aa4.co.uk
 - DOMAIN,akashiro.co.id
-- DOMAIN,googie.anchorchain.co.za
 - DOMAIN,antidnsvpn.co.cc
 - DOMAIN,binhexsolutions.co.uk
 - DOMAIN,btunnel.co.in
@@ -814,7 +812,6 @@ payload:
 - DOMAIN,onlineproxy.co.uk
 - DOMAIN,alvaromarzogarbayo.pimp.co.za
 - DOMAIN,pooblet.co.za
-- DOMAIN,proxay.co.uk
 - DOMAIN,proxify.co.uk
 - DOMAIN,proxywebsite.co.uk
 - DOMAIN,quickproxy.co.uk
@@ -879,7 +876,6 @@ payload:
 - DOMAIN,auditing.lepetitprince.com.np
 - DOMAIN,logisticsacademy.logistica.com.mx
 - DOMAIN,encryption.madereramilano.com.ar
-- DOMAIN,manaututors.manausclass.com.br
 - DOMAIN,grid.brain.marcenes.com.br
 - DOMAIN,packetyo.nanbang.com.tr
 - DOMAIN,dns.netraptor.com.au
@@ -904,7 +900,6 @@ payload:
 - DOMAIN,webproxy.com.de
 - DOMAIN,6922.yugadiluitel.com.np
 - DOMAIN,dns.comff.net
-- DOMAIN,rammerhead.command.enterprises
 - DOMAIN,commonapp.college
 - DOMAIN,commons.host
 - DOMAIN,easy-vpn.comodo.com
@@ -1301,6 +1296,7 @@ payload:
 - DOMAIN,dns.dyn1.de
 - DOMAIN,ueni.dyndns.org
 - DOMAIN,adbox-v9.dynipv6.de
+- DOMAIN,gustamadh.dynv6.net
 - DOMAIN,sagamihara.dynv6.net
 - DOMAIN,t9rke-5zq1m.dynv6.net
 - DOMAIN,dns.dynx.pro
