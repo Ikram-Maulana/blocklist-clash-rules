@@ -1335,7 +1335,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1747,7 +1746,6 @@ payload:
 - DOMAIN,greenssh.com
 - DOMAIN,dnsblock.grisumedia.de
 - DOMAIN,dns.grqu.de
-- DOMAIN,wow.grupompr.com
 - DOMAIN,minionsandgru.grupopilar.cl
 - DOMAIN,vps.grussenmeyer.com
 - DOMAIN,gamgasyoppakuteri-zenttodabi.gslb.info
@@ -1804,10 +1802,6 @@ payload:
 - DOMAIN,dylanigotchu.hbmc.net
 - DOMAIN,query.hdns.io
 - DOMAIN,ordns.he.net
-- DOMAIN,chimpanzinibananini.hec.to
-- DOMAIN,dogebyvcsa.hec.to
-- DOMAIN,hooda.math.hec.to
-- DOMAIN,nodamirai.hec.to
 - DOMAIN,us-ny-alula.heliumcloud.cc
 - DOMAIN,sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 - DOMAIN,sage.skills.hellasinside.com
@@ -1930,7 +1924,6 @@ payload:
 - DOMAIN,hoyofun.xyz
 - DOMAIN,ajmal.hpc.tw
 - DOMAIN,greenbeandean.hs.vc
-- DOMAIN,be.hse.tw
 - DOMAIN,code.edu.hse.tw
 - DOMAIN,hshh.org
 - DOMAIN,hsselite.com
@@ -1985,7 +1978,6 @@ payload:
 - DOMAIN,youreagoodmanarthurmorgan.ignorelist.com
 - DOMAIN,dns.ihaveacloud.com
 - DOMAIN,hellotaka.iiiii.info
-- DOMAIN,yozora.iiiii.info
 - DOMAIN,iij.jp
 - DOMAIN,ikarosalpha.xyz
 - DOMAIN,dns.ikataruto.com
@@ -2081,7 +2073,6 @@ payload:
 - DOMAIN,smellypay.isreally.pro
 - DOMAIN,stuffyschicken.isreallycool.lol
 - DOMAIN,itopvpn.com
-- DOMAIN,itsayx.online
 - DOMAIN,pdns.itxe.net
 - DOMAIN,ivacy.com
 - DOMAIN,ivacyvpn.com
@@ -2107,12 +2098,9 @@ payload:
 - DOMAIN,tesutorender.jake.eu
 - DOMAIN,jamesisbald.xyz
 - DOMAIN,tj.jamesxue.xyz
-- DOMAIN,janathanmahes-mysharepoint.com
 - DOMAIN,dns.janl.eu
 - DOMAIN,transit.javierblog.com
 - DOMAIN,state.gov.jaycloudlab.com
-- DOMAIN,jayshaun.com
-- DOMAIN,starving-kids.jaytex.org
 - DOMAIN,woodshop.jbworks.com
 - DOMAIN,jcdns.fun
 - DOMAIN,lowlow.jellyfl1x.es
@@ -2192,7 +2180,6 @@ payload:
 - DOMAIN,dns.kebree.fr
 - DOMAIN,keenow.com
 - DOMAIN,keepanonymous.com
-- DOMAIN,dns.keke125.com
 - DOMAIN,doh.kekew.info
 - DOMAIN,doh.kel.pe
 - DOMAIN,kepard.com
@@ -2213,7 +2200,6 @@ payload:
 - DOMAIN,blog.kimiblock.top
 - DOMAIN,kingsurfproxy.com
 - DOMAIN,howto.piano.kiptrak.com
-- DOMAIN,good.kje.us
 - DOMAIN,dns1.klcd.eu
 - DOMAIN,dns2.klcd.eu
 - DOMAIN,klcknerrip.com
@@ -2327,7 +2313,6 @@ payload:
 - DOMAIN,limevpn.com
 - DOMAIN,limitlessproxy.com
 - DOMAIN,silly.lindhesidan.se
-- DOMAIN,yozora.lindhesidan.se
 - DOMAIN,theman.lingxi-ai.net
 - DOMAIN,www-pa.linkall.uk
 - DOMAIN,linkideo.com
@@ -2354,7 +2339,6 @@ payload:
 - DOMAIN,localtonet.com
 - DOMAIN,locaproxy.com
 - DOMAIN,lochridge.org
-- DOMAIN,browser.lolo.pro
 - DOMAIN,adguard.londonwebnerd.cloud
 - DOMAIN,doh.dns1.lonet.org
 - DOMAIN,doh.phdns1.lonet.org
@@ -2380,7 +2364,6 @@ payload:
 - DOMAIN,luminati.io
 - DOMAIN,luminatinet.com
 - DOMAIN,lurk.info
-- DOMAIN,the.luxflow.net
 - DOMAIN,orau.lz0724.com
 - DOMAIN,addns1.m-it.ro
 - DOMAIN,mabuktogel.builders
@@ -2406,7 +2389,6 @@ payload:
 - DOMAIN,mainssh.com
 - DOMAIN,maintainbrain.us
 - DOMAIN,dns.maitrekuc.fr
-- DOMAIN,we.make-it.ro
 - DOMAIN,course.quiz.makovecz.com
 - DOMAIN,mallocapp.com
 - DOMAIN,mallocprivacy.com
