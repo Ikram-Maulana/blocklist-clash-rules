@@ -1486,6 +1486,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2593,6 +2594,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -2882,7 +2884,6 @@ payload:
 - DOMAIN,openvpn.com
 - DOMAIN,openvpn.net
 - DOMAIN,openvpn-ssh.com
-- DOMAIN,flipgrid.opior.com
 - DOMAIN,musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id
 - DOMAIN,this.revolution.been.televised.df.cissp.or.id
 - DOMAIN,hitman.malam.or.id
@@ -2976,7 +2977,6 @@ payload:
 - DOMAIN,pepetio.xyz
 - DOMAIN,school.pepikutan.net
 - DOMAIN,perfect-privacy.com
-- DOMAIN,perfectvpn.net
 - DOMAIN,perlproxy.com
 - DOMAIN,homework.maths.percentages.perona.cl
 - DOMAIN,darya.persiannit.net
@@ -3014,7 +3014,6 @@ payload:
 - DOMAIN,dns1.pietjacobs.be
 - DOMAIN,mind.gov.ping24.com
 - DOMAIN,pingproxy.com
-- DOMAIN,www-funny.pinkertonmc.com
 - DOMAIN,pinkproxy.xyz
 - DOMAIN,piraproxy.org
 - DOMAIN,pirataproxy.com
@@ -3311,7 +3310,6 @@ payload:
 - DOMAIN,purevpn-tools.com
 - DOMAIN,pushokey.com
 - DOMAIN,pushvpn.com
-- DOMAIN,start.puto.me
 - DOMAIN,pxaa.com
 - DOMAIN,pyproxy.com
 - DOMAIN,doh.pyry.me
@@ -3378,7 +3376,6 @@ payload:
 - DOMAIN,rayneau.fr
 - DOMAIN,rayobyte.com
 - DOMAIN,learn.razorlan.info
-- DOMAIN,use.razorlan.info
 - DOMAIN,dns.rbn.gr
 - DOMAIN,rcsm.ir
 - DOMAIN,login.readinghelper.online
@@ -3414,7 +3411,6 @@ payload:
 - DOMAIN,dnspub.restena.lu
 - DOMAIN,dns.retakecs.com
 - DOMAIN,rethinkdns.com
-- DOMAIN,zixypy.reticence.lol
 - DOMAIN,www-proxy.retportal.com
 - DOMAIN,revelio.top
 - DOMAIN,revko.info
@@ -3427,7 +3423,6 @@ payload:
 - DOMAIN,lexiapowerup.ricksolinas.com
 - DOMAIN,dns.rin.sh
 - DOMAIN,elishawisabaddie.rinet.fi
-- DOMAIN,next.rinet.ai
 - DOMAIN,ringvpn.com
 - DOMAIN,riseup.net
 - DOMAIN,rnblyatclub.online
@@ -3462,7 +3457,6 @@ payload:
 - DOMAIN,dns.rubyfish.cn
 - DOMAIN,ea-dns.rubyfish.cn
 - DOMAIN,uw-dns.rubyfish.cn
-- DOMAIN,yoursuper.rude.li
 - DOMAIN,rumpelsepp.org
 - DOMAIN,error404becausepar1scantlose.run.place
 - DOMAIN,doh.runsel.id
@@ -3478,7 +3472,6 @@ payload:
 - DOMAIN,s4m.xyz
 - DOMAIN,scienceforkids.saahee.cn
 - DOMAIN,math.sachhot.com
-- DOMAIN,desmos.saf-eng.com
 - DOMAIN,safe-inet.com
 - DOMAIN,safeguardianvpn.com
 - DOMAIN,safenetbrowser.com
@@ -3668,7 +3661,6 @@ payload:
 - DOMAIN,guard.sntrk.ru
 - DOMAIN,dove.soapagent.com
 - DOMAIN,dove.soapclient.com
-- DOMAIN,signup.soapclient.com
 - DOMAIN,socialnetworkinfo.us
 - DOMAIN,socks-proxy.net
 - DOMAIN,sockslist.us
@@ -3680,7 +3672,6 @@ payload:
 - DOMAIN,trade.my.solidarychain.com
 - DOMAIN,solidproxy.net
 - DOMAIN,somelikeitproxy.com
-- DOMAIN,rizzohiosigmajasin111.com.soon.it
 - DOMAIN,jcmswebsiteunblocker.soon.it
 - DOMAIN,konata-ice.soon.it
 - DOMAIN,maxkershoe.soon.it
@@ -3744,7 +3735,6 @@ payload:
 - DOMAIN,use.star.is
 - DOMAIN,tests.data.stardustcommercialservices.com
 - DOMAIN,stargate.one
-- DOMAIN,task.words.starlordbob.com
 - DOMAIN,starruby.us
 - DOMAIN,starrynight.site
 - DOMAIN,starssh.com
@@ -3754,7 +3744,29 @@ payload:
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
-- DOMAIN,proxy2.startpage.com
+- DOMAIN,0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
+- DOMAIN,071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
+- DOMAIN,0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
+- DOMAIN,1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com
+- DOMAIN,51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com
+- DOMAIN,5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com
+- DOMAIN,787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com
+- DOMAIN,919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
+- DOMAIN,9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
+- DOMAIN,954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com
+- DOMAIN,aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com
+- DOMAIN,afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
+- DOMAIN,c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com
+- DOMAIN,c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com
+- DOMAIN,c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com
+- DOMAIN,cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
+- DOMAIN,dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com
+- DOMAIN,e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
+- DOMAIN,ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com
+- DOMAIN,f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
+- DOMAIN,f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
+- DOMAIN,fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
+- DOMAIN,session.proxy2.startpage.com
 - DOMAIN,proxy3.startpage.com
 - DOMAIN,s4-us2.startpage.com
 - DOMAIN,us1-browse.startpage.com
@@ -3782,7 +3794,6 @@ payload:
 - DOMAIN,dns.strassmair.org
 - DOMAIN,streamvia.com
 - DOMAIN,streamvpn.com
-- DOMAIN,you.know.that.im.strokin.it
 - DOMAIN,pleasekeep.strokin.it
 - DOMAIN,strongvpn.com
 - DOMAIN,class.proof.studiovk.com
@@ -3854,7 +3865,6 @@ payload:
 - DOMAIN,surtshark.com
 - DOMAIN,dns.sv-zauner.at
 - DOMAIN,dns.svoi.dev
-- DOMAIN,poptee-liawheufhwae-awef.swanndvr.net
 - DOMAIN,popteeeee-lkshfeakwueh-ew.swanndvr.net
 - DOMAIN,ramm-ume-pro.swanndvr.net
 - DOMAIN,rammerhead-10.swanndvr.net
@@ -4034,8 +4044,6 @@ payload:
 - DOMAIN,tor2web.it
 - DOMAIN,tor2web.org
 - DOMAIN,tor2web.ru
-- DOMAIN,tor2web.su
-- DOMAIN,tor4pay.com
 - DOMAIN,torguard.biz
 - DOMAIN,torguard.net
 - DOMAIN,torguard.org
@@ -4291,7 +4299,6 @@ payload:
 - DOMAIN,ines.zfn.uni-bremen.de
 - DOMAIN,guh.uniall.tk
 - DOMAIN,unifiedvpn.com
-- DOMAIN,galileo.math.unipd.it
 - DOMAIN,universityproxy.net
 - DOMAIN,unkn0wngb.lol
 - DOMAIN,unknownproxy.com
