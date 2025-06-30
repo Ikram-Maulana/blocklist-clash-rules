@@ -1411,7 +1411,6 @@ payload:
 - DOMAIN,shark-pan.f5.si
 - DOMAIN,socchanpxy.f5.si
 - DOMAIN,jp1.f7b6h9.tk
-- DOMAIN,dns.f97.xyz
 - DOMAIN,idea.lab.fabriquilla25.com
 - DOMAIN,faceless.me
 - DOMAIN,proxy.facil.wtf
@@ -4299,6 +4298,7 @@ payload:
 - DOMAIN,ines.zfn.uni-bremen.de
 - DOMAIN,guh.uniall.tk
 - DOMAIN,unifiedvpn.com
+- DOMAIN,galileo.math.unipd.it
 - DOMAIN,universityproxy.net
 - DOMAIN,unkn0wngb.lol
 - DOMAIN,unknownproxy.com
@@ -4653,7 +4653,6 @@ payload:
 - DOMAIN,wobti.com
 - DOMAIN,lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 - DOMAIN,wonderland.ws
-- DOMAIN,clearweb.woodbridge.club
 - DOMAIN,woodenclock.us
 - DOMAIN,shop.woodworker.cl
 - DOMAIN,workbypass.com
@@ -4764,7 +4763,6 @@ payload:
 - DOMAIN,zalmos.com
 - DOMAIN,learning.zanity.net
 - DOMAIN,bananakun.zapto.org
-- DOMAIN,hudzonlzzzzzhj.zavoj.ch
 - DOMAIN,tststststststststststststststststststststs.zavoj.ch
 - DOMAIN,xyz.zaylovesparker.xyz
 - DOMAIN,zburger.top
