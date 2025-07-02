@@ -125,7 +125,6 @@ payload:
 - DOMAIN,dns.886886886.xyz
 - DOMAIN,dns.888654.xyz
 - DOMAIN,8888.google
-- DOMAIN,8proxy.com
 - DOMAIN,arts.field.8tb.net
 - DOMAIN,8v9m.com
 - DOMAIN,922proxy.com
@@ -212,7 +211,6 @@ payload:
 - DOMAIN,study.ajhurst.org
 - DOMAIN,akunssh.net
 - DOMAIN,use.alabasgames.com
-- DOMAIN,work.excel.albacetediario.com
 - DOMAIN,dns.albony.xyz
 - DOMAIN,aldhaferi.store
 - DOMAIN,search.alemanaactiva.cl
@@ -1335,7 +1333,6 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
-- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -1486,6 +1483,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2592,7 +2590,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
