@@ -188,6 +188,7 @@ payload:
 - DOMAIN,dns.adrianlam.com
 - DOMAIN,adsocialmediamarketing.com
 - DOMAIN,adultproxy.men
+- DOMAIN,builtlikearat.advanced-orchestra.site
 - DOMAIN,piie.advanced-orchestra.site
 - DOMAIN,advancedvpn.com
 - DOMAIN,aerodrorne.vip
@@ -497,6 +498,7 @@ payload:
 - DOMAIN,bmetrics.org
 - DOMAIN,dns.bmwhocking.com
 - DOMAIN,dns.bobstrecansky.com
+- DOMAIN,bocaplanet.com
 - DOMAIN,d.bod.lol
 - DOMAIN,boda-vip.net
 - DOMAIN,bodvpn.com
@@ -513,6 +515,7 @@ payload:
 - DOMAIN,doh.bortzmeyer.fr
 - DOMAIN,cloudns.bosco.ovh
 - DOMAIN,pakupaku.bounceme.net
+- DOMAIN,full.boxathome.net
 - DOMAIN,vectorgpt.boxathome.net
 - DOMAIN,boxpn.com
 - DOMAIN,dns.braene.com
@@ -1080,7 +1083,6 @@ payload:
 - DOMAIN,fdns1.dismail.de
 - DOMAIN,fdns2.dismail.de
 - DOMAIN,districtnewyork.com
-- DOMAIN,divalane.com
 - DOMAIN,divaloo.com
 - DOMAIN,divavu.com
 - DOMAIN,coolgams.dk-condos.com
@@ -1333,6 +1335,7 @@ payload:
 - DOMAIN,educationdean.us
 - DOMAIN,adguard.ef67daisuki.club
 - DOMAIN,tor.eff.org
+- DOMAIN,dns.efficientdocuments.com
 - DOMAIN,scifi0.eigenlicht.us
 - DOMAIN,hole.elbschloss.xyz
 - DOMAIN,elearning.electronicajck.com
@@ -2275,6 +2278,7 @@ payload:
 - DOMAIN,le-vpn.com
 - DOMAIN,adguard1.leadmon.net
 - DOMAIN,adguard.leadseason.eu
+- DOMAIN,free.learnbiology.one
 - DOMAIN,dingaling.leasingindia.com
 - DOMAIN,unibrow.leasingindia.com
 - DOMAIN,ledfordmiddleschool.xyz
@@ -3739,6 +3743,7 @@ payload:
 - DOMAIN,ams2.startpage.com
 - DOMAIN,browse.startpage.com
 - DOMAIN,eu-browse.startpage.com
+- DOMAIN,eu1-browse.startpage.com
 - DOMAIN,eu2-browse.startpage.com
 - DOMAIN,0330cd7d891ebc7fc7e3c546f786c491f11b2f8e-m.proxy1.startpage.com
 - DOMAIN,0991b01945243b7d3cd06ba8fc2c9ac1d2b5038a-m.proxy1.startpage.com
@@ -3768,6 +3773,7 @@ payload:
 - DOMAIN,a168955d7e5d625dee8a09d0cb6f4a4fefd9109d-m.proxy1.startpage.com
 - DOMAIN,a7394ec8cacd1509e9d22c1ef2d148e16955e8db-m.proxy1.startpage.com
 - DOMAIN,ac1f5522c318b05b15a257cf3bd4f5ae9a35b368-m.proxy1.startpage.com
+- DOMAIN,b3b5ec98c97fe566d366fdefb296e0e47452d39e-m.proxy1.startpage.com
 - DOMAIN,b544d675338132f756edb2ad371561335aeb55b5-m.proxy1.startpage.com
 - DOMAIN,beb083dc57ad9b3625ae33289cf6404857a2a2ec-m.proxy1.startpage.com
 - DOMAIN,bf7fd04afd02532ca02fc0197a0fd363b7a33c75-m.proxy1.startpage.com
@@ -3789,7 +3795,9 @@ payload:
 - DOMAIN,ef42e8710b22bed5aa85cd39f29e528d4d3c80a9-m.proxy1.startpage.com
 - DOMAIN,f471495b81d00289c3a600f544e445ce75854901-m.proxy1.startpage.com
 - DOMAIN,f8a5c54672435c661c7c2e52ebf1d8101d1a7347-m.proxy1.startpage.com
+- DOMAIN,f93e553908c2ea75f42a4340e15fa322d1629938-m.proxy1.startpage.com
 - DOMAIN,fa7817c4c224fc833caa30460cf2b2fb658d7176-m.proxy1.startpage.com
+- DOMAIN,session.proxy1.startpage.com
 - DOMAIN,0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
 - DOMAIN,071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
 - DOMAIN,0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
