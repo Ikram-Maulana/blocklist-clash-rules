@@ -647,7 +647,6 @@ payload:
 - DOMAIN,analytics.trafficmanager.net
 - DOMAIN,hub.analytics.trafficmanager.net
 - DOMAIN,geo.hub.analytics.trafficmanager.net
-- DOMAIN,analytics-listener.trafficmanager.net
 - DOMAIN,atm-settingsfe-prod-geo2.trafficmanager.net
 - DOMAIN,beacons.trafficmanager.net
 - DOMAIN,bf-analytics-tracker-tm.trafficmanager.net
@@ -731,6 +730,7 @@ payload:
 - DOMAIN,ppc-word-telemetry.wac.trafficmanager.net
 - DOMAIN,word-telemetry.wac.trafficmanager.net
 - DOMAIN,win-global-asimov-leafs-events-data.trafficmanager.net
+- DOMAIN,wttwebsiteprodapi-liveevents.trafficmanager.net
 - DOMAIN,dc.services.visualstudio.com
 - DOMAIN,h4g3z1-native.winoffice.web.app
 - DOMAIN,activity.windows.com

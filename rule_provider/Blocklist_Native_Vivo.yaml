@@ -91,6 +91,7 @@ payload:
 - DOMAIN,ex-romsp-unifyconfig.vivoglobal.com
 - DOMAIN,id-analyzer-appstore.vivoglobal.com
 - DOMAIN,id-third-appstore.vivoglobal.com
+- DOMAIN,in-ad-mkt-vivofs.vivoglobal.com
 - DOMAIN,in-adlog.vivoglobal.com
 - DOMAIN,in-adreq.vivoglobal.com
 - DOMAIN,in-adsjssdk.vivoglobal.com
