@@ -81,7 +81,6 @@ payload:
 - DOMAIN,2ub.top
 - DOMAIN,30t.online
 - DOMAIN,doh.30x.me
-- DOMAIN,351242444.xyz
 - DOMAIN,dns.354688.xyz
 - DOMAIN,doh.360.cn
 - DOMAIN,dot.360.cn
@@ -521,6 +520,7 @@ payload:
 - DOMAIN,full.boxathome.net
 - DOMAIN,vectorgpt.boxathome.net
 - DOMAIN,boxpn.com
+- DOMAIN,dns.braene.com
 - DOMAIN,dns.brahma.world
 - DOMAIN,bramka-proxy.pl
 - DOMAIN,bravedns.com
@@ -1491,6 +1491,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2604,6 +2605,7 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
+- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
@@ -4325,7 +4327,6 @@ payload:
 - DOMAIN,vocab.tktt.jp
 - DOMAIN,dns.tls-data.de
 - DOMAIN,tlsext.com
-- DOMAIN,tlz.asia
 - DOMAIN,tnvpn.com
 - DOMAIN,d.toairs.com
 - DOMAIN,prr.toma.cl
