@@ -97,6 +97,7 @@ payload:
 - DOMAIN,3x.nz
 - DOMAIN,dns.4-the.win
 - DOMAIN,notfound-google.404.mn
+- DOMAIN,study.404.mn
 - DOMAIN,doh.42l.fr
 - DOMAIN,bannana.web-doge.42web.io
 - DOMAIN,46sdzf3zdg1dxg2.us
@@ -520,7 +521,6 @@ payload:
 - DOMAIN,full.boxathome.net
 - DOMAIN,vectorgpt.boxathome.net
 - DOMAIN,boxpn.com
-- DOMAIN,dns.braene.com
 - DOMAIN,dns.brahma.world
 - DOMAIN,bramka-proxy.pl
 - DOMAIN,bravedns.com
@@ -1492,7 +1492,6 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
-- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
@@ -2594,6 +2593,7 @@ payload:
 - DOMAIN,myproxy.link
 - DOMAIN,myproxy.lol
 - DOMAIN,myproxysite.org
+- DOMAIN,study-english-net.mysaol.com
 - DOMAIN,myspaceunlock.com
 - DOMAIN,mysteriumvpn.com
 - DOMAIN,mytunneling.com
@@ -2605,7 +2605,6 @@ payload:
 - DOMAIN,area51.mywire.org
 - DOMAIN,fwgw.orangepipc.mywire.org
 - DOMAIN,mzhlhrfr8z.info
-- DOMAIN,dns.mzjtechnology.com
 - DOMAIN,dns.mzrme.cn
 - DOMAIN,n0.eu
 - DOMAIN,dns.n23.io
