@@ -2319,6 +2319,7 @@ payload:
 - DOMAIN,doh.libredns.gr
 - DOMAIN,dot.libredns.gr
 - DOMAIN,lifeisa.live
+- DOMAIN,dns.lightmaster.pw
 - DOMAIN,dns.lihj.me
 - DOMAIN,likeproxy.com
 - DOMAIN,limevpn.com
