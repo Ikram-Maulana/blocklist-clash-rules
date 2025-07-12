@@ -119,7 +119,6 @@ payload:
 - DOMAIN,mcs.us.tiktok.com
 - DOMAIN,mcs-ttp2.us.tiktok.com
 - DOMAIN,mssdk.us.tiktok.com
-- DOMAIN,p16-tiktok-ads-sg.tiktokcdn.com
 - DOMAIN,sf16-telemetry-proxy-oci.tiktokcdn-us.com
 - DOMAIN,ad.tiktokv.com
 - DOMAIN,ad.tiktokv.us
