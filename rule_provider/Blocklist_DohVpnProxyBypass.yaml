@@ -176,6 +176,7 @@ payload:
 - DOMAIN,adl.adfilter.net
 - DOMAIN,per.adfilter.net
 - DOMAIN,syd.adfilter.net
+- DOMAIN,adfiltro.fun
 - DOMAIN,adfreedns.top
 - DOMAIN,adfreeproxy.com
 - DOMAIN,adguard.io
@@ -786,6 +787,7 @@ payload:
 - DOMAIN,us.doh.cloudveil.org
 - DOMAIN,prep.clever.cloudworkonline.com
 - DOMAIN,dns.cmrg.net
+- DOMAIN,doh.cnetwork.cloud
 - DOMAIN,10bestvpn.co.uk
 - DOMAIN,adguard.aa4.co.uk
 - DOMAIN,akashiro.co.id
@@ -1490,6 +1492,7 @@ payload:
 - DOMAIN,fitnessdepotprices.com
 - DOMAIN,chart.books.fivepals.com
 - DOMAIN,fixproxy.com
+- DOMAIN,dns.fizz.studio
 - DOMAIN,gothgirlsareawesome.flamex.hm
 - DOMAIN,flarquix.xyz
 - DOMAIN,flashpull.com
